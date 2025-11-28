@@ -1,0 +1,340 @@
+{
+  "name": "Automacao-Devocionais-WhatsApp-Nevoa-v1",
+  "active": false,
+  "settings": {
+    "executionOrder": "v1"
+  },
+  "staticData": null,
+  "nodes": [
+    {
+      "parameters": {
+        "path": "C:\\Users\\Gassen\\OneDrive\\Segunda_Mente_Legendaria_Sync\\Devocionais_Temas",
+        "events": ["add"],
+        "options": {
+          "fileExtensions": "txt,md"
+        }
+      },
+      "id": "file-watcher-trigger",
+      "name": "Detectar Arquivo Tema",
+      "type": "n8n-nodes-base.filesTrigger",
+      "typeVersion": 1,
+      "position": [240, 300]
+    },
+    {
+      "parameters": {
+        "filePath": "={{$json.path}}",
+        "options": {}
+      },
+      "id": "read-theme-file",
+      "name": "Ler Conteúdo Tema",
+      "type": "n8n-nodes-base.readFile",
+      "typeVersion": 1,
+      "position": [460, 300]
+    },
+    {
+      "parameters": {
+        "url": "https://api.anthropic.com/v1/messages",
+        "authentication": "genericCredentialType",
+        "genericAuthType": "httpHeaderAuth",
+        "httpMethod": "POST",
+        "sendHeaders": true,
+        "headerParameters": {
+          "parameters": [
+            {
+              "name": "Content-Type",
+              "value": "application/json"
+            },
+            {
+              "name": "anthropic-version",
+              "value": "2023-06-01"
+            }
+          ]
+        },
+        "sendBody": true,
+        "bodyContentType": "json",
+        "jsonBody": "{\n  \"model\": \"claude-3-5-sonnet-20241022\",\n  \"max_tokens\": 2000,\n  \"messages\": [\n    {\n      \"role\": \"system\",\n      \"content\": \"Aja como um redator cristão sênior especializado em conteúdo devocional para cristãos de todas as idades. Você tem mais de 20 anos de experiência escrevendo devocionais diários para um público cristão diversificado (16 a 70+ anos). Sua escrita combina profundidade bíblica com linguagem acessível e engajadora, equilibrando teologia sólida com estilo respeitoso e universal. Crie uma mensagem devocional matinal impactante e memorável, baseada no tema fornecido, seguindo estrutura: 1) Mensagem introdutória de bom dia com versículo e gancho interessante, 2) Devocional principal com título, versículo base, introdução contextual, insights bíblicos profundos, aplicação contemporânea, perguntas reflexivas, 3) Desafio prático do dia, 4) Conclusão reflexiva. Use linguagem respeitosa e acessível, tom de mentor sábio, formatação com emojis como marcadores visuais, sempre baseado nos princípios adventistas do sétimo dia e espírito de profecia.\"\n    },\n    {\n      \"role\": \"user\",\n      \"content\": \"Crie um devocional baseado no tema: {{$node['Ler Conteúdo Tema'].json.data}}\"\n    }\n  ]\n}",
+        "options": {}
+      },
+      "id": "generate-devotional-ai",
+      "name": "Gerar Devocional IA",
+      "type": "n8n-nodes-base.httpRequest",
+      "typeVersion": 4,
+      "position": [680, 300],
+      "credentials": {
+        "httpHeaderAuth": {
+          "id": "claude-api-credentials",
+          "name": "Claude API"
+        }
+      }
+    },
+    {
+      "parameters": {
+        "resource": "contact",
+        "operation": "getAll",
+        "returnAll": true,
+        "options": {}
+      },
+      "id": "get-google-contacts",
+      "name": "Buscar Contatos Google",
+      "type": "n8n-nodes-base.googleContacts",
+      "typeVersion": 2,
+      "position": [900, 300],
+      "credentials": {
+        "googleContactsOAuth2Api": {
+          "id": "google-contacts-oauth",
+          "name": "Google Contacts OAuth2"
+        }
+      }
+    },
+    {
+      "parameters": {
+        "jsCode": "// Filtrar apenas contatos com telefone válido para WhatsApp\nconst contacts = items.filter(item => {\n  const phone = item.json.phoneNumbers?.[0]?.value;\n  return phone && phone.replace(/\\D/g, '').length >= 10;\n});\n\n// Formatar números para padrão WhatsApp (apenas números)\nconst formattedContacts = contacts.map(item => {\n  const phone = item.json.phoneNumbers[0].value;\n  const cleanPhone = phone.replace(/\\D/g, '');\n  \n  // Adicionar código do país se não tiver (Brasil = 55)\n  let whatsappNumber = cleanPhone;\n  if (!cleanPhone.startsWith('55') && cleanPhone.length === 11) {\n    whatsappNumber = '55' + cleanPhone;\n  }\n  \n  return {\n    json: {\n      name: item.json.names?.[0]?.displayName || 'Contato',\n      whatsappNumber: whatsappNumber + '@s.whatsapp.net',\n      originalPhone: phone\n    }\n  };\n});\n\nconsole.log(`Contatos válidos encontrados: ${formattedContacts.length}`);\nreturn formattedContacts;"
+      },
+      "id": "format-contacts",
+      "name": "Formatar Contatos WhatsApp",
+      "type": "n8n-nodes-base.code",
+      "typeVersion": 2,
+      "position": [1120, 300]
+    },
+    {
+      "parameters": {
+        "batchSize": 100,
+        "options": {}
+      },
+      "id": "split-contacts-batches",
+      "name": "Dividir em Lotes 100",
+      "type": "n8n-nodes-base.splitInBatches",
+      "typeVersion": 3,
+      "position": [1340, 300]
+    },
+    {
+      "parameters": {
+        "url": "https://evo.nevoan8n.shop/message/sendText/instance1",
+        "httpMethod": "POST",
+        "sendHeaders": true,
+        "headerParameters": {
+          "parameters": [
+            {
+              "name": "Content-Type",
+              "value": "application/json"
+            },
+            {
+              "name": "apikey",
+              "value": "6EF081570B08-4C4C-9ADD-54D9B3101262"
+            }
+          ]
+        },
+        "sendBody": true,
+        "bodyContentType": "json",
+        "jsonBody": "{\n  \"number\": \"{{$json.whatsappNumber}}\",\n  \"text\": \"{{$node['Gerar Devocional IA'].json.content[0].text}}\"\n}",
+        "options": {
+          "timeout": 30000
+        }
+      },
+      "id": "send-whatsapp-message",
+      "name": "Enviar WhatsApp",
+      "type": "n8n-nodes-base.httpRequest",
+      "typeVersion": 4,
+      "position": [1560, 300]
+    },
+    {
+      "parameters": {
+        "amount": 5,
+        "unit": "seconds"
+      },
+      "id": "wait-rate-limit",
+      "name": "Aguardar 5s",
+      "type": "n8n-nodes-base.wait",
+      "typeVersion": 1,
+      "position": [1780, 300]
+    },
+    {
+      "parameters": {
+        "jsCode": "// Log de sucesso/erro para monitoramento\nconst currentTime = new Date().toISOString();\nconst contact = $input.all()[0].json;\nconst evolutionResponse = $input.all()[1]?.json;\n\nconst logEntry = {\n  timestamp: currentTime,\n  contactName: contact.name,\n  whatsappNumber: contact.whatsappNumber,\n  originalPhone: contact.originalPhone,\n  status: evolutionResponse?.status || 'sent',\n  messageId: evolutionResponse?.key?.id || 'unknown',\n  fileName: $node['Detectar Arquivo Tema'].json.name,\n  batchInfo: `Lote ${$node['Dividir em Lotes 100'].json.batchIndex + 1}`\n};\n\nconsole.log('📱 WhatsApp enviado:', logEntry);\n\nreturn [{ json: logEntry }];"
+      },
+      "id": "log-delivery",
+      "name": "Log Entrega",
+      "type": "n8n-nodes-base.code",
+      "typeVersion": 2,
+      "position": [2000, 300]
+    },
+    {
+      "parameters": {
+        "conditions": {
+          "options": {
+            "caseSensitive": true,
+            "leftValue": "",
+            "typeValidation": "strict"
+          },
+          "conditions": [
+            {
+              "id": "batch-continue",
+              "leftValue": "={{$node['Dividir em Lotes 100'].json.done}}",
+              "rightValue": false,
+              "operator": {
+                "type": "boolean",
+                "operation": "equal"
+              }
+            }
+          ],
+          "combinator": "and"
+        },
+        "options": {}
+      },
+      "id": "check-batch-continue",
+      "name": "Mais Lotes?",
+      "type": "n8n-nodes-base.if",
+      "typeVersion": 2,
+      "position": [2220, 300]
+    },
+    {
+      "parameters": {
+        "amount": 30,
+        "unit": "seconds"
+      },
+      "id": "wait-between-batches",
+      "name": "Aguardar 30s Entre Lotes",
+      "type": "n8n-nodes-base.wait",
+      "typeVersion": 1,
+      "position": [1340, 520]
+    }
+  ],
+  "pinData": {},
+  "connections": {
+    "Detectar Arquivo Tema": {
+      "main": [
+        [
+          {
+            "node": "Ler Conteúdo Tema",
+            "type": "main",
+            "index": 0
+          }
+        ]
+      ]
+    },
+    "Ler Conteúdo Tema": {
+      "main": [
+        [
+          {
+            "node": "Gerar Devocional IA",
+            "type": "main",
+            "index": 0
+          }
+        ]
+      ]
+    },
+    "Gerar Devocional IA": {
+      "main": [
+        [
+          {
+            "node": "Buscar Contatos Google",
+            "type": "main",
+            "index": 0
+          }
+        ]
+      ]
+    },
+    "Buscar Contatos Google": {
+      "main": [
+        [
+          {
+            "node": "Formatar Contatos WhatsApp",
+            "type": "main",
+            "index": 0
+          }
+        ]
+      ]
+    },
+    "Formatar Contatos WhatsApp": {
+      "main": [
+        [
+          {
+            "node": "Dividir em Lotes 100",
+            "type": "main",
+            "index": 0
+          }
+        ]
+      ]
+    },
+    "Dividir em Lotes 100": {
+      "main": [
+        [
+          {
+            "node": "Enviar WhatsApp",
+            "type": "main",
+            "index": 0
+          }
+        ]
+      ]
+    },
+    "Enviar WhatsApp": {
+      "main": [
+        [
+          {
+            "node": "Aguardar 5s",
+            "type": "main",
+            "index": 0
+          }
+        ]
+      ]
+    },
+    "Aguardar 5s": {
+      "main": [
+        [
+          {
+            "node": "Log Entrega",
+            "type": "main",
+            "index": 0
+          }
+        ]
+      ]
+    },
+    "Log Entrega": {
+      "main": [
+        [
+          {
+            "node": "Mais Lotes?",
+            "type": "main",
+            "index": 0
+          }
+        ]
+      ]
+    },
+    "Mais Lotes?": {
+      "main": [
+        [
+          {
+            "node": "Aguardar 30s Entre Lotes",
+            "type": "main",
+            "index": 0
+          }
+        ],
+        []
+      ]
+    },
+    "Aguardar 30s Entre Lotes": {
+      "main": [
+        [
+          {
+            "node": "Dividir em Lotes 100",
+            "type": "main",
+            "index": 0
+          }
+        ]
+      ]
+    }
+  },
+  "createdAt": "2025-07-29T23:00:00.000Z",
+  "updatedAt": "2025-07-29T23:00:00.000Z",
+  "versionId": "1",
+  "tags": [
+    {
+      "id": "evangelismo-digital",
+      "name": "Evangelismo Digital"
+    },
+    {
+      "id": "automacao-nevoa",
+      "name": "Automação Névoa"
+    }
+  ]
+}

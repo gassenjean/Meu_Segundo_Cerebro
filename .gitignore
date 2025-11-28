@@ -29,3 +29,6 @@ secrets/
 # IDE
 .vscode/
 .idea/
+.smart-env/
+.mcp.json
+_ul/

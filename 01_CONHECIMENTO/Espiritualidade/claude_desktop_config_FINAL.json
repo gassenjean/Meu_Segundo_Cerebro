@@ -1,0 +1,61 @@
+{
+  "mcpServers": {
+    "github": {
+      "command": "C:\\Program Files\\nodejs\\npx.cmd",
+      "args": [
+        "-y",
+        "@modelcontextprotocol/server-github"
+      ],
+      "env": {
+        "GITHUB_PERSONAL_ACCESS_TOKEN": "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"
+      }
+    },
+    "memory": {
+      "command": "C:\\Program Files\\nodejs\\npx.cmd",
+      "args": [
+        "-y",
+        "@modelcontextprotocol/server-memory"
+      ]
+    },
+    "notionApi": {
+      "command": "C:\\Program Files\\nodejs\\npx.cmd",
+      "args": [
+        "-y",
+        "@notionhq/notion-mcp-server"
+      ],
+      "env": {
+        "OPENAPI_MCP_HEADERS": "{\"Authorization\": \"Bearer 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\", \"Notion-Version\": \"2022-06-28\" }"
+      }
+    },
+    "actors-mcp-server": {
+      "command": "C:\\Program Files\\nodejs\\npx.cmd",
+      "args": [
+        "-y",
+        "@apify/actors-mcp-server"
+      ],
+      "env": {
+        "APIFY_TOKEN": "apify_api_zjXaF990o4IOAt9ztujUIAdWYCbTD54yGiC0"
+      }
+    },
+    "web_fetch": {
+      "command": "C:\\Program Files\\nodejs\\npx.cmd",
+      "args": [
+        "-y",
+        "@modelcontextprotocol/server-web-fetch"
+      ]
+    },
+    "n8n_control": {
+      "command": "C:\\Program Files\\nodejs\\npx.cmd",
+      "args": [
+        "-y",
+        "@modelcontextprotocol/server-web-fetch"
+      ],
+      "env": {
+        "N8N_BASE_URL": "https://n8neditor.nevoan8n.shop",
+        "N8N_API_KEY": "eyJhbGciOiVIUzI1NiIsInR5cCI6IkpXVCJ9.eyJzdWIiOiJjOTdkMTRiZS03MmEzLTQzZmQtYmY0Yi0yMWRmMjY4NzJkMjEiLCJpc3MiOiJuOG4iLCJhdWQiOiJwdWJsaWMtYXBpIiwiaWF0IjoxNzUzODczNDY0fQ.CLfLlIEbsAqw7RbeajtQyvRpra_fpv_DYvqwAUTXpdc",
+        "EVOLUTION_URL": "https://evo.nevoan8n.shop",
+        "EVOLUTION_KEY": "6EF081570B08-4C4C-9ADD-54D9B3101262"
+      }
+    }
+  }
+}

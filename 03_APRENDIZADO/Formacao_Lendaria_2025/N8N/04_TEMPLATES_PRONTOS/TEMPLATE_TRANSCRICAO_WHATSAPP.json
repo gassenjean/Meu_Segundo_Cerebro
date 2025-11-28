@@ -1,0 +1,614 @@
+{
+  "name": "PORTFOLIO | TRANSCREVE WHATSAPP",
+  "nodes": [
+    {
+      "parameters": {
+        "operation": "toBinary",
+        "sourceProperty": "base64",
+        "options": {
+          "fileName": "audio.mp3",
+          "mimeType": "audio/mpeg"
+        }
+      },
+      "id": "9cd52c57-d1dc-41e7-a684-9e2f8553b3d1",
+      "name": "Convert to File",
+      "type": "n8n-nodes-base.convertToFile",
+      "typeVersion": 1.1,
+      "position": [
+        -900,
+        -220
+      ]
+    },
+    {
+      "parameters": {
+        "jsCode": "// Obtém o primeiro item e acessa o caminho exato para o remoteJid\nconst input = $input.first().json;\nlet result = {};\n\ntry {\n  // Verifica se o caminho completo existe\n  if (input && input.body && input.body.data && input.body.data.key && input.body.data.key.remoteJid) {\n    // Extrai apenas o número de telefone removendo \"@s.whatsapp.net\"\n    const remoteJid = input.body.data.key.remoteJid;\n    const phoneNumber = remoteJid.split('@')[0];\n    \n    // Retorna apenas o número de telefone\n    result = { phoneNumber };\n  } else {\n    result = { error: \"Caminho para remoteJid não encontrado\" };\n  }\n} catch (error) {\n  result = { error: `Erro ao processar: ${error.message}` };\n}\n\nreturn [{ json: result }];"
+      },
+      "id": "93d1ba00-f0bc-4506-b23b-d262f451f78f",
+      "name": "Code",
+      "type": "n8n-nodes-base.code",
+      "typeVersion": 2,
+      "position": [
+        -2140,
+        -220
+      ]
+    },
+    {
+      "parameters": {
+        "assignments": {
+          "assignments": [
+            {
+              "id": "ff392999-d538-4fdf-83d6-932872f9f938",
+              "name": "base64",
+              "value": "={{ $json.base64 }}",
+              "type": "string"
+            },
+            {
+              "id": "2fe53ba8-b94c-4073-aff9-4cb614cc7c8b",
+              "name": "Numero",
+              "value": "={{ $('Code').item.json.phoneNumber }}",
+              "type": "string"
+            },
+            {
+              "id": "8f5d2c00-7d43-483d-93db-8475f363ddcf",
+              "name": "instancia",
+              "value": "={{ $('Webhook').item.json.body.instance }}",
+              "type": "string"
+            },
+            {
+              "id": "1ad15678-4f72-4f32-827e-2e9b5447dd26",
+              "name": "api_key_evolution",
+              "value": "={{ $('Webhook').item.json.body.apikey }}",
+              "type": "string"
+            }
+          ]
+        },
+        "options": {}
+      },
+      "id": "7d056e97-ff57-436f-9cd3-5831f8032490",
+      "name": "Global",
+      "type": "n8n-nodes-base.set",
+      "typeVersion": 3.4,
+      "position": [
+        -1460,
+        -220
+      ]
+    },
+    {
+      "parameters": {
+        "rules": {
+          "values": [
+            {
+              "conditions": {
+                "options": {
+                  "caseSensitive": true,
+                  "leftValue": "",
+                  "typeValidation": "strict",
+                  "version": 1
+                },
+                "conditions": [
+                  {
+                    "leftValue": "=",
+                    "rightValue": "extendedTextMessage",
+                    "operator": {
+                      "type": "string",
+                      "operation": "equals"
+                    },
+                    "id": "4cc2a66d-c0ef-41f3-b227-241249859462"
+                  }
+                ],
+                "combinator": "and"
+              },
+              "renameOutput": true,
+              "outputKey": "Texto"
+            },
+            {
+              "conditions": {
+                "options": {
+                  "caseSensitive": true,
+                  "leftValue": "",
+                  "typeValidation": "strict",
+                  "version": 1
+                },
+                "conditions": [
+                  {
+                    "id": "a4574272-ebee-40a4-a1fb-9139e5f6112e",
+                    "leftValue": "={{ $('Webhook').item.json.body.data.messageType }}",
+                    "rightValue": "audioMessage",
+                    "operator": {
+                      "type": "string",
+                      "operation": "equals",
+                      "name": "filter.operator.equals"
+                    }
+                  }
+                ],
+                "combinator": "and"
+              },
+              "renameOutput": true,
+              "outputKey": "Áudio"
+            },
+            {
+              "conditions": {
+                "options": {
+                  "caseSensitive": true,
+                  "leftValue": "",
+                  "typeValidation": "strict",
+                  "version": 1
+                },
+                "conditions": [
+                  {
+                    "id": "6dca0798-e3f7-4853-926b-56dad47c673e",
+                    "leftValue": "={{ $('Webhook').item.json.body.data.messageType }}",
+                    "rightValue": "imageMessage",
+                    "operator": {
+                      "type": "string",
+                      "operation": "equals",
+                      "name": "filter.operator.equals"
+                    }
+                  }
+                ],
+                "combinator": "and"
+              },
+              "renameOutput": true,
+              "outputKey": "Imagem"
+            }
+          ]
+        },
+        "options": {}
+      },
+      "id": "f4028d6c-da3b-4cbc-84c9-d1eb7d8b342b",
+      "name": "Switch",
+      "type": "n8n-nodes-base.switch",
+      "typeVersion": 3,
+      "position": [
+        -1200,
+        -220
+      ]
+    },
+    {
+      "parameters": {
+        "method": "POST",
+        "url": "https://api.groq.com/openai/v1/audio/transcriptions",
+        "sendHeaders": true,
+        "headerParameters": {
+          "parameters": [
+            {
+              "name": "Authorization",
+              "value": "Bearer {cole aqui a chave}"
+            }
+          ]
+        },
+        "sendBody": true,
+        "contentType": "multipart-form-data",
+        "bodyParameters": {
+          "parameters": [
+            {
+              "name": "model",
+              "value": "whisper-large-v3-turbo"
+            },
+            {
+              "parameterType": "formBinaryData",
+              "name": "file",
+              "inputDataFieldName": "data"
+            }
+          ]
+        },
+        "options": {}
+      },
+      "id": "43408ae3-3b3f-4fde-91a8-1011cd968c7a",
+      "name": "cria_transcricao",
+      "type": "n8n-nodes-base.httpRequest",
+      "typeVersion": 4.2,
+      "position": [
+        -640,
+        -220
+      ]
+    },
+    {
+      "parameters": {
+        "conditions": {
+          "options": {
+            "caseSensitive": true,
+            "leftValue": "",
+            "typeValidation": "strict",
+            "version": 1
+          },
+          "conditions": [
+            {
+              "id": "d415b731-2921-43ac-a35b-051f811049cb",
+              "leftValue": "={{ $json.character_count }}",
+              "rightValue": 800,
+              "operator": {
+                "type": "number",
+                "operation": "gt"
+              }
+            }
+          ],
+          "combinator": "and"
+        },
+        "options": {}
+      },
+      "id": "704811bf-84c1-4e00-ad09-9a9719a3ef1c",
+      "name": "IF",
+      "type": "n8n-nodes-base.if",
+      "typeVersion": 2,
+      "position": [
+        540,
+        -220
+      ]
+    },
+    {
+      "parameters": {
+        "jsCode": "// Pega o texto do nó GROQ - CRIA TRANSCRIÇÃO\nconst text = $('cria_transcricao').item.json.text || '';\n\n// Conta o número de caracteres na string\nconst characterCount = text.length;\n\n// Retorna o resultado como um objeto JSON\nreturn [\n  {\n    json: {\n      character_count: characterCount\n    }\n  }\n];"
+      },
+      "id": "a86f03e7-af08-4060-9b84-e54cab3682a0",
+      "name": "CONTAGEM DE CARACTERES",
+      "type": "n8n-nodes-base.code",
+      "typeVersion": 2,
+      "position": [
+        320,
+        -220
+      ]
+    },
+    {
+      "parameters": {
+        "modelId": {
+          "__rl": true,
+          "value": "gpt-4o",
+          "mode": "list",
+          "cachedResultName": "GPT-4O"
+        },
+        "messages": {
+          "values": [
+            {
+              "content": "=Crie um resumo no formato natural de mensagem do WhatsApp:\n- Numere as seções principais (1., 2., etc.)\n- Use traços simples (-) para subtópicos\n- Coloque apenas um * no início e fim dos títulos principais para negrito\n- Use apenas ✅ para concluído e ⚠️ para alertas\n- Evite formatos de código, caracteres especiais ou backticks\n- Mantenha o texto em formato natural de mensagem\n\nForneça apenas o resumo limpo e organizado, sem formatação adicional.\n\nCorrija apenas o texto a seguir:\"{{ $('cria_transcricao').item.json.text }}\"."
+            }
+          ]
+        },
+        "options": {}
+      },
+      "id": "9aaffa5f-d91c-4a7c-8128-9349dbfd7052",
+      "name": "Cria Resumo",
+      "type": "@n8n/n8n-nodes-langchain.openAi",
+      "typeVersion": 1.3,
+      "position": [
+        720,
+        -340
+      ],
+      "credentials": {
+        "openAiApi": {
+          "id": "3saORnDpQy92eNm5",
+          "name": "API OpenAI"
+        }
+      }
+    },
+    {
+      "parameters": {
+        "modelId": {
+          "__rl": true,
+          "value": "o1-mini",
+          "mode": "list",
+          "cachedResultName": "O1-MINI"
+        },
+        "messages": {
+          "values": [
+            {
+              "content": "=Corrija possíveis erros de transcrição no texto abaixo e formate-o adequadamente seguindo estas diretrizes:\n\n1. Organize o texto em parágrafos lógicos baseados em:\n   - Mudanças de assunto\n   - Pausas naturais no discurso\n   - Sequência lógica de ideias\n\n2. Aplique pontuação apropriada e melhore a legibilidade\n\n3. Mantenha o tom conversacional original, mas remova repetições desnecessárias e vícios de linguagem excessivos\n\n4. Preserve informações importantes como nomes, números e termos técnicos\n\nForneça apenas o texto corrigido e formatado.\n\nCorrija apenas o texto a seguir:\"{{ $json.text }}\"."
+            }
+          ]
+        },
+        "options": {}
+      },
+      "id": "ef630a3d-202a-4905-8a5d-cd6acf58a860",
+      "name": "OpenAI",
+      "type": "@n8n/n8n-nodes-langchain.openAi",
+      "typeVersion": 1.7,
+      "position": [
+        -360,
+        -220
+      ]
+    },
+    {
+      "parameters": {
+        "httpMethod": "POST",
+        "path": "{digitenomeaqui}",
+        "options": {}
+      },
+      "type": "n8n-nodes-base.webhook",
+      "typeVersion": 2,
+      "position": [
+        -2380,
+        -220
+      ],
+      "id": "a3795f24-0050-4708-91f2-c2b737196665",
+      "name": "Webhook",
+      "webhookId": "0ac4d806-3b08-492e-9402-87222fde6fd2"
+    },
+    {
+      "parameters": {
+        "method": "POST",
+        "url": "={{ $('Webhook').item.json.body.server_url }}/message/sendText/{{ $('Global').item.json.instancia }}",
+        "sendHeaders": true,
+        "headerParameters": {
+          "parameters": [
+            {
+              "name": "apikey",
+              "value": "={{ $('Global').item.json.api_key_evolution }}"
+            }
+          ]
+        },
+        "sendBody": true,
+        "bodyParameters": {
+          "parameters": [
+            {
+              "name": "number",
+              "value": "={{ $('Global').item.json.Numero }}"
+            },
+            {
+              "name": "text",
+              "value": "=*Transcrição do áudio:* \n\n{{ $json.message.content }}"
+            }
+          ]
+        },
+        "options": {}
+      },
+      "id": "c7b5226c-f1cd-4271-b0df-ae116cb8a934",
+      "name": "evolution",
+      "type": "n8n-nodes-base.httpRequest",
+      "typeVersion": 4.2,
+      "position": [
+        40,
+        -220
+      ]
+    },
+    {
+      "parameters": {
+        "assignments": {
+          "assignments": [
+            {
+              "id": "1218eba5-46e4-4bc7-a265-6302add147f3",
+              "name": "body.data.key.id",
+              "value": "={{ $('Webhook').item.json.body.data.key.id }}",
+              "type": "string"
+            }
+          ]
+        },
+        "options": {}
+      },
+      "type": "n8n-nodes-base.set",
+      "typeVersion": 3.4,
+      "position": [
+        -1900,
+        -220
+      ],
+      "id": "3c3ca3fb-b62f-439a-bde1-9f5e0aa6652c",
+      "name": "Obter ID"
+    },
+    {
+      "parameters": {
+        "method": "=POST",
+        "url": "={{ $('Webhook').item.json.body.server_url }}/chat/getBase64FromMediaMessage/{{ $('Webhook').item.json.body.instance }}",
+        "sendHeaders": true,
+        "headerParameters": {
+          "parameters": [
+            {
+              "name": "apikey",
+              "value": "={{ $('Webhook').item.json.body.apikey }}"
+            }
+          ]
+        },
+        "sendBody": true,
+        "specifyBody": "json",
+        "jsonBody": "={\n  \"message\": {\n    \"key\": {\n      \"id\": \"{{ $json.body.data.key.id }}\"\n    }\n  },\n  \"convertToMp4\": false\n} ",
+        "options": {
+          "redirect": {
+            "redirect": {}
+          }
+        }
+      },
+      "id": "c0dde5ff-4026-4f99-9860-a7fa302b0b0a",
+      "name": "Puxar áudio",
+      "type": "n8n-nodes-base.httpRequest",
+      "typeVersion": 4.2,
+      "position": [
+        -1720,
+        -220
+      ]
+    },
+    {
+      "parameters": {
+        "method": "POST",
+        "url": "={{ $('Webhook').item.json.body.server_url }}/message/sendText/{{ $('Global').item.json.instancia }}",
+        "sendHeaders": true,
+        "headerParameters": {
+          "parameters": [
+            {
+              "name": "apikey",
+              "value": "={{ $('Global').item.json.api_key_evolution }}"
+            }
+          ]
+        },
+        "sendBody": true,
+        "bodyParameters": {
+          "parameters": [
+            {
+              "name": "number",
+              "value": "={{ $('Global').item.json.Numero }}"
+            },
+            {
+              "name": "text",
+              "value": "=*Resumo do áudio:* \n\n{{ $json.message.content }}"
+            }
+          ]
+        },
+        "options": {}
+      },
+      "id": "233ef508-8899-482b-82ba-9a5e0a881058",
+      "name": "evolution1",
+      "type": "n8n-nodes-base.httpRequest",
+      "typeVersion": 4.2,
+      "position": [
+        1100,
+        -340
+      ]
+    }
+  ],
+  "pinData": {},
+  "connections": {
+    "Convert to File": {
+      "main": [
+        [
+          {
+            "node": "cria_transcricao",
+            "type": "main",
+            "index": 0
+          }
+        ]
+      ]
+    },
+    "Code": {
+      "main": [
+        [
+          {
+            "node": "Obter ID",
+            "type": "main",
+            "index": 0
+          }
+        ]
+      ]
+    },
+    "Global": {
+      "main": [
+        [
+          {
+            "node": "Switch",
+            "type": "main",
+            "index": 0
+          }
+        ]
+      ]
+    },
+    "Switch": {
+      "main": [
+        [],
+        [
+          {
+            "node": "Convert to File",
+            "type": "main",
+            "index": 0
+          }
+        ]
+      ]
+    },
+    "IF": {
+      "main": [
+        [
+          {
+            "node": "Cria Resumo",
+            "type": "main",
+            "index": 0
+          }
+        ],
+        []
+      ]
+    },
+    "CONTAGEM DE CARACTERES": {
+      "main": [
+        [
+          {
+            "node": "IF",
+            "type": "main",
+            "index": 0
+          }
+        ]
+      ]
+    },
+    "Cria Resumo": {
+      "main": [
+        [
+          {
+            "node": "evolution1",
+            "type": "main",
+            "index": 0
+          }
+        ]
+      ]
+    },
+    "cria_transcricao": {
+      "main": [
+        [
+          {
+            "node": "OpenAI",
+            "type": "main",
+            "index": 0
+          }
+        ]
+      ]
+    },
+    "OpenAI": {
+      "main": [
+        [
+          {
+            "node": "evolution",
+            "type": "main",
+            "index": 0
+          }
+        ]
+      ]
+    },
+    "Webhook": {
+      "main": [
+        [
+          {
+            "node": "Code",
+            "type": "main",
+            "index": 0
+          }
+        ]
+      ]
+    },
+    "evolution": {
+      "main": [
+        [
+          {
+            "node": "CONTAGEM DE CARACTERES",
+            "type": "main",
+            "index": 0
+          }
+        ]
+      ]
+    },
+    "Obter ID": {
+      "main": [
+        [
+          {
+            "node": "Puxar áudio",
+            "type": "main",
+            "index": 0
+          }
+        ]
+      ]
+    },
+    "Puxar áudio": {
+      "main": [
+        [
+          {
+            "node": "Global",
+            "type": "main",
+            "index": 0
+          }
+        ]
+      ]
+    }
+  },
+  "active": true,
+  "settings": {
+    "executionOrder": "v1"
+  },
+  "versionId": "88a5924e-4fe1-4c3d-8ed9-39b0c3e0d780",
+  "meta": {
+    "templateCredsSetupCompleted": true,
+    "instanceId": "df10b99644b055546e70d480b7c6be1bf8e9c50025649ef8e28376a355a2c186"
+  },
+  "id": "aDuO3Fgy5pGQh07K",
+  "tags": []
+}

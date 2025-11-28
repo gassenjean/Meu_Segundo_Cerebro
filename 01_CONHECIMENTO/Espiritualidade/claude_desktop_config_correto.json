@@ -1,0 +1,8 @@
+{
+  "mcpServers": {
+    "web_fetch": {
+      "command": "npx",
+      "args": ["-y", "@modelcontextprotocol/server-web-fetch"]
+    }
+  }
+}

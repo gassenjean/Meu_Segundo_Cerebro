@@ -1,0 +1,1241 @@
+{
+  "name": "AULA INICIANTE | NODES CONDICIONAIS",
+  "nodes": [
+    {
+      "parameters": {
+        "conditions": {
+          "options": {
+            "caseSensitive": true,
+            "leftValue": "",
+            "typeValidation": "strict",
+            "version": 2
+          },
+          "conditions": [
+            {
+              "id": "ce88e1d7-f7f3-4e80-878f-fa1de4a080e3",
+              "leftValue": "={{ $('Webhook').item.json.body.data.message.conversation }}",
+              "rightValue": "Oi",
+              "operator": {
+                "type": "string",
+                "operation": "contains"
+              }
+            }
+          ],
+          "combinator": "or"
+        },
+        "options": {}
+      },
+      "type": "n8n-nodes-base.filter",
+      "typeVersion": 2.2,
+      "position": [
+        -1060,
+        2240
+      ],
+      "id": "fe51f06b-ce9f-485b-81ae-23074622a0ef",
+      "name": "Filter - Várias condições 1 saída"
+    },
+    {
+      "parameters": {
+        "conditions": {
+          "options": {
+            "caseSensitive": true,
+            "leftValue": "",
+            "typeValidation": "strict",
+            "version": 2
+          },
+          "conditions": [
+            {
+              "id": "5366c068-b092-44ce-8d54-250827ee2f2a",
+              "leftValue": "={{ $('Webhook1').item.json.body.data.message.conversation }}",
+              "rightValue": "Oi",
+              "operator": {
+                "type": "string",
+                "operation": "contains"
+              }
+            }
+          ],
+          "combinator": "or"
+        },
+        "options": {}
+      },
+      "type": "n8n-nodes-base.if",
+      "typeVersion": 2.2,
+      "position": [
+        -1120,
+        1580
+      ],
+      "id": "738b707d-0b4b-49cf-a366-4e09906637c8",
+      "name": "If - Vários condições 2 saídas"
+    },
+    {
+      "parameters": {
+        "rules": {
+          "values": [
+            {
+              "conditions": {
+                "options": {
+                  "caseSensitive": true,
+                  "leftValue": "",
+                  "typeValidation": "strict",
+                  "version": 2
+                },
+                "conditions": [
+                  {
+                    "leftValue": "={{ $('Webhook').item.json.body.data.message.conversation }}",
+                    "rightValue": "Oi",
+                    "operator": {
+                      "type": "string",
+                      "operation": "contains"
+                    },
+                    "id": "fe51cd10-76eb-43aa-81fc-633404b9ef43"
+                  }
+                ],
+                "combinator": "and"
+              },
+              "renameOutput": true,
+              "outputKey": "Oi"
+            },
+            {
+              "conditions": {
+                "options": {
+                  "caseSensitive": true,
+                  "leftValue": "",
+                  "typeValidation": "strict",
+                  "version": 2
+                },
+                "conditions": [
+                  {
+                    "id": "b645baab-5718-4859-92d5-a8ce24cdbbe7",
+                    "leftValue": "={{ $('Webhook').item.json.body.data.message.conversation }}",
+                    "rightValue": "Olá",
+                    "operator": {
+                      "type": "string",
+                      "operation": "contains"
+                    }
+                  }
+                ],
+                "combinator": "and"
+              },
+              "renameOutput": true,
+              "outputKey": "Olá"
+            },
+            {
+              "conditions": {
+                "options": {
+                  "caseSensitive": true,
+                  "leftValue": "",
+                  "typeValidation": "strict",
+                  "version": 2
+                },
+                "conditions": [
+                  {
+                    "id": "aa78cc76-ef19-4993-99ac-9fd68aa340a1",
+                    "leftValue": "={{ $('Webhook').item.json.body.data.message.conversation }}",
+                    "rightValue": "=Opa",
+                    "operator": {
+                      "type": "string",
+                      "operation": "contains"
+                    }
+                  }
+                ],
+                "combinator": "and"
+              },
+              "renameOutput": true,
+              "outputKey": "Opa"
+            }
+          ]
+        },
+        "options": {}
+      },
+      "type": "n8n-nodes-base.switch",
+      "typeVersion": 3.2,
+      "position": [
+        -1080,
+        2880
+      ],
+      "id": "5a22f626-29e6-4f04-8317-c2010140d668",
+      "name": "Switch - 1 condição várias saídas"
+    },
+    {
+      "parameters": {
+        "jsCode": "// Obtém o primeiro item e acessa o caminho exato para o remoteJid\nconst input = $input.first().json;\nlet result = {};\n\ntry {\n  // Verifica se o caminho completo existe\n  if (input && input.body && input.body.data && input.body.data.key && input.body.data.key.remoteJid) {\n    // Extrai apenas o número de telefone removendo \"@s.whatsapp.net\"\n    const remoteJid = input.body.data.key.remoteJid;\n    const phoneNumber = remoteJid.split('@')[0];\n    \n    // Retorna apenas o número de telefone\n    result = { phoneNumber };\n  } else {\n    result = { error: \"Caminho para remoteJid não encontrado\" };\n  }\n} catch (error) {\n  result = { error: `Erro ao processar: ${error.message}` };\n}\n\nreturn [{ json: result }];"
+      },
+      "id": "2646b987-2b33-4ed9-9d98-2c8462ace2ac",
+      "name": "Code",
+      "type": "n8n-nodes-base.code",
+      "typeVersion": 2,
+      "position": [
+        -140,
+        3900
+      ]
+    },
+    {
+      "parameters": {
+        "method": "POST",
+        "url": "={{ $('Webhook1').item.json.body.server_url }}/message/sendText/{{ $('Webhook1').item.json.body.instance }}",
+        "sendHeaders": true,
+        "headerParameters": {
+          "parameters": [
+            {
+              "name": "apikey",
+              "value": "={{ $('Webhook1').item.json.body.apikey }}"
+            }
+          ]
+        },
+        "sendBody": true,
+        "bodyParameters": {
+          "parameters": [
+            {
+              "name": "number",
+              "value": "={{ $json.phoneNumber }}"
+            },
+            {
+              "name": "text",
+              "value": "=Condição \"If\" Vi que você mandou um Oi, pra mim"
+            }
+          ]
+        },
+        "options": {}
+      },
+      "id": "aef28f55-c482-44c0-9e49-0e0415bfd6ca",
+      "name": "envia mensagem1",
+      "type": "n8n-nodes-base.httpRequest",
+      "typeVersion": 4.2,
+      "position": [
+        -740,
+        1460
+      ]
+    },
+    {
+      "parameters": {
+        "content": "## Condição SE\nOU é um ou é outro.\nSe te \"Oi\" = Você mandou a palavra \"Oi\"\nSenão = Você não mandou a palavra \"Oi\"",
+        "height": 640,
+        "width": 860,
+        "color": 4
+      },
+      "type": "n8n-nodes-base.stickyNote",
+      "position": [
+        -1260,
+        1280
+      ],
+      "typeVersion": 1,
+      "id": "c775856d-aed7-424a-b7f2-bf36f9dd7b7e",
+      "name": "Sticky Note"
+    },
+    {
+      "parameters": {
+        "content": "## Condição Switch\nPode ser várias coisas\n\nSe mandou \"Oi\" = Você mandou \"Oi\"\nSe mandou \"Olá\" = Você mandou \"Olá\"\nSe mandou \"Opa\" = Você mandou \"Opa\"",
+        "height": 640,
+        "width": 860,
+        "color": 4
+      },
+      "type": "n8n-nodes-base.stickyNote",
+      "position": [
+        -1260,
+        2640
+      ],
+      "typeVersion": 1,
+      "id": "78789b0a-db13-479d-b4a9-2c056c7866f3",
+      "name": "Sticky Note1"
+    },
+    {
+      "parameters": {
+        "content": "## Condição Filter\nSe tem \"Oi\" = Você mandou a palavra \"Oi\"\nSenão = NÃO ACONTECE NADA",
+        "height": 640,
+        "width": 860,
+        "color": 4
+      },
+      "type": "n8n-nodes-base.stickyNote",
+      "position": [
+        -1260,
+        1960
+      ],
+      "typeVersion": 1,
+      "id": "490413d4-cf43-4c3b-ba57-b52d319c4c8f",
+      "name": "Sticky Note2"
+    },
+    {
+      "parameters": {
+        "conditions": {
+          "options": {
+            "caseSensitive": true,
+            "leftValue": "",
+            "typeValidation": "strict",
+            "version": 2
+          },
+          "conditions": [
+            {
+              "id": "5366c068-b092-44ce-8d54-250827ee2f2a",
+              "leftValue": "={{ $json.body.data.message.conversation }}",
+              "rightValue": "comprar",
+              "operator": {
+                "type": "string",
+                "operation": "contains"
+              }
+            },
+            {
+              "id": "46e4d8d7-7110-4f3a-9c92-80c589329d92",
+              "leftValue": "={{ $json.body.data.message.conversation }}",
+              "rightValue": "anúncio",
+              "operator": {
+                "type": "string",
+                "operation": "contains"
+              }
+            }
+          ],
+          "combinator": "or"
+        },
+        "options": {}
+      },
+      "type": "n8n-nodes-base.if",
+      "typeVersion": 2.2,
+      "position": [
+        -1560,
+        3680
+      ],
+      "id": "4c32a6ef-c63f-4139-8893-212851b76596",
+      "name": "If - Vários condições 2 saídas1"
+    },
+    {
+      "parameters": {
+        "conditions": {
+          "options": {
+            "caseSensitive": true,
+            "leftValue": "",
+            "typeValidation": "strict",
+            "version": 2
+          },
+          "conditions": [
+            {
+              "id": "ce88e1d7-f7f3-4e80-878f-fa1de4a080e3",
+              "leftValue": "={{ $json.body.data.message.conversation }}",
+              "rightValue": "celular",
+              "operator": {
+                "type": "string",
+                "operation": "contains"
+              }
+            },
+            {
+              "id": "ed712bbf-6c74-40e4-a5ba-a91a17a53a7f",
+              "leftValue": "={{ $json.body.data.message.conversation }}",
+              "rightValue": "carro",
+              "operator": {
+                "type": "string",
+                "operation": "contains"
+              }
+            },
+            {
+              "id": "3dd885d5-4651-4f84-b378-5f29ed7b7d8d",
+              "leftValue": "={{ $json.body.data.message.conversation }}",
+              "rightValue": "motosserra",
+              "operator": {
+                "type": "string",
+                "operation": "contains"
+              }
+            }
+          ],
+          "combinator": "or"
+        },
+        "options": {}
+      },
+      "type": "n8n-nodes-base.filter",
+      "typeVersion": 2.2,
+      "position": [
+        -1100,
+        3660
+      ],
+      "id": "4e0b6586-0d02-4e8a-bc9f-834fb98ab37a",
+      "name": "Filter - Várias condições 1 saída1"
+    },
+    {
+      "parameters": {
+        "rules": {
+          "values": [
+            {
+              "conditions": {
+                "options": {
+                  "caseSensitive": true,
+                  "leftValue": "",
+                  "typeValidation": "strict",
+                  "version": 2
+                },
+                "conditions": [
+                  {
+                    "leftValue": "={{ $json.body.data.message.conversation }}",
+                    "rightValue": "celular",
+                    "operator": {
+                      "type": "string",
+                      "operation": "contains"
+                    },
+                    "id": "fe51cd10-76eb-43aa-81fc-633404b9ef43"
+                  }
+                ],
+                "combinator": "and"
+              },
+              "renameOutput": true,
+              "outputKey": "celular"
+            },
+            {
+              "conditions": {
+                "options": {
+                  "caseSensitive": true,
+                  "leftValue": "",
+                  "typeValidation": "strict",
+                  "version": 2
+                },
+                "conditions": [
+                  {
+                    "id": "b645baab-5718-4859-92d5-a8ce24cdbbe7",
+                    "leftValue": "={{ $json.body.data.message.conversation }}",
+                    "rightValue": "motosserra",
+                    "operator": {
+                      "type": "string",
+                      "operation": "contains"
+                    }
+                  }
+                ],
+                "combinator": "and"
+              },
+              "renameOutput": true,
+              "outputKey": "motosserra"
+            },
+            {
+              "conditions": {
+                "options": {
+                  "caseSensitive": true,
+                  "leftValue": "",
+                  "typeValidation": "strict",
+                  "version": 2
+                },
+                "conditions": [
+                  {
+                    "id": "aa78cc76-ef19-4993-99ac-9fd68aa340a1",
+                    "leftValue": "={{ $json.body.data.message.conversation }}",
+                    "rightValue": "=carro",
+                    "operator": {
+                      "type": "string",
+                      "operation": "contains"
+                    }
+                  }
+                ],
+                "combinator": "and"
+              },
+              "renameOutput": true,
+              "outputKey": "carro"
+            }
+          ]
+        },
+        "options": {}
+      },
+      "type": "n8n-nodes-base.switch",
+      "typeVersion": 3.2,
+      "position": [
+        -620,
+        3660
+      ],
+      "id": "a000fd4a-cd64-4d93-9fff-e85a1ad8166c",
+      "name": "Switch - 1 condição várias saídas1"
+    },
+    {
+      "parameters": {
+        "jsCode": "// Obtém o primeiro item e acessa o caminho exato para o remoteJid\nconst input = $input.first().json;\nlet result = {};\n\ntry {\n  // Verifica se o caminho completo existe\n  if (input && input.body && input.body.data && input.body.data.key && input.body.data.key.remoteJid) {\n    // Extrai apenas o número de telefone removendo \"@s.whatsapp.net\"\n    const remoteJid = input.body.data.key.remoteJid;\n    const phoneNumber = remoteJid.split('@')[0];\n    \n    // Retorna apenas o número de telefone\n    result = { phoneNumber };\n  } else {\n    result = { error: \"Caminho para remoteJid não encontrado\" };\n  }\n} catch (error) {\n  result = { error: `Erro ao processar: ${error.message}` };\n}\n\nreturn [{ json: result }];"
+      },
+      "id": "ae1e5ac8-d441-4ffa-a89e-cfc71a7c68e3",
+      "name": "Code1",
+      "type": "n8n-nodes-base.code",
+      "typeVersion": 2,
+      "position": [
+        -140,
+        3700
+      ]
+    },
+    {
+      "parameters": {
+        "jsCode": "// Obtém o primeiro item e acessa o caminho exato para o remoteJid\nconst input = $input.first().json;\nlet result = {};\n\ntry {\n  // Verifica se o caminho completo existe\n  if (input && input.body && input.body.data && input.body.data.key && input.body.data.key.remoteJid) {\n    // Extrai apenas o número de telefone removendo \"@s.whatsapp.net\"\n    const remoteJid = input.body.data.key.remoteJid;\n    const phoneNumber = remoteJid.split('@')[0];\n    \n    // Retorna apenas o número de telefone\n    result = { phoneNumber };\n  } else {\n    result = { error: \"Caminho para remoteJid não encontrado\" };\n  }\n} catch (error) {\n  result = { error: `Erro ao processar: ${error.message}` };\n}\n\nreturn [{ json: result }];"
+      },
+      "id": "068728f0-a93e-4380-b8ec-2a826120bc91",
+      "name": "Code2",
+      "type": "n8n-nodes-base.code",
+      "typeVersion": 2,
+      "position": [
+        -140,
+        3520
+      ]
+    },
+    {
+      "parameters": {
+        "jsCode": "// Obtém o primeiro item e acessa o caminho exato para o remoteJid\nconst input = $input.first().json;\nlet result = {};\n\ntry {\n  // Verifica se o caminho completo existe\n  if (input && input.body && input.body.data && input.body.data.key && input.body.data.key.remoteJid) {\n    // Extrai apenas o número de telefone removendo \"@s.whatsapp.net\"\n    const remoteJid = input.body.data.key.remoteJid;\n    const phoneNumber = remoteJid.split('@')[0];\n    \n    // Retorna apenas o número de telefone\n    result = { phoneNumber };\n  } else {\n    result = { error: \"Caminho para remoteJid não encontrado\" };\n  }\n} catch (error) {\n  result = { error: `Erro ao processar: ${error.message}` };\n}\n\nreturn [{ json: result }];"
+      },
+      "id": "dae5e5a8-386e-464a-b977-76426071fbfa",
+      "name": "Code3",
+      "type": "n8n-nodes-base.code",
+      "typeVersion": 2,
+      "position": [
+        -1160,
+        4000
+      ]
+    },
+    {
+      "parameters": {
+        "httpMethod": "POST",
+        "path": "{coloque nome do webhook aqui}",
+        "options": {}
+      },
+      "type": "n8n-nodes-base.webhook",
+      "typeVersion": 2,
+      "position": [
+        -1740,
+        2180
+      ],
+      "id": "0f414765-5334-4d05-9fc3-aa2a8e6735ca",
+      "name": "Webhook1",
+      "webhookId": "6e2627ce-15e9-42a3-a275-93fb890d89d3"
+    },
+    {
+      "parameters": {
+        "content": "## Quer comprar ou é curioso?\nCritério = Ter \"comprar\" e \"anúncio\" na mensagem",
+        "height": 340,
+        "width": 300
+      },
+      "type": "n8n-nodes-base.stickyNote",
+      "position": [
+        -1640,
+        3540
+      ],
+      "typeVersion": 1,
+      "id": "0a871ac7-f9ee-496c-a0ba-46d74620f162",
+      "name": "Sticky Note3"
+    },
+    {
+      "parameters": {
+        "content": "## Quer comprar item de valor?\nSe for celular, motosserra e carro, tem prioridade",
+        "height": 340,
+        "width": 300
+      },
+      "type": "n8n-nodes-base.stickyNote",
+      "position": [
+        -1200,
+        3520
+      ],
+      "typeVersion": 1,
+      "id": "411522ce-dac5-4507-b5af-48829d9f7641",
+      "name": "Sticky Note4"
+    },
+    {
+      "parameters": {
+        "content": "## Quais dos itens de valor?\nCelular, motosserra ou carro",
+        "height": 340,
+        "width": 300
+      },
+      "type": "n8n-nodes-base.stickyNote",
+      "position": [
+        -720,
+        3520
+      ],
+      "typeVersion": 1,
+      "id": "df8b4357-cafc-4bb8-ab99-5c34d553e565",
+      "name": "Sticky Note5"
+    },
+    {
+      "parameters": {
+        "content": "## Envia mensagem sobre o pedido\n",
+        "height": 680,
+        "width": 580,
+        "color": 4
+      },
+      "type": "n8n-nodes-base.stickyNote",
+      "position": [
+        -200,
+        3400
+      ],
+      "typeVersion": 1,
+      "id": "c370c127-a110-49e6-9e3a-cce9551f37d9",
+      "name": "Sticky Note6"
+    },
+    {
+      "parameters": {
+        "content": "## Não mandou palavra mágica",
+        "height": 240,
+        "width": 440
+      },
+      "type": "n8n-nodes-base.stickyNote",
+      "position": [
+        -1200,
+        3920
+      ],
+      "typeVersion": 1,
+      "id": "578782a1-dce8-4d67-a0df-d0e0d5955ac6",
+      "name": "Sticky Note7"
+    },
+    {
+      "parameters": {
+        "jsCode": "// Obtém o primeiro item e acessa o caminho exato para o remoteJid\nconst input = $input.first().json;\nlet result = {};\n\ntry {\n  // Verifica se o caminho completo existe\n  if (input && input.body && input.body.data && input.body.data.key && input.body.data.key.remoteJid) {\n    // Extrai apenas o número de telefone removendo \"@s.whatsapp.net\"\n    const remoteJid = input.body.data.key.remoteJid;\n    const phoneNumber = remoteJid.split('@')[0];\n    \n    // Retorna apenas o número de telefone\n    result = { phoneNumber };\n  } else {\n    result = { error: \"Caminho para remoteJid não encontrado\" };\n  }\n} catch (error) {\n  result = { error: `Erro ao processar: ${error.message}` };\n}\n\nreturn [{ json: result }];"
+      },
+      "id": "76ff9c0e-6df9-4fb2-9433-c549d44e1db8",
+      "name": "Code4",
+      "type": "n8n-nodes-base.code",
+      "typeVersion": 2,
+      "position": [
+        -1520,
+        2180
+      ]
+    },
+    {
+      "parameters": {
+        "method": "POST",
+        "url": "={{ $('Webhook1').item.json.body.server_url }}/message/sendText/{{ $('Webhook1').item.json.body.instance }}",
+        "sendHeaders": true,
+        "headerParameters": {
+          "parameters": [
+            {
+              "name": "apikey",
+              "value": "={{ $('Webhook1').item.json.body.apikey }}"
+            }
+          ]
+        },
+        "sendBody": true,
+        "bodyParameters": {
+          "parameters": [
+            {
+              "name": "number",
+              "value": "={{ $json.phoneNumber }}"
+            },
+            {
+              "name": "text",
+              "value": "=Condição \"If\" Vi que você NÃO mandou um Oi, pra mim"
+            }
+          ]
+        },
+        "options": {}
+      },
+      "id": "a1e0ccb1-a1a4-4ef8-98ce-6d945483223d",
+      "name": "envia mensagem",
+      "type": "n8n-nodes-base.httpRequest",
+      "typeVersion": 4.2,
+      "position": [
+        -740,
+        1660
+      ]
+    },
+    {
+      "parameters": {
+        "method": "POST",
+        "url": "={{ $('Webhook1').item.json.body.server_url }}/message/sendText/{{ $('Webhook1').item.json.body.instance }}",
+        "sendHeaders": true,
+        "headerParameters": {
+          "parameters": [
+            {
+              "name": "apikey",
+              "value": "={{ $('Webhook1').item.json.body.apikey }}"
+            }
+          ]
+        },
+        "sendBody": true,
+        "bodyParameters": {
+          "parameters": [
+            {
+              "name": "number",
+              "value": "={{ $json.phoneNumber }}"
+            },
+            {
+              "name": "text",
+              "value": "=Condição \"Filter\" Vi que você mandou um Oi, pra mim"
+            }
+          ]
+        },
+        "options": {}
+      },
+      "id": "f97cab5e-e766-4954-865f-96a455f64447",
+      "name": "envia mensagem2",
+      "type": "n8n-nodes-base.httpRequest",
+      "typeVersion": 4.2,
+      "position": [
+        -800,
+        2240
+      ]
+    },
+    {
+      "parameters": {
+        "method": "POST",
+        "url": "={{ $('Webhook1').item.json.body.server_url }}/message/sendText/{{ $('Webhook1').item.json.body.instance }}",
+        "sendHeaders": true,
+        "headerParameters": {
+          "parameters": [
+            {
+              "name": "apikey",
+              "value": "={{ $('Webhook1').item.json.body.apikey }}"
+            }
+          ]
+        },
+        "sendBody": true,
+        "bodyParameters": {
+          "parameters": [
+            {
+              "name": "number",
+              "value": "={{ $json.phoneNumber }}"
+            },
+            {
+              "name": "text",
+              "value": "=Condição \"Switch\" Vi que você mandou um Oi, pra mim"
+            }
+          ]
+        },
+        "options": {}
+      },
+      "id": "34d37f31-8fe6-49e6-8454-6ae83845a3f1",
+      "name": "envia mensagem3",
+      "type": "n8n-nodes-base.httpRequest",
+      "typeVersion": 4.2,
+      "position": [
+        -760,
+        2720
+      ]
+    },
+    {
+      "parameters": {
+        "method": "POST",
+        "url": "={{ $('Webhook1').item.json.body.server_url }}/message/sendText/{{ $('Webhook1').item.json.body.instance }}",
+        "sendHeaders": true,
+        "headerParameters": {
+          "parameters": [
+            {
+              "name": "apikey",
+              "value": "={{ $('Webhook1').item.json.body.apikey }}"
+            }
+          ]
+        },
+        "sendBody": true,
+        "bodyParameters": {
+          "parameters": [
+            {
+              "name": "number",
+              "value": "={{ $json.phoneNumber }}"
+            },
+            {
+              "name": "text",
+              "value": "=Condição \"Switch\" Vi que você mandou um Olá, pra mim"
+            }
+          ]
+        },
+        "options": {}
+      },
+      "id": "4d6a86e1-57fc-4833-9827-5fb461ce3936",
+      "name": "envia mensagem4",
+      "type": "n8n-nodes-base.httpRequest",
+      "typeVersion": 4.2,
+      "position": [
+        -760,
+        2880
+      ]
+    },
+    {
+      "parameters": {
+        "method": "POST",
+        "url": "={{ $('Webhook1').item.json.body.server_url }}/message/sendText/{{ $('Webhook1').item.json.body.instance }}",
+        "sendHeaders": true,
+        "headerParameters": {
+          "parameters": [
+            {
+              "name": "apikey",
+              "value": "={{ $('Webhook1').item.json.body.apikey }}"
+            }
+          ]
+        },
+        "sendBody": true,
+        "bodyParameters": {
+          "parameters": [
+            {
+              "name": "number",
+              "value": "={{ $json.phoneNumber }}"
+            },
+            {
+              "name": "text",
+              "value": "=Condição \"Switch\" Vi que você mandou um Opa, pra mim"
+            }
+          ]
+        },
+        "options": {}
+      },
+      "id": "1a2708cb-d6c9-43a5-b2f6-ec7ad0b7c8a0",
+      "name": "envia mensagem5",
+      "type": "n8n-nodes-base.httpRequest",
+      "typeVersion": 4.2,
+      "position": [
+        -760,
+        3040
+      ]
+    },
+    {
+      "parameters": {
+        "method": "POST",
+        "url": "={{ $('Webhook1').item.json.body.server_url }}/message/sendText/{{ $('Webhook1').item.json.body.instance }}",
+        "sendHeaders": true,
+        "headerParameters": {
+          "parameters": [
+            {
+              "name": "apikey",
+              "value": "={{ $('Webhook1').item.json.body.apikey }}"
+            }
+          ]
+        },
+        "sendBody": true,
+        "bodyParameters": {
+          "parameters": [
+            {
+              "name": "number",
+              "value": "={{ $json.phoneNumber }}"
+            },
+            {
+              "name": "text",
+              "value": "=Vi que você quer comprar um celular, tá 15 mil o iphone 16"
+            }
+          ]
+        },
+        "options": {}
+      },
+      "id": "983d0d73-0fa4-4306-98b6-760a1fdaf771",
+      "name": "envia mensagem6",
+      "type": "n8n-nodes-base.httpRequest",
+      "typeVersion": 4.2,
+      "position": [
+        140,
+        3520
+      ]
+    },
+    {
+      "parameters": {
+        "method": "POST",
+        "url": "={{ $('Webhook1').item.json.body.server_url }}/message/sendText/{{ $('Webhook1').item.json.body.instance }}",
+        "sendHeaders": true,
+        "headerParameters": {
+          "parameters": [
+            {
+              "name": "apikey",
+              "value": "={{ $('Webhook1').item.json.body.apikey }}"
+            }
+          ]
+        },
+        "sendBody": true,
+        "bodyParameters": {
+          "parameters": [
+            {
+              "name": "number",
+              "value": "={{ $json.phoneNumber }}"
+            },
+            {
+              "name": "text",
+              "value": "=Vi que você quer comprar uma motosserra, vai torar o quê, irmão? Tá 5 mil"
+            }
+          ]
+        },
+        "options": {}
+      },
+      "id": "c0ac2848-f9ef-48e7-8099-d86b1983890a",
+      "name": "envia mensagem7",
+      "type": "n8n-nodes-base.httpRequest",
+      "typeVersion": 4.2,
+      "position": [
+        140,
+        3700
+      ]
+    },
+    {
+      "parameters": {
+        "method": "POST",
+        "url": "={{ $('Webhook1').item.json.body.server_url }}/message/sendText/{{ $('Webhook1').item.json.body.instance }}",
+        "sendHeaders": true,
+        "headerParameters": {
+          "parameters": [
+            {
+              "name": "apikey",
+              "value": "={{ $('Webhook1').item.json.body.apikey }}"
+            }
+          ]
+        },
+        "sendBody": true,
+        "bodyParameters": {
+          "parameters": [
+            {
+              "name": "number",
+              "value": "={{ $json.phoneNumber }}"
+            },
+            {
+              "name": "text",
+              "value": "=Vi que você quer comprar um carro, o nosso popular tá saindo a 60 mil reais"
+            }
+          ]
+        },
+        "options": {}
+      },
+      "id": "e1a91824-a3c0-4f17-8de5-04b8eee0881d",
+      "name": "envia mensagem8",
+      "type": "n8n-nodes-base.httpRequest",
+      "typeVersion": 4.2,
+      "position": [
+        140,
+        3900
+      ]
+    },
+    {
+      "parameters": {
+        "method": "POST",
+        "url": "={{ $('Webhook1').item.json.body.server_url }}/message/sendText/{{ $('Webhook1').item.json.body.instance }}",
+        "sendHeaders": true,
+        "headerParameters": {
+          "parameters": [
+            {
+              "name": "apikey",
+              "value": "={{ $('Webhook1').item.json.body.apikey }}"
+            }
+          ]
+        },
+        "sendBody": true,
+        "bodyParameters": {
+          "parameters": [
+            {
+              "name": "number",
+              "value": "={{ $json.phoneNumber }}"
+            },
+            {
+              "name": "text",
+              "value": "=Desculp amigo, mas você não é prioridade na nossa vida"
+            }
+          ]
+        },
+        "options": {}
+      },
+      "id": "85b61485-a036-42d7-8b70-fa0570cbc084",
+      "name": "envia mensagem10",
+      "type": "n8n-nodes-base.httpRequest",
+      "typeVersion": 4.2,
+      "position": [
+        -940,
+        4000
+      ]
+    },
+    {
+      "parameters": {
+        "modelId": {
+          "__rl": true,
+          "value": "gpt-4o",
+          "mode": "list",
+          "cachedResultName": "GPT-4O"
+        },
+        "messages": {
+          "values": [
+            {
+              "content": "=Responda a dúvida do usuário: {{ $json.body.data.message.conversation }}"
+            }
+          ]
+        },
+        "options": {}
+      },
+      "type": "@n8n/n8n-nodes-langchain.openAi",
+      "typeVersion": 1.8,
+      "position": [
+        -860,
+        4460
+      ],
+      "id": "9a8e0891-0fb7-4655-9313-8d6ed0c635ae",
+      "name": "OpenAI",
+      "credentials": {
+        "openAiApi": {
+          "id": "GZzy4kr8RRwluZ04",
+          "name": "API Whats"
+        }
+      },
+      "disabled": true
+    },
+    {
+      "parameters": {
+        "jsCode": "// Código para nó Code do n8n\n// Esta função extrai apenas o número de telefone do remoteJid, removendo @s.whatsapp.net\n\n// Capturar o valor do remoteJid\nconst remoteJid = $('Webhook1').first().json.body.data.key.remoteJid;\n\n// Extrair apenas o número (parte antes do @)\nlet phoneNumber = \"\";\n\nif (remoteJid && typeof remoteJid === 'string') {\n  // Dividir a string pelo @ e pegar apenas a primeira parte\n  phoneNumber = remoteJid.split('@')[0];\n}\n\n// Retornar apenas o número em um formato que o n8n aceita\nreturn [{ \n  json: { \n    phoneNumber: phoneNumber \n  } \n}];"
+      },
+      "id": "aafa6d5a-9e3a-4447-8629-ae9aafc0a046",
+      "name": "Code5",
+      "type": "n8n-nodes-base.code",
+      "typeVersion": 2,
+      "position": [
+        -440,
+        4460
+      ]
+    },
+    {
+      "parameters": {
+        "method": "POST",
+        "url": "={{ $('Webhook1').item.json.body.server_url }}/message/sendText/{{ $('Webhook1').item.json.body.instance }}",
+        "sendHeaders": true,
+        "headerParameters": {
+          "parameters": [
+            {
+              "name": "apikey",
+              "value": "={{ $('Webhook1').item.json.body.apikey }}"
+            }
+          ]
+        },
+        "sendBody": true,
+        "bodyParameters": {
+          "parameters": [
+            {
+              "name": "number",
+              "value": "={{ $json.phoneNumber }}"
+            },
+            {
+              "name": "text",
+              "value": "={{ $('OpenAI').item.json.message.content }}"
+            }
+          ]
+        },
+        "options": {}
+      },
+      "id": "c9663278-6b92-4a11-b70d-f880eedfbada",
+      "name": "envia mensagem9",
+      "type": "n8n-nodes-base.httpRequest",
+      "typeVersion": 4.2,
+      "position": [
+        -200,
+        4460
+      ]
+    },
+    {
+      "parameters": {
+        "content": "## DESATIVE ESTE NODE PARA TESTAR\nDeixe-o desativado para funcionar o Test Workflow",
+        "height": 240,
+        "width": 560,
+        "color": 3
+      },
+      "type": "n8n-nodes-base.stickyNote",
+      "position": [
+        -1100,
+        4380
+      ],
+      "typeVersion": 1,
+      "id": "049acb20-c054-4328-9830-2a3a9cf11f7c",
+      "name": "Sticky Note8"
+    },
+    {
+      "parameters": {
+        "content": "## Puxe o Webhook e conete-o ao node IF\nSó é permitido 1 webhook por workflow, por isso você deve puxá-lo pra cá",
+        "height": 240,
+        "width": 560,
+        "color": 3
+      },
+      "type": "n8n-nodes-base.stickyNote",
+      "position": [
+        -2240,
+        3580
+      ],
+      "typeVersion": 1,
+      "id": "2e3db4bd-9eda-4940-8fa1-610123d9e875",
+      "name": "Sticky Note9"
+    }
+  ],
+  "pinData": {},
+  "connections": {
+    "Filter - Várias condições 1 saída": {
+      "main": [
+        [
+          {
+            "node": "envia mensagem2",
+            "type": "main",
+            "index": 0
+          }
+        ]
+      ]
+    },
+    "Code": {
+      "main": [
+        [
+          {
+            "node": "envia mensagem8",
+            "type": "main",
+            "index": 0
+          }
+        ]
+      ]
+    },
+    "If - Vários condições 2 saídas": {
+      "main": [
+        [
+          {
+            "node": "envia mensagem1",
+            "type": "main",
+            "index": 0
+          }
+        ],
+        [
+          {
+            "node": "envia mensagem",
+            "type": "main",
+            "index": 0
+          }
+        ]
+      ]
+    },
+    "Switch - 1 condição várias saídas": {
+      "main": [
+        [
+          {
+            "node": "envia mensagem3",
+            "type": "main",
+            "index": 0
+          }
+        ],
+        [
+          {
+            "node": "envia mensagem4",
+            "type": "main",
+            "index": 0
+          }
+        ],
+        [
+          {
+            "node": "envia mensagem5",
+            "type": "main",
+            "index": 0
+          }
+        ]
+      ]
+    },
+    "If - Vários condições 2 saídas1": {
+      "main": [
+        [
+          {
+            "node": "Filter - Várias condições 1 saída1",
+            "type": "main",
+            "index": 0
+          }
+        ],
+        [
+          {
+            "node": "Code3",
+            "type": "main",
+            "index": 0
+          }
+        ]
+      ]
+    },
+    "Filter - Várias condições 1 saída1": {
+      "main": [
+        [
+          {
+            "node": "Switch - 1 condição várias saídas1",
+            "type": "main",
+            "index": 0
+          }
+        ]
+      ]
+    },
+    "Switch - 1 condição várias saídas1": {
+      "main": [
+        [
+          {
+            "node": "Code2",
+            "type": "main",
+            "index": 0
+          }
+        ],
+        [
+          {
+            "node": "Code1",
+            "type": "main",
+            "index": 0
+          }
+        ],
+        [
+          {
+            "node": "Code",
+            "type": "main",
+            "index": 0
+          }
+        ]
+      ]
+    },
+    "Code1": {
+      "main": [
+        [
+          {
+            "node": "envia mensagem7",
+            "type": "main",
+            "index": 0
+          }
+        ]
+      ]
+    },
+    "Code2": {
+      "main": [
+        [
+          {
+            "node": "envia mensagem6",
+            "type": "main",
+            "index": 0
+          }
+        ]
+      ]
+    },
+    "Code3": {
+      "main": [
+        [
+          {
+            "node": "envia mensagem10",
+            "type": "main",
+            "index": 0
+          }
+        ]
+      ]
+    },
+    "Webhook1": {
+      "main": [
+        [
+          {
+            "node": "Code4",
+            "type": "main",
+            "index": 0
+          }
+        ]
+      ]
+    },
+    "Code4": {
+      "main": [
+        [
+          {
+            "node": "If - Vários condições 2 saídas",
+            "type": "main",
+            "index": 0
+          }
+        ]
+      ]
+    },
+    "OpenAI": {
+      "main": [
+        [
+          {
+            "node": "Code5",
+            "type": "main",
+            "index": 0
+          }
+        ]
+      ]
+    },
+    "Code5": {
+      "main": [
+        [
+          {
+            "node": "envia mensagem9",
+            "type": "main",
+            "index": 0
+          }
+        ]
+      ]
+    }
+  },
+  "active": false,
+  "settings": {
+    "executionOrder": "v1"
+  },
+  "versionId": "0b9ca0c8-ca94-491f-adfa-b64ec68850c7",
+  "meta": {
+    "instanceId": "df10b99644b055546e70d480b7c6be1bf8e9c50025649ef8e28376a355a2c186"
+  },
+  "id": "A7TKnON6XtaOHLqV",
+  "tags": []
+}
