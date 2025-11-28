@@ -1,0 +1,31 @@
+# Obsidian
+.obsidian/workspace.json
+.obsidian/workspace-mobile.json
+.obsidian/cache
+
+# Sistema
+.DS_Store
+Thumbs.db
+nul
+*.tmp
+*.log
+
+# Pastas temporárias
+_temp/
+_trash/
+
+# Node modules (se houver scripts)
+node_modules/
+
+# Arquivos sensíveis
+*.env
+.env.*
+secrets/
+
+# OneDrive
+.sync-conflict-*
+*_conflito_*
+
+# IDE
+.vscode/
+.idea/
