@@ -58,7 +58,7 @@
 | 22/06/2025 | Mudas | Dia 12 C1 |
 | 03/07/2025 | Camas | + Alquifish Bokashi |
 | 07/08/2025 | Camas | Dia 58 C1 |
-| 04/12/2025 | Camas + Vasos + Tenda | C2 - 14 dias pré-flip - 18:00h |
+| 04/12/2025 | Sala maior (Camas + Vasos 20L+) | C2 - 14 dias pré-flip - 18:00h |
 
 ---
 
