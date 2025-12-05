@@ -36,8 +36,8 @@
 
 **Frequência:** A cada **15 dias**
 
-**Última aplicação:** ___________
-**Próxima:** ___________ (+15 dias)
+**Última aplicação:** 04/12/2025 - 18:00h
+**Próxima:** 19/12/2025 (+15 dias) - ⚠️ Em floração
 
 ---
 
@@ -58,7 +58,7 @@
 | 22/06/2025 | Mudas | Dia 12 C1 |
 | 03/07/2025 | Camas | + Alquifish Bokashi |
 | 07/08/2025 | Camas | Dia 58 C1 |
-| ___ | ___ | Próxima aplicação |
+| 04/12/2025 | Camas + Vasos + Tenda | C2 - 14 dias pré-flip - 18:00h |
 
 ---
 
