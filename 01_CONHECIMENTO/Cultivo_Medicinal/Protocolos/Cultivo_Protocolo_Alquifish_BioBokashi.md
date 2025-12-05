@@ -158,9 +158,9 @@ NUNCA INVERTER!
 | 03/07/2025 | Mudas | 3ml/L | 4ml/L | Dia 23 C1 + LMX |
 | 10/07/2025 | Mudas | 3ml/L | 4ml/L | Sistema quádruplo |
 | 26/07/2025 | Mudas | 3ml/L | 4ml/L | Pré-transplante |
-| ___ | ___ | ___ | ___ | Próxima |
+| 02/12/2025 | Tenda (vasos pequenos) | 3ml/L | 4ml/L | C2 - Recuperação N amarelamento |
 
-**NOTA C2:** Suspenso nas camas, apenas mudas/vasos se necessário
+**NOTA C2:** Suspenso nas camas (solo vivo maduro), aplicado apenas tenda (vasos pequenos amarelados)
 
 ---
 
