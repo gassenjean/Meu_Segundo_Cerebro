@@ -116,10 +116,10 @@
 - [ ] PSB POW - Data: ___
 - [ ] Leon Trich - Data: ___
 - [ ] Sollem - Data: ___
-- [ ] LMX - Data: ___
+- [x] **LMX** - Data: **04/12/2025** (Sala maior - Camas + Vasos 20L+)
 - [ ] Chá de Cinza - Data: ___
 - [ ] Off Neem - Data: ___
-- [ ] Alquifish + Bio Bokashi - Data: ___
+- [x] **Alquifish + Bio Bokashi** - Data: **02/12/2025** (Tenda - Vasos pequenos)
 
 **Com essas datas:**
 → Calcular próximas aplicações automaticamente
