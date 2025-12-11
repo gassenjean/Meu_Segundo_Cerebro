@@ -76,8 +76,8 @@ ticas
 
 **Frequência:** A cada **30 dias**
 
-**Última aplicação:** ___________
-**Próxima aplicação:** ___________ (calcular +30 dias)
+**Última aplicação:** 04/12/2025 - 18:00h
+**Próxima aplicação:** 03/01/2026 (+30 dias) - ⚠️ Em floração avançada
 
 ---
 
@@ -161,7 +161,7 @@ Consórcio de microorganismos benéficos que dominam o solo por competição, cr
 | 19/06/2025 | Camas | 28L | Ativação inicial |
 | 19/07/2025 | Sistema todo | - | Cronograma 30 dias |
 | 09/08/2025 | Camas | - | Pós-limpeza competição |
-| ___ | ___ | ___ | Próxima aplicação |
+| 04/12/2025 | Camas + Vasos 20L+ | 28L | C2 - 14 dias pré-flip - 18:00h |
 
 **NOTA:** Preencher conforme aplicações realizadas
 
