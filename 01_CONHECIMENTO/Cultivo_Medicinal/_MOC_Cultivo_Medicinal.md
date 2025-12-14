@@ -115,7 +115,7 @@
 - [x] **EM-1 + Melaço** - Data: **11/12/2025** (Camas + Vasos 20L+)
 - [ ] PSB POW - Data: ___
 - [ ] Leon Trich - Data: ___
-- [ ] Sollem - Data: ___
+- [x] **Sollem** - Data: **14/12/2025** (Camas + Vasos 20L+) - Foliar
 - [x] **LMX** - Data: **04/12/2025** (Sala maior - Camas + Vasos 20L+)
 - [ ] Chá de Cinza - Data: ___
 - [ ] Off Neem - Data: ___

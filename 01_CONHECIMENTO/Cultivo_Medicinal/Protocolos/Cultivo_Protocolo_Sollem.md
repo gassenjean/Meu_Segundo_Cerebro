@@ -57,6 +57,9 @@
 - Máximo até 2ª semana floração
 - Depois suspender
 
+**Última aplicação:** 14/12/2025 - 16:00h (4 dias pré-flip)
+**Próxima aplicação:** 21/12/2025 (+7 dias) - Transição floração (3 dias pós-flip)
+
 ---
 
 ## 🎯 FUNÇÃO
@@ -138,7 +141,7 @@ Dia 3: Sollem foliar (48h depois)
 | 23/06/2025 | Mudas | 1ml/L | Veg | Dia 13 C1 |
 | 09/07/2025 | Mudas + Camas | 1ml/L | Veg | Sinergia EM-1 descoberta |
 | 26/07/2025 | Sistema | 1ml/L | Pré-transplante | Fortalecimento |
-| ___ | ___ | ___ | ___ | Próxima |
+| 14/12/2025 | Camas + Vasos 20L+ | 1ml/L | Pré-flip | C2 - 72h após EM-1 - 16:00h |
 
 ---
 
