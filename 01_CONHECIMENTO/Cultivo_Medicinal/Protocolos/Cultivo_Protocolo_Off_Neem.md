@@ -144,14 +144,15 @@
 
 ## 📝 HISTÓRICO
 
-| Data | Fase | Observações |
-|------|------|-------------|
-| ___ | Veg | Preventivo 15 dias |
-| ___ | Pré-flip | Última aplicação |
-| ___ | Flora | SUSPENSO |
-| ___ | Pré-colheita | NÃO APLICAR |
+| Data | Fase | Dosagem | Observações |
+|------|------|---------|-------------|
+| 16/12/2025 | Pré-flip | 1ml/L | C2 - Controle moscas - 16:00h - Sucesso 100% |
 
-**Ciclo 2:** Preencher conforme aplicações
+**Resultado C2 (16/12):**
+- **Problema:** Moscas comuns (quantidade moderada 15/12)
+- **Ação:** Off Neem 1ml/L foliar - 16:00h período escuro
+- **Resultado:** Moscas erradicadas em <6h (população: ZERO)
+- **Próxima:** 31/12/2025 (+15 dias preventivo) ou 23/12 (+7 dias SE reaparecimento)
 
 ---
 

@@ -9,13 +9,16 @@
 
 ## 🎯 STATUS ATUAL (QUICK ACCESS)
 
-### CICLO 2 - EM ANDAMENTO
+### CICLO 2 - PRÉ-FLIP ⚡
 
-📅 **Hoje:** 04/12/2025
-🌱 **Fase:** Vegetativo 18/6
-⏰ **Próximo marco:** FLIP em 18/12/2025 (14 dias)
-📊 **Progresso:** Preparação final pré-floração
+📅 **Hoje:** 16/12/2025
+🌱 **Fase:** Vegetativo final 18/6
+⏰ **FLIP:** 18/12/2025 (2 DIAS!) 🚀
+📊 **Estado:** 9.5/10 - PRONTO PARA FLIP ✅
+🪰 **Moscas:** ZERO (erradicadas)
+📈 **SCROG:** 80-85% preenchido
 
+**Ver análise completa:** [[Ciclos/Cultivo_Analise_Nevoa_16DEZ2025.md|→ Análise Névoa 16/12/2025]]
 **Ver detalhes:** [[Ciclos/Cultivo_Ciclo2_Status_04DEZ2025.md|→ Status Completo Ciclo 2]]
 
 ---
@@ -48,6 +51,7 @@
 ### 📅 HISTÓRICO DE CICLOS
 
 **Ciclo 2 (Em Andamento):**
+- [[Ciclos/Cultivo_Analise_Nevoa_16DEZ2025.md|⭐ Análise Névoa 16/12/2025]] - 9.5/10 - 2 dias pré-flip
 - [[Ciclos/Cultivo_Ciclo2_Status_04DEZ2025.md|Status 04/12/2025]] - 14 dias pré-flip
 
 **Ciclo 1 (Concluído):**
@@ -118,7 +122,7 @@
 - [x] **Sollem** - Data: **14/12/2025** (Camas + Vasos 20L+) - Foliar
 - [x] **LMX** - Data: **04/12/2025** (Sala maior - Camas + Vasos 20L+)
 - [ ] Chá de Cinza - Data: ___
-- [ ] Off Neem - Data: ___
+- [x] **Off Neem** - Data: **16/12/2025** (Todas plantas) - Controle moscas ✅
 - [x] **Alquifish + Bio Bokashi** - Data: **02/12/2025** (Tenda - Vasos pequenos)
 
 **Com essas datas:**
