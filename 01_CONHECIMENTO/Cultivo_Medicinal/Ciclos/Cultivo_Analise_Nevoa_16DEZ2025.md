@@ -18,27 +18,29 @@
 
 ---
 
-## 🪰 MOSCAS - PROBLEMA RESOLVIDO ✅
+## 🪰 MOSCAS - ATUALIZAÇÃO 17/12 ⚠️
 
-### População Atual: ZERO MOSCAS VIVAS
+### ⚠️ CORREÇÃO ANÁLISE - MOSCAS RETORNARAM
 
 **Evolução:**
 - **15/12:** Bastante quantidade observada
 - **16/12 (antes Off Neem):** 1 mosca moribunda
-- **16/12 (pós Off Neem):** 0 moscas
+- **16/12 (pós Off Neem 16h):** 0 moscas
+- **17/12 manhã:** **MOSCAS RETORNARAM** ⚠️
 
 **Tempo de ação Off Neem:**
 - Início efeito: ≈30min
-- Mortalidade total: 2-6h
-- **Aplicação:** Timing perfeito (período escuro)
+- Mortalidade adultos: 2-6h ✅
+- **Mas:** Não matou larvas/ovos no solo
 
-### Veredicto Definitivo
+### Veredicto ATUALIZADO 17/12
 
-✅ **Segunda dose Off Neem amanhã: DESNECESSÁRIA**
-✅ **Risco flip: ZERO**
-✅ **Problema: ENCERRADO**
+❌ **Previsão Névoa 16/12 INCORRETA:** "100% adultas, sem larvas"
+✅ **Realidade:** Esterco fresco tinha larvas/ovos estabelecidos
+⚡ **Segunda dose Off Neem: OBRIGATÓRIA HOJE (17/12)**
+⚠️ **Risco flip: BAIXO** (Off Neem não afeta plantas, apenas moscas)
 
-**Nota técnica:** A erradicação completa em <6h indica população **100% moscas adultas** (sem larvas no solo). Se houvesse larvas, veríamos reaparecimento em 3-5 dias. Isso sugere que as moscas eram visitantes do esterco fresco, não estabelecidas.
+**Nota técnica CORRIGIDA:** O retorno em <24h confirma presença de larvas/ovos no solo do esterco fresco. Off Neem foliar eliminou adultos, mas larvas eclodiram. Protocolo curativo (7 dias) necessário.
 
 ---
 
