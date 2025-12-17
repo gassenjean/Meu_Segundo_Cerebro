@@ -118,11 +118,11 @@
 **URGENTE - Coletar datas últimas aplicações:**
 - [x] **EM-1 + Melaço** - Data: **11/12/2025** (Camas + Vasos 20L+)
 - [ ] PSB POW - Data: ___
-- [ ] Leon Trich - Data: ___
+- [x] **Leon Trich** - Data: **17/12/2025** (Tenda vasos) - Radicular
 - [x] **Sollem** - Data: **14/12/2025** (Camas + Vasos 20L+) - Foliar
 - [x] **LMX** - Data: **04/12/2025** (Sala maior - Camas + Vasos 20L+)
 - [ ] Chá de Cinza - Data: ___
-- [x] **Off Neem** - Data: **16/12/2025** (Todas plantas) - Controle moscas ✅
+- [x] **Off Neem** - Data: **17/12/2025** (Tenda + Sala) - Curativo moscas 2ª aplicação
 - [x] **Alquifish + Bio Bokashi** - Data: **02/12/2025** (Tenda - Vasos pequenos)
 
 **Com essas datas:**

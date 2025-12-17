@@ -147,12 +147,12 @@
 | Data | Fase | Dosagem | Observações |
 |------|------|---------|-------------|
 | 16/12/2025 | Pré-flip | 1ml/L | C2 - Controle moscas - 16:00h - Sucesso parcial |
-| 17/12/2025 | Pré-flip | 1ml/L | C2 - Moscas retornaram (larvas solo) - Curativo |
+| 17/12/2025 | Pré-flip | 1ml/L | C2 - Moscas retornaram - Curativo - 13:00h |
 
 **Resultado C2:**
 - **16/12:** Off Neem eliminou adultas em <6h
 - **17/12 manhã:** Moscas retornaram (eclosão larvas/ovos do esterco)
-- **17/12:** Segunda aplicação OBRIGATÓRIA (protocolo curativo)
+- **17/12 - 13:00h:** Segunda aplicação (protocolo curativo) - Tenda + Sala principal
 - **Causa:** Esterco fresco tinha larvas/ovos (não apenas adultos visitantes)
 - **Próxima:** 24/12/2025 (+7 dias curativo) SE persistirem | 01/01/2026 (+15 dias preventivo) se erradicadas
 

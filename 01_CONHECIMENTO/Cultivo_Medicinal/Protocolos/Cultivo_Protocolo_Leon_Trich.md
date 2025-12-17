@@ -75,10 +75,10 @@
 ## ⏱️ INTERVALO
 
 **Frequência:** A cada **15 dias** (solo inerte)
-**Ciclo 2 camas:** **SUSPENSO**
+**Ciclo 2 camas:** **SUSPENSO** (solo vivo maduro)
 
-**Última aplicação:** ___________
-**Próxima:** ___________ (apenas mudas/vasos)
+**Última aplicação:** 17/12/2025 - 13:00h (Tenda - vasos)
+**Próxima:** 01/01/2026 (+15 dias) - Tenda vasos apenas
 
 ---
 
@@ -176,3 +176,32 @@ Dia 3-4: PSB POW (raízes colonizadas absorvem melhor)
 - Colonização mais agressiva
 - Maior resistência ambiental
 - Eficácia comprovada
+
+---
+
+## 📝 HISTÓRICO APLICAÇÕES
+
+| Data | Local | Dosagem | Observações |
+|------|-------|---------|-------------|
+| 17/12/2025 | Tenda (vasos) | 4ml/L | C2 - 1 dia pré-flip - 13:00h - Protocolo radicular |
+
+**NOTA C2:** Aplicado APENAS na tenda (vasos pequenos). Camas suspensas (solo vivo maduro estabelecido).
+
+---
+
+## 🔗 LINKS RELACIONADOS
+
+### Protocolos Sinérgicos
+- [[Cultivo_Protocolo_PSB_POW.md|PSB POW]] - Aplicar 48-72h após Leon Trich
+
+### Regras
+- [[Cultivo_Regras_Criticas.md|Regras Críticas]] - Uso por contexto
+
+### Navegação
+- [[../_MOC_Cultivo_Medicinal.md|← Voltar para MOC]]
+
+---
+
+**Criado:** 04/12/2025
+**Atualizado:** 17/12/2025
+**Status:** Ativo em vasos - Suspenso em camas solo vivo
