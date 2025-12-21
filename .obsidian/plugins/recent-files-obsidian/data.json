@@ -1,6 +1,14 @@
 {
   "recentFiles": [
     {
+      "basename": "STATUS_VAULT",
+      "path": "STATUS_VAULT.md"
+    },
+    {
+      "basename": "task",
+      "path": "task.md"
+    },
+    {
       "basename": "_MOC_Recursos",
       "path": "04_RECURSOS/_MOC_Recursos.md"
     },
@@ -37,10 +45,6 @@
       "path": "00_SISTEMA/MOCs/MOC_DEFIVERSO_MASTER.md"
     },
     {
-      "basename": "task",
-      "path": "task.md"
-    },
-    {
       "basename": "README",
       "path": "00_SISTEMA/bem-vindo/README.md"
     },
@@ -51,10 +55,6 @@
     {
       "basename": "CLAUDE",
       "path": "CLAUDE.md"
-    },
-    {
-      "basename": "STATUS_VAULT",
-      "path": "STATUS_VAULT.md"
     },
     {
       "basename": "Vida_Lendária_Episódios_Vl_Pn_-_023_-_Siga_Sua_Curiosidade",
