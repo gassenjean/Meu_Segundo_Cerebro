@@ -1,14 +1,14 @@
 ---
 criado: 2025-11-18T10:49:33-03:00
-atualizado: 2025-11-20T08:49:01-03:00
+atualizado: 2025-12-23T19:58:52-03:00
 ---
 # 🚀 MOC: PROJETOS
 
 **Map of Content - Projetos Ativos e Arquivados**
 
 **Criado:** 17/Jan/2025
-**Última atualização:** 17/Jan/2025
-**Total de projetos:** 0
+**Última atualização:** 08/Dez/2025
+**Total de projetos:** 3
 
 ---
 
@@ -24,11 +24,22 @@ Central de todos os seus projetos. Cada projeto segue o padrão `ESTRUTURA_PROJE
 
 ### 🔴 Alta Prioridade
 
-(nenhum projeto ainda)
+- **[[02_PROJETOS/KabaK/README.md|KabaK Brands]]** - 40%
+  - Estrutura jurídica + E-commerce + Parceria Titanium
+  - Início: 08/Dez/2025
+  - Próximo: Reuniões Dr Alexandre e Sansom
+
+- **[[02_PROJETOS/DeFi_Verso_2025/README.md|DeFi Verso 2025]]** - 50%
+  - Portal 1 concluído (100%), aguardando Portal 2
+  - Início: Nov/2025
+  - Próximo: Colocar arquivos Portal 2
 
 ### 🟡 Média Prioridade
 
-(nenhum projeto ainda)
+- **[[02_PROJETOS/Lio_Liofilizacao/README.md|Lio Liofilização]]** - 10%
+  - Produtos liofilizados do sítio
+  - Início: 08/Dez/2025
+  - Próximo: Manual equipamento + produto piloto
 
 ### 🟢 Baixa Prioridade
 
@@ -89,7 +100,9 @@ Central de todos os seus projetos. Cada projeto segue o padrão `ESTRUTURA_PROJE
 
 | Projeto | Status | Prioridade | Progresso | Última Atividade |
 |---------|--------|------------|-----------|------------------|
-| (vazio) | - | - | - | - |
+| KabaK Reestruturação 2025 | Planejamento | 🔴 Alta | ██░░░░░░░░ 20% | 08/Dez/2025 |
+| DeFi Verso 2025 | Ativo | 🔴 Alta | █████░░░░░ 50% | 04/Dez/2025 |
+| Lio Liofilização | Planejamento | 🟡 Média | █░░░░░░░░░ 10% | 08/Dez/2025 |
 
 ---
 
@@ -98,10 +111,11 @@ Central de todos os seus projetos. Cada projeto segue o padrão `ESTRUTURA_PROJE
 ### Por Área
 
 **Tecnologia/Código:**
-- (adicionar links)
+- [[02_PROJETOS/DeFi_Verso_2025/README.md|DeFi Verso 2025]] - Cripto & Blockchain
 
-**Conteúdo/Marketing:**
-- (adicionar links)
+**Negócios:**
+- [[02_PROJETOS/KabaK/README.md|KabaK Brands]] - Moda Fitness
+- [[02_PROJETOS/Lio_Liofilizacao/README.md|Lio Liofilização]] - Alimentos Preservados
 
 **Pessoal:**
 - (adicionar links)
@@ -109,10 +123,11 @@ Central de todos os seus projetos. Cada projeto segue o padrão `ESTRUTURA_PROJE
 ### Por Fase
 
 **Planejamento:**
-- (adicionar links)
+- [[02_PROJETOS/KabaK/README.md|KabaK Brands]]
+- [[02_PROJETOS/Lio_Liofilizacao/README.md|Lio Liofilização]]
 
 **Em Andamento:**
-- (adicionar links)
+- [[02_PROJETOS/DeFi_Verso_2025/README.md|DeFi Verso 2025]]
 
 **Finalizando:**
 - (adicionar links)
@@ -122,12 +137,12 @@ Central de todos os seus projetos. Cada projeto segue o padrão `ESTRUTURA_PROJE
 ## 📈 ESTATÍSTICAS
 
 ```
-📁 Total de projetos: 0
-🔴 Alta prioridade: 0
-🟡 Média prioridade: 0
+📁 Total de projetos: 3
+🔴 Alta prioridade: 2 (KabaK, DeFi)
+🟡 Média prioridade: 1 (Lio)
 🟢 Baixa prioridade: 0
 📦 Arquivados: 0
-📅 Último projeto criado: -
+📅 Último projeto criado: 08/Dez/2025 (KabaK + Lio)
 ```
 
 ---

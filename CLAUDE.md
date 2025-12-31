@@ -1,6 +1,6 @@
 ---
 criado: 2025-11-24T21:45:11-03:00
-atualizado: 2025-11-28T12:10:52-03:00
+atualizado: 2025-11-28T13:50:28-03:00
 ---
 # CLAUDE.md
 
@@ -21,6 +21,67 @@ This file provides guidance to Claude Code (claude.ai/code) when working with th
 **ZERO EXCEÇÕES. Este é um sistema PKM (Personal Knowledge Management) com padrões rigorosos.**
 
 ---
+
+## 📡 SINCRONIZAÇÃO COM GEMINI - LER AO INICIAR SESSÃO
+
+**⚠️ OBRIGATÓRIO: Ler SEMPRE ao iniciar nova sessão**
+
+**Arquivo:** `SESSION_LOG.md` (raiz do vault)
+
+**Por quê?**
+- Este vault é trabalhado por **2 agentes IA**: Claude Code (você) + Antigravity/Gemini 3 Pro
+- SESSION_LOG.md é o canal de comunicação bidirecional
+- Contém atualizações do que Gemini fez quando você não estava ativo
+- Evita conflitos e garante continuidade
+
+**Protocolo ao iniciar:**
+1. **LER** `SESSION_LOG.md` completamente
+2. **VERIFICAR** seção "ÚLTIMAS MUDANÇAS" - ver o que Gemini fez
+3. **LER** "MENSAGEM PARA CLAUDE" - instruções diretas do Gemini
+4. **VERIFICAR** "CONTEXTO ATUAL DO VAULT" - estado geral
+
+**Protocolo ao finalizar:**
+1. **ATUALIZAR** SESSION_LOG.md com suas ações (usar template fornecido)
+2. **DEIXAR MENSAGEM** para Gemini se necessário
+3. **ATUALIZAR** seção "CONTEXTO ATUAL DO VAULT"
+
+
+**Importante:** Se Gemini deixou tarefas pendentes, **considere continuá-las** antes de iniciar novo trabalho.
+
+---
+
+## 🖥️💻 SINCRONIZAÇÃO MULTI-PC - LER AO INICIAR SESSÃO
+
+**⚠️ OBRIGATÓRIO: Ler SEMPRE ao iniciar nova sessão**
+
+**Arquivo:** `PC_SYNC_LOG.md` (raiz do vault)
+
+**Por quê?**
+- Este vault é acessado por **2 computadores**: Alienware (notebook trabalho/externo) + Desktop Casa
+- PC_SYNC_LOG.md é o canal de comunicação entre computadores
+- Contém atualizações do que foi feito no outro PC
+- Evita conflitos de versão e divergências
+
+**Protocolo ao iniciar:**
+1. **LER** `PC_SYNC_LOG.md` completamente
+2. **VERIFICAR** seção "ÚLTIMAS MUDANÇAS" - ver o que foi feito no outro PC
+3. **LER** "MENSAGEM PARA [SEU PC]" - instruções diretas
+4. **VERIFICAR** "CONTEXTO ATUAL DO VAULT" - estado sincronizado
+5. **IDENTIFICAR** qual PC você está usando (Alienware 💻 ou Desktop Casa 🖥️)
+
+**Protocolo ao finalizar:**
+1. **ATUALIZAR** PC_SYNC_LOG.md com suas ações (usar template fornecido)
+2. **IDENTIFICAR CLARAMENTE** qual PC realizou o trabalho
+3. **DEIXAR MENSAGEM** para o outro PC se necessário
+4. **AGUARDAR** sincronização OneDrive antes de fechar vault
+
+**Importante:** Se há trabalho pendente do outro PC, **considere continuá-lo** antes de
+
+ iniciar novo trabalho.
+
+**Ver protocolo completo:** `00_SISTEMA/PROTOCOLOS/PROTOCOLO_MULTI_PC.md`
+
+
 
 ## Repository Overview
 
@@ -172,16 +233,45 @@ Nome_Projeto/
 
 ## 🚀 Available Commands
 
-Slash commands are defined in `.claude/commands/`:
+Slash commands are defined in `.claude/commands/` - **18 comandos organizados em 5 categorias**
 
+### 🤖 Core System Agents (Plataforma)
 | Command | Purpose |
 |---------|---------|
-| `/learn` | Activate learning context |
-| `/work` | Activate project context |
-| `/knowledge` | Query knowledge base |
-| `/system` | Vault management |
-| `/gemini` | Delegate to Gemini Agent / Antigravity |
-| `/validate` | Validate file creation (use before creating!) |
+| `/nevoa` | Orquestração e continuidade - Agente Névoa |
+| `/claude-architect` | Guardião de padrões e qualidade - Claude Architect |
+| `/marie-kondo` | Organização de vaults - Marie Kondo |
+
+### 🧠 Domain Agents (Especialistas)
+| Command | Purpose |
+|---------|---------|
+| `/coach` | Tom Névoa - Coach TDAH (orquestrador estratégico) |
+| `/elena` | Elena Vasquez - Produtividade & TDAH |
+| `/pedro` | Pedro Sobral - Tráfego Pago & Marketing |
+| `/alan` | Alan Nicolas - IA & Automação |
+| `/lucas` | Lucas Amoedo - DeFi & Cripto |
+| `/dr-green` | Dr. Green - Cultivo Medicinal |
+
+### 🛠️ Essential Tools
+| Command | Purpose |
+|---------|---------|
+| `/validate` | Validate file creation (use BEFORE creating!) |
+| `/gemini` | Delegate to Gemini 3 Pro (1M tokens, free) |
+| `/ultra-think` | Deep analysis and complex problem solving |
+| `/sync` | Sync with Gemini/Antigravity (update SESSION_LOG.md) |
+| `/mapa` | Carrega índice completo do vault (economia de tokens) |
+
+### 📚 Context Activation
+| Command | Purpose |
+|---------|---------|
+| `/learn` | Activate learning context (03_APRENDIZADO) |
+| `/work` | Activate project context (02_PROJETOS) |
+
+### 🔧 Maintenance & Utilities
+| Command | Purpose |
+|---------|---------|
+| `/atualizar-status` | Atualizar STATUS_VAULT.md com progresso |
+| `/limpeza-raiz-vault` | Limpar pastas duplicadas da raiz do vault |
 
 ---
 

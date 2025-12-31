@@ -7,8 +7,8 @@ atualizado: 2025-11-24T21:48:44-03:00
 **Map of Content - Cursos e Estudos**
 
 **Criado:** 17/Jan/2025
-**Última atualização:** 23/Nov/2025
-**Total de cursos:** 1
+**Última atualização:** 02/Dez/2025
+**Total de cursos:** 11 (4 prioridade + 3 secundário + 4 Alan Nicolas)
 
 ---
 
@@ -18,22 +18,42 @@ Central de aprendizado contínuo. Cursos, bootcamps, livros em estudo, tutoriais
 
 **Princípio:** Aprender com ESTRUTURA, não só consumir conteúdo.
 
+## 📂 ESTRUTURA GERAL
+
+```
+03_APRENDIZADO/
+├── Alan_Nicolas_Universe/     # Todo material do Alan Nicolas
+│   ├── Alan_Vault_Original/         # Vault de referência (consulta)
+│   ├── Alan_Cursos_Referencia/      # Cursos originais
+│   ├── Alan_Nicolas_Academia_Lendaria/
+│   └── Alan_Nicolas_Mentoria/
+├── Cursos_Ativos/             # Cursos em andamento
+└── Cursos_Concluidos/         # Cursos finalizados (arquivo)
+```
+
 ---
 
 ## 📂 CURSOS POR STATUS
 
 ### 🔴 Em Andamento (Prioridade)
 
-- [[Alan_Nicolas_Academia_Lendaria/README.md|Alan Nicolas - Academia Lendária]]
-  - **4 Lives processadas** + Metodologia Profissional IA implementada
-  - Live Gemini 3: Antigravity, Banana Pro, Warren Buffett
+**Alan Nicolas Universe:**
+- [[Alan_Nicolas_Universe/Alan_Nicolas_Academia_Lendaria/README.md|Academia Lendária]]
+  - 4 Lives processadas + Metodologia Profissional IA implementada
   - 20+ episódios Vida Lendária
-  - Segundo cérebro completo do Alan
-  - **Recursos criados:** Templates, Checklists, Guias completos em [[04_RECURSOS/GUIAS/MOC_Metodologia_Profissional_IA.md|Metodologia IA]]
+  - Recursos criados em [[04_RECURSOS/GUIAS/MOC_Metodologia_Profissional_IA.md|Metodologia IA]]
+
+**Cursos Ativos:**
+- [[Cursos_Ativos/DeFi_Nova_Era/README.md|DeFi Nova Era]] - Portal 1 em preparação
+- [[Cursos_Ativos/Subido_Trafego/README.md|Subido 3K - Tráfego]]
+- [[Cursos_Ativos/DEFIVERSO_Lucas_Amoedo/README.md|DeFiVerso - Lucas Amoedo]]
+- [[Cursos_Ativos/Formacao_Lendaria_2025/README.md|Formação Lendária 2025]]
 
 ### 🟡 Em Andamento (Secundário)
 
-(nenhum curso ainda)
+- [[Cursos_Ativos/DeFi_Journey/README.md|DeFi Journey]]
+- [[Cursos_Ativos/GPTs/README.md|GPTs]]
+- [[Cursos_Ativos/Mente_Lendaria/README.md|Mente Lendária]]
 
 ### ⏸️ Pausados
 
@@ -41,7 +61,7 @@ Central de aprendizado contínuo. Cursos, bootcamps, livros em estudo, tutoriais
 
 ### ✅ Concluídos
 
-(nenhum curso ainda)
+Ver: [[Cursos_Concluidos/README.md]] (arquivo histórico)
 
 ### 📋 Backlog (Quero Fazer)
 
@@ -55,7 +75,7 @@ Central de aprendizado contínuo. Cursos, bootcamps, livros em estudo, tutoriais
 
 1. **Crie a pasta do curso:**
    ```
-   03_APRENDIZADO/Nome_Curso/
+   03_APRENDIZADO/Cursos_Ativos/Nome_Curso/
    ```
 
 2. **Estrutura padrão:**
@@ -126,19 +146,22 @@ Central de aprendizado contínuo. Cursos, bootcamps, livros em estudo, tutoriais
 | Curso | Status | Progresso | Último Estudo |
 |-------|--------|-----------|---------------|
 | Alan Nicolas - Academia Lendária | 🔴 Prioridade | 35% | 23/Nov/2025 |
+| DeFi Nova Era (Portal 1) | 🔴 Prioridade | 0% | 02/Dez/2025 |
+| Subido 3K - Tráfego | 🔴 Prioridade | 15% | Nov/2025 |
+| DeFiVerso - Lucas Amoedo | 🔴 Prioridade | 10% | Nov/2025 |
 
 ---
 
 ## 📈 ESTATÍSTICAS
 
 ```
-📁 Total de cursos: 1
-🔴 Em andamento (prioridade): 1
-🟡 Em andamento (secundário): 0
+📁 Total de cursos: 11
+🔴 Em andamento (prioridade): 4
+🟡 Em andamento (secundário): 3
 ⏸️ Pausados: 0
 ✅ Concluídos: 0
-📋 Backlog: 0
-📅 Último estudo: 23/Nov/2025
+📋 Material de referência (Alan): 4
+📅 Último estudo: 02/Dez/2025
 ```
 
 ---

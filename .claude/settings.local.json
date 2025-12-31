@@ -1,63 +1,8 @@
 {
-  "env": {
-    "CLAUDE_CODE_MAX_OUTPUT_TOKENS": "8000",
-    "DISABLE_NON_ESSENTIAL_MODEL_CALLS": "1",
-    "DISABLE_COST_WARNINGS": "1",
-    "USE_BUILTIN_RIPGREP": "1",
-    "CLAUDE_BASH_MAINTAIN_PROJECT_WORKING_DIR": "1",
-    "CLAUDE_CODE_DISABLE_TERMINAL_TITLE": "0"
-  },
   "permissions": {
     "allow": [
-      "Bash(dir:*)",
-      "Bash(cmd /c dir /b)",
-      "Bash(git init:*)",
-      "Bash(git add:*)",
-      "Bash(git commit:*)",
-      "Bash(git config:*)",
-      "Bash(gh repo create:*)",
-      "Bash(git remote add:*)",
-      "Bash(git push:*)",
-      "Bash(git remote:*)",
-      "WebFetch(domain:github.com)",
-      "Bash(git fetch:*)",
-      "Bash(git pull:*)",
-      "Bash(git clone:*)",
-      "Bash(nul)",
-      "Bash(mkdir:*)",
-      "Bash(mv:*)",
-      "Bash(rm:*)",
-      "Bash(.obsidian/.refresh)",
-      "Bash(tree:*)",
-      "Bash(tasklist:*)",
-      "Bash(cmd /c dir /b .claudecommands)",
-      "Bash(cmd /c dir /b \"%USERPROFILE%\\Downloads\\Gemini_3*\")",
-      "Bash(cmd /c dir /b \"C:\\Users\\gasse\\Downloads\\Gemini_3*\" 2)",
-      "Bash(findstr:*)",
-      "Bash(cmd /c dir \"$HOME\\Downloads\")",
-      "Bash(cmd /c dir:*)",
-      "Bash(npx:*)",
-      "Bash(npm install:*)",
-      "Skill(skill-creator)",
-      "Bash(python scripts/init_skill.py:*)",
-      "Bash(test:*)"
-    ],
-    "deny": [],
-    "ask": []
-  },
-  "hooks": {
-    "PostToolUse": [
-      {
-        "matcher": "*",
-        "hooks": [
-          {
-            "type": "command",
-            "command": "if command -v osascript >/dev/null 2>&1; then osascript -e 'display notification \"Tool: $CLAUDE_TOOL_NAME completed\" with title \"Claude Code\"'; elif command -v notify-send >/dev/null 2>&1; then notify-send 'Claude Code' \"Tool: $CLAUDE_TOOL_NAME completed\"; fi"
-          }
-        ]
-      }
+      "Bash(chcp 65001)",
+      "Bash(chmod:*)"
     ]
-  },
-  "spinnerTipsEnabled": false,
-  "outputStyle": "default"
+  }
 }
