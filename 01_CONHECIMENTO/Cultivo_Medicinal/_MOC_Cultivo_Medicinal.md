@@ -9,17 +9,18 @@
 
 ## 🎯 STATUS ATUAL (QUICK ACCESS)
 
-### CICLO 2 - PRÉ-FLIP ⚡
+### CICLO 2 - FLORAÇÃO 🌸
 
-📅 **Hoje:** 16/12/2025
-🌱 **Fase:** Vegetativo final 18/6
-⏰ **FLIP:** 18/12/2025 (2 DIAS!) 🚀
-📊 **Estado:** 9.5/10 - PRONTO PARA FLIP ✅
-🪰 **Moscas:** ZERO (erradicadas)
-📈 **SCROG:** 80-85% preenchido
+📅 **Hoje:** 31/12/2025
+🌱 **Fase:** Floração 12/12 - **DIA 12** (quase 2 semanas)
+🌸 **Flip:** 19/12/2025
+📊 **Estado:** Saudável - Verde vigoroso ✅
+🪰 **Moscas:** ZERO (erradicadas definitivamente) ✅
+📈 **SCROG:** Denso e preenchido
+🌱 **Clones:** 20 novos (30/12 - submersão 3 dias)
 
-**Ver análise completa:** [[Ciclos/Cultivo_Analise_Nevoa_16DEZ2025.md|→ Análise Névoa 16/12/2025]]
-**Ver detalhes:** [[Ciclos/Cultivo_Ciclo2_Status_04DEZ2025.md|→ Status Completo Ciclo 2]]
+**Ver status atual:** [[Ciclos/Cultivo_Status_Dia12_31DEZ2025.md|→ Status Dia 12 - 31/12/2025]]
+**Ver análise pré-flip:** [[Ciclos/Cultivo_Analise_Nevoa_16DEZ2025.md|→ Análise Névoa 16/12/2025]]
 
 ---
 
