@@ -17,7 +17,7 @@
 📊 **Estado:** Saudável - Verde vigoroso ✅
 🪰 **Moscas:** ZERO (erradicadas definitivamente) ✅
 📈 **SCROG:** Denso e preenchido
-🌱 **Clones:** 20 novos (30/12 - submersão 3 dias)
+🌱 **Clones:** 20 plantados 30/12 (dia 2 enraizamento)
 
 **Ver status atual:** [[Ciclos/Cultivo_Status_Dia12_31DEZ2025.md|→ Status Dia 12 - 31/12/2025]]
 **Ver análise pré-flip:** [[Ciclos/Cultivo_Analise_Nevoa_16DEZ2025.md|→ Análise Névoa 16/12/2025]]

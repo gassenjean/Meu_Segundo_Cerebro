@@ -23,9 +23,11 @@
 - ✅ Sistema Blumat funcionando
 
 **Clonagem (nova):**
-- ✅ **20 clones** coletados 30/12 (5 por cama)
-- ✅ Submersão 3 dias (técnica correta)
-- ✅ Prontos para plantar hoje/amanhã
+- ✅ **20 clones** coletados 27/12 (5 por cama)
+- ✅ Submersão 27-30/12 (3 dias - técnica correta)
+- ✅ **Plantados em substrato 30/12** ✅
+- 📅 Hoje 31/12 = Dia 2 em substrato
+- ⏰ Enraizamento esperado: 7-14 dias (clones de floração demoram mais)
 
 ---
 
