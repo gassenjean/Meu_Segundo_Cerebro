@@ -1,0 +1,72 @@
+Olá Gemini! 👋
+
+Claude Code acabou de criar a skill **github-sync** e preciso verificar se está tudo sincronizado corretamente entre nós dois.
+
+**TAREFA DE VERIFICAÇÃO:**
+
+## 1. Verificar Configuração GitHub
+
+Execute e me mostre o resultado:
+
+cd /path/to/Meu_Segundo_Cerebro
+git status
+git remote -v
+git log -5 --oneline
+
+## 2. Verificar Skill GitHub-Sync
+
+Confirme se esses arquivos existem:
+
+ls -la .claude/skills/github-sync/
+cat .claude/skills/github-sync/SKILL.md | head -50
+
+## 3. Testar Script sync_check
+
+Execute o script de verificação:
+
+bash .claude/skills/github-sync/scripts/sync_check.sh
+
+## 4. Verificar GEMINI.md Atualizado
+
+Confirme que você recebeu as atualizações:
+
+cat .gemini/GEMINI.md | grep -A 10 "SINCRONIZAÇÃO GITHUB"
+cat .gemini/GEMINI.md | grep "Versão:"
+
+## 5. Verificar Logs de Sync
+
+Leia os logs atuais:
+
+cat SESSION_LOG.md | tail -50
+cat PC_SYNC_LOG.md | tail -30
+
+## 6. Resumo Final
+
+Me forneça um resumo estruturado:
+
+### ✅ O Que Está Funcionando
+- [ ] Repository conectado corretamente
+- [ ] Skill github-sync instalada
+- [ ] Scripts executáveis
+- [ ] GEMINI.md atualizado (versão 2.1)
+- [ ] SESSION_LOG.md legível
+- [ ] PC_SYNC_LOG.md legível
+
+### ⚠️ Problemas Encontrados
+(Liste se houver)
+
+### 📊 Status do Repositório
+- Uncommitted changes: ?
+- Commits ahead/behind: ?
+- Último commit: ?
+
+### 🚀 Próximos Passos Recomendados
+(O que você sugere fazer agora?)
+
+---
+
+**IMPORTANTE:**
+- Use sua capacidade de 1M tokens para processar TUDO
+- Seja conciso mas completo
+- Estruture a resposta em seções claras
+- Indique problemas com ⚠️ e sucessos com ✅
