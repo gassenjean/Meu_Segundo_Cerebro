@@ -1,6 +1,6 @@
 ---
 criado: 2026-01-02T14:30:00-03:00
-atualizado: 2026-01-02T14:30:00-03:00
+atualizado: 2026-01-02T16:30:00-03:00
 ---
 # 📖 Projeto Devocionais RPSP
 
