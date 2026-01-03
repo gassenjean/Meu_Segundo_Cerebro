@@ -1,14 +1,14 @@
 ---
 criado: 2025-11-18T10:49:33-03:00
-atualizado: 2025-12-23T19:58:52-03:00
+atualizado: 2026-01-02T14:45:00-03:00
 ---
 # 🚀 MOC: PROJETOS
 
 **Map of Content - Projetos Ativos e Arquivados**
 
 **Criado:** 17/Jan/2025
-**Última atualização:** 08/Dez/2025
-**Total de projetos:** 3
+**Última atualização:** 02/Jan/2026
+**Total de projetos:** 4
 
 ---
 
@@ -35,6 +35,11 @@ Central de todos os seus projetos. Cada projeto segue o padrão `ESTRUTURA_PROJE
   - Próximo: Colocar arquivos Portal 2
 
 ### 🟡 Média Prioridade
+
+- **[[02_PROJETOS/Devocionais_RPSP/README.md|Devocionais RPSP]]** - 40%
+  - Devocionais matinais impactantes via WhatsApp
+  - Início: Dez/2025
+  - Próximo: Migrar 8 devocionais + prompts do iPhone
 
 - **[[02_PROJETOS/Lio_Liofilizacao/README.md|Lio Liofilização]]** - 10%
   - Produtos liofilizados do sítio
@@ -102,6 +107,7 @@ Central de todos os seus projetos. Cada projeto segue o padrão `ESTRUTURA_PROJE
 |---------|--------|------------|-----------|------------------|
 | KabaK Reestruturação 2025 | Planejamento | 🔴 Alta | ██░░░░░░░░ 20% | 08/Dez/2025 |
 | DeFi Verso 2025 | Ativo | 🔴 Alta | █████░░░░░ 50% | 04/Dez/2025 |
+| Devocionais RPSP | Estruturação | 🟡 Média | ████░░░░░░ 40% | 02/Jan/2026 |
 | Lio Liofilização | Planejamento | 🟡 Média | █░░░░░░░░░ 10% | 08/Dez/2025 |
 
 ---
@@ -117,6 +123,9 @@ Central de todos os seus projetos. Cada projeto segue o padrão `ESTRUTURA_PROJE
 - [[02_PROJETOS/KabaK/README.md|KabaK Brands]] - Moda Fitness
 - [[02_PROJETOS/Lio_Liofilizacao/README.md|Lio Liofilização]] - Alimentos Preservados
 
+**Reino/Evangelismo:**
+- [[02_PROJETOS/Devocionais_RPSP/README.md|Devocionais RPSP]] - Devocionais Matinais
+
 **Pessoal:**
 - (adicionar links)
 
@@ -125,6 +134,9 @@ Central de todos os seus projetos. Cada projeto segue o padrão `ESTRUTURA_PROJE
 **Planejamento:**
 - [[02_PROJETOS/KabaK/README.md|KabaK Brands]]
 - [[02_PROJETOS/Lio_Liofilizacao/README.md|Lio Liofilização]]
+
+**Estruturação:**
+- [[02_PROJETOS/Devocionais_RPSP/README.md|Devocionais RPSP]]
 
 **Em Andamento:**
 - [[02_PROJETOS/DeFi_Verso_2025/README.md|DeFi Verso 2025]]
@@ -137,12 +149,12 @@ Central de todos os seus projetos. Cada projeto segue o padrão `ESTRUTURA_PROJE
 ## 📈 ESTATÍSTICAS
 
 ```
-📁 Total de projetos: 3
+📁 Total de projetos: 4
 🔴 Alta prioridade: 2 (KabaK, DeFi)
-🟡 Média prioridade: 1 (Lio)
+🟡 Média prioridade: 2 (Devocionais RPSP, Lio)
 🟢 Baixa prioridade: 0
 📦 Arquivados: 0
-📅 Último projeto criado: 08/Dez/2025 (KabaK + Lio)
+📅 Último projeto criado: 02/Jan/2026 (Devocionais RPSP)
 ```
 
 ---
