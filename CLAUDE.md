@@ -90,7 +90,7 @@ This file provides guidance to Claude Code (claude.ai/code) when working with th
 **Owner:** Gassen Jean Bou Karim
 **System:** Híbrido Alan Nicolas + Névoa 3.0
 **Status:** ✅ Estrutura Base Completa (Fase 4/5)
-**Version:** 2.0
+**Version:** 2.0.76
 **Agentes:** 9 especializados (Plataforma + Domínio)
 
 ### O Que É Este Vault
@@ -471,8 +471,8 @@ Read: 00_SISTEMA/PROTOCOLOS/PROTOCOLO_CRIACAO_ARQUIVOS.md
 
 ---
 
-**Version:** 2.0
-**Updated:** 24/Nov/2025
+**Version:** 2.0.76
+**Updated:** 06/Jan/2026
 **Status:** ✅ ACTIVE AND MANDATORY
 
 **THIS FILE IS LAW IN THE VAULT.**
