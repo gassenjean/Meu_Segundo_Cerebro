@@ -16,32 +16,33 @@ Convenções de mensagens de commit para o repositório Meu_Segundo_Cerebro.
 
 ### Primary Types
 
-| Type | Description | Example |
-|------|-------------|---------|
-| `feat` | Nova funcionalidade | `feat: add new learning module` |
-| `fix` | Correção de bug | `fix: resolve link errors in MOC` |
-| `docs` | Documentação | `docs: update README with new structure` |
-| `refactor` | Refatoração de código | `refactor: reorganize knowledge base` |
-| `chore` | Manutenção/Tarefas | `chore: clean up old files` |
-| `style` | Formatação | `style: fix markdown formatting` |
-| `test` | Testes | `test: add validation tests` |
+| Type       | Description           | Example                                  |
+| ---------- | --------------------- | ---------------------------------------- |
+| `feat`     | Nova funcionalidade   | `feat: add new learning module`          |
+| `fix`      | Correção de bug       | `fix: resolve link errors in MOC`        |
+| `docs`     | Documentação          | `docs: update README with new structure` |
+| `refactor` | Refatoração de código | `refactor: reorganize knowledge base`    |
+| `chore`    | Manutenção/Tarefas    | `chore: clean up old files`              |
+| `style`    | Formatação            | `style: fix markdown formatting`         |
+| `test`     | Testes                | `test: add validation tests`             |
 
 ### Secondary Types
 
-| Type | Description | Example |
-|------|-------------|---------|
-| `perf` | Performance | `perf: optimize file loading` |
-| `build` | Build system | `build: update dependencies` |
-| `ci` | CI/CD | `ci: add GitHub Actions` |
-| `revert` | Reverter commit | `revert: undo last migration` |
-| `wip` | Work in progress | `wip: partial implementation` |
-| `checkpoint` | Snapshot/Backup | `checkpoint: weekly backup` |
-| `backup` | Emergency backup | `backup: quick save` |
-| `sync` | Sincronização | `sync: vault updates` |
+| Type         | Description      | Example                       |
+| ------------ | ---------------- | ----------------------------- |
+| `perf`       | Performance      | `perf: optimize file loading` |
+| `build`      | Build system     | `build: update dependencies`  |
+| `ci`         | CI/CD            | `ci: add GitHub Actions`      |
+| `revert`     | Reverter commit  | `revert: undo last migration` |
+| `wip`        | Work in progress | `wip: partial implementation` |
+| `checkpoint` | Snapshot/Backup  | `checkpoint: weekly backup`   |
+| `backup`     | Emergency backup | `backup: quick save`          |
+| `sync`       | Sincronização    | `sync: vault updates`         |
 
 ## Subject Line
 
 **Rules**:
+
 - Max 60 characters
 - Lowercase (exceto nomes próprios)
 - No período final
@@ -49,6 +50,7 @@ Convenções de mensagens de commit para o repositório Meu_Segundo_Cerebro.
 - Português ou Inglês (consistente)
 
 **Good Examples**:
+
 ```
 feat: add DeFi knowledge base
 fix: correct MOC links
@@ -57,6 +59,7 @@ chore: clean old reference files
 ```
 
 **Bad Examples**:
+
 ```
 Added new files. (não imperativo, período final)
 FEAT: NEW FEATURE (caps lock)
@@ -67,18 +70,21 @@ This is a very long commit message that exceeds sixty characters (muito longo)
 ## Body
 
 **When to use**:
+
 - Explicar "why" (não "what")
 - Fornecer contexto
 - Listar mudanças importantes
 - Mencionar breaking changes
 
 **Format**:
+
 - Linha em branco após subject
 - Wrap em 72 caracteres
 - Bullet points com `-` ou `*`
 - Múltiplos parágrafos OK
 
 **Example**:
+
 ```
 refactor: reorganize knowledge categories
 
@@ -97,6 +103,7 @@ This improves discoverability and reduces redundancy.
 ### AI Agent Signatures
 
 **Claude Code**:
+
 ```
 🤖 Generated with Claude Code
 
@@ -104,6 +111,7 @@ Co-Authored-By: Claude Sonnet 4.5 <noreply@anthropic.com>
 ```
 
 **Antigravity/Gemini**:
+
 ```
 🚀 Generated with Antigravity
 
@@ -280,6 +288,7 @@ See: PC_SYNC_LOG.md
 ### ❌ Avoid These
 
 **Too vague**:
+
 ```
 update files
 fix stuff
@@ -288,23 +297,27 @@ misc
 ```
 
 **Too detailed in subject**:
+
 ```
 fix: correct the broken wikilinks in MOC_Projetos.md file located in 00_SISTEMA/MOCs directory
 ```
 
 **Missing type**:
+
 ```
 updated readme
 fixed bug
 ```
 
 **Wrong tense**:
+
 ```
 feat: added new feature
 fix: fixing the bug
 ```
 
 **All caps**:
+
 ```
 FEAT: NEW FEATURE
 FIX: BUG FIX
@@ -366,6 +379,7 @@ exit 0
 ```
 
 Make executable:
+
 ```bash
 chmod +x .git/hooks/commit-msg
 ```
@@ -389,6 +403,7 @@ Co-Authored-By: Claude Sonnet 4.5 <noreply@anthropic.com>
 ```
 
 Configure git to use template:
+
 ```bash
 git config --global commit.template ~/.gitmessage
 ```

@@ -10,6 +10,7 @@ Carrega o **índice completo do vault** pré-compilado para acesso instantâneo 
 ## 🎯 O Que Faz
 
 Ao executar `/mapa`, você carrega:
+
 - Estrutura completa de pastas (00-05)
 - Localização de ~1.847 arquivos
 - Índice de conceitos-chave por tema
@@ -19,11 +20,13 @@ Ao executar `/mapa`, você carrega:
 ## 📖 Conteúdo Carregado
 
 **Arquivo principal:**
+
 ```
 00_SISTEMA/INDICE_VAULT_COMPLETO.md (~800 tokens)
 ```
 
 **Inclui:**
+
 - 6 categorias completas (00_SISTEMA → 05_PESSOAL)
 - Localização de TODOS os conceitos-chave
 - Material TDAH completo (15 capítulos Mentes Inquietas!)
@@ -44,6 +47,7 @@ Ao executar `/mapa`, você carrega:
 ## 💡 Por Que Usar?
 
 **SEM /mapa:**
+
 ```
 Você: "Onde está o material sobre TDAH?"
 Claude: [Usa Grep - 1000 tokens]
@@ -53,6 +57,7 @@ Total: 2000 tokens desperdiçados!
 ```
 
 **COM /mapa:**
+
 ```
 Você: "Onde está o material sobre TDAH?"
 Claude: [Lê índice pré-carregado - 0 tokens extras!]
@@ -65,12 +70,14 @@ Total: 0 tokens desperdiçados!
 ## 🎓 Quando Usar
 
 **USE /mapa quando:**
+
 - ✅ Iniciar sessão de trabalho
 - ✅ Não souber onde está algo
 - ✅ Precisar overview do vault
 - ✅ Combinar com outras skills
 
 **Exemplo combinado:**
+
 ```bash
 # Carrega índice + ativa coach
 /mapa
@@ -83,27 +90,32 @@ Total: 0 tokens desperdiçados!
 ## 📊 O Que Tem No Índice
 
 ### TDAH & Produtividade
+
 - 15 capítulos Mentes Inquietas
 - Episódio VL #017 (Procrastinação - 610 linhas!)
 - Elena Vasquez (agente especialista)
 - Foco, Obsessão Focada, Hiperconsciência
 
 ### Tráfego Pago (Pedro Sobral)
+
 - Curso completo (Status: M02 9/13)
 - Framework 7 Pilares
 - Projeto KabaK (ROAS 2.5x → 4.0x)
 
 ### DeFi & Cripto (Lucas Amoedo)
+
 - Curso completo (Status: M4 Leva 5/10)
 - Metodologia Benjamin Graham DeFi
 - Projeto DeFi_Verso_2025
 
 ### IA & Automação (Alan Nicolas)
+
 - Curso completo (Status: Semana 7/10)
 - N8N workflows
 - Sistema 5C
 
 ### Agentes do Sistema
+
 - Névoa (Orquestração)
 - Elena Vasquez (TDAH/Produtividade)
 - Pedro Sobral (Tráfego)
@@ -140,16 +152,19 @@ Total: 0 tokens desperdiçados!
 ## 🔄 Atualização do Índice
 
 **Manual (futuro):**
+
 ```bash
 powershell -ExecutionPolicy Bypass -File scripts/gerar-indice.ps1
 ```
 
 **Via skill (futuro):**
+
 ```bash
 /mapa atualizar
 ```
 
 **Quando atualizar:**
+
 - Após adicionar muitos arquivos novos
 - Após reorganização de pastas
 - Semanalmente (recomendado para manter atualizado)
@@ -157,16 +172,19 @@ powershell -ExecutionPolicy Bypass -File scripts/gerar-indice.ps1
 ## 📈 Benefícios Comprovados
 
 **Economia de tokens:**
+
 - Antes: ~2000 tokens/sessão em buscas
 - Depois: ~0 tokens em buscas
 - Economia: 100% em busca de conteúdo!
 
 **Velocidade:**
+
 - Antes: 30-60 segundos para localizar
 - Depois: Instantâneo (já está carregado)
 - Ganho: 10x mais rápido!
 
 **Precisão:**
+
 - Antes: Às vezes não encontra (Grep imperfeito)
 - Depois: Sempre encontra (está catalogado)
 - Ganho: 100% confiabilidade!
@@ -174,23 +192,28 @@ powershell -ExecutionPolicy Bypass -File scripts/gerar-indice.ps1
 ## 🎯 Principais Localizações (Quick Reference)
 
 **TDAH:**
+
 - Material completo: `04_RECURSOS/Mentes_Inquietas/`
 - Procrastinação: `01_CONHECIMENTO/Desenvolvimento_Pessoal/017_-_Por_Que_Procrastinamos__E_Como_Parar!.md`
 - Elena Vasquez: `04_RECURSOS/PROMPTS/Agentes_Sistema/PROMPT_AGENTE_ELENA_VASQUEZ.md`
 
 **Tráfego:**
+
 - Curso: `03_APRENDIZADO/Cursos_Ativos/Subido_Trafego/`
 - Conceitos: `03_APRENDIZADO/Cursos_Ativos/Subido_Trafego/Conceitos/`
 
 **DeFi:**
+
 - Curso: `03_APRENDIZADO/Cursos_Ativos/DeFi_Journey/`
 - Projeto: `02_PROJETOS/DeFi_Verso_2025/`
 
 **IA:**
+
 - Curso: `03_APRENDIZADO/Cursos_Ativos/Formacao_Lendaria_2025/`
 - N8N: `03_APRENDIZADO/Cursos_Ativos/Formacao_Lendaria_2025/N8N/`
 
 **Agentes:**
+
 - Todos: `04_RECURSOS/PROMPTS/Agentes_Sistema/`
 
 ---
@@ -200,6 +223,7 @@ powershell -ExecutionPolicy Bypass -File scripts/gerar-indice.ps1
 Execute `/mapa` agora para carregar o índice completo!
 
 **Resultado:**
+
 - ✅ Acesso instantâneo a TODO o vault
 - ✅ Zero desperdício de tokens em busca
 - ✅ Base perfeita para `/coach` e outras skills

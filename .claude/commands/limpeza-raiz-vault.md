@@ -13,6 +13,7 @@ Quando você notar pastas extras na raiz do vault que não deveriam estar lá (e
 ## Passos
 
 ### 1. Verificar o que está na raiz
+
 ```powershell
 Get-ChildItem -Path "c:\Users\Gassen\OneDrive\Meu_Segundo_Cerebro" | Select-Object Name, PSIsContainer
 ```
@@ -20,6 +21,7 @@ Get-ChildItem -Path "c:\Users\Gassen\OneDrive\Meu_Segundo_Cerebro" | Select-Obje
 ### 2. Identificar pastas duplicadas
 
 Apenas estas devem estar na raiz:
+
 - `00_SISTEMA/`
 - `01_CONHECIMENTO/`
 - `02_PROJETOS/`
@@ -34,6 +36,7 @@ Tudo mais = duplicado ou fora do lugar.
 ### 3. Mover conteúdo das duplicadas (se houver)
 
 // turbo
+
 ```powershell
 # Exemplo: Se houver pasta "Conhecimento/" duplicada
 robocopy "c:\Users\Gassen\OneDrive\Meu_Segundo_Cerebro\Conhecimento" "c:\Users\Gassen\OneDrive\Meu_Segundo_Cerebro\01_CONHECIMENTO" /E /MOVE
@@ -42,6 +45,7 @@ robocopy "c:\Users\Gassen\OneDrive\Meu_Segundo_Cerebro\Conhecimento" "c:\Users\G
 ### 4. Remover pastas vazias
 
 // turbo
+
 ```powershell
 Remove-Item -Path "c:\Users\Gassen\OneDrive\Meu_Segundo_Cerebro\Conhecimento" -Recurse -Force -ErrorAction SilentlyContinue
 Remove-Item -Path "c:\Users\Gassen\OneDrive\Meu_Segundo_Cerebro\Projetos" -Recurse -Force -ErrorAction SilentlyContinue
@@ -52,6 +56,7 @@ Remove-Item -Path "c:\Users\Gassen\OneDrive\Meu_Segundo_Cerebro\Sistema" -Recurs
 ### 5. Verificar resultado
 
 // turbo
+
 ```powershell
 Get-ChildItem -Path "c:\Users\Gassen\OneDrive\Meu_Segundo_Cerebro" -Directory | Where-Object { $_.Name -notmatch '^(00|01|02|03|04|05|\.obsidian|\.git|\.claude|\.gemini|\.agent|\.github|\.smart-env|_inbox)' }
 ```

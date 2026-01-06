@@ -15,6 +15,7 @@ Ativa o agente **Claude Architect** quando estiver no Claude Code.
 ## Checklist Pré-Trabalho
 
 Antes de executar QUALQUER ação:
+
 - [ ] Li `00_SISTEMA/PROTOCOLOS/PROTOCOLO_CRIACAO_ARQUIVOS.md`?
 - [ ] Consultei `NOMENCLATURA.md` para naming correto?
 - [ ] Sei exatamente onde o arquivo vai (00-05)?

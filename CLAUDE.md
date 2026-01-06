@@ -2,6 +2,7 @@
 criado: 2025-11-24T21:45:11-03:00
 atualizado: 2025-12-31T15:26:58-03:00
 ---
+
 # CLAUDE.md
 
 This file provides guidance to Claude Code (claude.ai/code) when working with this repository.
@@ -24,27 +25,32 @@ This file provides guidance to Claude Code (claude.ai/code) when working with th
 
 ## 📡 SINCRONIZAÇÃO COM GEMINI - LER AO INICIAR SESSÃO
 
-**⚠️ OBRIGATÓRIO: Ler SEMPRE ao iniciar nova sessão**
+### ⚠️ OBRIGATÓRIO: Ler SEMPRE ao iniciar nova sessão
 
 **Arquivo:** `SESSION_LOG.md` (raiz do vault)
 
 **Por quê?**
+
 - Este vault é trabalhado por **2 agentes IA**: Claude Code (você) + Antigravity/Gemini 3 Pro
+
 - SESSION_LOG.md é o canal de comunicação bidirecional
 - Contém atualizações do que Gemini fez quando você não estava ativo
 - Evita conflitos e garante continuidade
 
 **Protocolo ao iniciar:**
+
 1. **LER** `SESSION_LOG.md` completamente
+
 2. **VERIFICAR** seção "ÚLTIMAS MUDANÇAS" - ver o que Gemini fez
 3. **LER** "MENSAGEM PARA CLAUDE" - instruções diretas do Gemini
 4. **VERIFICAR** "CONTEXTO ATUAL DO VAULT" - estado geral
 
 **Protocolo ao finalizar:**
+
 1. **ATUALIZAR** SESSION_LOG.md com suas ações (usar template fornecido)
+
 2. **DEIXAR MENSAGEM** para Gemini se necessário
 3. **ATUALIZAR** seção "CONTEXTO ATUAL DO VAULT"
-
 
 **Importante:** Se Gemini deixou tarefas pendentes, **considere continuá-las** antes de iniciar novo trabalho.
 
@@ -52,36 +58,39 @@ This file provides guidance to Claude Code (claude.ai/code) when working with th
 
 ## 🖥️💻 SINCRONIZAÇÃO MULTI-PC - LER AO INICIAR SESSÃO
 
-**⚠️ OBRIGATÓRIO: Ler SEMPRE ao iniciar nova sessão**
+### ⚠️ OBRIGATÓRIO: Ler SEMPRE ao iniciar nova sessão (MULTI-PC)
 
 **Arquivo:** `PC_SYNC_LOG.md` (raiz do vault)
 
 **Por quê?**
+
 - Este vault é acessado por **2 computadores**: Alienware (notebook trabalho/externo) + Desktop Casa
+
 - PC_SYNC_LOG.md é o canal de comunicação entre computadores
 - Contém atualizações do que foi feito no outro PC
 - Evita conflitos de versão e divergências
 
 **Protocolo ao iniciar:**
+
 1. **LER** `PC_SYNC_LOG.md` completamente
+
 2. **VERIFICAR** seção "ÚLTIMAS MUDANÇAS" - ver o que foi feito no outro PC
 3. **LER** "MENSAGEM PARA [SEU PC]" - instruções diretas
 4. **VERIFICAR** "CONTEXTO ATUAL DO VAULT" - estado sincronizado
 5. **IDENTIFICAR** qual PC você está usando (Alienware 💻 ou Desktop Casa 🖥️)
 
 **Protocolo ao finalizar:**
+
 1. **ATUALIZAR** PC_SYNC_LOG.md com suas ações (usar template fornecido)
+
 2. **IDENTIFICAR CLARAMENTE** qual PC realizou o trabalho
 3. **DEIXAR MENSAGEM** para o outro PC se necessário
 4. **AGUARDAR** sincronização OneDrive antes de fechar vault
 
 **Importante:** Se há trabalho pendente do outro PC, **considere continuá-lo** antes de
 
- iniciar novo trabalho.
-
+iniciar novo trabalho.
 **Ver protocolo completo:** `00_SISTEMA/PROTOCOLOS/PROTOCOLO_MULTI_PC.md`
-
-
 
 ## Repository Overview
 
@@ -96,7 +105,9 @@ This file provides guidance to Claude Code (claude.ai/code) when working with th
 ### O Que É Este Vault
 
 Um segundo cérebro digital organizado com:
+
 - 6 categorias principais (00-05)
+
 - MOCs (Maps of Content) como camada organizacional
 - Padrões rigorosos de nomenclatura
 - Sistema bi-IA (Claude Code + Gemini CLI)
@@ -106,11 +117,15 @@ Um segundo cérebro digital organizado com:
 ### Sistema de Agentes
 
 **Agentes de Plataforma:**
+
 - `Claude Architect` - Guardião de padrões quando usando Claude Code
+
 - `Gemini Guardian` - Otimizador quando usando Gemini
 
 **Agentes de Domínio:**
+
 - `Névoa` - Orquestração e continuidade
+
 - `Elena Vasquez` - Produtividade & TDAH
 - `Pedro Sobral` - Tráfego & Marketing
 - `Alan Nicolas` - IA & Automação
@@ -119,7 +134,9 @@ Um segundo cérebro digital organizado com:
 - `Marie Kondo` - Organização de Vaults
 
 **Workflows Disponíveis:**
+
 - `/nevoa` - Ativar Névoa
+
 - `/claude-architect` - Ativar Claude Architect
 - `/marie-kondo` - Ativar Marie Kondo
 - `/atualizar-status` - Atualizar STATUS_VAULT.md
@@ -129,8 +146,9 @@ Um segundo cérebro digital organizado com:
 
 ## 📂 Structure
 
-```
+```text
 Meu_Segundo_Cerebro/
+
 │
 ├── .claude/                    # Claude Code configuration
 │   └── commands/              # Slash commands (/learn, /work, etc)
@@ -156,7 +174,7 @@ Meu_Segundo_Cerebro/
 │   └── CHECKLISTS/
 ├── 05_PESSOAL/                 # Personal notes
 │
-├── _inbox/                     # Quick capture
+├── `_inbox/`                   # Quick capture
 ├── CLAUDE.md                   # This file
 ├── README.md                   # Vault overview
 └── STATUS_VAULT.md             # Current vault status
@@ -169,7 +187,9 @@ Meu_Segundo_Cerebro/
 ### 1. Standards Are Law
 
 **Everything** follows standards documented in:
+
 - `00_SISTEMA/PADROES/NOMENCLATURA.md` - Naming conventions
+
 - `00_SISTEMA/PADROES/ESTRUTURA_PROJETOS.md` - Project structure
 - `00_SISTEMA/PROTOCOLOS/PROTOCOLO_CRIACAO_ARQUIVOS.md` - File creation protocol
 
@@ -180,7 +200,9 @@ Meu_Segundo_Cerebro/
 MOCs (Maps of Content) = Index files that organize other files.
 
 **3 Levels:**
+
 1. **MOC Master** → `00_SISTEMA/MOCs/MOC_SEGUNDO_CEREBRO_MASTER.md`
+
 2. **Category MOCs** → `_MOC_Conhecimento.md`, `_MOC_Projetos.md`, etc
 3. **Specific MOCs** → Per project/topic
 
@@ -188,8 +210,9 @@ MOCs (Maps of Content) = Index files that organize other files.
 
 ### 3. Naming Conventions
 
-```
+```text
 MOC_Name.md           → Map of Content (system)
+
 _MOC_Name.md          → Map of Content (category - with underscore!)
 TEMPLATE_Type.md      → Reusable template
 PLANO_Name.md         → Planning document
@@ -200,7 +223,9 @@ Category_Sub_Topic.md → Regular content (hierarchical)
 ```
 
 **Rules:**
+
 - UPPERCASE for special prefixes
+
 - CamelCase for hierarchy
 - Dates: DDMMMYYYY (17JAN2025)
 - Underscores, NEVER spaces
@@ -209,16 +234,20 @@ Category_Sub_Topic.md → Regular content (hierarchical)
 ### 4. Course/Project Structure
 
 **Course (03_APRENDIZADO/):**
-```
+
+```text
 Nome_Curso/
+
 ├── README.md
 ├── notas/           # Notes only!
 └── recursos/        # Supporting materials
 ```
 
 **Project (02_PROJETOS/):**
-```
+
+```text
 Nome_Projeto/
+
 ├── README.md
 ├── STATUS_ATUAL.md
 ├── planejamento/
@@ -233,19 +262,23 @@ Nome_Projeto/
 
 ## 🚀 Available Commands
 
-Slash commands are defined in `.claude/commands/` - **18 comandos organizados em 5 categorias**
+Slash commands are defined in `.claude/commands/` - **19 comandos organizados em 5 categorias**
 
 ### 🤖 Core System Agents (Plataforma)
-| Command | Purpose |
-|---------|---------|
+
+| Command  | Purpose                                    |
+| :------- | :----------------------------------------- |
 | `/nevoa` | Orquestração e continuidade - Agente Névoa |
+
 | `/claude-architect` | Guardião de padrões e qualidade - Claude Architect |
 | `/marie-kondo` | Organização de vaults - Marie Kondo |
 
 ### 🧠 Domain Agents (Especialistas)
-| Command | Purpose |
-|---------|---------|
+
+| Command  | Purpose                                           |
+| :------- | :------------------------------------------------ |
 | `/coach` | Tom Névoa - Coach TDAH (orquestrador estratégico) |
+
 | `/elena` | Elena Vasquez - Produtividade & TDAH |
 | `/pedro` | Pedro Sobral - Tráfego Pago & Marketing |
 | `/alan` | Alan Nicolas - IA & Automação |
@@ -253,24 +286,30 @@ Slash commands are defined in `.claude/commands/` - **18 comandos organizados em
 | `/dr-green` | Dr. Green - Cultivo Medicinal |
 
 ### 🛠️ Essential Tools
-| Command | Purpose |
-|---------|---------|
+
+| Command     | Purpose                                       |
+| :---------- | :-------------------------------------------- |
 | `/validate` | Validate file creation (use BEFORE creating!) |
+
 | `/gemini` | Delegate to Gemini 3 Pro (1M tokens, free) |
 | `/ultra-think` | Deep analysis and complex problem solving |
 | `/sync` | Sync with Gemini/Antigravity (update SESSION_LOG.md) |
 | `/mapa` | Carrega índice completo do vault (economia de tokens) |
 
 ### 📚 Context Activation
-| Command | Purpose |
-|---------|---------|
+
+| Command  | Purpose                                    |
+| :------- | :----------------------------------------- |
 | `/learn` | Activate learning context (03_APRENDIZADO) |
+
 | `/work` | Activate project context (02_PROJETOS) |
 
 ### 🔧 Maintenance & Utilities
-| Command | Purpose |
-|---------|---------|
+
+| Command             | Purpose                                 |
+| :------------------ | :-------------------------------------- |
 | `/atualizar-status` | Atualizar STATUS_VAULT.md com progresso |
+
 | `/limpeza-raiz-vault` | Limpar pastas duplicadas da raiz do vault |
 
 ---
@@ -279,8 +318,9 @@ Slash commands are defined in `.claude/commands/` - **18 comandos organizados em
 
 **MANDATORY WORKFLOW:**
 
-```
+```text
 1. User requests file creation
+
    ↓
 2. PAUSE - Read 00_SISTEMA/PROTOCOLOS/PROTOCOLO_CRIACAO_ARQUIVOS.md
    ↓
@@ -307,51 +347,61 @@ Slash commands are defined in `.claude/commands/` - **18 comandos organizados em
 
 ## 📍 File Location Guide
 
-| File Type | Location | Prefix |
-|-----------|----------|--------|
-| Templates | 04_RECURSOS/TEMPLATES/ | TEMPLATE_ |
-| Prompts | 04_RECURSOS/PROMPTS/ | (varies) |
-| Checklists | 04_RECURSOS/CHECKLISTS/ | CHECKLIST_ |
-| Category MOC | In category folder | _MOC_ |
-| System MOC | 00_SISTEMA/MOCs/ | MOC_ |
-| Protocols | 00_SISTEMA/ | PROTOCOLO_ |
-| Plans | 00_SISTEMA/planejamento/ | PLANO_ |
-| Course notes | curso/notas/ | Category_Sub |
-| Course resources | curso/recursos/ | (varies) |
+| File Type        | Location                   | Prefix       |
+| :--------------- | :------------------------- | :----------- |
+| Templates        | `04_RECURSOS/TEMPLATES/`   | `TEMPLATE_`  |
+| Prompts          | `04_RECURSOS/PROMPTS/`     | (varies)     |
+| Checklists       | `04_RECURSOS/CHECKLISTS/`  | `CHECKLIST_` |
+| Category MOC     | In category folder         | `_MOC_`      |
+| System MOC       | `00_SISTEMA/MOCs/`         | `MOC_`       |
+| Protocols        | `00_SISTEMA/`              | `PROTOCOLO_` |
+| Plans            | `00_SISTEMA/planejamento/` | `PLANO_`     |
+| Course notes     | `curso/notas/`             | Category_Sub |
+| Course resources | `curso/recursos/`          | (varies)     |
 
 ---
 
 ## ⚠️ Common Mistakes to Avoid
 
-### ❌ NEVER DO THIS:
+### ❌ NEVER DO THIS
 
 1. **Create without reading standards**
-   ```
+
+   ```text
    ❌ Create INDEX_Something.md
+
    ✅ Read NOMENCLATURA.md → Use MOC_Something.md
    ```
 
 2. **Templates in wrong place**
-   ```
+
+   ```text
    ❌ curso/notas/TEMPLATE_X.md
+
    ✅ 04_RECURSOS/TEMPLATES/TEMPLATE_X.md
    ```
 
 3. **Spaces in names**
-   ```
+
+   ```text
    ❌ My File.md
+
    ✅ My_File.md
    ```
 
 4. **Forget to update MOCs**
-   ```
+
+   ```text
    ❌ Create file, forget to link in MOC
+
    ✅ Create file AND update relevant MOC
    ```
 
 5. **Wrong prefix**
-   ```
+
+   ```text
    ❌ INDEX_Methodology.md
+
    ✅ MOC_Methodology.md
    ```
 
@@ -360,7 +410,9 @@ Slash commands are defined in `.claude/commands/` - **18 comandos organizados em
 ## 🎓 Learning Context (Alan Nicolas)
 
 Current learning source:
+
 - **03_APRENDIZADO/Alan_Nicolas_Academia_Lendaria/**
+
 - Lives processed, episodes, second brain content
 - Follow course structure: README → notas/ → recursos/
 
@@ -369,13 +421,17 @@ Current learning source:
 ## 🤖 Bi-AI System
 
 **Claude Code (Strategic Agent):**
+
 - Strategic planning
+
 - Complex code & Architecture
 - Critical decisions
 - Vault Management
 
 **Antigravity (Gemini 3 Pro - Execution Agent):**
+
 - **IDE & Execution Environment**
+
 - Long-context processing (1M tokens)
 - Bulk file operations & Refactoring
 - Content processing (Summarization, Translation)
@@ -392,7 +448,9 @@ Configuration in `.gemini/GEMINI.md`
 Protocol: `00_SISTEMA/PROTOCOLO_REVISAO_SEMANAL.md`
 
 Checklist:
+
 - [ ] Process `_inbox/` (should be empty)
+
 - [ ] Update active projects
 - [ ] Update learning progress
 - [ ] Update STATUS_VAULT.md
@@ -410,14 +468,18 @@ Checklist:
 ## 🔗 Important Files
 
 **Must Read (for Claude):**
+
 - `00_SISTEMA/PROTOCOLOS/PROTOCOLO_CRIACAO_ARQUIVOS.md` - CRITICAL
+
 - `00_SISTEMA/PADROES/NOMENCLATURA.md` - CRITICAL
 - `00_SISTEMA/PADROES/ESTRUTURA_PROJETOS.md` - CRITICAL
 - `STATUS_VAULT.md` - Current state
 - Relevant category MOC - As needed
 
 **For User:**
+
 - `README.md` - Vault overview
+
 - `00_SISTEMA/MOCs/MOC_SEGUNDO_CEREBRO_MASTER.md` - Master MOC
 
 ---
@@ -453,18 +515,24 @@ Checklist:
 ## 🆘 Help
 
 **If confused about where to create file:**
+
 ```bash
 /validate "want to create [description]"
+
 ```
 
 **If standards unclear:**
+
 ```bash
 Read: 00_SISTEMA/PADROES/NOMENCLATURA.md
+
 Read: 00_SISTEMA/PROTOCOLOS/PROTOCOLO_CRIACAO_ARQUIVOS.md
 ```
 
 **If made mistake:**
+
 1. Admit to user
+
 2. Explain what happened
 3. Correct (move/rename)
 4. Document in STATUS_VAULT.md

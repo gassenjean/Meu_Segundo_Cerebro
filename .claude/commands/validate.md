@@ -5,6 +5,7 @@ You are helping validate file creation plans AND audit vault organization.
 ## TWO MODES
 
 ### MODE 1: Validate File Creation (User provides description)
+
 ### MODE 2: Audit Organization (User says "audit" or "check organization")
 
 ---
@@ -85,12 +86,14 @@ When user asks to audit/check/validate vault organization.
 
 **Vault**: Meu_Segundo_Cerebro
 **Standards**:
+
 - Nomenclatura: `00_SISTEMA/PADROES/NOMENCLATURA.md`
 - Estrutura: `00_SISTEMA/PADROES/ESTRUTURA_PROJETOS.md`
 
 ### Files ALLOWED in Root
 
 ✅ **Only these:**
+
 - `CLAUDE.md` - Claude Code guidance
 - `README.md` - Vault overview
 - `STATUS_VAULT.md` - Main dashboard
@@ -98,6 +101,7 @@ When user asks to audit/check/validate vault organization.
 ### Files NOT ALLOWED in Root
 
 ❌ **Must move to correct folders:**
+
 - `MOC_*.md` → `00_SISTEMA/MOCs/`
 - `PLANO_*.md` → `00_SISTEMA/planejamento/` or specific project
 - `CHECKPOINT_*.md` → `00_SISTEMA/CHECKPOINTS/` or project
@@ -138,7 +142,7 @@ Meu_Segundo_Cerebro/
    - Any others → MOVE
 
 2. **Check Naming**
-   - Correct prefixes (MOC_, PLANO_, TEMPLATE_, etc)
+   - Correct prefixes (MOC*, PLANO*, TEMPLATE\_, etc)
    - CamelCase for hierarchy
    - Dates in DDMMMYYYY
    - No spaces (use underscores)
@@ -160,31 +164,38 @@ Meu_Segundo_Cerebro/
 # Validation Report - [Date]
 
 ## Files Out of Place
+
 - [file] → Should be in [location]
 
 ## Incorrect Naming
+
 - [file] → Should be [correct name]
 
 ## Incomplete Structure
+
 - [project] missing [folder/file]
 
 ## Actions Taken
+
 - [x] Moved [file] to [destination]
 - [x] Renamed [from] to [to]
 
 ## Status
+
 ✅ Vault compliant / ⚠️ Issues found
 ```
 
 ### Protocol
 
 ✅ **ALWAYS**:
+
 - Verify before creating new file
 - Ask if unsure about location
 - Move immediately if created in wrong place
 - Update links after moving files
 
 ❌ **NEVER**:
+
 - Create important files in root
 - Ignore naming standards
 - Leave files out of compliance
@@ -209,6 +220,7 @@ When user invokes `/validate`:
 ## References
 
 **Must Read:**
+
 - `00_SISTEMA/PROTOCOLOS/PROTOCOLO_CRIACAO_ARQUIVOS.md` - CRITICAL
 - `00_SISTEMA/PADROES/NOMENCLATURA.md` - CRITICAL
 - `STATUS_VAULT.md` - Current state

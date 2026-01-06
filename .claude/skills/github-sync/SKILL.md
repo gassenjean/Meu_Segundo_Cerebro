@@ -10,6 +10,7 @@ Skill para gerenciar sincronização do vault **Meu_Segundo_Cerebro** com GitHub
 ## Purpose
 
 Esta skill fornece workflows padronizados para:
+
 - Sincronizar vault local com repositório GitHub
 - Coordenar trabalho entre Claude Code e Antigravity
 - Garantir commits consistentes e organizados
@@ -19,6 +20,7 @@ Esta skill fornece workflows padronizados para:
 ## When to Use
 
 Use esta skill quando precisar:
+
 - ✅ Sincronizar vault com GitHub (push/pull)
 - ✅ Fazer commit de mudanças
 - ✅ Verificar status do repositório
@@ -60,6 +62,7 @@ git pull --rebase origin master
 ```
 
 **Quando usar**:
+
 - Ao iniciar sessão (verificar se há mudanças de outro PC ou Antigravity)
 - Antes de começar trabalho novo
 - Após mensagem em SESSION_LOG.md ou PC_SYNC_LOG.md
@@ -85,6 +88,7 @@ Co-Authored-By: Claude Sonnet 4.5 <noreply@anthropic.com>"
 ```
 
 **Tipos de commit**:
+
 - `feat:` - Nova funcionalidade
 - `fix:` - Correção de bug
 - `docs:` - Documentação
@@ -94,6 +98,7 @@ Co-Authored-By: Claude Sonnet 4.5 <noreply@anthropic.com>"
 - `test:` - Testes
 
 **Regras**:
+
 - Mensagens em português ou inglês (consistente)
 - Primeira linha: max 60 caracteres
 - Sempre incluir assinatura Claude Code/Antigravity
@@ -112,6 +117,7 @@ git push -u origin master
 ```
 
 **Quando usar**:
+
 - Após commit de mudanças importantes
 - Ao finalizar sessão de trabalho
 - Para backup de progresso
@@ -169,12 +175,14 @@ git rebase --abort
 ### Claude Code Workflows
 
 **Ao iniciar sessão**:
+
 1. Ler `SESSION_LOG.md` - verificar mensagens de Antigravity
 2. Ler `PC_SYNC_LOG.md` - verificar mudanças de outro PC
 3. Executar `git pull --rebase` - sincronizar
 4. Começar trabalho
 
 **Ao finalizar sessão**:
+
 1. Executar `git add .` - stage mudanças
 2. Criar commit descritivo
 3. Executar `git push` - enviar para GitHub
@@ -184,11 +192,13 @@ git rebase --abort
 ### Antigravity Workflows
 
 **Ao iniciar sessão**:
+
 1. Ler `SESSION_LOG.md` - verificar mensagens de Claude
 2. Executar `git pull --rebase` - sincronizar
 3. Começar trabalho
 
 **Ao finalizar sessão**:
+
 1. Executar `git add .` - stage mudanças
 2. Criar commit com assinatura Antigravity
 3. Executar `git push` - enviar para GitHub
@@ -316,6 +326,7 @@ git push origin master
 **Sintoma**: `! [rejected] master -> master (fetch first)`
 
 **Solução**:
+
 ```bash
 git pull --rebase origin master
 git push origin master
@@ -326,6 +337,7 @@ git push origin master
 **Sintoma**: `CONFLICT (content): Merge conflict in [file]`
 
 **Solução**:
+
 1. Abrir arquivo conflitante
 2. Resolver manualmente (escolher entre HEAD e incoming)
 3. `git add [arquivo]`
@@ -336,6 +348,7 @@ git push origin master
 **Sintoma**: `HEAD detached at [commit]`
 
 **Solução**:
+
 ```bash
 git checkout master
 git pull --rebase origin master
@@ -346,6 +359,7 @@ git pull --rebase origin master
 **Sintoma**: Arquivos não rastreados acumulando
 
 **Solução**:
+
 ```bash
 # Verificar gitignore
 cat .gitignore

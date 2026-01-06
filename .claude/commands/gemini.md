@@ -5,6 +5,7 @@ Você vai coordenar uma tarefa para o **Gemini 3 Pro** - economizando tokens e a
 ## QUANDO USAR GEMINI 3 PRO
 
 **Gemini 3 é MELHOR para** (gratuito, 1M tokens, 3x mais rápido):
+
 - ✅ **Documentos longos** (livros, transcrições, bases de código COMPLETAS)
 - ✅ **Processamento de conteúdo** (lives, cursos, podcasts → notas estruturadas)
 - ✅ **Análise profunda com contexto total** (1M tokens vs 200k Claude)
@@ -17,6 +18,7 @@ Você vai coordenar uma tarefa para o **Gemini 3 Pro** - economizando tokens e a
 - ✅ **Refatoração de código** (uma única chamada)
 
 **Claude Code é MELHOR para** (pago, vault-aware):
+
 - ✅ **Planejamento estratégico** do vault
 - ✅ **Código do vault** (conhece CLAUDE.md, protocolos, MOCs)
 - ✅ **Decisões críticas** (estrutura, nomenclatura, localização)
@@ -46,6 +48,7 @@ gemini "translate to english" < input.md > output.md
 ## EXEMPLOS PRÁTICOS
 
 ### 1. Processar Live/Podcast Completa (NOVO - Alan Nicolas)
+
 ```bash
 # Transcrição inteira → Nota estruturada (aproveitando 1M tokens)
 gemini "Processar esta transcrição completa e criar nota estruturada com:
@@ -60,6 +63,7 @@ Formato: Markdown profissional" < live_completa.txt > Live_Processada.md
 ```
 
 ### 2. Análise de Livro Completo (NOVO)
+
 ```bash
 # Livro inteiro → Insights acionáveis
 gemini "Analisar este livro completo (não resumir, ANALISAR) e gerar:
@@ -71,6 +75,7 @@ gemini "Analisar este livro completo (não resumir, ANALISAR) e gerar:
 ```
 
 ### 3. Geração de Conteúdo em Escala (NOVO - Comercial)
+
 ```bash
 # Briefing → 30 dias de conteúdo
 gemini "Com base neste briefing, gerar calendário mensal de conteúdo:
@@ -85,6 +90,7 @@ Público: [seu público]" < briefing.md > Calendario_Conteudo_30_Dias.md
 ```
 
 ### 4. Summarização (Alto Contexto)
+
 ```bash
 # Documento longo → Resumo mantendo TODAS as nuances
 gemini "Summarize entire document (don't truncate) in Portuguese with:
@@ -94,6 +100,7 @@ gemini "Summarize entire document (don't truncate) in Portuguese with:
 ```
 
 ### 5. Tradução (Contexto Completo)
+
 ```bash
 # Traduzir documento técnico mantendo contexto
 gemini "Translate to Brazilian Portuguese:
@@ -104,6 +111,7 @@ gemini "Translate to Brazilian Portuguese:
 ```
 
 ### 6. Extração de Dados (Inteligente)
+
 ```bash
 # Extrair e estruturar (entende intenção)
 gemini "From this content, extract and structure:
@@ -114,6 +122,7 @@ gemini "From this content, extract and structure:
 ```
 
 ### 7. Criação de Sistema 5C (NOVO - Alan Nicolas)
+
 ```bash
 # Conteúdo → Sistema 5C completo
 gemini "Processar este conteúdo aplicando Sistema 5C:
@@ -126,6 +135,7 @@ Include MOC suggestions and wikilink recommendations" < conteudo.md > Sistema_5C
 ```
 
 ### 8. Workflow Profissional (NOVO - 5 Etapas)
+
 ```bash
 # Briefing completo → Plano de execução
 gemini "Analisar este briefing e criar plano profissional:
@@ -140,6 +150,7 @@ Use metodologia profissional de 5 etapas" < briefing_projeto.md > plano_execucao
 ```
 
 ### 9. Refatoração de Código (Uma Chamada)
+
 ```bash
 # Código complexo → Versão otimizada
 gemini "Refactor this entire codebase:
@@ -151,6 +162,7 @@ gemini "Refactor this entire codebase:
 ```
 
 ### 10. Processamento de Base de Conhecimento
+
 ```bash
 # Múltiplos arquivos → Mapa de conhecimento
 cat arquivo1.md arquivo2.md arquivo3.md | gemini "Create comprehensive knowledge map:
@@ -164,6 +176,7 @@ cat arquivo1.md arquivo2.md arquivo3.md | gemini "Create comprehensive knowledge
 ## PROTOCOLO
 
 ✅ **SEMPRE**:
+
 - Usar Gemini 3 para tarefas longas (aproveitar 1M tokens)
 - Usar Gemini para processamento de conteúdo (lives, cursos, livros)
 - Usar Gemini para geração de conteúdo em escala
@@ -172,6 +185,7 @@ cat arquivo1.md arquivo2.md arquivo3.md | gemini "Create comprehensive knowledge
 - **NOVO:** Aproveitar contexto completo (não dividir documentos)
 
 ❌ **NUNCA**:
+
 - Usar Gemini para mudanças estruturais no vault (use Claude)
 - Confiar sem validação em decisões críticas
 - Usar Gemini para atualizar MOCs/STATUS (Claude tem contexto)
@@ -182,9 +196,11 @@ cat arquivo1.md arquivo2.md arquivo3.md | gemini "Create comprehensive knowledge
 ## FERRAMENTAS GOOGLE INTEGRADAS (Alan Nicolas)
 
 ### Notebook LM (Aprendizado Acelerado)
+
 **Acesso:** notebooklm.google
 
 **Uso:**
+
 1. Upload conteúdo (PDF, docs, transcrições)
 2. Gerar podcast automaticamente
 3. Criar flashcards para revisão
@@ -194,14 +210,17 @@ cat arquivo1.md arquivo2.md arquivo3.md | gemini "Create comprehensive knowledge
 **Ideal para:** Processar episódios Vida Lendária, cursos, livros
 
 ### Banana Nano Pro (Imagens com Texto)
+
 **Acesso:** Via interface Gemini
 
 **Uso:**
+
 1. Prompt específico para imagem com texto
 2. Gemini gera com Banana Pro automaticamente
 3. Texto fica PERFEITO (diferencial crítico)
 
 **Casos de uso:**
+
 - Banners para redes sociais
 - Mockups de produtos
 - Certificados
@@ -209,18 +228,22 @@ cat arquivo1.md arquivo2.md arquivo3.md | gemini "Create comprehensive knowledge
 - Infográficos técnicos
 
 ### Google Skills (Certificações)
+
 **Acesso:** skills.google
 
 **Uso:**
+
 - 35 créditos gratuitos
 - Cursos gamificados
 - Certificação oficial Google
 - Focus em IA e ferramentas Google
 
 ### Antigravity IDE (Desenvolvimento)
+
 **Acesso:** antigravity.google
 
 **Diferencial:**
+
 - Modo de planejamento (Shift+Tab)
 - Task Inbox (múltiplos agentes paralelos)
 - Browser sub-agent (controla navegador)
@@ -228,6 +251,7 @@ cat arquivo1.md arquivo2.md arquivo3.md | gemini "Create comprehensive knowledge
 - **GRATUITO** (por enquanto)
 
 **Workflow profissional:**
+
 1. Planejamento (Shift+Tab)
 2. Revisão do plano
 3. Aprovação
@@ -238,6 +262,7 @@ cat arquivo1.md arquivo2.md arquivo3.md | gemini "Create comprehensive knowledge
 ## WORKFLOW BI-IA OTIMIZADO
 
 ### Fluxo 1: Processamento de Conteúdo Longo
+
 ```
 1. Usuário: "Processar live do Alan sobre Gemini 3"
 2. Claude: Gera comando Gemini otimizado
@@ -247,6 +272,7 @@ cat arquivo1.md arquivo2.md arquivo3.md | gemini "Create comprehensive knowledge
 ```
 
 ### Fluxo 2: Criação de Conteúdo Comercial
+
 ```
 1. Claude: Cria briefing detalhado
 2. Gemini: Gera 30 dias de conteúdo
@@ -255,6 +281,7 @@ cat arquivo1.md arquivo2.md arquivo3.md | gemini "Create comprehensive knowledge
 ```
 
 ### Fluxo 3: Sistema 5C Automatizado
+
 ```
 1. CONSUMIR: Usuário fornece fonte
 2. CAPTURAR: Gemini processa e estrutura
@@ -267,13 +294,13 @@ cat arquivo1.md arquivo2.md arquivo3.md | gemini "Create comprehensive knowledge
 
 ## ECONOMIA DE CUSTOS (Importante!)
 
-| Tarefa | Claude Code | Gemini 3 Pro | Economia |
-|--------|-------------|--------------|----------|
-| Resumir live 2h | $2.50 | $0.00 | 100% |
-| Traduzir livro | $5.00 | $0.00 | 100% |
-| Gerar 30 posts | $3.00 | $0.00 | 100% |
-| Processar curso | $10.00 | $0.00 | 100% |
-| Refatorar código | $1.50 | $0.00 | 100% |
+| Tarefa           | Claude Code | Gemini 3 Pro | Economia |
+| ---------------- | ----------- | ------------ | -------- |
+| Resumir live 2h  | $2.50       | $0.00        | 100%     |
+| Traduzir livro   | $5.00       | $0.00        | 100%     |
+| Gerar 30 posts   | $3.00       | $0.00        | 100%     |
+| Processar curso  | $10.00      | $0.00        | 100%     |
+| Refatorar código | $1.50       | $0.00        | 100%     |
 
 **Total mensal estimado:** $200-500 → $0 (Gemini 3)
 
@@ -289,6 +316,7 @@ cat arquivo1.md arquivo2.md arquivo3.md | gemini "Create comprehensive knowledge
 4. Retorne o resultado para Claude validar (se necessário)
 
 **Exemplos de solicitação:**
+
 - "Processar live completa do Alan sobre [tema]"
 - "Gerar 30 dias de conteúdo sobre [tema]"
 - "Analisar livro completo [nome] e extrair insights"

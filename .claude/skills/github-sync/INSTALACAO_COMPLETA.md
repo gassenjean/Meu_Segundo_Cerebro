@@ -49,6 +49,7 @@ Pode ser compartilhado e instalado em outros vaults.
 ```
 
 Isso carrega:
+
 - ✅ Toda documentação da skill
 - ✅ Workflows padronizados
 - ✅ Referências de comandos
@@ -70,6 +71,7 @@ bash .claude/skills/github-sync/scripts/cleanup_old.sh
 ### Opção 3: Workflows Manuais
 
 Seguir workflows documentados em `SKILL.md`:
+
 - Daily sync routine
 - Full sync workflow
 - Conflict resolution
@@ -147,11 +149,13 @@ Logs: SESSION_LOG.md ✅ | PC_SYNC_LOG.md ✅
 **Próximos passos recomendados**:
 
 1. **Limpar arquivos antigos** (1908 deletions pendentes):
+
    ```bash
    bash .claude/skills/github-sync/scripts/cleanup_old.sh
    ```
 
 2. **Commit a skill criada**:
+
    ```bash
    git add .claude/skills/github-sync
    git add .claude/commands/github-sync.md
@@ -221,6 +225,7 @@ bash .claude/skills/github-sync/scripts/sync_check.sh
 ```
 
 Mostra:
+
 - Repository info
 - Local status
 - Remote status
@@ -233,18 +238,19 @@ Mostra:
 
 ## 🎨 COMMIT TYPES
 
-| Type | Quando Usar | Exemplo |
-|------|-------------|---------|
-| `feat` | Nova funcionalidade | `feat: add DeFi tracker` |
-| `fix` | Correção de bug | `fix: broken MOC links` |
-| `docs` | Documentação | `docs: update README` |
-| `refactor` | Refatoração | `refactor: reorganize files` |
-| `chore` | Manutenção | `chore: clean old files` |
-| `sync` | Sincronização | `sync: daily vault update` |
-| `checkpoint` | Snapshot | `checkpoint: weekly backup` |
-| `backup` | Emergency | `backup: quick save` |
+| Type         | Quando Usar         | Exemplo                      |
+| ------------ | ------------------- | ---------------------------- |
+| `feat`       | Nova funcionalidade | `feat: add DeFi tracker`     |
+| `fix`        | Correção de bug     | `fix: broken MOC links`      |
+| `docs`       | Documentação        | `docs: update README`        |
+| `refactor`   | Refatoração         | `refactor: reorganize files` |
+| `chore`      | Manutenção          | `chore: clean old files`     |
+| `sync`       | Sincronização       | `sync: daily vault update`   |
+| `checkpoint` | Snapshot            | `checkpoint: weekly backup`  |
+| `backup`     | Emergency           | `backup: quick save`         |
 
 **Template padrão**:
+
 ```
 <type>: <description max 60 chars>
 
@@ -261,6 +267,7 @@ Co-Authored-By: Claude Sonnet 4.5 <noreply@anthropic.com>
 ### Claude Code
 
 **Assinatura**:
+
 ```
 🤖 Generated with Claude Code
 
@@ -268,6 +275,7 @@ Co-Authored-By: Claude Sonnet 4.5 <noreply@anthropic.com>
 ```
 
 **Workflow**:
+
 1. Ler SESSION_LOG.md ao iniciar
 2. Pull antes de trabalhar
 3. Commit + push ao terminar
@@ -276,6 +284,7 @@ Co-Authored-By: Claude Sonnet 4.5 <noreply@anthropic.com>
 ### Antigravity (Gemini)
 
 **Assinatura**:
+
 ```
 🚀 Generated with Antigravity
 
@@ -283,12 +292,14 @@ Co-Authored-By: Gemini 3 Pro <noreply@google.com>
 ```
 
 **Workflow**:
+
 1. Ler SESSION_LOG.md ao iniciar
 2. Pull antes de trabalhar
 3. Commit + push ao terminar
 4. Atualizar SESSION_LOG.md
 
 **Coordenação**:
+
 - SESSION_LOG.md = Canal de comunicação entre agentes
 - Sempre atualizar ao trocar de agente
 - Evitar trabalho simultâneo no mesmo arquivo
@@ -324,6 +335,7 @@ git push origin master
 ```
 
 **Regras**:
+
 1. **Sempre** pull antes de começar
 2. **Sempre** push ao terminar
 3. **Identificar** PC no commit
@@ -339,6 +351,7 @@ git push origin master
 **Erro**: `! [rejected] master -> master (fetch first)`
 
 **Solução**:
+
 ```bash
 git pull --rebase origin master
 git push origin master
@@ -349,6 +362,7 @@ git push origin master
 **Erro**: `CONFLICT (content): Merge conflict in [file]`
 
 **Solução**:
+
 ```bash
 # 1. Abrir arquivo e resolver manualmente
 # 2. Stage resolução
@@ -362,6 +376,7 @@ git rebase --continue
 **Erro**: `HEAD detached at [commit]`
 
 **Solução**:
+
 ```bash
 git checkout master
 git pull --rebase origin master
@@ -372,6 +387,7 @@ git pull --rebase origin master
 **Problema**: 1908 uncommitted changes
 
 **Solução**:
+
 ```bash
 # Use cleanup script para limpar deletions
 bash .claude/skills/github-sync/scripts/cleanup_old.sh
@@ -426,11 +442,13 @@ Antes de fazer push, verificar:
 ### Imediato
 
 1. **Testar quick_backup**:
+
    ```bash
    bash .claude/skills/github-sync/scripts/quick_backup.sh "testing skill"
    ```
 
 2. **Limpar arquivos antigos**:
+
    ```bash
    bash .claude/skills/github-sync/scripts/cleanup_old.sh
    ```
@@ -460,6 +478,7 @@ Antes de fazer push, verificar:
 ## 📈 MÉTRICAS
 
 **Skill instalada**:
+
 - ✅ SKILL.md (15KB) - Documentação completa
 - ✅ GIT_COMMANDS.md (5KB) - Referência git
 - ✅ COMMIT_CONVENTIONS.md (7KB) - Padrões
@@ -472,6 +491,7 @@ Antes de fazer push, verificar:
 **Total**: ~40KB de documentação + scripts
 
 **Repository**:
+
 - URL: https://github.com/gassenjean/Meu_Segundo_Cerebro.git
 - Branch: master
 - Status: 1908 uncommitted (pending cleanup)
@@ -484,6 +504,7 @@ Antes de fazer push, verificar:
 Skill **github-sync** instalada com sucesso!
 
 **Capacidades**:
+
 - ✅ Sincronização unificada Claude + Antigravity
 - ✅ Multi-PC sync (Alienware ↔️ Desktop)
 - ✅ Scripts automáticos (status, backup, cleanup)
@@ -493,11 +514,13 @@ Skill **github-sync** instalada com sucesso!
 - ✅ Troubleshooting guide
 
 **Como usar**:
+
 ```bash
 /github-sync  # Ativar contexto
 ```
 
 **Próximo passo**:
+
 ```bash
 bash .claude/skills/github-sync/scripts/cleanup_old.sh
 ```

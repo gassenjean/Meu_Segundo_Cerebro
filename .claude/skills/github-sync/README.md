@@ -5,6 +5,7 @@ Skill para gerenciamento unificado do repositório GitHub do vault **Meu_Segundo
 ## Overview
 
 Esta skill fornece workflows padronizados para sincronização entre:
+
 - **Vault local** (OneDrive)
 - **Repositório GitHub** (https://github.com/gassenjean/Meu_Segundo_Cerebro)
 - **Claude Code** (agente estratégico)
@@ -14,6 +15,7 @@ Esta skill fornece workflows padronizados para sincronização entre:
 ## Installation
 
 A skill está localizada em:
+
 ```
 .claude/skills/github-sync/
 ```
@@ -23,16 +25,19 @@ Para usar, simplesmente invoque workflows descritos em `SKILL.md`.
 ## Quick Start
 
 ### Check Status
+
 ```bash
 bash .claude/skills/github-sync/scripts/sync_check.sh
 ```
 
 ### Quick Backup
+
 ```bash
 bash .claude/skills/github-sync/scripts/quick_backup.sh "my backup message"
 ```
 
 ### Clean Old Files
+
 ```bash
 # Dry run first
 bash .claude/skills/github-sync/scripts/cleanup_old.sh --dry-run
@@ -44,17 +49,21 @@ bash .claude/skills/github-sync/scripts/cleanup_old.sh
 ## Files
 
 ### SKILL.md
+
 Main skill documentation with:
+
 - Core workflows (pull, push, commit)
 - Integration protocols (Claude + Antigravity)
 - Multi-PC sync procedures
 - Troubleshooting guide
 
 ### References
+
 - `GIT_COMMANDS.md` - Complete git commands reference
 - `COMMIT_CONVENTIONS.md` - Commit message standards
 
 ### Scripts
+
 - `sync_check.sh` - Status verification
 - `quick_backup.sh` - Emergency backup
 - `cleanup_old.sh` - Clean deleted files
@@ -64,6 +73,7 @@ Main skill documentation with:
 ### Daily Workflow
 
 **Morning (Start Session)**:
+
 ```bash
 # 1. Check sync status
 bash .claude/skills/github-sync/scripts/sync_check.sh
@@ -77,6 +87,7 @@ git pull --rebase origin master
 ```
 
 **Evening (End Session)**:
+
 ```bash
 # 1. Stage and commit
 git add .
@@ -91,11 +102,13 @@ git push origin master
 ```
 
 ### Emergency Backup
+
 ```bash
 bash .claude/skills/github-sync/scripts/quick_backup.sh "before refactoring"
 ```
 
 ### Weekly Maintenance
+
 ```bash
 # 1. Check status
 bash .claude/skills/github-sync/scripts/sync_check.sh
@@ -111,15 +124,19 @@ git push --tags
 ## Integration
 
 ### With Claude Code
+
 Invoke via skill patterns documented in SKILL.md
 
 ### With Antigravity
+
 Same workflows, different agent signature in commits
 
 ### With SESSION_LOG.md
+
 Always update when switching between agents
 
 ### With PC_SYNC_LOG.md
+
 Always update when switching between computers
 
 ## Troubleshooting
@@ -127,6 +144,7 @@ Always update when switching between computers
 See `SKILL.md` for comprehensive troubleshooting guide.
 
 Common issues:
+
 - Push rejected → Pull first
 - Merge conflicts → Manual resolution
 - Detached HEAD → Checkout master
@@ -152,6 +170,7 @@ Common issues:
 ## Support
 
 For issues or questions:
+
 1. Check `SKILL.md` troubleshooting section
 2. Review `GIT_COMMANDS.md` reference
 3. Consult `COMMIT_CONVENTIONS.md` standards

@@ -7,6 +7,7 @@ Valida o trabalho do Gemini, sincroniza estado e atualiza SESSION_LOG.md para co
 ## CONTEXTO
 
 **Você é Sincronizador e Validador de Sessão** - responsável por:
+
 1. **Validar** o que Gemini fez (padrões, localização, MOCs)
 2. **Documentar** o trabalho de Claude Code para Gemini ler
 3. **Garantir** continuidade e qualidade entre agentes
@@ -48,10 +49,12 @@ Quando o usuário executa `/sync` após trabalhar com Claude:
 ### 🔍 ETAPA 1: Identificar Modo de Operação
 
 **Primeiro, determine:**
+
 - Gemini trabalhou recentemente? (verificar SESSION_LOG.md)
 - Claude trabalhou nesta sessão? (verificar contexto atual)
 
 **Decisão:**
+
 - Se Gemini trabalhou → **MODO 1: Validar Gemini primeiro**
 - Se apenas Claude trabalhou → **MODO 2: Documentar Claude**
 - Se ambos trabalharam → **MODO 1 + MODO 2 em sequência**
@@ -75,15 +78,17 @@ Para cada arquivo que Gemini criou, verificar:
 
 ```markdown
 ✅ Nomenclatura Correta:
-- Usa underscore _ (não espaços)
-- Tem prefixo apropriado (MOC_, TEMPLATE_, PLANO_, PROTOCOLO_, SOP_, etc)
+
+- Usa underscore \_ (não espaços)
+- Tem prefixo apropriado (MOC*, TEMPLATE*, PLANO*, PROTOCOLO*, SOP\_, etc)
 - CamelCase após underscore
 - < 60 caracteres
-- Sem caracteres especiais (exceto _ e -)
+- Sem caracteres especiais (exceto \_ e -)
 
 ❌ Erros Comuns:
+
 - Espaços no nome ("My File.md" ❌ → "My_File.md" ✅)
-- Prefixo errado ("INDEX_" ❌ → "MOC_" ✅)
+- Prefixo errado ("INDEX*" ❌ → "MOC*" ✅)
 - Muito longo (> 60 caracteres)
 - Sem prefixo quando necessário
 ```
@@ -93,11 +98,11 @@ Para cada arquivo que Gemini criou, verificar:
 Para cada arquivo, verificar se está no lugar certo:
 
 ```markdown
-Templates → 04_RECURSOS/TEMPLATES/
+Templates → 04*RECURSOS/TEMPLATES/
 Prompts → 04_RECURSOS/PROMPTS/
 Protocolos → 00_SISTEMA/PROTOCOLOS/
 MOCs Sistema → 00_SISTEMA/MOCs/
-MOCs Categoria → Na pasta da categoria (com prefixo _MOC_)
+MOCs Categoria → Na pasta da categoria (com prefixo \_MOC*)
 Agentes → 00_SISTEMA/AGENTES/
 Notas de curso → curso/notas/
 Recursos de curso → curso/recursos/
@@ -107,6 +112,7 @@ Planejamento → 00_SISTEMA/planejamento/ OU projeto/planejamento/
 **ETAPA 1D: Validar MOCs**
 
 Verificar se Gemini atualizou os MOCs relevantes:
+
 - Se criou arquivo em 01_CONHECIMENTO → MOC de conhecimento atualizado?
 - Se criou novo agente → MOC de agentes atualizado?
 - Se criou protocolo → MOC de protocolos atualizado?
@@ -117,16 +123,19 @@ Verificar se Gemini atualizou os MOCs relevantes:
 ## 🔍 VALIDAÇÃO DO TRABALHO DO GEMINI
 
 ### ✅ Arquivos OK (seguem padrões):
+
 - `caminho/arquivo1.md` → Nomenclatura ✅ | Localização ✅ | MOC atualizado ✅
 - `caminho/arquivo2.md` → Nomenclatura ✅ | Localização ✅ | MOC atualizado ✅
 
 ### ⚠️ Arquivos com Problemas:
+
 - `caminho/arquivo3.md`:
   - ❌ Nomenclatura: Tem espaços (deveria ser underscore)
   - ✅ Localização: Correta
   - ❌ MOC: Não atualizado
 
 ### 📋 Ações Recomendadas:
+
 1. Renomear `arquivo 3.md` → `arquivo_3.md`
 2. Atualizar MOC_Conhecimento.md com link para arquivo_3
 3. [Outras correções necessárias]
@@ -135,6 +144,7 @@ Verificar se Gemini atualizou os MOCs relevantes:
 **ETAPA 1F: Oferecer Correções**
 
 Se houver problemas:
+
 1. Mostrar relatório ao usuário
 2. Perguntar: "Deseja que eu corrija automaticamente?"
 3. Se sim:
@@ -150,6 +160,7 @@ Se houver problemas:
 **ETAPA 2A: Análise da Sessão de Claude**
 
 **Perguntas a responder:**
+
 - Quais arquivos foram criados?
 - Quais arquivos foram modificados?
 - Qual foi o trabalho principal realizado?
@@ -157,6 +168,7 @@ Se houver problemas:
 - Gemini precisa fazer algo como continuação?
 
 **Ferramentas:**
+
 ```bash
 # Verificar git status (se disponível)
 git status
@@ -168,26 +180,33 @@ git status
 ### ETAPA 2: Preparar Atualização
 
 **Estrutura obrigatória:**
+
 ```markdown
 ### 🔵 Claude Code - [DATA ATUAL] ([HORA ATUAL])
+
 **Ações realizadas:**
+
 - ✅ [Ação 1 específica]
 - ✅ [Ação 2 específica]
 - ✅ [Ação 3 específica]
 
 **Arquivos modificados:**
+
 - `caminho/arquivo.md` (descrição clara da mudança)
 - `caminho/outro.md` (o que foi feito)
 
 **Próximos passos sugeridos:**
+
 - [ ] [Tarefa pendente 1]
 - [ ] [Tarefa pendente 2]
 
 **Estado do vault:**
+
 - [Informação importante sobre estado atual]
 - [Exemplo: Estatísticas, estrutura, progresso]
 
 **Mensagem para Gemini:**
+
 > [Deixar mensagem APENAS se Gemini precisar fazer algo específico]
 > [Se não houver nada específico, colocar: "Nenhuma ação necessária"]
 ```
@@ -195,6 +214,7 @@ git status
 ### ETAPA 3: Ler SESSION_LOG.md
 
 **Antes de atualizar:**
+
 1. Ler arquivo atual
 2. Verificar seção "ÚLTIMAS MUDANÇAS"
 3. Verificar se há "Mensagem para Claude" não lida
@@ -203,11 +223,13 @@ git status
 ### ETAPA 4: Atualizar Arquivo
 
 **Onde inserir:**
+
 - Na seção "ÚLTIMAS MUDANÇAS"
 - **NO TOPO** (entrada mais recente primeiro)
 - Manter últimas 10 entradas (apagar mais antigas)
 
 **Também atualizar:**
+
 - Seção "ÚLTIMA SESSÃO ATIVA"
 - Seção "CONTEXTO ATUAL DO VAULT" (se mudou significativamente)
 - Seção "CANAL DE COMUNICAÇÃO DIRETA" (se há mensagem para Gemini)
@@ -215,17 +237,21 @@ git status
 ### ETAPA 5: Confirmar com Usuário
 
 **Mostrar resumo:**
+
 ```markdown
 ✅ SESSION_LOG.md atualizado!
 
 📝 Registrado:
+
 - [Resumo das ações]
 - [Arquivos modificados]
 
 💬 Mensagem para Gemini:
+
 - [Mensagem deixada, ou "Nenhuma"]
 
 🔄 Próxima vez que Gemini iniciar:
+
 - Ele verá todo este contexto
 - Poderá continuar trabalho pendente
 ```
@@ -235,6 +261,7 @@ git status
 ## REGRAS IMPORTANTES
 
 ### ✅ SEMPRE:
+
 1. Usar data e hora REAIS do sistema
 2. Ser específico nas descrições
 3. Listar TODOS os arquivos importantes modificados
@@ -242,6 +269,7 @@ git status
 5. Perguntar ao usuário se incerto sobre algo
 
 ### ❌ NUNCA:
+
 1. Inventar informações
 2. Omitir mudanças importantes
 3. Quebrar o formato do template
@@ -253,6 +281,7 @@ git status
 ## EXEMPLOS DE USO
 
 ### Exemplo 1: Sessão de Organização
+
 ```
 Usuário: /sync
 
@@ -270,6 +299,7 @@ Claude: Perfeito! Vou deixar essa mensagem para ele.
 ```
 
 ### Exemplo 2: Processamento de Conteúdo
+
 ```
 Usuário: /sync
 
@@ -282,6 +312,7 @@ Claude: Ok! Não vou atualizar o log então, já que não houve trabalho signifi
 ```
 
 ### Exemplo 3: Trabalho em Andamento
+
 ```
 Usuário: /sync
 
@@ -337,12 +368,14 @@ A: Sim! O /sync é só um facilitador. Você pode editar diretamente se preferir
 ## INTEGRAÇÃO
 
 **Este comando trabalha com:**
+
 - `SESSION_LOG.md` - Arquivo central de comunicação
 - `PROTOCOLO_SINCRONIZACAO_AGENTES.md` - Protocolo completo
 - `GEMINI.md` - Instrui Gemini a ler o log
 - `CLAUDE.md` - Instrui Claude a ler o log
 
 **Comandos relacionados:**
+
 - `/nevoa` - Orquestração geral
 - `/validate` - Validação antes de criar
 - `/marie-kondo` - Organização do vault

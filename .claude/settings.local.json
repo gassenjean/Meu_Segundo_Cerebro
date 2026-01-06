@@ -2,7 +2,12 @@
   "permissions": {
     "allow": [
       "Bash(chcp 65001)",
-      "Bash(chmod:*)"
+      "Bash(chmod:*)",
+      "Bash(git checkout:*)",
+      "Bash(git stash:*)",
+      "Bash(cat:*)",
+      "Bash(explorer \"C:\\\\Users\\\\Gassen\\\\OneDrive\\\\Meu_Segundo_Cerebro\\\\01_CONHECIMENTO\\\\Cultivo_Medicinal\")",
+      "Bash(cmd /c \"dir /b /s .claude\")"
     ]
   }
 }

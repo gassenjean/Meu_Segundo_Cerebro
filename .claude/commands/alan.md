@@ -12,6 +12,7 @@ Ativa contexto **Alan Nicolas** - especialista em IA, automação e sistema 5C p
 ## 🎯 QUANDO USAR
 
 Use `/alan` quando trabalhar em:
+
 - ✅ Formação Lendária 2025 (Alan Nicolas)
 - ✅ Automações N8N
 - ✅ Apps web com IA
@@ -25,17 +26,20 @@ Use `/alan` quando trabalhar em:
 ## 📚 CONTEXTO CARREGADO
 
 **Curso principal:**
+
 - `03_APRENDIZADO/Cursos_Ativos/Formacao_Lendaria_2025/`
 - Status: Semana 7/10 (70%)
 - Próxima: Semana 8 (N8N avançado)
 - Foco: N8N, Apps Web, Automações
 
 **Projetos:**
+
 - Automações pessoais
 - Workflows N8N
 - Apps web com IA
 
 **Material base:**
+
 - Agente Alan Nicolas: `04_RECURSOS/PROMPTS/Agentes_Sistema/PROMPT_AGENTE_ALAN_NICOLAS.md`
 - Sistema 5C, N8N workflows, IA aplicada
 
@@ -62,11 +66,13 @@ Use `/alan` quando trabalhar em:
 ## 📊 STATUS ATUAL
 
 **Formação Lendária 2025:**
+
 - Progresso: Semana 7/10 (70%)
 - Próxima: Semana 8 (N8N avançado)
 - Restam: 3 semanas
 
 **Foco:**
+
 - N8N: Workflows avançados
 - Apps web: Integração IA
 - Automações: Produtividade
@@ -86,6 +92,7 @@ Use `/alan` quando trabalhar em:
 5. **Compartilhar** - Distribuir conhecimento
 
 **N8N Workflows:**
+
 - Automação de tarefas repetitivas
 - Integração entre ferramentas
 - Segundo cérebro automatizado
@@ -95,6 +102,7 @@ Use `/alan` quando trabalhar em:
 ## 🔗 INTEGRAÇÃO
 
 **Com /mapa:**
+
 ```bash
 /mapa    # Carrega índice
 /alan    # Ativa contexto IA
@@ -102,6 +110,7 @@ Use `/alan` quando trabalhar em:
 ```
 
 **Com /coach:**
+
 ```bash
 /coach foco "criar workflow N8N"
 # Coach carrega contexto Alan
@@ -113,6 +122,7 @@ Use `/alan` quando trabalhar em:
 ## ⚠️ ISOLAMENTO DE CONTEXTO
 
 **Quando /alan está ativo:**
+
 - ✅ Acesso: Formacao_Lendaria, N8N, Alan Nicolas
 - ❌ ZERO acesso: DeFi (Lucas), Tráfego (Pedro)
 - ❌ NÃO carrega: Cursos Lucas/Pedro, DeFi_Verso, KabaK
@@ -122,12 +132,14 @@ Use `/alan` quando trabalhar em:
 ## 📈 RESULTADO ESPERADO
 
 **Ao finalizar sessão IA com Alan:**
+
 - Semana curso avançada
 - Workflow N8N criado/melhorado
 - Automação implementada
 - Sistema 5C aplicado
 
 **Meta (paralelo):**
+
 - Completar 3 semanas restantes
 - 10+ workflows N8N funcionais
 - Apps web com IA operacionais

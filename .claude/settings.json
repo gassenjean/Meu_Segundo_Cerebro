@@ -1,0 +1,18 @@
+{
+  "dangerously_skip_permissions": false,
+  "pre_allowed_commands": [
+    "npm install",
+    "npm run build",
+    "npm run test",
+    "git status",
+    "git diff",
+    "git add",
+    "git commit",
+    "git push",
+    "ls",
+    "dir",
+    "cat",
+    "Get-Content",
+    "Get-ChildItem"
+  ]
+}

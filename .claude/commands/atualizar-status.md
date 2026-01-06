@@ -9,6 +9,7 @@ Atualiza o `STATUS_VAULT.md` com o progresso atual.
 ## Quando usar
 
 Após:
+
 - Completar uma fase importante
 - Migração de conteúdo
 - Reorganização significativa
@@ -24,6 +25,7 @@ Após:
 
 ```markdown
 ### DD/MMM/YYYY (HH:MM) - Título da Sessão
+
 - ✅ Item completado 1
 - ✅ Item completado 2
 - 📊 Progresso: X% → Y%

@@ -7,6 +7,7 @@ Ativa skill **github-sync** para gerenciar repositório GitHub do vault.
 ## 🎯 QUANDO USAR
 
 Use `/github-sync` quando precisar:
+
 - ✅ Sincronizar vault com GitHub (push/pull)
 - ✅ Fazer commits organizados
 - ✅ Verificar status do repositório
@@ -19,11 +20,13 @@ Use `/github-sync` quando precisar:
 ## 📚 CONTEXTO CARREGADO
 
 **Material base:**
+
 - Skill completa: `.claude/skills/github-sync/SKILL.md`
 - Referências: Git commands + Commit conventions
 - Scripts: sync_check, quick_backup, cleanup_old
 
 **Repository:**
+
 - URL: https://github.com/gassenjean/Meu_Segundo_Cerebro.git
 - Branch: master
 - Owner: gassenjean
@@ -33,11 +36,13 @@ Use `/github-sync` quando precisar:
 ## 🚀 WORKFLOWS PRINCIPAIS
 
 ### Status Check
+
 ```bash
 bash .claude/skills/github-sync/scripts/sync_check.sh
 ```
 
 ### Full Sync
+
 ```bash
 # Pull → Commit → Push
 git pull --rebase origin master
@@ -47,11 +52,13 @@ git push origin master
 ```
 
 ### Quick Backup
+
 ```bash
 bash .claude/skills/github-sync/scripts/quick_backup.sh "mensagem"
 ```
 
 ### Clean Old Files
+
 ```bash
 bash .claude/skills/github-sync/scripts/cleanup_old.sh
 ```
@@ -60,18 +67,19 @@ bash .claude/skills/github-sync/scripts/cleanup_old.sh
 
 ## 📋 COMMIT TYPES
 
-| Type | Use |
-|------|-----|
-| `feat` | Nova funcionalidade |
-| `fix` | Correção de bug |
-| `docs` | Documentação |
-| `refactor` | Refatoração |
-| `chore` | Manutenção |
-| `sync` | Sincronização |
-| `checkpoint` | Snapshot/Backup |
-| `backup` | Emergency backup |
+| Type         | Use                 |
+| ------------ | ------------------- |
+| `feat`       | Nova funcionalidade |
+| `fix`        | Correção de bug     |
+| `docs`       | Documentação        |
+| `refactor`   | Refatoração         |
+| `chore`      | Manutenção          |
+| `sync`       | Sincronização       |
+| `checkpoint` | Snapshot/Backup     |
+| `backup`     | Emergency backup    |
 
 **Template**:
+
 ```
 type: description
 
@@ -86,12 +94,14 @@ Co-Authored-By: Claude Sonnet 4.5 <noreply@anthropic.com>
 ## 🔄 INTEGRATION BI-AI
 
 ### Claude Code
+
 - Pull antes de começar
 - Commit + push ao terminar
 - Atualizar SESSION_LOG.md
 - Assinatura: "🤖 Generated with Claude Code"
 
 ### Antigravity
+
 - Pull antes de começar
 - Commit + push ao terminar
 - Atualizar SESSION_LOG.md
@@ -114,6 +124,7 @@ Co-Authored-By: Claude Sonnet 4.5 <noreply@anthropic.com>
 ## ⚠️ SAFETY CHECKLIST
 
 Antes de push:
+
 - [ ] `git status` executado
 - [ ] Nenhum arquivo sensível
 - [ ] Commit message claro
@@ -126,12 +137,14 @@ Antes de push:
 ## 🛠️ TROUBLESHOOTING
 
 ### Push Rejected
+
 ```bash
 git pull --rebase origin master
 git push origin master
 ```
 
 ### Merge Conflicts
+
 ```bash
 # 1. Resolver manualmente
 # 2. git add [arquivos]
@@ -139,6 +152,7 @@ git push origin master
 ```
 
 ### Detached HEAD
+
 ```bash
 git checkout master
 git pull --rebase origin master
@@ -149,6 +163,7 @@ git pull --rebase origin master
 ## 📊 DAILY ROUTINE
 
 **Morning**:
+
 ```bash
 # 1. Check sync
 bash .claude/skills/github-sync/scripts/sync_check.sh
@@ -162,6 +177,7 @@ git pull --rebase origin master
 ```
 
 **Evening**:
+
 ```bash
 # 1. Commit changes
 git add .
@@ -180,6 +196,7 @@ git push origin master
 ## 💡 EXAMPLES
 
 ### Daily Sync
+
 ```bash
 git add .
 git commit -m "chore: daily vault sync - 31DEC2025
@@ -191,6 +208,7 @@ git push origin master
 ```
 
 ### Feature Work
+
 ```bash
 git add .
 git commit -m "feat: add DeFi tracking module
@@ -206,11 +224,13 @@ git push origin master
 ```
 
 ### Emergency Backup
+
 ```bash
 bash .claude/skills/github-sync/scripts/quick_backup.sh "before refactoring"
 ```
 
 ### Weekly Checkpoint
+
 ```bash
 git add .
 git commit -m "checkpoint: weekly backup 31DEC2025"
@@ -223,12 +243,14 @@ git push --tags
 ## 🔗 INTEGRATION
 
 **Com outras skills:**
+
 - `/nevoa` - Orquestração
 - `/claude-architect` - Padrões
 - `/sync` - SESSION_LOG.md
 - `/atualizar-status` - STATUS_VAULT.md
 
 **Com arquivos de sync:**
+
 - `SESSION_LOG.md` - Claude ↔️ Antigravity
 - `PC_SYNC_LOG.md` - Alienware ↔️ Desktop
 - `.gitignore` - Arquivos ignorados
