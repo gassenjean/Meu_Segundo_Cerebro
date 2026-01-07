@@ -1,0 +1,86 @@
+name: Enviar Devocional por E-mail
+
+on:
+  push:
+    branches:
+      - '**'
+    paths:
+      - '02_PROJETOS/Devocionais_RPSP/devocionais/**/*.md'
+
+jobs:
+  enviar-email:
+    runs-on: ubuntu-latest
+
+    steps:
+      - name: Checkout código
+        uses: actions/checkout@v4
+        with:
+          fetch-depth: 2  # Precisa de 2 commits para comparar
+
+      - name: Detectar novos devocionais
+        id: detectar
+        run: |
+          # Pega arquivos adicionados no último commit
+          NOVOS_ARQUIVOS=$(git diff --name-only --diff-filter=A HEAD~1 HEAD | grep "02_PROJETOS/Devocionais_RPSP/devocionais/.*\.md$" || true)
+
+          if [ -z "$NOVOS_ARQUIVOS" ]; then
+            echo "Nenhum devocional novo detectado"
+            echo "has_new=false" >> $GITHUB_OUTPUT
+          else
+            echo "Devocional novo detectado: $NOVOS_ARQUIVOS"
+            echo "has_new=true" >> $GITHUB_OUTPUT
+            echo "file_path=$NOVOS_ARQUIVOS" >> $GITHUB_OUTPUT
+          fi
+
+      - name: Configurar Python
+        if: steps.detectar.outputs.has_new == 'true'
+        uses: actions/setup-python@v5
+        with:
+          python-version: '3.11'
+
+      - name: Formatar devocional
+        if: steps.detectar.outputs.has_new == 'true'
+        id: formatar
+        run: |
+          chmod +x .github/scripts/formatar_devocional.py
+
+          ARQUIVO="${{ steps.detectar.outputs.file_path }}"
+          echo "Formatando arquivo: $ARQUIVO"
+
+          # Extrai data do nome do arquivo (formato: Devocional_03JAN2026_*.md)
+          NOME_ARQUIVO=$(basename "$ARQUIVO")
+          DATA_FORMATADA=$(echo "$NOME_ARQUIVO" | grep -oP 'Devocional_\K\d{2}[A-Z]{3}\d{4}' | sed 's/JAN/Janeiro/;s/FEB/Fevereiro/;s/MAR/Março/;s/APR/Abril/;s/MAY/Maio/;s/JUN/Junho/;s/JUL/Julho/;s/AUG/Agosto/;s/SEP/Setembro/;s/OCT/Outubro/;s/NOV/Novembro/;s/DEC/Dezembro/')
+
+          # Formata o devocional
+          CORPO_EMAIL=$(python3 .github/scripts/formatar_devocional.py "$ARQUIVO")
+
+          # Salva em arquivo temporário (GitHub Actions tem limite de tamanho para outputs)
+          echo "$CORPO_EMAIL" > /tmp/devocional_formatado.txt
+
+          # Extrai tema do arquivo para o assunto
+          TEMA=$(head -20 "$ARQUIVO" | grep "^tema:" | cut -d':' -f2- | xargs)
+          if [ -z "$TEMA" ]; then
+            TEMA="Devocional Diário"
+          fi
+
+          echo "subject=📖 Devocional RPSP - $DATA_FORMATADA - $TEMA" >> $GITHUB_OUTPUT
+
+      - name: Enviar e-mail
+        if: steps.detectar.outputs.has_new == 'true'
+        uses: dawidd6/action-send-mail@v3
+        with:
+          server_address: ${{ secrets.MAIL_SERVER }}
+          server_port: ${{ secrets.MAIL_PORT }}
+          username: ${{ secrets.MAIL_USERNAME }}
+          password: ${{ secrets.MAIL_PASSWORD }}
+          subject: ${{ steps.formatar.outputs.subject }}
+          to: ${{ secrets.MAIL_TO }}
+          from: Névoa - Devocionais RPSP <${{ secrets.MAIL_USERNAME }}>
+          body: file:///tmp/devocional_formatado.txt
+          content_type: text/plain
+          convert_markdown: false
+
+      - name: Confirmação
+        if: steps.detectar.outputs.has_new == 'true'
+        run: |
+          echo "✅ Devocional enviado com sucesso para ${{ secrets.MAIL_TO }}"
