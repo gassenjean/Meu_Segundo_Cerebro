@@ -168,11 +168,25 @@ Gabriele_Confeccoes_Juridico_2026/
 
 ---
 
+## 👥 REUNIÃO INICIAL (13/Jan/2026)
+
+**Participantes:**
+- **Gassen Jean** (filho, gestor operacional)
+- **Gabriele Jean** (filha, estilista, titular empresa)
+- **Kris** (esposa Gassen)
+- **Dr. Alexandre** (advogado - 20 anos experiência)
+
+**Local:** Escritório Dr. Alexandre - São Paulo
+**Duração:** ~3 horas
+**Objetivo:** Entender caso jurídico + planejar reestruturação empresarial
+
+---
+
 ## 📅 CRONOGRAMA CRÍTICO
 
 | Data | Evento | Responsável | Status |
 |------|--------|-------------|--------|
-| **13/Jan/2026** | Reunião Dr. Alexandre - Transcrição | Gassi | ✅ Feito |
+| **13/Jan/2026** | Reunião Dr. Alexandre - Transcrição | Gassen, Gabriele, Kris | ✅ Feito |
 | **A definir** | Depoimento Gabriele (delegado Varginha) | Gabriele + Dr. Alexandre | 🔄 Pendente |
 | **A definir** | Reunião Sansom (parceria) | Gassi + Gabriele + Sansom | 🔄 Pendente |
 | **Urgente** | Contratar novo contador | Jean/Gassi | 🔄 Pendente |
