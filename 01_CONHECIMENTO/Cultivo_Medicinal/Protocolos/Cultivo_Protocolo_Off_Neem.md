@@ -1,3 +1,7 @@
+---
+criado: 2026-01-14T12:42:11-03:00
+atualizado: 2026-01-14T12:42:11-03:00
+---
 # 🔬 PROTOCOLO: OFF NEEM
 
 **Produto:** Óleo de Neem (Azadiractina)
