@@ -1,6 +1,10 @@
+---
+criado: 2026-01-14T18:49:04-03:00
+atualizado: 2026-01-14T18:49:04-03:00
+---
 # PLANILHA FINANCEIRA - Sociedade KabaK
 
-**Para:** Sansom (51%) + Gassen+Kris (49%)
+**Para:** Sansom (51%) + Jean/Família (49% = Jean + Jean (Família))
 **Período:** 12 meses (Mai/2026 a Abr/2027)
 **Produto:** Kit Fitness Feminino (3 peças) - R$ 129
 **Criado:** 14/Jan/2026
@@ -20,7 +24,8 @@
 
 **Divisão Lucro:**
 - Sansom (51%): R$ 3.827.000
-- Gassen+Kris (49%): R$ 3.676.900
+- Jean (Família - 49%): R$ 3.676.900
+  - Divisão interna (Jean + Gassen + Kris): A definir com Dr. Alexandre
 
 ---
 
@@ -254,11 +259,16 @@
 | SÓCIO | % | LUCRO |
 |:------|--:|------:|
 | Sansom | 51% | R$ 3.827.000 |
-| Gassen + Kris | 49% | R$ 3.676.900 |
+| Jean (Família) | 49% | R$ 3.676.900 |
 | **TOTAL** | **100%** | **R$ 7.503.875** |
 
-**ROI Sansom:** 3.827k / 64,4k investido = **5.940%**
-**ROI Gassen+Kris:** 3.677k / 61,9k investido = **5.940%**
+**Composição Família (49%):**
+- Jean (pai, dono/CEO KabaK): % a definir
+- Gassen (filho, gestor/marca): % a definir
+- Kris (esposa Gassen, produção): % a definir
+
+**ROI Sansom:** R$ 3.827k / R$ 1.326k investido = **288%**
+**ROI Jean (Família):** R$ 3.677k / R$ 1.274k investido = **288%**
 
 ---
 
@@ -351,7 +361,11 @@
 
 **Divisão:**
 - Sansom (51%): R$ 1.326.000
-- Gassen+Kris (49%): R$ 1.274.000
+- Jean (Família - 49%): R$ 1.274.000
+  - Jean (pai, dono/CEO): Investidor principal
+  - Gassen (filho): Gestor/marca
+  - Kris (esposa Gassen): Produção
+  - Divisão interna: A definir com Dr. Alexandre
 
 ---
 
