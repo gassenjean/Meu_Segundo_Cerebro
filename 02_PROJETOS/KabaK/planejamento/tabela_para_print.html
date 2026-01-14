@@ -1,0 +1,210 @@
+
+    <html>
+    <head>
+        <style>
+            body { font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif; background-color: #ffffff; padding: 20px; }
+            table { border-collapse: collapse; width: 100%; box-shadow: 0 0 20px rgba(0,0,0,0.1); }
+            th, td { border: 1px solid #d0d7de; padding: 12px 8px; text-align: right; white-space: nowrap; font-size: 14px; color: #333; }
+            th { background-color: #f6f8fa; font-weight: 600; text-align: center; color: #24292f; }
+            tr:nth-child(even) { background-color: #fcfcfc; }
+            tr:hover { background-color: #f0f0f0; }
+            
+            /* Destaque para headers de linha */
+            tbody th { text-align: left; background-color: #fafbfc; min-width: 150px; font-weight: 500; }
+            
+            /* Cores especiais para certas linhas se possivel (Lucro/Caixa) */
+            tr:last-child td { font-weight: bold; background-color: #e6ffec; color: #1a7f37; } /* Caixa */
+            tr:nth-last-child(2) td { font-weight: bold; } /* Lucro */
+            
+        </style>
+    </head>
+    <body>
+        <table class="dataframe">
+  <thead>
+    <tr style="text-align: right;">
+      <th></th>
+      <th>Abr/26</th>
+      <th>Mai/26</th>
+      <th>Jun/26</th>
+      <th>Jul/26</th>
+      <th>Ago/26</th>
+      <th>Set/26</th>
+      <th>Out/26</th>
+      <th>Nov/26</th>
+      <th>Dez/26</th>
+      <th>Jan/27</th>
+      <th>Fev/27</th>
+      <th>Mar/27</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <th>Investimento</th>
+      <td>R$ 580.000,00</td>
+      <td>R$ 546.800,00</td>
+      <td>R$ 500.000,00</td>
+      <td>R$ 500.000,00</td>
+      <td>R$ 500.000,00</td>
+      <td>R$ 500.000,00</td>
+      <td>R$ 0,00</td>
+      <td>R$ 0,00</td>
+      <td>R$ 0,00</td>
+      <td>R$ 0,00</td>
+      <td>R$ 0,00</td>
+      <td>R$ 0,00</td>
+    </tr>
+    <tr>
+      <th>Receita</th>
+      <td>R$ 0,00</td>
+      <td>R$ 129.000,00</td>
+      <td>R$ 387.000,00</td>
+      <td>R$ 1.032.000,00</td>
+      <td>R$ 1.548.000,00</td>
+      <td>R$ 1.935.000,00</td>
+      <td>R$ 2.322.000,00</td>
+      <td>R$ 2.322.000,00</td>
+      <td>R$ 2.322.000,00</td>
+      <td>R$ 2.322.000,00</td>
+      <td>R$ 2.322.000,00</td>
+      <td>R$ 2.322.000,00</td>
+    </tr>
+    <tr>
+      <th>Custo Estabilidade</th>
+      <td>R$ 500.000,00</td>
+      <td>R$ 500.000,00</td>
+      <td>R$ 500.000,00</td>
+      <td>R$ 500.000,00</td>
+      <td>R$ 500.000,00</td>
+      <td>R$ 500.000,00</td>
+      <td>R$ 0,00</td>
+      <td>R$ 0,00</td>
+      <td>R$ 0,00</td>
+      <td>R$ 0,00</td>
+      <td>R$ 0,00</td>
+      <td>R$ 0,00</td>
+    </tr>
+    <tr>
+      <th>Custos Var. Venda</th>
+      <td>R$ 0,00</td>
+      <td>R$ 22.575,00</td>
+      <td>R$ 67.725,00</td>
+      <td>R$ 180.600,00</td>
+      <td>R$ 270.900,00</td>
+      <td>R$ 338.625,00</td>
+      <td>R$ 1.270.350,00</td>
+      <td>R$ 1.270.350,00</td>
+      <td>R$ 1.270.350,00</td>
+      <td>R$ 1.270.350,00</td>
+      <td>R$ 1.270.350,00</td>
+      <td>R$ 1.270.350,00</td>
+    </tr>
+    <tr>
+      <th>Mkt Trfego</th>
+      <td>R$ 0,00</td>
+      <td>R$ 40.000,00</td>
+      <td>R$ 40.000,00</td>
+      <td>R$ 50.000,00</td>
+      <td>R$ 70.000,00</td>
+      <td>R$ 90.000,00</td>
+      <td>R$ 100.000,00</td>
+      <td>R$ 100.000,00</td>
+      <td>R$ 100.000,00</td>
+      <td>R$ 100.000,00</td>
+      <td>R$ 100.000,00</td>
+      <td>R$ 100.000,00</td>
+    </tr>
+    <tr>
+      <th>Mkt Titanium</th>
+      <td>R$ 60.000,00</td>
+      <td>R$ 60.000,00</td>
+      <td>R$ 60.000,00</td>
+      <td>R$ 60.000,00</td>
+      <td>R$ 60.000,00</td>
+      <td>R$ 60.000,00</td>
+      <td>R$ 60.000,00</td>
+      <td>R$ 60.000,00</td>
+      <td>R$ 60.000,00</td>
+      <td>R$ 60.000,00</td>
+      <td>R$ 60.000,00</td>
+      <td>R$ 60.000,00</td>
+    </tr>
+    <tr>
+      <th>Logstica</th>
+      <td>R$ 0,00</td>
+      <td>R$ 10.000,00</td>
+      <td>R$ 12.000,00</td>
+      <td>R$ 14.000,00</td>
+      <td>R$ 16.000,00</td>
+      <td>R$ 18.000,00</td>
+      <td>R$ 30.000,00</td>
+      <td>R$ 30.000,00</td>
+      <td>R$ 30.000,00</td>
+      <td>R$ 30.000,00</td>
+      <td>R$ 30.000,00</td>
+      <td>R$ 30.000,00</td>
+    </tr>
+    <tr>
+      <th>Operao Fixo</th>
+      <td>R$ 20.000,00</td>
+      <td>R$ 40.000,00</td>
+      <td>R$ 42.000,00</td>
+      <td>R$ 44.000,00</td>
+      <td>R$ 46.000,00</td>
+      <td>R$ 48.000,00</td>
+      <td>R$ 60.000,00</td>
+      <td>R$ 60.000,00</td>
+      <td>R$ 60.000,00</td>
+      <td>R$ 60.000,00</td>
+      <td>R$ 60.000,00</td>
+      <td>R$ 60.000,00</td>
+    </tr>
+    <tr>
+      <th>Impostos</th>
+      <td>R$ 0,00</td>
+      <td>R$ 3.225,00</td>
+      <td>R$ 9.675,00</td>
+      <td>R$ 25.800,00</td>
+      <td>R$ 38.700,00</td>
+      <td>R$ 48.375,00</td>
+      <td>R$ 58.050,00</td>
+      <td>R$ 58.050,00</td>
+      <td>R$ 58.050,00</td>
+      <td>R$ 58.050,00</td>
+      <td>R$ 58.050,00</td>
+      <td>R$ 58.050,00</td>
+    </tr>
+    <tr>
+      <th>Lucro Mensal</th>
+      <td>R$ -580.000,00</td>
+      <td>R$ -546.800,00</td>
+      <td>R$ -344.400,00</td>
+      <td>R$ 157.600,00</td>
+      <td>R$ 546.400,00</td>
+      <td>R$ 832.000,00</td>
+      <td>R$ 743.600,00</td>
+      <td>R$ 743.600,00</td>
+      <td>R$ 743.600,00</td>
+      <td>R$ 743.600,00</td>
+      <td>R$ 743.600,00</td>
+      <td>R$ 743.600,00</td>
+    </tr>
+    <tr>
+      <th>Caixa Acum.</th>
+      <td>R$ 0,00</td>
+      <td>R$ 0,00</td>
+      <td>R$ 155.600,00</td>
+      <td>R$ 813.200,00</td>
+      <td>R$ 1.859.600,00</td>
+      <td>R$ 3.191.600,00</td>
+      <td>R$ 3.935.200,00</td>
+      <td>R$ 4.678.800,00</td>
+      <td>R$ 5.422.400,00</td>
+      <td>R$ 6.166.000,00</td>
+      <td>R$ 6.909.600,00</td>
+      <td>R$ 7.653.200,00</td>
+    </tr>
+  </tbody>
+</table>
+    </body>
+    </html>
+    

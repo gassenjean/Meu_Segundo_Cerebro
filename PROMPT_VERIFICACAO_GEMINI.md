@@ -1,6 +1,6 @@
 ---
 criado: 2026-01-14T12:22:26-03:00
-atualizado: 2026-01-14T12:22:26-03:00
+atualizado: 2026-01-14T17:02:53-03:00
 ---
 # 🔍 PROMPT DE VERIFICAÇÃO - Colar no Gemini/Antigravity
 

@@ -1,6 +1,6 @@
 ---
 criado: 2026-01-14T14:15:00-03:00
-atualizado: 2026-01-14T14:15:00-03:00
+atualizado: 2026-01-14T15:12:32-03:00
 tipo: plano_acao
 prioridade: critica
 status: ativo

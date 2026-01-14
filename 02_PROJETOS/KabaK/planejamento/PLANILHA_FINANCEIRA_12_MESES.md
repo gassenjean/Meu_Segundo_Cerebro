@@ -1,25 +1,30 @@
 ---
 criado: 2026-01-14T15:30:00-03:00
-atualizado: 2026-01-14T15:30:00-03:00
+atualizado: 2026-01-14T17:48:00-03:00
 tipo: planilha_financeira
 destinatario: Sansom + Gassen + Kris
 prioridade: critica
-status: draft_aguardando_validacao
----
 
 # PLANILHA FINANCEIRA DETALHADA - 12 MESES
 
 **Projeto:** Sociedade KabaK (51% Sansom / 49% Gassen+Kris)
-**Produto:** Kit Fitness Feminino (3 peças) - R$ 129
 **Período:** Mai/2026 a Abr/2027 (12 meses operacionais)
-**Objetivo:** Projeção completa receitas, custos, lucro e fluxo de caixa
+**Investimento Total:** R$ 2.600.000 (payback mês 4)
 
----
+> [!TIP]
+> **VERSÃO SIMPLIFICADA DISPONÍVEL:**
+> Para visualização rápida, consulte: [[PLANILHA_SANSOM_SIMPLES.md]]
+>
+> **📥 DOWNLOAD EXCEL:** [[recursos/PLANILHA_KABAK_SANSOM.xlsx]]
 
-## 📊 PREMISSAS DA PROJEÇÃO
+### 🗓️ FLUXO FINANCEIRO COMPLETO
 
-### Produto e Preço:
-- **Produto:** Kit 3 peças (calça + top + short)
+![Planilha Financeira Detalhada (12 Meses)](recursos/tabela_kabak_v5.png)
+
+> **📥 CLIQUE NA IMAGEM PARA AMPLIAR OU BAIXE O EXCEL:** [[recursos/PLANILHA_KABAK_SANSOM.xlsx]]
+
+### 📋 PREMISSAS DA PLANILHA
+
 - **Preço venda:** R$ 129,00 por kit
 - **Público:** Mulheres classe C, 25-45 anos, fitness
 

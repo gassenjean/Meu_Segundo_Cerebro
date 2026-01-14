@@ -3,6 +3,7 @@ criado: 2026-01-14T16:30:00-03:00
 tipo: correcoes
 prioridade: critica
 status: referencia
+atualizado: 2026-01-14T15:16:00-03:00
 ---
 
 # CORREÇÕES - Estrutura Societária Correta
