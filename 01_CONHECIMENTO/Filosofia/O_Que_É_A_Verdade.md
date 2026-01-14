@@ -2,6 +2,8 @@
 title: O que é a Verdade - Mente Lendár[IA] | Alan Nicolas
 url: https://mentelendaria.com/Conhecimento/Filosofia/O+que+%C3%A9+a+Verdade
 downloaded: 2025-11-11T13:03:33.411Z
+criado: 2026-01-14T12:22:26-03:00
+atualizado: 2026-01-14T12:22:26-03:00
 ---
 
 O que é a Verdade 

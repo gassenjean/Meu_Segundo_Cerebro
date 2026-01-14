@@ -1,6 +1,6 @@
 ---
 criado: 2025-11-18T10:48:55-03:00
-atualizado: 2025-11-20T08:49:20-03:00
+atualizado: 2026-01-14T12:22:26-03:00
 ---
 # 🧠 MEU SEGUNDO CÉREBRO
 

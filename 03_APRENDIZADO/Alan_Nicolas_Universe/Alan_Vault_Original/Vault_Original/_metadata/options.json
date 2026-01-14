@@ -1,0 +1,26 @@
+{
+  "siteName": "Mente Lendár[IA] | Alan Nicolas",
+  "showBacklinks": true,
+  "showOutline": true,
+  "showSearch": true,
+  "defaultTheme": "dark",
+  "showThemeToggle": true,
+  "showHoverPreview": true,
+  "slidingWindowMode": true,
+  "indexFile": "bem-vindo(a)",
+  "hideTitle": true,
+  "navigationOrdering": [
+    "Anotações",
+    "bem-vindo(a).md",
+    "Sobre Mim",
+    "IA",
+    "MOCs",
+    "Cursos",
+    "Vida Lendária",
+    "Recursos",
+    "Conhecimento"
+  ],
+  "showNavigation": true,
+  "strictLineBreaks": true,
+  "noindex": true
+}

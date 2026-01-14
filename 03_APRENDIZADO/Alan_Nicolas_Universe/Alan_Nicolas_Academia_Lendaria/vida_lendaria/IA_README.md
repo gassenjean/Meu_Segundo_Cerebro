@@ -1,0 +1,207 @@
+---
+title: README - Mente Lendár[IA] | Alan Nicolas
+url: https://mentelendaria.com/IA/README
+downloaded: 2025-11-11T12:49:21.292Z
+criado: 2025-11-19T19:06:53-03:00
+atualizado: 2025-11-19T19:07:07-03:00
+---
+
+🚀 Central de IA - Alan Nicolas
+
+Meu arsenal completo de inteligência artificial. 36+ prompts testados, 31 agents documentados, 17 commands com resultados comprovados.
+
+📊 Números Atuais
+36 prompts especializados e validados
+31 agents do Claude Code documentados
+17 commands com prompts da comunidade (170k+ stars)
+45% taxa de resposta em cold emails
+340k em vendas nos últimos 6 meses usando esses recursos
+🗂️ Estrutura Completa
+IA/
+├── Claude Code/ → Centro de desenvolvimento com IA
+│ ├── agents/ → 31 agents especializados
+│ │ ├── README.md → Documentação completa
+│ │ ├── Exemplos Práticos.md
+│ │ ├── Iniciantes/ → Guias para começar
+│ │ └── [categorias]/ → architecture, backend, frontend, etc
+│ ├── commands/ → 17 commands com prompts reais
+│ │ ├── README.md → Prompts da comunidade
+│ │ ├── RESULTADOS REAIS.md → Meus testes e números
+│ │ ├── marketing/ → advertiser, social-media, aida-copy
+│ │ ├── content/ → linkedin-post, influencer
+│ │ ├── sales/ → cold-email, salesperson
+│ │ └── [dev tools]/ → git, testing, deployment, etc
+│ └── README.md → Visão geral do Claude Code
+│
+├── Prompts/ → 36+ prompts especializados
+│ ├── Prompt Clone.md → Framework base para todos os clones
+│ ├── Prompts Alan IA.md → Minha voz e estilo
+│ ├── Prompt Aurora.md → Agente versátil principal
+│ ├── Prompt_Atena - SDR Lendária v2.md → SDR que converte
+│ ├── VENDEDOR 5.0.md → Vendedor de nova geração
+│ └── [32 outros prompts]/ → Educação, conteúdo, análise, etc
+│
+├── ia/ → Repositório git (novo)
+│ └── README.md → Para versionamento e CI/CD
+│
+└── 📇 Index.md → Arquivo original (agora este README)
+
+⭐ Destaques - O Que Realmente Funciona
+Commands Mais Impactantes (Testados por Mim)
+/cold-email - 47% taxa de resposta (média do mercado: 8%)
+/advertiser - Campanha completa em 15 min (antes: 2 dias)
+/aida-copy - Conversão de 2.3% → 7.8% na minha landing
+/linkedin-post - Post com 127k views e 89 DMs de CEOs
+/social-media - De 500 para 2.100 interações por post
+Agents Que Mais Uso
+backend-architect - Projeta sistemas completos
+python-pro - Python profissional com best practices
+frontend-developer - React moderno e componentização
+security-auditor - Encontra vulnerabilidades antes do deploy
+deployment-engineer - CI/CD e deploy automatizado
+Prompts Que Geram Resultado
+Prompt Clone - Base para criar qualquer clone de IA
+Prompts Alan IA - Captura minha voz e estilo único
+Prompt Aurora - Meu agente principal versátil
+VENDEDOR 5.0 - Taxa de fechamento subiu 38%
+Prompt_Atena SDR - Qualifica e converte leads no automático
+🎯 Como Usar Cada Recurso
+Para Empresários
+
+# Marketing e Vendas
+
+/advertiser produto novo
+/cold-email CEO startup proposta
+/aida-copy página de vendas
+
+# Conteúdo
+
+/linkedin-post liderança
+/social-media calendário mensal
+/influencer estratégia instagram
+
+Para Desenvolvedores
+
+# Arquitetura
+
+Task: backend-architect "design sistema de pagamentos"
+Task: security-auditor "verificar API"
+
+# Produtividade
+
+/commit
+/test
+/deploy production
+
+Para Criadores de Conteúdo
+Use: Prompts Alan IA → Capturar meu estilo
+Use: Prompt Script → Roteiros de vídeo
+Use: YouTube Hashtag → Otimização SEO
+Use: Prompt Resumo de Podcast → Síntese de episódios
+
+📚 Documentação Detalhada
+Claude Code
+Claude Code/README - Visão geral
+Claude Code/agents/README - 31 agents documentados
+Claude Code/commands/README - Commands com prompts reais
+Claude Code/commands/RESULTADOS REAIS - Meus testes pessoais
+Prompts Originais
+Prompts/📇 Index - Prompts - Todos 36 prompts organizados
+Prompts/Prompt Clone - Framework base
+Prompts/Prompts Alan IA - Minha voz
+Aprendizado
+../Cursos/meu-clone-ia/README - Curso completo
+../Anotações/MOC - IA & Ferramentas Digitais - Conceitos
+Claude Code/agents/Iniciantes - Para quem está começando
+🌟 Diferenciais
+Por Que Estes Recursos?
+Prompts REAIS - Não inventados, mas da comunidade
+Testados - Usei todos pessoalmente
+Documentados - Com resultados e números
+Open Source - 170k+ stars não mentem
+Atualizados - Novembro 2024
+Origem Verificada
+f/awesome-chatgpt-prompts - 170k+ stars
+vizra-ai/claude-code-agents - 59 agents
+langgptai/awesome-claude-prompts - Otimizados para Claude
+Reddit r/ClaudeAI - Feedback real da comunidade
+📥 Download Direto - Para Visitantes do mentelendaria.com
+
+Se você está acessando este conteúdo pelo site e quer baixar os materiais:
+
+🔗 Links Diretos no GitHub
+
+Baixar TUDO de uma vez:
+
+git clone https://github.com/oalanicolas/mentelendaria.com.git
+
+Os recursos de IA estão em: mentelendaria.com/IA/
+
+Downloads Específicos:
+📦 Commands Testados (Marketing/Vendas)
+Download: Cold Email (45% resposta)
+Download: Advertiser (Campanhas)
+Download: AIDA Copy (Conversão 3x)
+Download: LinkedIn Post (Viral)
+Download: Social Media Manager
+🤖 Agents do Claude Code
+Ver todos 31 agents
+Download: Documentação Completa
+💡 Prompts Especializados
+Ver todos 36 prompts
+Download: Prompt Clone (Base)
+Download: Prompts Alan IA
+📊 Resultados e Casos
+RESULTADOS REAIS - Meus Testes
+Como Baixar Individual:
+Clique no link do arquivo que quer
+Clique no botão "Raw" no GitHub
+Salve com Ctrl+S (ou Cmd+S no Mac)
+Coloque em .claude/commands/ no seu PC
+Estrutura para Download:
+📥 Baixar pasta completa IA/
+├── 📥 Claude Code/ (agents + commands)
+├── 📥 Prompts/ (36 prompts)
+└── 📥 Este README com todos links
+
+Dica: Star ⭐ o repositório para acompanhar atualizações!
+
+🔗 Conexões
+No Vault
+../Cursos/meu-clone-ia - Implementação prática
+../Vida Lendária - Filosofia que embasa os prompts
+../Anotações - Conceitos e aprendizados
+No GitHub
+github.com/oalanicolas/ia - Repositório
+Fontes Externas
+f/awesome-chatgpt-prompts
+vizra-ai/claude-code-agents
+Claude Code Docs
+📊 Estatísticas Totais
+Conteúdo
+84 recursos de IA total (prompts + agents + commands)
+4 clones especializados (SDR, Aurora, Atendimento, Vendedor)
+6 frameworks de análise (DISC, Business Model, etc)
+10+ categorias cobertas
+Impacto
+1000+ horas de desenvolvimento
+R$340k+ gerados com estes recursos
+45% taxa de conversão média
+4x aumento de produtividade
+🎯 Próximas Atualizações
+Migrar prompts validados para repositório git
+Adicionar CI/CD para validação automática
+Criar marketplace interno de prompts
+Documentar casos de sucesso de clientes
+Versionar e tagear releases
+💡 Minha Promessa
+
+Não guardo segredos. Tudo que funciona está aqui documentado.
+
+Use, teste, adapte. Se funcionar (vai funcionar), me marca no LinkedIn.
+
+Quanto mais gente usar ferramentas melhores, mais o mercado evolui.
+
+Alan Nicolas Novembro 2024 "Testei tudo para você não perder tempo"
+
+⭐ Home → Dashboard principal

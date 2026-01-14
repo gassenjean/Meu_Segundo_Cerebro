@@ -1,0 +1,110 @@
+
+--- EXCEL EXTRACTION: c:\Users\gasse\OneDrive\Meu_Segundo_Cerebro\02_PROJETOS\KabaK\Outlet_Expansion\recursos\Analise de negócio Jean x Samson.xlsx ---
+Sheets found: ['Sheet1']
+First 10 rows of data:
+   Unnamed: 0          ANÁLISE DE NEGÓCIO - 2026 Unnamed: 2 Unnamed: 3 Unnamed: 4 Unnamed: 5 Unnamed: 6 Unnamed: 7 Unnamed: 8 Unnamed: 9 Unnamed: 10 Unnamed: 11 Unnamed: 12 Unnamed: 13 Unnamed: 14
+0         NaN                                NaN        NaN        NaN        NaN        NaN        NaN        NaN        NaN        NaN         NaN         NaN         NaN         NaN         NaN
+1         NaN                                NaN        Jan        Fev        Mar        Abr        Mai        Jun        Jul        Ago         Set         Out         Nov         Dez       Total
+2         NaN  Quantidade de Carros Blindados 3A      50000      50000      50000      50000      50000      50000      50000      50000       50000       50000       50000       50000      600000
+3         NaN                Valor unitário (R$)         45         45         45         45         45         45         45         45          45          45          45          45         NaN
+4         NaN                                NaN        NaN        NaN        NaN        NaN        NaN        NaN        NaN        NaN         NaN         NaN         NaN         NaN         NaN
+5         NaN                            Receita    2250000    2250000    2250000    2250000    2250000    2250000    2250000    2250000     2250000     2250000     2250000     2250000    27000000
+6         NaN                                NaN        NaN        NaN        NaN        NaN        NaN        NaN        NaN        NaN         NaN         NaN         NaN         NaN         NaN
+7         NaN            Despesas e custos fixos        NaN        NaN        NaN        NaN        NaN        NaN        NaN        NaN         NaN         NaN         NaN         NaN         NaN
+8         NaN                             Tecido        NaN        NaN        NaN        NaN        NaN        NaN        NaN        NaN         NaN         NaN         NaN         NaN         NaN
+9         NaN                          Aviamento        NaN        NaN        NaN        NaN        NaN        NaN        NaN        NaN         NaN         NaN         NaN         NaN         NaN
+
+--- Full Data Dump (First Sheet) ---
+    Unnamed: 0          ANÁLISE DE NEGÓCIO - 2026 Unnamed: 2 Unnamed: 3 Unnamed: 4 Unnamed: 5 Unnamed: 6 Unnamed: 7 Unnamed: 8 Unnamed: 9 Unnamed: 10 Unnamed: 11 Unnamed: 12 Unnamed: 13 Unnamed: 14
+0          NaN                                NaN        NaN        NaN        NaN        NaN        NaN        NaN        NaN        NaN         NaN         NaN         NaN         NaN         NaN
+1          NaN                                NaN        Jan        Fev        Mar        Abr        Mai        Jun        Jul        Ago         Set         Out         Nov         Dez       Total
+2          NaN  Quantidade de Carros Blindados 3A      50000      50000      50000      50000      50000      50000      50000      50000       50000       50000       50000       50000      600000
+3          NaN                Valor unitário (R$)         45         45         45         45         45         45         45         45          45          45          45          45         NaN
+4          NaN                                NaN        NaN        NaN        NaN        NaN        NaN        NaN        NaN        NaN         NaN         NaN         NaN         NaN         NaN
+5          NaN                            Receita    2250000    2250000    2250000    2250000    2250000    2250000    2250000    2250000     2250000     2250000     2250000     2250000    27000000
+6          NaN                                NaN        NaN        NaN        NaN        NaN        NaN        NaN        NaN        NaN         NaN         NaN         NaN         NaN         NaN
+7          NaN            Despesas e custos fixos        NaN        NaN        NaN        NaN        NaN        NaN        NaN        NaN         NaN         NaN         NaN         NaN         NaN
+8          NaN                             Tecido        NaN        NaN        NaN        NaN        NaN        NaN        NaN        NaN         NaN         NaN         NaN         NaN         NaN
+9          NaN                          Aviamento        NaN        NaN        NaN        NaN        NaN        NaN        NaN        NaN         NaN         NaN         NaN         NaN         NaN
+10         NaN                           Produção        NaN        NaN        NaN        NaN        NaN        NaN        NaN        NaN         NaN         NaN         NaN         NaN         NaN
+11         NaN                          Marketing      60000      60000      60000      60000      60000      60000      60000      60000       60000       60000       60000       60000       60000
+12         NaN                            Aluguel       7000       7000       7000       7000       7000       7000       7000       7000        7000        7000        7000        7000        7000
+13         NaN                           Impostos     225000     225000     225000     225000     225000     225000     225000     225000      225000      225000      225000      225000     2700000
+14         NaN                 Folha de pagamento      15000      15000      15000      15000      15000      15000      15000      15000       15000       15000       15000       15000       15000
+15         NaN          Comissionamento de vendas      20000      20000      20000      20000      20000      20000      20000      20000       20000       20000       20000       20000       20000
+16         NaN                         Agua e luz        800        800        800        800        800        800        800        800         800         800         800         800         800
+17         NaN                     Outras depesas        NaN        NaN        NaN        NaN        NaN        NaN        NaN        NaN         NaN         NaN         NaN         NaN         NaN
+18         NaN                          Sub total     327800     327800     327800     327800     327800     327800     327800     327800      327800      327800      327800      327800     3933600
+19         NaN                                NaN        NaN        NaN        NaN        NaN        NaN        NaN        NaN        NaN         NaN         NaN         NaN         NaN         NaN
+20         NaN                              Lucro    1922200    1922200    1922200    1922200    1922200    1922200    1922200    1922200     1922200     1922200     1922200     1922200    23066400
+21         NaN                                NaN        NaN        NaN        NaN        NaN        NaN        NaN        NaN        NaN         NaN         NaN         NaN         NaN         NaN
+22         NaN                              Caixa    1922200    4344400    6266600    8188800   10111000   12033200   13955400   15877600    17799800    19722000    21644200    23566400         NaN
+23         NaN                                NaN        NaN        NaN        NaN        NaN        NaN        NaN        NaN        NaN         NaN         NaN         NaN         NaN         NaN
+24         NaN                             Margem   0.854311   0.854311   0.854311   0.854311   0.854311   0.854311   0.854311   0.854311    0.854311    0.854311    0.854311    0.854311    0.854311
+25         NaN                                NaN        NaN        NaN        NaN        NaN        NaN        NaN        NaN        NaN         NaN         NaN         NaN         NaN         NaN
+26         NaN    Prolabore - retirada dos socios        NaN     500000     500000     500000     500000     500000     500000     500000      500000      500000      500000      500000         NaN
+27         NaN                       Sansom (50%)        NaN     250000     250000     250000     250000     250000     250000     250000      250000      250000      250000      250000     2750000
+28         NaN                         Jean (50%)        NaN     250000     250000     250000     250000     250000     250000     250000      250000      250000      250000      250000     2750000
+29         NaN                 Total de retiradas        NaN     500000     500000     500000     500000     500000     500000     500000      500000      500000      500000      500000     5500000
+30         NaN                                NaN        NaN        NaN        NaN        NaN        NaN        NaN        NaN        NaN         NaN         NaN         NaN         NaN         NaN
+31         NaN            Caixa após as retiradas        NaN    3844400    5766600    7688800    9611000   11533200   13455400   15377600    17299800    19222000    21144200    23066400         NaN
+32         NaN                                NaN        NaN        NaN        NaN        NaN        NaN        NaN        NaN        NaN         NaN         NaN         NaN         NaN         NaN
+33         NaN                       Investimento     500000     500000     500000     500000     500000     500000     500000     500000      500000      500000      500000      500000      500000
+
+--- WORD EXTRACTION: c:\Users\gasse\OneDrive\Meu_Segundo_Cerebro\02_PROJETOS\KabaK\Outlet_Expansion\recursos\Arquérito Ativa e Kabak.docx ---
+Document paragraphs: 40
+
+--- Document Content ---
+ARQUÉTIPO – OPERAÇÃO “KABAK” (INVESTIDOR: ATIVA/SAMSON | MARCA: KABAK | SÓCIA: KABAK/SPORTS.COM.)
+1. Partes
+1.1. KABAK, CNPJ [•], com sede em [•], neste ato representada por [nome], CPF [•], doravante “KABAK” ou “Sócia Operacional”.
+1.2. ATIVA, CNPJ [•], sede em [•], representada por [nome], CPF [•], doravante “ATIVA” ou “Sócia Investidora”.
+2. Objeto
+2.1. O presente instrumento tem por objeto a cooperação empresarial para desenvolvimento, produção, comercialização e escalabilidade da marca “KABAK”, incluindo:
+(a) fornecimento de tecido (matéria-prima) pela ATIVA;
+(b) fornecimento de peças semiprontas e prontas (produtos inacabados e acabados) pela ATIVA;
+(c) financiamento de marketing e tráfego pago pela ATIVA;
+(d) custeio de folha dos empregados da GABRIELE prestadora de serviço da Kabak;
+(e) custeio de custos fixos operacionais (energia, internet, contador etc.);
+(f) novos investimentos conforme necessidade e aprovação;
+(g) operação comercial (vendas, faturamento e pós-venda) pela KABAK.
+3. Obrigações da ATIVA (Sócia Investidora)
+3.1. Fornecimento de insumos e produtos: disponibilizar tecidos (matéria-prima) e peças semiprontas/prontas conforme especificações técnicas definidos em documento anexo a ser confeccionado.
+3.2. Marketing e Tráfego Pago: custear R$ 60.000,00/mês por 6 meses para marketing institucional/performance e até R$ 240.000,00/mês por até 6 meses para tráfego pago (ads), observados limites, metas e regras definidos em documento anexo a ser confeccionado.
+3.3. Agência de Marketing: arcar com custos adicionais aprovados, mediante orçamento prévio e nota fiscal.
+3.4. Folha de Pagamento – Equipe GABRIELE: custear integralmente salários, encargos e benefícios dos empregados alocados, definidos em documento anexo a ser confeccionado; a empregadora permanece sendo a GABRIELE, sem formação de vínculo com KABAK.
+3.5. Custos Fixos: custear energia, internet, contador e demais custos fixos definidos em documento anexo a ser confeccionado, podendo revisá-los.
+3.6. Novos Investimentos: realizar aportes adicionais mediante necessidade justificada e aprovação.
+4. Obrigações da KABAK (Sócia Operacional)
+4.1. Operação Comercial: gerir catálogo, precificação, canais de venda (site, marketplace, lojas parceiras), atendimento, logística, SAC, trocas e devoluções (CDC).
+4.2. Gestão de Produção: definir ficha técnica, aprovar compras de insumos, validar qualidade e prazos com a ATIVA.
+4.3. Prestação de Contas: realizar prestação de contas mensal, com DRE gerencial por canal, conciliação de gateways e bancos.
+4.4. Compliance Fiscal e Consumerista: emitir notas fiscais de venda, recolher tributos incidentes e observar prazos legais de atendimento ao consumidor.
+4.5. Proteção da Marca: zelar pela reputação da marca “KABAK”, padrões de comunicação e uso de ativos.
+5. Prazo 
+5.1. Prazo inicial: [6] meses, 
+6. Precificação e Tributos
+6.1. Os impostos incidentes sobre os produtos serão inclusos no preço de venda ao consumidor.
+6.2. A política de preços constará definidos em documento anexo a ser confeccionado, considerando CMV, tributos, custos variáveis, custos de marketing, dentre outros.
+
+7. Prestação de Contas e Auditoria
+7.1. Periodicidade: mensal, até o dia [xx] do mês subsequente, em modelo DRE gerencial, balancete de verificação, razão de contas e relatório de mídia.
+8. Resultados, Reembolsos e Distribuição
+50/50 desde o início + reembolso via reclassificação
+8.1. Distribuição Imediata: o lucro líquido será distribuído 50%/50% desde as primeiras vendas.
+8.2. Reembolso de Aportes: valores aportados pela ATIVA serão reembolsados como despesas/custos do período, mediante NF/contrato e aprovação prévia; não havendo lucro suficiente, o saldo segue para competência seguinte.
+
+9. Propriedade Intelectual e Marca
+9.1. A marca “KABAK” é e permanece de titularidade de [•].
+10.2. Concede-se licença de uso à operação (SCP/parceria), não exclusiva (ou exclusiva no segmento [•]), ineditável e intransferível, limitada ao prazo contratual.
+
+10. Trabalho e Terceirização (Equipe GABRIELE)
+10.1. Os empregados alocados permanecem vinculados exclusivamente à GABRIELE, que responde por todas as obrigações trabalhistas e previdenciárias.
+
+11. Pró-Labore, Remuneração de Gestores e Despesas
+INSTRUMENTO DE CONSTITUIÇÃO DE SOCIEDADE EM CONTA DE PARTICIPAÇÃO – “SCP KABAK”
+
+Visa fixar a responsabilidade externa na figura da ostensiva (KABAK) e organizar participação do investidor (ATIVA) apenas internamente, com prestação de contas e partilha de lucros. É a estrutura mais “jurídica” para sócio investidor silencioso.
+CONTRATO DE PARCERIA COMERCIAL E INVESTIMENTO – “PARCERIA KABAK–ATIVA”
+
+Visa menor formalismo societário e facilidade de encerramento, aceitando que ambas aparecem no mercado (contratos, notas, anúncios), com regras claras de contas e repartição.

@@ -1,3 +1,7 @@
+---
+criado: 2026-01-14T12:22:26-03:00
+atualizado: 2026-01-14T12:22:26-03:00
+---
 # 🚀 AUTOMAÇÃO DEVOCIONAIS N8N - FASE 1
 
 **Criado**: 29/07/2025 por Névoa  

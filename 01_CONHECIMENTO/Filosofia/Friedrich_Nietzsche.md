@@ -2,6 +2,8 @@
 title: Friedrich Nietzsche - Mente Lendár[IA] | Alan Nicolas
 url: https://mentelendaria.com/Recursos/Autores+%26+Pensadores/Friedrich+Nietzsche
 downloaded: 2025-11-11T12:59:47.781Z
+criado: 2026-01-14T12:22:26-03:00
+atualizado: 2026-01-14T12:22:26-03:00
 ---
 
 Friedrich Nietzsche Rökken (Prússia, atual Alemanha) (1844-1900)

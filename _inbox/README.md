@@ -1,3 +1,7 @@
+---
+criado: 2026-01-14T12:22:26-03:00
+atualizado: 2026-01-14T12:22:26-03:00
+---
 # 📥 INBOX - Captura Rápida
 
 **Funil de entrada do Segundo Cérebro**

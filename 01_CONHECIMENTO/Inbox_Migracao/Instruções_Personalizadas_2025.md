@@ -2,6 +2,8 @@
 title: Instruções Personalizadas 2025 - Mente Lendár[IA] | Alan Nicolas
 url: https://mentelendaria.com/Conhecimento/IA+e+Tecnologia/Prompts+e+GPTs/Instru%C3%A7%C3%B5es+Personalizadas+2025
 downloaded: 2025-11-11T12:56:26.606Z
+criado: 2026-01-14T12:22:26-03:00
+atualizado: 2026-01-14T12:22:26-03:00
 ---
 
 Relatórios das últimas interações 

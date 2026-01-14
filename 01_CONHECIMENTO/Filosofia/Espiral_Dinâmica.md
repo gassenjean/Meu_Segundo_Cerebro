@@ -2,6 +2,8 @@
 title: Espiral Dinâmica - Mente Lendár[IA] | Alan Nicolas
 url: https://mentelendaria.com/Conhecimento/Desenvolvimento+Pessoal/Espiral+Din%C3%A2mica
 downloaded: 2025-11-11T13:02:44.648Z
+criado: 2026-01-14T12:22:26-03:00
+atualizado: 2026-01-14T12:22:26-03:00
 ---
 
 Espiral Dinâmica 

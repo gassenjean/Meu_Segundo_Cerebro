@@ -1,3 +1,7 @@
+---
+criado: 2026-01-14T12:22:26-03:00
+atualizado: 2026-01-14T12:22:26-03:00
+---
 # RESUMO EXECUTIVO: Arsenal Bi-IA Completo
 
 **Data:** 31/12/2025 - 19:45
