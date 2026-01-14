@@ -1,17 +1,195 @@
 ---
 criado: 2026-01-14T13:02:05-03:00
-atualizado: 2026-01-14T18:22:53-03:00
----
-﻿---
-criado: 2025-12-31T13:44:34-03:00
-atualizado: 2026-01-06T13:00:00-03:00
+atualizado: 2026-01-14T21:00:00-03:00
 ---
 
 # SESSION LOG - Comunicação Claude ↔ Gemini
 
-**Última atualização:** 14/01/2026 20:30
+**Última atualização:** 14/01/2026 21:00
 **Agente ativo:** Claude Code (Sonnet 4.5)
-**Contexto:** GitHub Sync Multi-Dispositivo + Documentação Orquestração Bi-IA
+**PC:** Alienware (trabalho/externo)
+**Próxima sessão:** Desktop Casa
+**Contexto:** Auditoria Gemini KabaK + Correções Críticas
+
+---
+
+## 🔴 URGENTE - Claude Code - 14/01/2026 (21:00) - AUDITORIA GEMINI + CORREÇÕES KABAK
+
+### ⚠️ DIVERGÊNCIAS GRAVES ENCONTRADAS (A RESOLVER NO DESKTOP CASA)
+
+**Status:** ⚠️ **PARCIALMENTE RESOLVIDO - AINDA TEM DIVERGÊNCIAS**
+
+**Usuário reportou:** "tem divergencia de informação ainda grave"
+
+### Trabalho Realizado (Alienware)
+
+**1. Auditoria Completa Trabalho Gemini**
+- ✅ **Relatório criado:** `RELATORIO_AUDITORIA_DIVERGENCIAS_GEMINI.md`
+- ✅ **Análise:** Revisado TODO trabalho Gemini (14/Jan 15:00-18:22)
+- ❌ **Divergências críticas encontradas:**
+  - Gemini adicionou "Custo Estabilidade R$ 3.6M" que NÃO estava claro
+  - Valores contraditórios no mesmo arquivo (R$ 2.6M vs R$ 3.6M)
+  - Conceito "buffer fabril" sem validação na transcrição
+  - 14 arquivos desorganizados na raiz
+
+**2. Correções Implementadas**
+- ✅ **PLANILHA_SANSOM_SIMPLES.md criada** (formato claro: receita→custos→lucro→caixa)
+- ✅ **PLANILHA_FINANCEIRA_12_MESES.md corrigida** (removido R$ 3.6M confuso)
+- ✅ **Arquivos organizados:**
+  - 10 scripts Python → `02_PROJETOS/KabaK/scripts/`
+  - Temporários deletados (tabela_*.md, temp_*.md, git_log_temp.txt)
+- ✅ **Jean (pai) incluído corretamente** na estrutura societária 49%
+  - ANTES (Gemini): Gassen+Kris (49%) ❌
+  - DEPOIS (Claude): Jean (Família - 49%) = Jean + Gassen + Kris ✅
+
+**3. Estrutura Societária Corrigida**
+```
+SANSOM:                          51% decisão + 50% lucros
+JEAN (FAMÍLIA):                  49% decisão + 50% lucros
+  ├── Jean: Pai, dono/CEO KabaK atual
+  ├── Gassen: Filho, criador marca, gestor
+  └── Kris: Esposa Gassen, co-criadora, produção
+
+DIVISÃO INTERNA FAMÍLIA: A definir com Dr. Alexandre
+```
+
+**4. Valores Financeiros (CONFERIR NO DESKTOP)**
+```
+INVESTIMENTO TOTAL:              R$ 2.600.000
+├── Pré-operacional:             R$ 1.980.000
+├── Operacional (déficit mês 1-2): R$ 126.300
+└── Contingência:                R$ 493.700
+
+DIVISÃO:
+├── Sansom (51%):                R$ 1.326.000
+└── Jean (Família - 49%):        R$ 1.274.000
+
+NOTA: "Custo de Estabilidade R$ 500k/mês x 6" = parte do investimento,
+      NÃO adicional! Usuário confirmou que é "enquanto não tem lucro".
+```
+
+**5. Commits Realizados**
+```
+c5e3964 - fix(kabak): corrigir bagunça Gemini + criar planilha simples Sansom
+00a23ee - fix(kabak): incluir Jean (pai) na estrutura societária 49%
+```
+
+### 🚨 AÇÕES URGENTES (DESKTOP CASA)
+
+**ALTA PRIORIDADE:**
+
+1. **[ ] REVISAR PLANILHA_SANSOM_SIMPLES.md**
+   - Conferir TODOS os valores
+   - Validar se custos estão corretos
+   - Checar se falta alguma informação
+
+2. **[ ] CONFERIR ESTRUTURA SOCIETÁRIA**
+   - Validar divisão Jean + Gassen + Kris (49%)
+   - Confirmar se está alinhado com reunião Sansom
+
+3. **[ ] RESOLVER DIVERGÊNCIAS REMANESCENTES**
+   - Usuário disse: "tem divergencia de informação ainda grave"
+   - **DESCOBRIR** quais divergências ainda existem
+   - **DOCUMENTAR** no RELATORIO_AUDITORIA
+
+4. **[ ] VALIDAR CUSTOS COM DOCUMENTOS**
+   - Tecido China: R$ 30/kit correto?
+   - Fabricação Jean: R$ 15/kit correto?
+   - Titanium: R$ 60k/mês confirmado?
+   - Tráfego Pago: R$ 40-100k/mês OK?
+
+**MÉDIA PRIORIDADE:**
+
+5. **[ ] UNIFICAR DOCUMENTOS KABAK**
+   - Há múltiplos documentos com informações diferentes
+   - Consolidar em 1-2 fontes de verdade únicas
+   - Deletar/arquivar documentos obsoletos
+
+6. **[ ] ATUALIZAR README.md KABAK**
+   - Incluir link para PLANILHA_SANSOM_SIMPLES.md
+   - Documentar estado atual do projeto
+   - Próximos passos claros
+
+### Arquivos Criados/Modificados
+
+**NOVOS:**
+- `PLANILHA_SANSOM_SIMPLES.md` ← Planilha CLARA para Sansom
+- `RELATORIO_AUDITORIA_DIVERGENCIAS_GEMINI.md` ← Análise divergências
+- `02_PROJETOS/KabaK/scripts/` ← 10 scripts organizados
+
+**MODIFICADOS:**
+- `PLANILHA_FINANCEIRA_12_MESES.md` ← Corrigido R$ 3.6M → R$ 2.6M
+- Todos documentos KabaK (timestamps atualizados)
+
+**MANTIDOS (Gemini):**
+- `PLANILHA_KABAK_SANSOM.xlsx` ← Excel v5 (OK)
+- `recursos/tabela_kabak_v5.png` ← Screenshot (OK)
+
+### Mensagem para Gassen (Desktop Casa)
+
+> **ATENÇÃO:**
+>
+> 1. **Revisei TODO trabalho do Gemini** - encontrei divergências críticas
+> 2. **Criei planilha SIMPLES** para Sansom (`PLANILHA_SANSOM_SIMPLES.md`)
+> 3. **Corrigi estrutura societária** - Jean (pai) agora está incluído
+> 4. **VOCÊ DISSE:** "tem divergencia de informação ainda grave"
+>
+> **NO DESKTOP CASA:**
+> - Abra `RELATORIO_AUDITORIA_DIVERGENCIAS_GEMINI.md` e leia TUDO
+> - Abra `PLANILHA_SANSOM_SIMPLES.md` e VALIDE todos os números
+> - **IDENTIFIQUE** quais divergências graves ainda existem
+> - **CORRIJA** antes de mostrar pro Sansom
+>
+> **Arquivos críticos:**
+> - `02_PROJETOS/KabaK/planejamento/PLANILHA_SANSOM_SIMPLES.md` ← REVISAR
+> - `RELATORIO_AUDITORIA_DIVERGENCIAS_GEMINI.md` ← LER COMPLETO
+> - `02_PROJETOS/KabaK/docs/Reunião Sansom transcrição.md` ← FONTE VERDADE
+
+### Mensagem para Gemini
+
+> **FEEDBACK SOBRE SEU TRABALHO (14/Jan):**
+>
+> **O QUE FICOU BOM:**
+> - ✅ Excel gerado (PLANILHA_KABAK_SANSOM.xlsx) está funcional
+> - ✅ Screenshot HTML foi criativo e funcionou
+> - ✅ SESSION_LOG.md bem documentado
+> - ✅ Scripts Python funcionais
+>
+> **O QUE PRECISA MELHORAR:**
+> - ❌ **Valores contraditórios** no mesmo arquivo (R$ 2.6M vs R$ 3.6M)
+> - ❌ **Conceito novo** ("Custo Estabilidade") sem validar na transcrição
+> - ❌ **Arquivos temporários** não foram limpos
+> - ❌ **Scripts** ficaram na raiz (não organizados)
+> - ❌ **Jean (pai)** foi esquecido na estrutura societária
+>
+> **LIÇÕES:**
+> 1. **SEMPRE validar** valores em TODOS os documentos (consistência)
+> 2. **SEMPRE ler transcrição** antes de adicionar conceitos novos
+> 3. **SEMPRE limpar** arquivos temporários após uso
+> 4. **SEMPRE organizar** scripts em pastas apropriadas
+> 5. **SEMPRE incluir TODOS** os sócios na estrutura
+>
+> **Usuário reportou:** "tem divergencia de informação ainda grave"
+> **Ação:** Próxima sessão, ajude a IDENTIFICAR quais divergências ainda existem
+
+### Estado do Vault (Pós-Correções)
+
+- **Projeto KabaK:** ⚠️ Parcialmente corrigido, REVISAR no Desktop Casa
+- **Planilhas:** 2 versões (simples + detalhada)
+- **Scripts:** Organizados em `02_PROJETOS/KabaK/scripts/`
+- **Raiz:** Limpa (temporários deletados)
+- **Commits:** 2 commits de correção realizados
+- **Divergências:** ⚠️ Ainda existem (usuário confirmou)
+
+### Próximos Passos CRÍTICOS (Desktop Casa)
+
+1. **[ ] LER** `RELATORIO_AUDITORIA_DIVERGENCIAS_GEMINI.md` COMPLETO
+2. **[ ] VALIDAR** `PLANILHA_SANSOM_SIMPLES.md` (todos os números)
+3. **[ ] IDENTIFICAR** quais divergências graves ainda existem
+4. **[ ] CORRIGIR** divergências antes de enviar pro Sansom
+5. **[ ] CONFERIR** estrutura societária (Jean + Gassen + Kris)
+6. **[ ] UNIFICAR** documentos KabaK (1 fonte de verdade)
+7. **[ ] TESTAR** mostrar planilha pro Sansom
 
 ---
 
