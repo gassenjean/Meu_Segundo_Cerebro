@@ -1,0 +1,346 @@
+# Stakeholders - KabaK Project
+
+**Última atualização:** 14/Jan/2026
+
+---
+
+## Sócios (Nova Sociedade)
+
+### Sansom (51% Decisão / 50% Lucros)
+
+**Perfil:**
+- Empresário chinês residente no Brasil
+- Casado com brasileira
+- Primeira sociedade fora da família
+- Experiência em importação e comércio
+
+**Empresas/Negócios:**
+- Possui outras empresas no Brasil (detalhes confidenciais)
+- Conexões na China via cunhado Eric
+- Rede de fornecedores têxteis China estabelecida
+
+**Responsabilidades no Projeto:**
+- **Gestão Financeira:** Caixa, lucro, controladoria
+- **Importação China:** Tecidos, matéria-prima, negociação
+- **Fornecedores:** Relacionamento e gestão fornecedores China
+- **Visão Estratégica:** Direcionamento de longo prazo
+- **Palavra Final:** Voto minerva em casos de impasse (<1% dos casos)
+
+**Investimento:**
+- R$ 1.300.000 (50% do total)
+- Estrutura: A definir (PF ou PJ)
+
+**Características:**
+- Enfático sobre transparência e honestidade
+- Quer auditoria primeiros 6-12 meses
+- Busca gestão profissional com estrutura familiar operacional
+- Primeira vez em sociedade com terceiros
+
+**Quotes Relevantes:**
+- "Nunca fiz sociedade antes, mas quero fazer certo"
+- "51/49 para ter decisão final, mas 99% decidimos juntos"
+- "Vamos fazer gestão profissional"
+- "Quero auditoria primeiros 6-12 meses para segurança"
+- "Não quero briga no futuro - vamos preparar o pior cenário"
+
+**Contato:**
+- [A adicionar quando apropriado]
+
+---
+
+### Jean (49% Decisão / 50% Lucros - Lado Família)
+
+**Perfil:**
+- Brasileiro, dono e CEO da KabaK/Gabriele Confecções atual
+- Pai de Gassen
+- Investidor 100% do KabaK até agora
+- 7+ anos experiência indústria têxtil
+
+**Empresa Atual:**
+- **Gabriele Confecções:** Fábrica MG com produção 80k peças/mês
+- Prédio próprio
+- 40 costureiras (escalável até 400)
+- Capacidade máxima: 240k peças/mês
+
+**Responsabilidades no Projeto:**
+- **CEO e Produção:** Gestão completa da fábrica
+- **Costura/Qualidade:** Controle produtivo
+- **Gestão Equipe:** 40+ costureiras + expansão conforme necessário
+- **Capacidade Produtiva:** Escalar conforme demanda
+
+**Investimento:**
+- R$ 1.300.000 (50% do total, lado família)
+- Divisão interna: Jean + Gassen + Kris (a definir)
+
+**Papel Dual:**
+1. **Como Sócio:** 49% decisão / 50% lucros (lado família)
+2. **Como Fornecedor:** Fábrica Jean presta serviço à Nova Sociedade
+
+**Características:**
+- Experiência B2B (Magazine Luiza, outros)
+- Infraestrutura completa (prédio próprio)
+- Rede de costureiras externas pronta (backup)
+
+**Contato:**
+- [A adicionar quando apropriado]
+
+---
+
+### Gassen Jean Bou Karim (Parte dos 49% - Filho Jean)
+
+**Perfil:**
+- Brasileiro, filho de Jean
+- **Criador da marca KabaK** (junto com Kris)
+- Gestor operacional e de inovações
+- Conhecimento: Marketing digital, Shopify, logística, produção
+
+**Responsabilidades no Projeto:**
+- **Gestão Marca:** Inovações, identidade, posicionamento
+- **Projetos:** Desenvolvimento de produtos e linhas
+- **E-commerce:** Interface Shopify, estratégia online
+- **Marketing:** Interface com Titanium, campanhas
+- **Apoio Produção:** Suporte à operação fábrica
+
+**Participação:**
+- Parte dos 50% lado Jean (divisão interna a definir)
+- Critério: Criação marca + gestão operacional
+
+**Características:**
+- Co-criou marca KabaK com Kris
+- Experiência em projetos e inovação
+- Interface principal com parceiros externos (Titanium, etc)
+
+**Quote Relevante:**
+- "Temos tudo para superar Atara"
+
+**Contato:**
+- [Usuário do sistema]
+
+---
+
+### Kris (Parte dos 49% - Esposa Gassen)
+
+**Perfil:**
+- Brasileira, esposa de Gassen
+- **Co-criadora da marca KabaK** (junto com Gassen)
+- Especialista em processo produtivo e desenvolvimento produto
+- Experiência: Produção têxtil, controle qualidade, design
+
+**Responsabilidades no Projeto:**
+- **Processo Produtivo:** Dia a dia operacional da fábrica
+- **Desenvolvimento de Produto:** Criação, modelagem, protótipos
+- **Controle Qualidade:** Garantia de padrão produtivo
+- **Gestão Operacional:** Coordenação produção
+- **Interface Fornecedores:** Técnica (tecidos, insumos)
+
+**Participação:**
+- Parte dos 50% lado Jean (divisão interna a definir)
+- Critério: Co-criação marca + desenvolvimento produto + operação
+
+**Características:**
+- Cuida processo produtivo atualmente
+- Conhecimento técnico têxtil profundo
+- Participação ativa em criação de produto
+
+**Contato:**
+- [A adicionar quando apropriado]
+
+---
+
+## Prestadores de Serviço (NÃO Sócios)
+
+### Titanium (Agência de Marketing)
+
+**Tipo:** Prestador de serviço (R$ 60.000/mês)
+
+**Perfil:**
+- Agência de marketing digital especializada em e-commerce
+- **Case de sucesso:** Atara (R$ 10M/mês em 1 ano)
+- Mesmo produto/nicho que KabaK
+
+**Escopo de Serviços:**
+- Criação de campanhas
+- Gestão de tráfego pago (Meta/Google)
+- CRO (Conversion Rate Optimization)
+- Indicação equipe SAC/atendimento
+- Setup Shopify e otimização
+
+**Modelo Comercial:**
+- **Fixo:** R$ 60.000/mês (sem setup)
+- **Variável:** Tráfego pago R$ 40.000-100.000/mês
+- **Onboarding:** 1 mês (Fev/2026)
+- **Contrato:** Sem exclusividade, 3 meses aviso prévio
+
+**Timeline:**
+- **Jan/2026:** Reunião comercial (validar modelo)
+- **Fev/2026:** Onboarding (1 mês)
+- **Mar-Abr/2026:** Setup Shopify + campanhas teste
+- **Mai/2026:** Lançamento oficial
+
+**Case Atara (Referência):**
+- Produto: Kits Fitness Feminino (mesmo nicho)
+- Resultado: R$ 10M/mês em 1 ano
+- Público: Classe C, mulheres 25-45 anos
+- Estratégia: Tráfego pago agressivo + kits com desconto
+
+**Avaliação:**
+- Período teste: 6 meses
+- Se não performar: Buscar alternativa (lista de backup)
+
+**Contato:**
+- [A adicionar quando fechado comercial]
+
+---
+
+### Dr. Alexandre (Advogado Corporativo)
+
+**Tipo:** Prestador de serviço jurídico
+
+**Perfil:**
+- Advogado corporativo especializado em sociedades
+- Experiência em estruturações empresariais
+
+**Escopo de Serviços:**
+- **Estruturação societária:** Definir modelo jurídico
+- **Contratos:** Social, Prestação Serviço, Acordo Sócios
+- **Regime tributário:** Recomendar melhor opção
+- **Governança:** Alçadas, decisões, saídas
+- **Projeto paralelo:** Gabriele Confecções Jurídico 2026
+
+**Entregas Críticas:**
+1. **Proposta Estruturação** (até 21/Jan)
+   - Nova empresa ou CNPJ existente?
+   - Regime tributário recomendado
+   - Estrutura macro contratos
+   - Honorários e prazo total
+
+2. **Minutas Contratos** (até 04/Fev)
+   - Contrato Social (51/49)
+   - Contrato Prestação Serviço (Fábrica Jean)
+   - Acordo de Sócios (se necessário)
+
+3. **Registro/Formalização** (até 11/Fev)
+   - Assinatura contratos
+   - Registro empresa (se novo CNPJ)
+   - Abertura conta bancária
+
+**Questões Principais para Dr. Alexandre:**
+1. Nova empresa ou usar CNPJ KabaK?
+2. Regime tributário ideal? (Simples/Lucro Presumido/Real)
+3. Como proteger Sansom do conflito interesse (Fábrica Jean = pai de Gassen)?
+4. Como isolar passivos Fábrica Jean?
+5. Como estruturar saída voluntária/involuntária?
+6. Divisão interna família: Critérios e percentuais?
+
+**Prazo:** 28 dias (estruturação completa)
+
+**Contato:**
+- [A adicionar quando agendado]
+
+---
+
+## Outros Stakeholders
+
+### Esposa Sansom
+
+**Papel:** Decisão final estrutura societária lado Sansom
+
+**Importância:**
+- Sansom precisa conversar com esposa antes de definir:
+  - Entra como PF ou PJ?
+  - Investimento integral ou parcelado?
+  - Nome/CPF para contrato
+
+**Prazo:** Até 21/Jan
+
+---
+
+### Cunhado Eric (China)
+
+**Papel:** Opera negócios de Sansom na China
+
+**Importância:**
+- Conexão-chave para fornecedores China
+- Interface operacional para pedidos
+- Não é stakeholder direto, mas operador crítico
+
+---
+
+### Fornecedores China
+
+**Papel:** Fornecimento de tecidos
+
+**Importância:** CRÍTICA
+- Tecido poliéster 90/10 fundo preto
+- Custo alvo: R$ 10/peça (R$ 30/kit)
+- Quantidade: 200k peças iniciais (~70 ton)
+- Prazo: Chegar Mar-Abr/2026
+
+**Responsável:** Sansom (gestão completa)
+
+**Timeline:**
+- **Jan/2026:** Pedido urgente (até 21/Jan)
+- **Fev-Mar/2026:** Produção e embarque
+- **Mar-Abr/2026:** Chegada Brasil
+
+---
+
+## Matriz de Responsabilidades
+
+| Área | Sansom | Jean | Gassen | Kris | Titanium | Dr. Alexandre |
+|------|--------|------|--------|------|----------|---------------|
+| **Gestão Financeira** | ✅ Lead | - | Apoio | - | - | Assessoria |
+| **Importação China** | ✅ Lead | - | - | Interface | - | - |
+| **Produção Fábrica** | - | ✅ Lead | Apoio | ✅ Op | - | - |
+| **Gestão Marca** | - | - | ✅ Lead | Co-criadora | Apoio | - |
+| **E-commerce** | - | - | ✅ Lead | - | ✅ Exec | - |
+| **Marketing** | Interface | - | ✅ Interface | - | ✅ Lead | - |
+| **Jurídico** | Cliente | Cliente | Cliente | Cliente | - | ✅ Lead |
+| **Desenvolvimento Produto** | - | - | Apoio | ✅ Lead | - | - |
+| **Controle Qualidade** | - | ✅ Final | - | ✅ Op | - | - |
+
+**Legenda:**
+- ✅ Lead: Responsável principal
+- ✅ Op: Operacional (dia a dia)
+- ✅ Exec: Execução
+- Interface: Ponto de contato
+- Apoio: Suporte quando necessário
+- Cliente: Recebe serviço
+
+---
+
+## Comunicação e Reuniões
+
+### Reuniões Recorrentes (A Definir)
+
+**Sócios (Sansom + Jean/Família):**
+- Frequência: Semanal? Quinzenal?
+- Pauta: Métricas, decisões, blockers
+- Duração: 1-2h
+- Formato: Presencial ou remoto
+
+**Operacional (Gassen + Kris + Titanium):**
+- Frequência: Semanal
+- Pauta: Campanhas, conversões, otimizações
+- Duração: 1h
+- Formato: Remoto
+
+### Canais de Comunicação
+
+**Decisões Estratégicas:**
+- Reunião formal + ata documentada
+- Todos os sócios presentes
+
+**Operacional:**
+- WhatsApp/Telegram (rápido)
+- Email (formal)
+- Reuniões semanais (alinhamento)
+
+**Financeiro:**
+- Relatórios mensais (contador)
+- Auditoria trimestral (primeiros 12 meses)
+- Dashboard atualizado semanalmente
+
+---
+
+**Documento vivo - atualizar com cada novo stakeholder ou mudança de responsabilidade**

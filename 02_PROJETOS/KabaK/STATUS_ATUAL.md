@@ -10,45 +10,58 @@ atualizado: 2026-01-14T22:38:18-03:00
 ---
 
 ## ✅ ONDE ESTAMOS
+ 
+ **Fase Atual:** Estruturação Jurídica e Validação de Custos Finais
+ **Progresso:** 50%
+ 
+ ### Última Ação (15/Jan/2026)
+ 
+ - ✅ **RETORNO SANSOM CONFIRMADO:** Decisão de investir tomada.
+ - ✅ **START JURÍDICO:** Autorizado início do contrato social com Dr. Alexandre.
+ - ✅ **VALIDAÇÃO CUSTOS:** Início da verificação final de tecido e produto pronto.
+ 
+ ### Estado Atual
+ 
+ **MUDANÇA FUNDAMENTAL NO PROJETO:**
+ 
+ - **ANTES:** Parceria Titanium como agência (R$ 60k setup + R$ 45-60k/mês)
+ - **AGORA:** Sociedade com Sansom (51/49) + Titanium como prestador de serviço (R$ 60k/mês)
+ 
+ **NOVA ESTRUTURA:**
+ 
+ - **Sociedade (Poder Decisório):** **51% Sansom** (Voto de Minerva) / **49% Jean+Gassen+Kris**
+ - **Sociedade (Lucros/Econômico):** **50% Sansom** / **50% Jean+Gassen+Kris**
+ - **Produção:** Fábrica Jean (Gabriele Confecções) = **Fornecedor Blindado** (Prestação Serviço)
+ - **Marketing:** Titanium (terceirizado, R$ 60k/mês)
+ - **Investimento:** R$ 2.106.300 em 6 meses (Divisão 50/50: R$ 1.053.150 cada lado)
+ - **Produto:** Kit Fitness Feminino (calça+top+short) R$ 129
+ - **Meta:** Break-even mês 4 (Ago/2026) / ROI 155% ano 1
+ 
+ ---
+ 
+ ## 🎯 PRÓXIMAS AÇÕES
+ 
+ ### CRÍTICO (Esta Semana - 15-22/Jan)
+ 
+ 1. [ ] **Sansom:** Informar custos finais do tecido China 🇨🇳
+ 2. [ ] **Gassen/Jean:** Confirmar custo final da calça pronta (CMV) 🏭
+ 3. [ ] **Gassen:** Acionar Dr. Alexandre para### 📢 Marketing & Vendas
+*   **Agência:** **460 Produções (Transição)**
+    *   *Escopo:* Social Media (KabaK + Outlet) até entrada da Titanium.
+    *   *Adicional:* Consultoria de Padronização Física do Outlet.
+*   **Estratégia Futura:** Titanium (E-commerce Hard + Branding Global).
+*   **Tráfego:** Pausado/Reduzido (Foco no orgânico/local por enquanto).
 
-**Fase Atual:** Sociedade com Sansom Acordada / Estruturação Jurídica
-**Progresso:** 45%
-
-### Última Ação (14/Jan/2026)
-
-- ✅ **REUNIÃO ESTRATÉGICA CONCLUÍDA** com Sansom, Gassen, Kris e Jean
-- ✅ **ACORDO VERBAL FIRMADO:** Sociedade 51% Sansom / 49% Jean+Gassen+Kris
-- ✅ **PIVÔ COMPLETO:** Titanium OUT / Nova Sociedade com Sansom IN
-- ✅ **MODELO DEFINIDO:** Replicar Atara (Fitness Feminino) com vantagens competitivas
-
-### Estado Atual
-
-**MUDANÇA FUNDAMENTAL NO PROJETO:**
-
-- **ANTES:** Parceria Titanium como agência (R$ 60k setup + R$ 45-60k/mês)
-- **AGORA:** Sociedade com Sansom (51/49) + Titanium como prestador de serviço (R$ 60k/mês)
-
-**NOVA ESTRUTURA:**
-
-- **Sociedade (Poder Decisório):** **51% Sansom** (Voto de Minerva) / **49% Jean+Gassen+Kris**
-- **Sociedade (Lucros/Econômico):** **50% Sansom** / **50% Jean+Gassen+Kris**
-- **Produção:** Fábrica Jean (Gabriele Confecções) = **Fornecedor Blindado** (Prestação Serviço)
-- **Marketing:** Titanium (terceirizado, R$ 60k/mês)
-- **Investimento:** R$ 2.106.300 em 6 meses (Divisão 50/50: R$ 1.053.150 cada lado)
-- **Produto:** Kit Fitness Feminino (calça+top+short) R$ 129
-- **Meta:** Break-even mês 4 (Ago/2026) / ROI 155% ano 1
-
----
-
-## 🎯 PRÓXIMAS AÇÕES
-
-### CRÍTICO (Esta Semana - 14-21/Jan)
-
-1. [ ] **Sansom:** Conversar com esposa sobre estrutura societária (PF ou PJ)
-2. [ ] **Gassen+Kris:** Agendar reunião Dr. Alexandre (jurídico)
-3. [ ] **Sansom:** Iniciar pedido tecido China (poliéster 90/10 fundo preto)
-4. [ ] **Gassen+Sansom:** Criar planilha financeira detalhada (6 meses)
-5. [ ] **Gassen:** Transcrever reunião e criar resumo executivo ✅
+### 🏪 Canal: Varejo Físico (Outlet)
+*   **Status:** 🟢 **VALIDADO** (R$ 20k/dia em Dez/24)
+*   **Local:** Rodovia (Alto fluxo).
+*   **Ação Imediata:** Reforma e Padronização Visual (Com apoio do Danilo/460).ndares (Precisa reforma entrada + acessibilidade)
+ 
+ ### Próximos passos:
+ - Orçar reforma (Entrada + Acessibilidade 2º andar)
+ - Formalizar no contrato social
+ - Dr. Alexandre revisar contratos imóvel
+ - Definir equipe loja (R$ 20k/dia exige braço!)
 
 ### URGENTE (Próximas 2 Semanas - 21/Jan-04/Fev)
 
@@ -82,36 +95,55 @@ atualizado: 2026-01-14T22:38:18-03:00
 
 ## 📋 DECISÕES RECENTES
 
-### 14/Jan/2026 - SOCIEDADE COM SANSOM (PIVÔ ESTRATÉGICO) ⭐
-
-**Contexto:** Reunião 2h30 com Sansom, Gassen, Kris e Jean. Proposta de sociedade completa.
-**Decisão:** Sociedade Híbrida (Política vs Econômica).
-**Detalhes:**
-
-- **Decisão (Política):** 51% Sansom (Exigência de "Palavra Final") / 49% Jean+Gassen.
-- **Lucros (Econômica):** 50% Sansom / 50% Jean+Gassen (Divisão justa Justa Operacional vs Capital).
-
-**Motivo:**
-
-- Sansom traz conexões China (tecido R$ 3 real vs R$ 15 Brasil)
-- Modelo validado (replicar Atara - R$ 10M/mês em 1 ano)
-- Vantagens competitivas claras (custo, velocidade, capacidade)
-- Investimento viável (R$ 2,6M em 6 meses, ROI 155%)
-
-**Estrutura:**
-
-- Nova empresa (ou usar CNPJ Kabak)
-- Fábrica Jean = prestadora serviço (não sócia)
-- Titanium = prestador marketing (R$ 60k/mês)
-- Gestão profissional (não familiar)
-
-### 14/Jan/2026 - Produto Definido: Kit Fitness Feminino
-
-**Contexto:** Atara fatura R$ 10M/mês com mesmo produto.
-**Decisão:** Replicar estratégia Atara com vantagens competitivas.
-**Produto:** Kit 3 peças (calça+top+short) R$ 129
-**Tecido:** Poliéster 90/10 fundo preto (zero transparência)
-**Fornecedor:** China via Sansom (custo R$ 30/kit vs R$ 45 nacional)
+### 15/Jan/2026 - OUTLET E ESTRUTURA ENXUTA (LIGAÇÃO) ⭐
+ 
+ **Contexto:** Ligação de Sansom para alinhar custos e estrutura.
+ **Decisões:**
+ 1. **Outlet IN:** Loja física incluída na sociedade (mesmo modelo 50/50).
+ 2. **Tecido:** 2 opções China com custo reduzido encontradas.
+ 3. **Operação:** Estrutura enxuta (1 Atendimento + 1 RH) potencializada por IA.
+ 
+ ### 15/Jan/2026 - GO NO PROJETO (INVESTIMENTO CONFIRMADO) ⭐⭐
+ 
+ **Contexto:** Retorno de Sansom após análise de documentos e conversa com família.
+ **Decisão:** Investir e tocar o projeto.
+ **Ações Imediatas:**
+ - Iniciar contrato social.
+ - Verificar custos finais (Tecido + Produção).
+ - Planejar mix de produtos.
+ 
+ ### 14/Jan/2026 - SOCIEDADE COM SANSOM (PIVÔ ESTRATÉGICO) ⭐
+ 
+ **Contexto:** Reunião 2h30 com Sansom, Gassen, Kris e Jean. Proposta de sociedade completa.
+ **Decisão:** Sociedade Híbrida (Política vs Econômica).
+ **Detalhes:**
+ 
+ - **Decisão (Política):** 51% Sansom (Exigência de "Palavra Final") / 49% Jean+Gassen.
+ - **Lucros (Econômica):** 50% Sansom / 50% Jean+Gassen (Divisão justa Justa Operacional vs Capital).
+ 
+ **Motivo:**
+ 
+ - Sansom traz conexões China (tecido R$ 3 real vs R$ 15 Brasil)
+ - Modelo validado (replicar Atara - R$ 10M/mês em 1 ano)
+ - Vantagens competitivas claras (custo, velocidade, capacidade)
+ - Investimento viável (R$ 2,6M em 6 meses, ROI 155%)
+ 
+ **Estrutura:**
+ 
+ - Nova empresa (ou usar CNPJ Kabak)
+ - Fábrica Jean = prestadora serviço (não sócia)
+ - Titanium = prestador marketing (R$ 60k/mês)
+ - Gestão profissional (não familiar)
+ - **Outlet/Loja Física:** Incluído na sociedade.
+ - **Equipe:** Foco em IA + Gestão Enxuta (Atendimento/RH).
+ 
+ ### 14/Jan/2026 - Produto Definido: Kit Fitness Feminino
+ 
+ **Contexto:** Atara fatura R$ 10M/mês com mesmo produto.
+ **Decisão:** Replicar estratégia Atara com vantagens competitivas.
+ **Produto:** Kit 3 peças (calça+top+short) R$ 129
+ **Tecido:** Poliéster 90/10 fundo preto (zero transparência)
+ **Fornecedor:** China via Sansom (custo R$ 30/kit vs R$ 45 nacional)
 
 ### 19/Dez/2025 - Parceria Titanium (SUPERADA)
 

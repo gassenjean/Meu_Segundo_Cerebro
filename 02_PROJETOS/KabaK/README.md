@@ -1,6 +1,6 @@
 ---
 criado: 2025-12-19T18:01:51-03:00
-atualizado: 2026-01-15T07:20:00-03:00
+atualizado: 2026-01-15T15:45:00-03:00
 ---
 
 # KabaK - Reestruturação e E-commerce 2026
@@ -40,7 +40,7 @@ Para proteger a nova operação (KabaK) dos passivos da antiga fábrica:
 
 **MUDANÇA ESTRATÉGICA (14/Jan/2026):**
 
-Sociedade 51% Sansom / 49% Gassen+Kris para lançar e-commerce Fitness Feminino replicando modelo Atara (R$ 10M/mês em 1 ano).
+Sociedade 51% Sansom / 49% Jean+Gassen+Kris para lançar e-commerce Fitness Feminino replicando modelo Atara (R$ 10M/mês em 1 ano).
 
 ### Novo Modelo
 

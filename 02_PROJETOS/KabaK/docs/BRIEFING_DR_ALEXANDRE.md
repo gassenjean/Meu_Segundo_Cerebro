@@ -1,6 +1,6 @@
 ---
 criado: 2026-01-14T14:50:00-03:00
-atualizado: 2026-01-15T07:50:00-03:00
+atualizado: 2026-01-15T15:45:00-03:00
 tipo: briefing_juridico
 destinatario: Dr. Alexandre (Advogado)
 prioridade: critica
@@ -53,7 +53,7 @@ Para explorar **e-commerce de moda fitness feminina** com investimento de **R$ 2
 **Produto:** Kit 3 peças (calça legging + top + short) por **R$ 129**
 
 - Custo: R$ 45/kit (tecido R$ 30 + fabricação R$ 15)
-- Margem: ~51% líquida
+- Margem: 45,3% bruta
 - Público: Mulheres classe C, 25-45 anos, fitness
 
 **Estratégia:** Replicar modelo da **Atara** (concorrente que fatura R$ 10M/mês em apenas 1 ano de operação) mas com **vantagens competitivas**:

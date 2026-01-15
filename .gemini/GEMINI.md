@@ -341,6 +341,7 @@ Os comandos abaixo são espelhados do sistema Claude Code para garantir consist�
 | `/nevoa` | Orquestração e continuidade - Agente Névoa |
 | `/claude-architect` | Guardião de padrões e qualidade - Claude Architect |
 | `/marie-kondo` | Organização de vaults - Marie Kondo |
+| `/kabak` | Skill Especializada KabaK (Gestão, Financeiro, Briefings) |
 
 ### 🧠 Domain Agents (Especialistas)
 
@@ -352,6 +353,7 @@ Os comandos abaixo são espelhados do sistema Claude Code para garantir consist�
 | `/alan` | Alan Nicolas - IA & Automação |
 | `/lucas` | Lucas Amoedo - DeFi & Cripto |
 | `/dr-green` | Dr. Green - Cultivo Medicinal |
+| `/kabak-agent` | Gerente KabaK - Gestão de Projetos e Financeiro |
 
 ### 🛠️ Essential Tools
 
@@ -361,6 +363,8 @@ Os comandos abaixo são espelhados do sistema Claude Code para garantir consist�
 | `/gemini` | Delegate to Gemini 3 Pro (1M tokens, free) |
 | `/ultra-think` | Deep analysis and complex problem solving |
 | `/sync` | Sync with Gemini/Antigravity (update SESSION_LOG.md) |
+| `/gemini-handoff` | Ativar Skill de Delegação Inteligente (Claude → Gemini) |
+| `/github-sync` | Sincronizar Vault com GitHub (Commit & Push) |
 | `/mapa` | Carrega índice completo do vault (economia de tokens) |
 
 ### 📚 Context Activation

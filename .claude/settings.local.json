@@ -13,7 +13,9 @@
       "Bash(git commit:*)",
       "Bash(git push:*)",
       "Bash(ls:*)",
-      "Bash(set:*)"
+      "Bash(set:*)",
+      "Skill(skill-creator)",
+      "Bash(python:*)"
     ]
   }
 }

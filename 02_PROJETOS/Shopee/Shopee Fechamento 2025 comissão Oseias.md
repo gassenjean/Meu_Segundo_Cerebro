@@ -1,6 +1,6 @@
 ---
 criado: 2026-01-14T16:29:35-03:00
-atualizado: 2026-01-14T17:04:29-03:00
+atualizado: 2026-01-15T08:04:45-03:00
 ---
 
 setembro: 226,00
@@ -11,5 +11,6 @@ total: 31229,00
 
 5% Oseías: 1561,45
 emissor de notas upseler: 149,00 (pagar)
+total: 1710,45
 
 fazer contrato juridico com dr alexendre 
