@@ -1,6 +1,6 @@
 ---
 criado: 2026-01-14T14:15:00-03:00
-atualizado: 2026-01-14T22:37:56-03:00
+atualizado: 2026-01-15T07:45:00-03:00
 tipo: plano_acao
 prioridade: critica
 status: ativo
@@ -9,7 +9,8 @@ status: ativo
 # PRÓXIMOS PASSOS - Sociedade Sansom
 
 **Criado após:** Reunião 14/Jan/2026 (Sansom, Gassen, Kris, Jean)
-**Objetivo:** Estruturar sociedade 51/49 e lançar e-commerce Fitness Feminino
+**Última revisão:** 15/Jan/2026 (Auditoria e Correções)
+**Objetivo:** Estruturar sociedade 51/49 (decisão) + 50/50 (lucros) e lançar e-commerce Fitness Feminino
 
 ---
 
@@ -25,8 +26,11 @@ status: ativo
 
 **Investimento Total:** R$ 2.106.300 (previsão 6 meses)
 
-- Sansom (51%): R$ 1.326.000
-- Gassen+Kris (49%): R$ 1.274.000
+- Sansom (50% lucros): R$ 1.053.150
+- Jean+Gassen+Kris (50% lucros): R$ 1.053.150
+  - Divisão interna: A definir com Dr. Alexandre
+
+**Nota:** Arredondado R$ 1.3M cada em comunicação simplificada
 
 ---
 
@@ -64,10 +68,12 @@ status: ativo
    - Decidir: Entra como PF ou PJ?
    - Se PJ: Qual empresa? (tem várias)
 
-5. **Gassen+Kris:** Definir estrutura deles
+5. **Jean+Gassen+Kris:** Definir estrutura deles
    - Prazo: Até 21/Jan
-   - Como dividir os 49%? (conjunto ou separado?)
+   - Como dividir os 49% (decisão) e 50% (lucros) entre os 3?
+   - Critérios: Investimento histórico, criação marca, dedicação futura
    - Pessoa física ou jurídica?
+   - **Decisão tomada:** Todos 3 entram no contrato (divisão interna com Dr. Alexandre)
 
 #### Entregáveis
 
@@ -314,9 +320,10 @@ Validar parceria como prestador de serviço (não mais parceiro estratégico).
    - Parcelado ou integral?
    - Timeline de aportes
 
-2. **Gassen+Kris:** Confirmar capacidade investimento
+2. **Jean+Gassen+Kris:** Confirmar capacidade investimento
    - Prazo: Até 04/Fev
-   - R$ 1,274M disponível?
+   - R$ 1.053.150 disponível?
+   - Como dividir entre os 3? (Jean investidor principal histórico)
    - Parcelado ou integral?
    - Timeline de aportes
 
@@ -725,7 +732,14 @@ Preparar fábrica para exclusividade 100% nova empresa.
 ---
 
 **Documento criado:** 14/Jan/2026
+**Última revisão:** 15/Jan/2026 (Auditoria e Correções)
 **Responsável:** Gassen (via Claude Code)
 **Status:** Ativo e Crítico
 **Próxima Revisão:** Semanal (toda Segunda)
-**Baseado em:** Reunião Sansom 14/Jan/2026
+**Baseado em:** Reunião Sansom 14/Jan/2026 + VALORES_OFICIAIS.md
+
+**Correções aplicadas 15/Jan:**
+- Investimento: R$ 2.106.300 (não R$ 2.6M)
+- Divisão: 50/50 lucros (R$ 1.053.150 cada)
+- Sócios 49%: Jean+Gassen+Kris (todos 3 entram)
+- Valores alinhados com VALORES_OFICIAIS.md

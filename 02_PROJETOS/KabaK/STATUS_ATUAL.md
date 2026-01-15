@@ -5,7 +5,7 @@ atualizado: 2026-01-14T22:38:18-03:00
 
 # STATUS ATUAL - KabaK Reestruturação 2026
 
-**Última atualização:** 14/Jan/2026 - 14:00
+**Última atualização:** 15/Jan/2026 - 07:15 (Auditoria e Correções)
 
 ---
 
@@ -17,7 +17,7 @@ atualizado: 2026-01-14T22:38:18-03:00
 ### Última Ação (14/Jan/2026)
 
 - ✅ **REUNIÃO ESTRATÉGICA CONCLUÍDA** com Sansom, Gassen, Kris e Jean
-- ✅ **ACORDO VERBAL FIRMADO:** Sociedade 51% Sansom / 49% Gassen+Kris
+- ✅ **ACORDO VERBAL FIRMADO:** Sociedade 51% Sansom / 49% Jean+Gassen+Kris
 - ✅ **PIVÔ COMPLETO:** Titanium OUT / Nova Sociedade com Sansom IN
 - ✅ **MODELO DEFINIDO:** Replicar Atara (Fitness Feminino) com vantagens competitivas
 
@@ -34,9 +34,9 @@ atualizado: 2026-01-14T22:38:18-03:00
 - **Sociedade (Lucros/Econômico):** **50% Sansom** / **50% Jean+Gassen+Kris**
 - **Produção:** Fábrica Jean (Gabriele Confecções) = **Fornecedor Blindado** (Prestação Serviço)
 - **Marketing:** Titanium (terceirizado, R$ 60k/mês)
-- **Investimento:** R$ 2,6M em 6 meses (Proporcional à divisão de lucros 50/50)
+- **Investimento:** R$ 2.106.300 em 6 meses (Divisão 50/50: R$ 1.053.150 cada lado)
 - **Produto:** Kit Fitness Feminino (calça+top+short) R$ 129
-- **Meta:** Break-even mês 4 / ROI 155% ano 1
+- **Meta:** Break-even mês 4 (Ago/2026) / ROI 155% ano 1
 
 ---
 
@@ -146,9 +146,11 @@ atualizado: 2026-01-14T22:38:18-03:00
 
 ### Sócios (Nova Empresa)
 
-- **Sansom (51%):** Sócio majoritário, gestão financeira, importação China
-- **Gassen (49%):** Sócio operacional, interface marketing/e-commerce
-- **Kris (co-sócia 49%):** Co-sócia junto com Gassen
+- **Sansom (51% decisão / 50% lucros):** Sócio majoritário, gestão financeira, importação China
+- **Jean (parte dos 49% decisão / 50% lucros):** CEO, dono fábrica, produção
+- **Gassen (parte dos 49% decisão / 50% lucros):** Gestor marca, e-commerce, inovações
+- **Kris (parte dos 49% decisão / 50% lucros):** Co-criadora, desenvolvimento produto, operação produtiva
+- **Divisão interna 49%:** A definir com Dr. Alexandre
 
 ### Prestadores de Serviço
 
@@ -189,10 +191,10 @@ atualizado: 2026-01-14T22:38:18-03:00
 
 ### Curto Prazo (6 meses)
 
-- **Investimento:** R$ 2,6M (50/50)
+- **Investimento:** R$ 2.106.300 (50/50: R$ 1.053.150 cada lado)
 - **Produção:** 240k peças estoque
 - **Vendas:** 38k kits (114k peças)
-- **Resultado:** Break-even mês 4
+- **Resultado:** Break-even mês 4 (Agosto/2026)
 
 ### Médio Prazo (12 meses)
 

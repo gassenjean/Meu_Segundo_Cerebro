@@ -1,6 +1,6 @@
 ---
 criado: 2025-12-19T18:01:51-03:00
-atualizado: 2026-01-14T21:59:07-03:00
+atualizado: 2026-01-15T07:20:00-03:00
 ---
 
 # KabaK - Reestruturação e E-commerce 2026
@@ -19,10 +19,10 @@ Diferenciação clara entre poder político e direitos econômicos:
 
 - **Poder de Decisão (Político):**
   - **51% Sansom:** Voto de minerva, palavra final em impasses.
-  - **49% Jean+Gassen+Kris:** Gestão operacional e executiva.
+  - **49% Jean+Gassen+Kris:** Gestão operacional e executiva (divisão interna a definir).
 - **Direitos Econômicos (Lucros/Dividendos):**
   - **50% Sansom:** Retorno sobre capital e conexões China.
-  - **50% Jean+Gassen+Kris:** Retorno sobre *know-how*, operação e gestão.
+  - **50% Jean+Gassen+Kris:** Retorno sobre *know-how*, operação e gestão (divisão interna a definir).
 
 ### 2. Estratégia de Blindagem (Interligação Gabriele)
 
@@ -63,21 +63,21 @@ Reunião 2h30 com Sansom, Gassen, Kris e Jean. **ACORDO VERBAL FIRMADO:**
 **Sociedade:**
 
 - **51% Sansom:** Gestão financeira, importação China
-- **49% Gassen+Kris:** Operação, e-commerce
-- **Fábrica Jean:** Prestadora serviço (não sócia)
+- **49% Jean+Gassen+Kris:** Operação, e-commerce, produção (divisão interna a definir)
+- **Fábrica Jean:** Prestadora serviço (Jean também é sócio)
 
 **Investimento:**
 
-- **Total:** R$ 2,6M (6 meses)
-- **Sansom:** R$ 1,300M (50%)
-- **Jean+Gassen+Kris:** R$ 1,300M (50%)
+- **Total:** R$ 2.106.300 (6 meses)
+- **Sansom:** R$ 1.053.150 (50%)
+- **Jean+Gassen+Kris:** R$ 1.053.150 (50%)
 - **ROI:** 155% em 12 meses
 
 **Produto:**
 
 - Kit 3 peças (calça+top+short) R$ 129
 - Custo: R$ 45/kit (tecido China R$ 30 + fabricação R$ 15)
-- Margem: 51% líquida
+- Margem: 45,3% bruta
 - Meta: Break-even mês 4 (Ago/2026)
 
 **Próximos Passos Críticos:**
@@ -188,6 +188,7 @@ TOTAL:                    R$ 2.106.300
 
 - **Sansom (50%):** R$ 1.053.150
 - **Jean+Gassen+Kris (50%):** R$ 1.053.150
+  - Divisão interna entre Jean, Gassen e Kris: A definir com Dr. Alexandre
 
 ### Retorno Projetado
 
@@ -208,9 +209,9 @@ TOTAL:                    R$ 2.106.300
 **Última atualização:** 14/Jan/2026
 **Responsáveis:**
 
-- **Sansom (51%):** Gestão financeira, importação China
-- **Gassen (49%):** Operação, e-commerce
-- **Kris (co-sócia 49%):** Junto com Gassen
-- **Jean:** Prestador serviço (produção exclusiva)
+- **Sansom (51% decisão / 50% lucros):** Gestão financeira, importação China
+- **Jean (parte 49% decisão / 50% lucros):** CEO, produção (também prestador via fábrica)
+- **Gassen (parte 49% decisão / 50% lucros):** Operação, e-commerce, marca
+- **Kris (parte 49% decisão / 50% lucros):** Desenvolvimento produto, qualidade
 - **Titanium:** Prestador serviço (marketing)
 **Agente Suporte:** Pedro Sobral (Tráfego & Marketing)

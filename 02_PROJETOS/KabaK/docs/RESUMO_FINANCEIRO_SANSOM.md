@@ -1,6 +1,6 @@
 ---
 criado: 2026-01-14T15:45:00-03:00
-atualizado: 2026-01-14T22:37:57-03:00
+atualizado: 2026-01-15T07:40:00-03:00
 tipo: resumo_executivo_financeiro
 destinatario: Sansom
 prioridade: critica
@@ -8,9 +8,9 @@ prioridade: critica
 
 # RESUMO FINANCEIRO EXECUTIVO - Para Sansom
 
-**Data:** 14/Jan/2026
+**Data:** 14/Jan/2026 (Revisado 15/Jan/2026)
 **Projeto:** Sociedade KabaK com você (50% lucros) + Jean/Família (50% lucros)
-**Decisão:** 51% você (voto minerva) / 49% Jean (família)
+**Decisão:** 51% você (voto minerva) / 49% Jean+Gassen+Kris (gestão operacional)
 
 ---
 
@@ -37,17 +37,19 @@ DIVISÃO INTERNA FAMÍLIA: A definir com Dr. Alexandre
 ## 💰 O INVESTIMENTO
 
 ```
-SEU INVESTIMENTO (50%):          R$ 1.300.000
+SEU INVESTIMENTO (50%):          R$ 1.053.150  (arredondado R$ 1.3M)
+
+INVESTIMENTO TOTAL:              R$ 2.106.300
 
 QUANDO PRECISA:
-├── Pré-operacional (Jan-Abr):   R$   990.000  [maioria aqui]
-└── Operacional (Mai-Jun):       R$   310.000  [pequeno]
+├── Pré-operacional (Jan-Abr):   R$ 1.980.000  [94% aqui]
+└── Operacional (Mai-Jun):       R$   126.300  [6% déficit inicial]
 
-COMO USAR:
-├── Tecido China (seu):          R$   780.000  [você controla]
-├── Produção KabaK:              R$   640.000  [fábrica Jean/CEO]
-├── Marketing Titanium:          R$   195.000  [agência]
-└── Operação/Outros:             R$   285.000  [estrutura]
+COMO USAR (detalhado):
+├── Estoque (240k peças):        R$ 1.440.000  [68%]
+├── Marketing/Tráfego:           R$   100.000  [5%]
+├── Capital Giro/Estrutura:      R$   440.000  [21%]
+└── Déficit Operacional:         R$   126.300  [6%]
 ```
 
 ---
@@ -68,12 +70,14 @@ LUCRO JEAN/FAMÍLIA (50%):        R$  3.751.938 ✅
 ### ROI (RETORNO SOBRE INVESTIMENTO)
 
 ```
-Você investiu:                   R$ 1.300.000
+Você investiu:                   R$ 1.053.150
 Você lucrou (ano 1):             R$ 3.751.938
 
-ROI = 288% ✅✅✅
+ROI = 356% (perspectiva individual)
+Ou ROI = 155% (método conservador - considerando invest total)
 
-Ou seja: Para cada R$ 1 investido, você ganha R$ 2,88 de volta no primeiro ano.
+Ou seja: Para cada R$ 1 investido, você ganha R$ 3,56 de volta (individual)
+        ou R$ 1,55 de volta (conservador) no primeiro ano.
 ```
 
 ---
@@ -81,17 +85,17 @@ Ou seja: Para cada R$ 1 investido, você ganha R$ 2,88 de volta no primeiro ano.
 ## ⏱️ QUANDO RECUPERA O DINHEIRO?
 
 ```
-MÊS 1 (Mai):     -R$   59.453  [prejuízo - lançamento]
-MÊS 2 (Jun):     -R$    4.960  [prejuízo - escalando]
-MÊS 3 (Jul):     +R$  131.274  [POSITIVO! Break-even ✅]
-MÊS 4 (Ago):     +R$  237.711  [lucro crescendo]
-MÊS 5 (Set):     +R$  319.452  [lucro forte]
-MÊS 6 (Out):     +R$  406.292  [consolidado]
+MÊS 1 (Mai):     -R$  116.575  [prejuízo - lançamento]
+MÊS 2 (Jun):     -R$    9.725  [prejuízo - escalando]
+MÊS 3 (Jul):     +R$  257.400  [POSITIVO crescendo]
+MÊS 4 (Ago):     +R$  466.100  [BREAK-EVEN atingido ✅]
+MÊS 5 (Set):     +R$  626.375  [lucro forte]
+MÊS 6 (Out):     +R$  796.650  [consolidado]
 
-TOTAL 6 MESES:   +R$ 1.030.316
+TOTAL 6 MESES:   +R$ 2.020.225
 
-RECUPEROU INVESTIMENTO: Mês 4-5 (Agosto-Setembro) ✅
-DEPOIS: Só lucro puro! R$ 650k-900k/mês
+RECUPEROU INVESTIMENTO: Mês 4 (Agosto/2026) ✅
+DEPOIS: Só lucro puro! R$ 450k/mês (sua parte 50%)
 ```
 
 ---
@@ -475,6 +479,13 @@ Agora é **executar:**
 ---
 
 **Documento criado:** 14/Jan/2026
+**Última revisão:** 15/Jan/2026 (Auditoria e Correções)
 **Para:** Sansom (leitura rápida 10 minutos)
-**Baseado em:** Planilha completa 12 meses + Reunião 14/Jan
+**Baseado em:** Planilha completa 12 meses + Reunião 14/Jan + VALORES_OFICIAIS.md
 **Ação:** Validar e confirmar até 21/Jan
+
+**Correções aplicadas 15/Jan:**
+- Investimento: R$ 1.3M → R$ 1.053.150 (exato)
+- ROI: 288% → 155%/356% (ambos métodos válidos)
+- Break-even: Mês 3 → Mês 4 (conservador)
+- Sócios 49%: Jean+Gassen+Kris (todos entram)

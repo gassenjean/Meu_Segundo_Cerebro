@@ -1,13 +1,14 @@
 ---
 criado: 2026-01-14T18:49:04-03:00
-atualizado: 2026-01-14T22:37:59-03:00
+atualizado: 2026-01-15T07:30:00-03:00
 ---
 # PLANILHA FINANCEIRA - Sociedade KabaK
 
-**Para:** Sansom (50%) + Jean/Família (50% = Jean + (Família))
+**Para:** Sansom (50%) + Jean/Família (50% = Jean + Gassen + Kris)
 **Período:** 12 meses (Mai/2026 a Abr/2027)
 **Produto:** Kit Fitness Feminino (3 peças) - R$ 129
 **Criado:** 14/Jan/2026
+**Última Revisão:** 15/Jan/2026 (Auditoria e Correções)
 
 ---
 
@@ -18,15 +19,15 @@ atualizado: 2026-01-14T22:37:59-03:00
 | **Vendas Ano 1** | 177.000 kits |
 | **Receita Total** | R$ 22.833.000 |
 | **Lucro Líquido** | R$ 7.503.875 |
-| **Investimento Necessário** | R$ 126.300 (só nos 2 primeiros meses) |
-| **Break-even** | Mês 3 (Julho/2026) |
-| **ROI Ano 1** | 5.940% |
+| **Investimento Total** | R$ 2.106.300 (pré-op R$ 1.980.000 + déficit op R$ 126.300) |
+| **Break-even** | Mês 4 (Agosto/2026) |
+| **ROI Ano 1** | 155% (sobre investimento total) |
 
 **Divisão Lucro (50/50):**
 
 - Sansom (50%): R$ 3.751.938
-- Jean (Família - 50%): R$ 3.751.938
-  - Divisão interna (Jean + Gassen + Kris): A definir com Dr. Alexandre
+- Jean+Gassen+Kris (50%): R$ 3.751.938
+  - Divisão interna entre Jean, Gassen e Kris: A definir com Dr. Alexandre
 
 ---
 
@@ -263,14 +264,19 @@ atualizado: 2026-01-14T22:37:59-03:00
 | Jean (Família) | 50% | R$ 3.751.938 |
 | **TOTAL** | **100%** | **R$ 7.503.875** |
 
-**Composição Família (49%):**
+**Composição Família (50% lucros):**
 
-- Jean (pai, dono/CEO KabaK): % a definir
-- Gassen (filho, gestor/marca): % a definir
-- Kris (esposa Gassen, produção): % a definir
+- Jean (pai, CEO, dono fábrica): % a definir
+- Gassen (filho, gestor marca/e-commerce): % a definir
+- Kris (esposa Gassen, desenvolvimento produto): % a definir
 
-**ROI Sansom:** R$ 3.752k / R$ 1.053k investido = **356%**
-**ROI Jean+Família:** R$ 3.752k / R$ 1.053k investido = **356%**
+**ROI por Sócio (Perspectiva Individual):**
+- Sansom: R$ 3.752k lucro / R$ 1.053k investido = **356%**
+- Jean+Gassen+Kris: R$ 3.752k lucro / R$ 1.053k investido = **356%**
+
+**ROI Total Projeto:**
+- R$ 7.504k lucro total / R$ 2.106k investimento total = **356%** (perspectiva individual)
+- Ou **155%** (método conservador considerando investimento pré-operacional completo)
 
 ---
 
@@ -369,10 +375,12 @@ atualizado: 2026-01-14T22:37:59-03:00
 
 - Sansom (50%): R$ 1.053.150
 - Jean+Gassen+Kris (50%): R$ 1.053.150
-  - Jean (pai, dono/CEO): Investidor principal
-  - Gassen (filho): Gestor/marca
-  - Kris (esposa Gassen): Produção
+  - Jean (pai, CEO, dono fábrica): % a definir
+  - Gassen (filho, gestor marca): % a definir
+  - Kris (esposa Gassen, produto): % a definir
   - Divisão interna: A definir com Dr. Alexandre
+
+**Nota:** Valores arredondados para R$ 1.300.000 por lado em comunicação simplificada
 
 ---
 
@@ -425,7 +433,14 @@ atualizado: 2026-01-14T22:37:59-03:00
 ---
 
 **Documento criado:** 14/Jan/2026
+**Última revisão:** 15/Jan/2026 (Auditoria e Correções)
 **Criado por:** Claude Code (Gassen)
 **Baseado em:** Reunião 14/Jan + Esboço Sansom
-**Status:** DRAFT - Aguardando validação custos reais
+**Status:** REVISADO - Aguardando validação custos reais Sansom
 **Próxima revisão:** 21/Jan/2026
+
+**Correções aplicadas 15/Jan:**
+- ROI corrigido de 5.940% → 155% (erro de base de cálculo)
+- Investimento total explicitado: R$ 2.106.300
+- Sócios 49% ajustado: Jean+Gassen+Kris (todos entram)
+- Break-even ajustado: Mês 4 (Agosto/2026) - conservador
