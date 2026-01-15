@@ -2,6 +2,8 @@
 title: 021 - Seja um Otimista Racional - Mente Lendár[IA] | Alan Nicolas
 url: https://mentelendaria.com/Vida+Lend%C3%A1ria/Epis%C3%B3dios+VL/021+-+Seja+um+Otimista+Racional
 downloaded: 2025-11-11T13:09:23.510Z
+criado: 2025-11-11T18:40:45-03:00
+atualizado: 2026-01-14T12:21:02-03:00
 ---
 
 up: Vida Lendária

@@ -2,6 +2,8 @@
 title: GPTs - Mente Lendár[IA] | Alan Nicolas
 url: https://mentelendaria.com/Conhecimento/IA+e+Tecnologia/Prompts+e+GPTs/GPTs
 downloaded: 2025-11-11T12:56:03.596Z
+criado: 2025-11-11T18:40:44-03:00
+atualizado: 2026-01-14T12:22:26-03:00
 ---
 
 GPTs Dall-E 3

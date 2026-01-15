@@ -2,6 +2,8 @@
 title: MOC - PKM & Segundo Cérebro - Mente Lendár[IA] | Alan Nicolas
 url: https://mentelendaria.com/MOCs/MOC+-+PKM+%26+Segundo+C%C3%A9rebro
 downloaded: 2025-11-11T12:56:50.977Z
+criado: 2025-11-19T19:04:11-03:00
+atualizado: 2026-01-14T12:22:05-03:00
 ---
 
 MOC - PKM & Segundo Cérebro 

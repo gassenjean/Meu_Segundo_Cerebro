@@ -2,6 +2,8 @@
 title: Índice - Mente Lendár[IA] | Alan Nicolas
 url: https://mentelendaria.com/Vida+Lend%C3%A1ria/Epis%C3%B3dios+VL/%C3%8Dndice
 downloaded: 2025-11-11T12:43:44.362Z
+criado: 2025-11-11T18:40:40-03:00
+atualizado: 2026-01-14T12:21:02-03:00
 ---
 
 🎙️ Vida Lendária — Episódios 

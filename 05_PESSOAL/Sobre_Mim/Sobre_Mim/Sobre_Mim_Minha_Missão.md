@@ -2,6 +2,8 @@
 title: Minha Missão - Mente Lendár[IA] | Alan Nicolas
 url: https://mentelendaria.com/Sobre+Mim/Minha+Miss%C3%A3o
 downloaded: 2025-11-11T12:45:09.865Z
+criado: 2025-11-28T07:32:39-03:00
+atualizado: 2026-01-14T12:22:05-03:00
 ---
 
 Minha Missão 

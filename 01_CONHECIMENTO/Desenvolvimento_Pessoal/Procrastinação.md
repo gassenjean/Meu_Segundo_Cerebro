@@ -2,6 +2,8 @@
 title: Procrastinação - Mente Lendár[IA] | Alan Nicolas
 url: https://mentelendaria.com/Conhecimento/Desenvolvimento+Pessoal/Procrastina%C3%A7%C3%A3o
 downloaded: 2025-11-11T13:08:06.292Z
+criado: 2025-11-11T18:40:45-03:00
+atualizado: 2026-01-14T12:21:02-03:00
 ---
 
 Procrastinação 

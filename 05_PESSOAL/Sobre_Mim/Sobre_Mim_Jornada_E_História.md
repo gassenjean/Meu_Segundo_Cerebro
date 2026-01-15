@@ -2,6 +2,8 @@
 title: Jornada e História - Mente Lendár[IA] | Alan Nicolas
 url: https://mentelendaria.com/Sobre+Mim/Jornada+e+Hist%C3%B3ria
 downloaded: 2025-11-11T12:44:27.628Z
+criado: 2025-11-11T18:40:40-03:00
+atualizado: 2026-01-14T12:22:05-03:00
 ---
 
 Minha Jornada 

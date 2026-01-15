@@ -1,3 +1,7 @@
+---
+criado: 2025-11-28T07:32:39-03:00
+atualizado: 2026-01-14T12:22:05-03:00
+---
 ﻿---
 tipo: MOC
 categoria: Meta

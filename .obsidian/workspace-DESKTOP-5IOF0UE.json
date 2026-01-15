@@ -1,0 +1,328 @@
+{
+  "main": {
+    "id": "5324373015726ba8",
+    "type": "split",
+    "children": [
+      {
+        "id": "4509724f8bf84da7",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "e7a7b303c61786dc",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "RESUMO_COMPLETO_CULTIVO_31DEZ2025.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "RESUMO_COMPLETO_CULTIVO_31DEZ2025"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "b9774eaca1eabe79",
+    "type": "split",
+    "children": [
+      {
+        "id": "cf497fdef67649d5",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "cf321efad4a60738",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "byCreatedTime",
+                "autoReveal": false
+              },
+              "icon": "lucide-folder-closed",
+              "title": "Explorador de arquivos"
+            }
+          },
+          {
+            "id": "89c577c8bcbf1afd",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "tag:#consumir",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-search",
+              "title": "Procurar"
+            }
+          },
+          {
+            "id": "85be20b646130b9d",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {},
+              "icon": "lucide-bookmark",
+              "title": "Marcadores"
+            }
+          },
+          {
+            "id": "d98c5078a6c2cd9f",
+            "type": "leaf",
+            "state": {
+              "type": "recent-files",
+              "state": {},
+              "icon": "lucide-ghost",
+              "title": "recent-files"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 345.5
+  },
+  "right": {
+    "id": "b9a84feb070b7918",
+    "type": "split",
+    "children": [
+      {
+        "id": "fbf5977ba876e0b9",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "2d3c86c727d2d628",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "Anotações/vendas do dia 24 de janeiro.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-coming-in",
+              "title": "Links inversos para vendas do dia 24 de janeiro"
+            }
+          },
+          {
+            "id": "f1226c49ca60dc66",
+            "type": "leaf",
+            "state": {
+              "type": "calendar",
+              "state": {},
+              "icon": "lucide-ghost",
+              "title": "calendar"
+            }
+          },
+          {
+            "id": "53c9aa1def2fee2c",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "Formação_Lendária_2025/Aplicativos web com IA/Material_Original/4. Criando as primeiras interfaces.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-going-out",
+              "title": "Links de saída para 4. Criando as primeiras interfaces"
+            }
+          },
+          {
+            "id": "23f18feae4e41c93",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              },
+              "icon": "lucide-tags",
+              "title": "Tags"
+            }
+          },
+          {
+            "id": "5c9d1ef1b13b3131",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "Formação_Lendária_2025/N8N/MCP_Automa__o_no_N8N.pdf",
+                "followCursor": false,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-list",
+              "title": "Sumário de MCP_Automa__o_no_N8N"
+            }
+          },
+          {
+            "id": "885479531b1c51c0",
+            "type": "leaf",
+            "state": {
+              "type": "smart-chat-view",
+              "state": {},
+              "icon": "lucide-ghost",
+              "title": "smart-chat-view"
+            }
+          },
+          {
+            "id": "4938982304d25a25",
+            "type": "leaf",
+            "state": {
+              "type": "smart-connections-view",
+              "state": {},
+              "icon": "lucide-ghost",
+              "title": "smart-connections-view"
+            }
+          },
+          {
+            "id": "99e4816a4d8aa042",
+            "type": "leaf",
+            "state": {
+              "type": "custom-frames-chatgpt",
+              "state": {},
+              "icon": "lucide-ghost",
+              "title": "custom-frames-chatgpt"
+            }
+          },
+          {
+            "id": "360ecbe3061fc71f",
+            "type": "leaf",
+            "state": {
+              "type": "todo",
+              "state": {},
+              "icon": "lucide-ghost",
+              "title": "todo"
+            }
+          },
+          {
+            "id": "a83cfcc00d2f5839",
+            "type": "leaf",
+            "state": {
+              "type": "todo",
+              "state": {},
+              "icon": "lucide-ghost",
+              "title": "todo"
+            }
+          },
+          {
+            "id": "04ffb6af64fe55f4",
+            "type": "leaf",
+            "state": {
+              "type": "todo",
+              "state": {},
+              "icon": "lucide-ghost",
+              "title": "todo"
+            }
+          },
+          {
+            "id": "67cae5f454864dc3",
+            "type": "leaf",
+            "state": {
+              "type": "todo",
+              "state": {},
+              "icon": "checkmark",
+              "title": "Todo List"
+            }
+          }
+        ],
+        "currentTab": 11
+      }
+    ],
+    "direction": "horizontal",
+    "width": 315.5,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "bases:Criar nova base": false,
+      "graph:Abrir visualização em gráfico": false,
+      "switcher:Abrir a troca rápida": false,
+      "canvas:Criar novo canvas": false,
+      "daily-notes:Abrir a nota de hoje": false,
+      "templates:Inserir modelo": false,
+      "command-palette:Abrir paleta de comandos": false,
+      "obsidian-book-search-plugin:Create new book note": false,
+      "obsidian-custom-frames:Open ChatGPT": false,
+      "obsidian-emotion-picker:Emotions Picker": false,
+      "homepage:Open homepage": false,
+      "obsidian-kanban:Criar um novo quadro": false,
+      "table-editor-obsidian:Advanced Tables Toolbar": false,
+      "templater-obsidian:Templater": false,
+      "chat-with-bard:New Gemini Chat": false,
+      "obsidian-textgenerator-plugin:Generate Text!": false,
+      "obsidian-textgenerator-plugin:Text Generator: Templates Packages Manager": false,
+      "smart-connections:Open: Smart Chat": false,
+      "smart-connections:Smart Connections: Open connections view": false,
+      "smart-connections:Smart Connections: Open random connection": true,
+      "obsidian-excalidraw-plugin:New drawing": false,
+      "copilot:Open Copilot Chat": false
+    }
+  },
+  "active": "e7a7b303c61786dc",
+  "lastOpenFiles": [
+    "PROMPT_VERIFICACAO_GEMINI.md",
+    "PC_SYNC_LOG.md",
+    "ONDE_VER_CULTIVO_HOJE.md",
+    "SESSION_LOG.md.tmp.2216.1767228856615",
+    "RESUMO_COMPLETO_CULTIVO_31DEZ2025.md",
+    "_ul",
+    "00_SISTEMA/CHECKPOINTS/RESUMO_EXECUTIVO_ARSENAL_COMPLETO.md",
+    "00_SISTEMA/REFERENCIAS/QUICK_WINS_ARSENAL_BI_IA.md",
+    "nul",
+    "00_SISTEMA/CHECKPOINTS/CHECKLIST_IMPLEMENTACAO_ARSENAL_BI_IA.md",
+    "scripts/generate_super_doc.py",
+    "scripts",
+    "SESSION_LOG.md",
+    "STATUS_VAULT.md",
+    "CLAUDE.md",
+    "02_PROJETOS/KabaK/docs/PLANILHA_KABAK_PREENCHIDA.md",
+    "02_PROJETOS/KabaK/docs/DRAFT_RESPOSTA_OFICIAL_SANSOM.md",
+    "02_PROJETOS/KabaK/planejamento/PROPOSTA_FINAL_KABAK_SANSOM.md",
+    "02_PROJETOS/KabaK/planejamento/PLANO_CORRECAO_URGENTE.md",
+    "02_PROJETOS/KabaK/docs/CONFORMIDADE_PADROES.md",
+    "02_PROJETOS/KabaK/docs/Reuniao_Titanium_Analise.md",
+    "02_PROJETOS/KabaK/docs/Resumo_Parceria_Titanium_Socios.md",
+    "02_PROJETOS/KabaK/99_ARQUIVO/Legacy_2025/Outlet_Expansion/docs/PLANILHA_KABAK_PREENCHIDA_AUDITADA.md",
+    "02_PROJETOS/KabaK/checkpoints/CHECKPOINT_24DEZ2025_Correcao_Impostos.md",
+    "02_PROJETOS/KabaK/STATUS_ATUAL.md",
+    "02_PROJETOS/KabaK/README.md",
+    "02_PROJETOS/KabaK/CONFORMIDADE_PADROES.md",
+    "02_PROJETOS/KabaK/checkpoints/SUMARIO_AUDITORIA_24DEZ.md",
+    "02_PROJETOS/KabaK/checkpoints/RELATORIO_AUDITORIA_KABAK_24DEZ2025.md",
+    "02_PROJETOS/KabaK/RELATORIO_AUDITORIA_KABAK_24DEZ2025.md",
+    "02_PROJETOS/KabaK/docs/calculated_values.csv",
+    "02_PROJETOS/KabaK/docs/recalc_kabak.py",
+    "02_PROJETOS/KabaK/99_ARQUIVO/Legacy_2025/Outlet_Expansion/recursos/final_data_extraction.txt",
+    "02_PROJETOS/KabaK/99_ARQUIVO/Legacy_2025/Outlet_Expansion/recursos/Arquérito Ativa e Kabak.docx",
+    "02_PROJETOS/KabaK/99_ARQUIVO/Legacy_2025/Outlet_Expansion/recursos/Analise de negócio Jean x Samson.xlsx",
+    "Recursos/Anexos/Pasted image 20250814215313.png",
+    "Recursos/Anexos/Pasted image 20250814105405.png",
+    "tdah_app/bg.png",
+    "Projetos/work/minhas quatro zonas.canvas",
+    "Recursos/Sem título.canvas",
+    "Recursos/Anexos/Pasted image 20240930185539.png",
+    "Recursos/Anexos/Pasted image 20240930160054.png",
+    "Recursos/Anexos/Pasted image 20240917110938.png",
+    "Recursos/Anexos/Pasted image 20240923173026.png",
+    "Recursos/Anexos/Pasted image 20240923172921.png",
+    "Recursos/Anexos/Pasted image 20240905194012.png",
+    "Recursos/Anexos/Pasted image 20240917202743.png",
+    "Recursos/geladeira.canvas",
+    "Recursos/Teste Canva.canvas"
+  ]
+}

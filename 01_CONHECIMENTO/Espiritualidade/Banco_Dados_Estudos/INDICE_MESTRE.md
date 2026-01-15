@@ -1,3 +1,7 @@
+---
+criado: 2025-10-02T07:05:14-03:00
+atualizado: 2026-01-14T12:21:02-03:00
+---
 # 📚 ÍNDICE MESTRE - ESTUDOS DEVOCIONAIS GASSEN
 
 **Sistema de Documentação de Estudos Bíblicos Diários**  

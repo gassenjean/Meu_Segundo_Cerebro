@@ -1,6 +1,6 @@
 ---
 criado: 2026-01-14T15:45:00-03:00
-atualizado: 2026-01-14T15:45:00-03:00
+atualizado: 2026-01-14T22:37:57-03:00
 tipo: resumo_executivo_financeiro
 destinatario: Sansom
 prioridade: critica
@@ -27,6 +27,7 @@ DIVISÃO INTERNA FAMÍLIA: A definir com Dr. Alexandre
 ```
 
 **Explicação:**
+
 - **51%:** Você tem voto de minerva (desempate)
 - **50%:** Lucros divididos igualmente
 - Jean representa lado família (Jean+Gassen+Kris)
@@ -53,7 +54,8 @@ COMO USAR:
 
 ## 📈 O RETORNO
 
-### ANO 1 (12 meses):
+### ANO 1 (12 meses)
+
 ```
 VENDAS:                          177.000 kits
 FATURAMENTO:                     R$ 22.833.000
@@ -63,7 +65,8 @@ SEU LUCRO (50%):                 R$  3.751.938 ✅
 LUCRO JEAN/FAMÍLIA (50%):        R$  3.751.938 ✅
 ```
 
-### ROI (RETORNO SOBRE INVESTIMENTO):
+### ROI (RETORNO SOBRE INVESTIMENTO)
+
 ```
 Você investiu:                   R$ 1.300.000
 Você lucrou (ano 1):             R$ 3.751.938
@@ -95,7 +98,8 @@ DEPOIS: Só lucro puro! R$ 650k-900k/mês
 
 ## 💵 FLUXO DE CAIXA MENSAL
 
-### Primeiros 6 Meses:
+### Primeiros 6 Meses
+
 ```
 Mês 1 (Mai):  Vende 1.000 kits  = R$   129k receita → Prejuízo R$  59k
 Mês 2 (Jun):  Vende 3.000 kits  = R$   387k receita → Prejuízo R$   5k
@@ -105,7 +109,8 @@ Mês 5 (Set):  Vende 15.000 kits = R$ 1.935k receita → Lucro R$  319k
 Mês 6 (Out):  Vende 18.000 kits = R$ 2.322k receita → Lucro R$  406k
 ```
 
-### Depois (Meses 7-12):
+### Depois (Meses 7-12)
+
 ```
 Vendendo 20.000 kits/mês:
 
@@ -122,7 +127,8 @@ SEU LUCRO MENSAL (50%):          R$   456.750
 
 ## 📊 DE ONDE VEM O LUCRO?
 
-### POR KIT VENDIDO:
+### POR KIT VENDIDO
+
 ```
 PREÇO VENDA:                     R$ 129,00
 
@@ -140,6 +146,7 @@ MARGEM:                          45,3%
 ```
 
 **Exemplo:** Vendendo 20.000 kits/mês
+
 - Lucro bruto: 20.000 x R$ 58,42 = R$ 1.168.400
 - Custos fixos (marketing, equipe): R$ 255.000
 - **Lucro líquido: R$ 913.400/mês**
@@ -148,7 +155,8 @@ MARGEM:                          45,3%
 
 ## 🎯 CENÁRIOS
 
-### CONSERVADOR (Projeção base):
+### CONSERVADOR (Projeção base)
+
 ```
 Vendas ano 1:                    177.000 kits
 Faturamento:                     R$ 22.833.000
@@ -157,7 +165,8 @@ SEU LUCRO (50%):                 R$  3.751.938
 ROI:                             288%
 ```
 
-### OTIMISTA (+30% vendas):
+### OTIMISTA (+30% vendas)
+
 ```
 Vendas ano 1:                    230.000 kits
 Faturamento:                     R$ 29.670.000
@@ -166,7 +175,8 @@ SEU LUCRO (50%):                 R$  6.000.000+
 ROI:                             461%+
 ```
 
-### PESSIMISTA (-30% vendas):
+### PESSIMISTA (-30% vendas)
+
 ```
 Vendas ano 1:                    124.000 kits
 Faturamento:                     R$ 15.996.000
@@ -181,9 +191,10 @@ ROI:                             115%
 
 ## ⚙️ NÚMEROS IMPORTANTES VALIDAR
 
-### 🔴 URGENTE - Você precisa confirmar:
+### 🔴 URGENTE - Você precisa confirmar
 
 **1. CUSTO TECIDO CHINA:**
+
 ```
 Estamos usando:                  R$ 30,00 por kit (3 peças)
 Ou seja:                         R$ 10,00 por peça
@@ -212,6 +223,7 @@ SE CUSTO FOR MENOR:
 ---
 
 **2. CAPACIDADE INVESTIMENTO:**
+
 ```
 Você tem R$ 1.300.000 disponível (50%)?
 
@@ -233,13 +245,14 @@ C) Não tem:
    ❌ Crédito/financiamento?
 ```
 
-**ACTION:** Conversar com Patrícia e confirmar até 21/Jan!
+**ACTION:** Conversar com esposa e confirmar até 21/Jan!
 
 ---
 
 ## 🎁 DISTRIBUIÇÃO DE LUCROS
 
 ### OPÇÃO A: Reinveste 50% / Distribui 50%
+
 ```
 Lucro ano 1:                     R$ 7.503.875
 Você recebe (50% de 50%):        R$ 1.875.969 💰
@@ -249,6 +262,7 @@ VANTAGEM: Equilibrado (você ganha + empresa cresce)
 ```
 
 ### OPÇÃO B: Reinveste 70% / Distribui 30%
+
 ```
 Lucro ano 1:                     R$ 7.503.875
 Você recebe (50% de 30%):        R$ 1.125.581 💰
@@ -258,6 +272,7 @@ VANTAGEM: Crescimento rápido (menos pra você ano 1, mais depois)
 ```
 
 ### OPÇÃO C: Reinveste 30% / Distribui 70%
+
 ```
 Lucro ano 1:                     R$ 7.503.875
 Você recebe (50% de 70%):        R$ 2.626.356 💰
@@ -273,6 +288,7 @@ VANTAGEM: Máximo lucro ano 1 (recupera investimento + 102%)
 ## 🚨 RISCOS E COMO EVITAR
 
 ### RISCO 1: Tecido China atrasa
+
 ```
 PROBABILIDADE: Média (20-30%)
 IMPACTO: Alto (adia lançamento 1-2 meses)
@@ -284,6 +300,7 @@ SOLUÇÃO:
 ```
 
 ### RISCO 2: Vendas abaixo do esperado
+
 ```
 PROBABILIDADE: Baixa (15%)
 IMPACTO: Médio (break-even demora mais)
@@ -296,6 +313,7 @@ SOLUÇÃO:
 ```
 
 ### RISCO 3: Custo China maior que esperado
+
 ```
 PROBABILIDADE: Média (25%)
 IMPACTO: Médio (margem cai ~5%)
@@ -307,6 +325,7 @@ SOLUÇÃO:
 ```
 
 ### RISCO 4: Fábrica Jean limita produção
+
 ```
 PROBABILIDADE: Baixa (10%)
 IMPACTO: Médio (não consegue escalar rápido)
@@ -323,6 +342,7 @@ SOLUÇÃO:
 ## ✅ POR QUE ISSO VAI DAR CERTO?
 
 ### 1. MODELO VALIDADO
+
 ```
 Atara (concorrente):
 ├── Mesmo produto (kit fitness feminino)
@@ -334,6 +354,7 @@ Nós vamos replicar isso + vantagens competitivas.
 ```
 
 ### 2. VANTAGENS COMPETITIVAS
+
 ```
 vs Atara:
 ├── Custo 30-40% menor (seu tecido China)
@@ -343,6 +364,7 @@ vs Atara:
 ```
 
 ### 3. TIMING PERFEITO
+
 ```
 Mercado fitness feminino:
 ├── Crescendo 20% ao ano
@@ -352,6 +374,7 @@ Mercado fitness feminino:
 ```
 
 ### 4. PARCERIA FORTE
+
 ```
 Você (Sansom):               China, importação, financeiro
 Jean (Família):              CEO KabaK, produção, marca
@@ -367,9 +390,10 @@ Titanium (agência):          Marketing validado
 
 ## 🎯 PRÓXIMOS PASSOS (VOCÊ)
 
-### ESTA SEMANA (14-21/Jan):
+### ESTA SEMANA (14-21/Jan)
 
-**1. FALAR COM PATRÍCIA** ✅
+**1. FALAR COM ESPOSA** ✅
+
 - Mostrar este documento
 - Explicar investimento (R$ 1,300M = 50%)
 - Explicar retorno (R$ 3,75M ano 1 = 288% ROI)
@@ -377,6 +401,7 @@ Titanium (agência):          Marketing validado
 - Decidir: PF ou PJ? Integral ou parcelado?
 
 **2. PEDIR TECIDO CHINA** 🔥🔥🔥
+
 - Contatar fornecedores (pelo menos 3)
 - Pedir cotações (preço, prazo, qualidade)
 - Negociar (alvo R$ 10/peça, máx R$ 12)
@@ -384,6 +409,7 @@ Titanium (agência):          Marketing validado
 - Confirmar chegada Mar-Abr/2026
 
 **3. VALIDAR NÚMEROS** ✅
+
 - Custo real tecido China (R$ 30/kit OK?)
 - Capacidade investimento (R$ 1,300M = 50% OK?)
 - Forma de aporte (integral ou parcelado?)
@@ -393,11 +419,13 @@ Titanium (agência):          Marketing validado
 ## 📞 QUALQUER DÚVIDA
 
 **Gassen está à disposição:**
+
 - Telefone: [número]
 - WhatsApp: [número]
 - Email: [email]
 
 **Documentos completos:**
+
 - Este resumo (2 páginas - rápido)
 - Planilha detalhada 12 meses (20 páginas - completo)
 - Checklist suas ações (15 páginas - passo a passo)
@@ -409,6 +437,7 @@ Titanium (agência):          Marketing validado
 Sansom,
 
 Você está entrando em um negócio que:
+
 - **Modelo validado** (Atara faz R$ 10M/mês)
 - **Investimento claro** (R$ 1,326M)
 - **Retorno forte** (R$ 3,8M ano 1 = 288% ROI)
@@ -416,16 +445,19 @@ Você está entrando em um negócio que:
 - **Time completo** (você + Gassen + Jean + Titanium)
 
 **Sua parte crítica:**
+
 1. Tecido China (seu diferencial)
 2. Gestão financeira (51% = controle)
 3. Decisão final (1% casos de impasse)
 
 **Risco controlado:**
+
 - Mesmo cenário pessimista (-30% vendas) = lucro R$ 1,5M
 - Auditoria obrigatória (transparência total)
 - Contrato claro (saída sem briga)
 
 **Você mencionou na reunião:**
+
 - "Nunca fiz sociedade, quero fazer certo" ✅
 - "Não quero briga no futuro" ✅
 - "Vamos preparar o pior cenário" ✅
@@ -433,7 +465,8 @@ Você está entrando em um negócio que:
 **Estamos fazendo exatamente isso.**
 
 Agora é **executar:**
-1. Patrícia OK? ✅
+
+1. Esposa OK? ✅
 2. Tecido pedido? ✅
 3. Números validados? ✅
 

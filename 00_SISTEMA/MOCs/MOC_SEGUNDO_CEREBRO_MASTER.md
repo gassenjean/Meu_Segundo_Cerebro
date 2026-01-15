@@ -1,6 +1,6 @@
 ---
 criado: 2025-11-20T08:48:05-03:00
-atualizado: 2025-11-20T08:48:05-03:00
+atualizado: 2026-01-14T12:21:02-03:00
 ---
 # 🧠 MOC: CONSTRUÇÃO DO SEGUNDO CÉREBRO
 

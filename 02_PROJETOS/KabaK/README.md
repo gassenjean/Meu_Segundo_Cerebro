@@ -1,15 +1,38 @@
 ---
 criado: 2025-12-19T18:01:51-03:00
-atualizado: 2026-01-14T14:30:00-03:00
+atualizado: 2026-01-14T21:59:07-03:00
 ---
 
-# KabaK - Sociedade Sansom + E-commerce Fitness Feminino
+# KabaK - Reestruturação e E-commerce 2026
 
-**Status:** Sociedade Acordada / Estruturação Jurídica
-**Início:** 08/Dez/2025
-**Pivô:** 14/Jan/2026 (Reunião Sansom)
-**Lançamento:** Mai/2026
-**Prioridade:** 🔥 CRÍTICA
+**Status:** 🟡 Planejamento / Estruturação Jurídica
+**Parceria:** Sansom (Sócio) + Titanium (Marketing)
+**Produto:** Fitness Feminino (D2C)
+
+---
+
+## ⚖️ ESTRUTURA SOCIETÁRIA & JURÍDICA (DEFINIDO 14/JAN)
+
+### 1. Sociedade (KabaK Holding)
+
+Diferenciação clara entre poder político e direitos econômicos:
+
+- **Poder de Decisão (Político):**
+  - **51% Sansom:** Voto de minerva, palavra final em impasses.
+  - **49% Jean+Gassen+Kris:** Gestão operacional e executiva.
+- **Direitos Econômicos (Lucros/Dividendos):**
+  - **50% Sansom:** Retorno sobre capital e conexões China.
+  - **50% Jean+Gassen+Kris:** Retorno sobre *know-how*, operação e gestão.
+
+### 2. Estratégia de Blindagem (Interligação Gabriele)
+
+Para proteger a nova operação (KabaK) dos passivos da antiga fábrica:
+
+- **KabaK (Novo CNPJ):** Nasce "limpa", sem dívidas. É a detentora da marca, vendas e caixa.
+- **Gabriele Confecções (Fábrica):** Atua exclusivamente como **FORNECEDORA / PRESTADORA DE SERVIÇO**.
+  - Não há confusão patrimonial.
+  - A KabaK contrata a produção da Gabriele (modelo "Beto a Beto" ou Custo + Margem operacional).
+  - Passivos da Gabriele (R$ 5MM) ficam isolados na fábrica, sem contaminar a KabaK.
 
 ---
 
@@ -19,7 +42,8 @@ atualizado: 2026-01-14T14:30:00-03:00
 
 Sociedade 51% Sansom / 49% Gassen+Kris para lançar e-commerce Fitness Feminino replicando modelo Atara (R$ 10M/mês em 1 ano).
 
-### Novo Modelo:
+### Novo Modelo
+
 - ✅ **Sociedade Sansom** (51/49) - Acordo verbal firmado
 - ✅ **Produto Definido:** Kit Fitness Feminino (R$ 129)
 - ✅ **Estratégia:** Replicar Atara com vantagens competitivas
@@ -37,23 +61,27 @@ Sociedade 51% Sansom / 49% Gassen+Kris para lançar e-commerce Fitness Feminino 
 Reunião 2h30 com Sansom, Gassen, Kris e Jean. **ACORDO VERBAL FIRMADO:**
 
 **Sociedade:**
+
 - **51% Sansom:** Gestão financeira, importação China
 - **49% Gassen+Kris:** Operação, e-commerce
 - **Fábrica Jean:** Prestadora serviço (não sócia)
 
 **Investimento:**
+
 - **Total:** R$ 2,6M (6 meses)
-- **Sansom:** R$ 1,326M (51%)
-- **Gassen+Kris:** R$ 1,274M (49%)
+- **Sansom:** R$ 1,300M (50%)
+- **Jean+Gassen+Kris:** R$ 1,300M (50%)
 - **ROI:** 155% em 12 meses
 
 **Produto:**
+
 - Kit 3 peças (calça+top+short) R$ 129
 - Custo: R$ 45/kit (tecido China R$ 30 + fabricação R$ 15)
 - Margem: 51% líquida
 - Meta: Break-even mês 4 (Ago/2026)
 
 **Próximos Passos Críticos:**
+
 1. Dr. Alexandre: Estruturar contratos (15 dias)
 2. Sansom: Pedir tecido China (URGENTE - chega Mar/Abr)
 3. Planilha financeira detalhada (7 dias)
@@ -62,12 +90,16 @@ Reunião 2h30 com Sansom, Gassen, Kris e Jean. **ACORDO VERBAL FIRMADO:**
 ## 🔗 Links Importantes
 
 ### 🔥 CRÍTICOS (Pós 14/Jan/2026)
+
+- [[planejamento/PLANILHA_SANSOM_SIMPLES.md]] - **PLANILHA FINANCEIRA OFICIAL (SIMPLES)** 🔥
 - [[docs/RESUMO_EXECUTIVO_REUNIAO_SANSOM.md]] - **RESUMO COMPLETO REUNIÃO** 🔥
 - [[planejamento/PROXIMOS_PASSOS_SOCIEDADE_SANSOM.md]] - **PRÓXIMOS PASSOS DETALHADOS** 🔥
 - [[STATUS_ATUAL.md]] - Status detalhado atualizado
 - [[docs/Reunião Sansom transcrição.md]] - Transcrição completa reunião
 
 ### 📋 Históricos (Pré 14/Jan/2026)
+
+- [[planejamento/PLANILHA_FINANCEIRA_12_MESES.md]] - Financeiro Detalhado (12 Meses)
 - [[planejamento/PROPOSTA_FINAL_KABAK_SANSOM.md]] - Proposta inicial Sansom
 - [[docs/Resumo_Parceria_Titanium_Socios.md]] - Dossiê Titanium (SUPERADO)
 - [[docs/PLANILHA_KABAK_PREENCHIDA.md]] - Financeiro Detalhado (base)
@@ -143,25 +175,29 @@ Reunião 2h30 com Sansom, Gassen, Kris e Jean. **ACORDO VERBAL FIRMADO:**
 **Modelo:** Sociedade 51% Sansom / 49% Gassen+Kris
 
 ### Investimento Total (6 meses)
+
 ```
-Estoque (240k peças):     R$ 1.500.000
-Marketing (Titanium):     R$   600.000 (R$ 60k x 6 + tráfego R$ 40k x 6)
-Estrutura/Operacional:    R$   500.000
+Estoque (240k peças):     R$ 1.440.000
+Marketing/Setup/Giro:     R$   540.000
+Déficit Operacional:      R$   126.300
 ---------------------------------------
-TOTAL:                    R$ 2.600.000
+TOTAL:                    R$ 2.106.300
 ```
 
 ### Divisão Societária
-- **Sansom (51%):** R$ 1.326.000
-- **Gassen+Kris (49%):** R$ 1.274.000
+
+- **Sansom (50%):** R$ 1.053.150
+- **Jean+Gassen+Kris (50%):** R$ 1.053.150
 
 ### Retorno Projetado
+
 - **Break-even:** Mês 4 (Ago/2026)
 - **ROI Ano 1:** 155%
 - **Faturamento Alvo:** R$ 3-5M/mês (conservador)
 - **Lucro Alvo:** R$ 1-1,5M/mês (a partir mês 7)
 
 ### Custos Operacionais (após investimento inicial)
+
 - **Titanium:** R$ 60.000/mês
 - **Tráfego Pago:** R$ 40-100k/mês (variável)
 - **Produção Jean:** Custo + 5-10% (prestação serviço)
@@ -171,6 +207,7 @@ TOTAL:                    R$ 2.600.000
 
 **Última atualização:** 14/Jan/2026
 **Responsáveis:**
+
 - **Sansom (51%):** Gestão financeira, importação China
 - **Gassen (49%):** Operação, e-commerce
 - **Kris (co-sócia 49%):** Junto com Gassen

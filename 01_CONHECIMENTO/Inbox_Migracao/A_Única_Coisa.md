@@ -2,6 +2,8 @@
 title: A única coisa - Mente Lendár[IA] | Alan Nicolas
 url: https://mentelendaria.com/Recursos/Livros/A+%C3%BAnica+coisa
 downloaded: 2025-11-11T13:11:31.592Z
+criado: 2025-11-11T18:40:45-03:00
+atualizado: 2026-01-14T12:21:02-03:00
 ---
 
 Episódios do Vida Lendária relacionados:

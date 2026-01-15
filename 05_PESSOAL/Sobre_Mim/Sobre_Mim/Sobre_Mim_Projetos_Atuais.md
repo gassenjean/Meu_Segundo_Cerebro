@@ -2,6 +2,8 @@
 title: Projetos Atuais - Mente Lendár[IA] | Alan Nicolas
 url: https://mentelendaria.com/Sobre+Mim/Projetos+Atuais
 downloaded: 2025-11-11T12:45:12.907Z
+criado: 2025-11-28T07:32:39-03:00
+atualizado: 2026-01-14T12:22:05-03:00
 ---
 
 Projetos em Andamento 

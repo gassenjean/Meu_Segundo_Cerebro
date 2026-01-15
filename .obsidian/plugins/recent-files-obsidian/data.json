@@ -1,92 +1,32 @@
 {
   "recentFiles": [
     {
-      "basename": "PLANILHA_SANSOM_SIMPLES",
-      "path": "02_PROJETOS/KabaK/planejamento/PLANILHA_SANSOM_SIMPLES.md"
-    },
-    {
-      "basename": "tabela_kabak_v5",
-      "path": "02_PROJETOS/KabaK/planejamento/recursos/tabela_kabak_v5.png"
+      "basename": "BRIEFING_DR_ALEXANDRE",
+      "path": "02_PROJETOS/KabaK/docs/BRIEFING_DR_ALEXANDRE.md"
     },
     {
       "basename": "RESUMO_FINANCEIRO_SANSOM",
       "path": "02_PROJETOS/KabaK/docs/RESUMO_FINANCEIRO_SANSOM.md"
     },
     {
+      "basename": "CHECKLIST_SANSOM",
+      "path": "02_PROJETOS/KabaK/docs/CHECKLIST_SANSOM.md"
+    },
+    {
+      "basename": "RESUMO_EXECUTIVO_REUNIAO_SANSOM",
+      "path": "02_PROJETOS/KabaK/docs/RESUMO_EXECUTIVO_REUNIAO_SANSOM.md"
+    },
+    {
+      "basename": "PLANILHA_GERAL_KABAK",
+      "path": "02_PROJETOS/KabaK/planejamento/PLANILHA_GERAL_KABAK.md"
+    },
+    {
       "basename": "PLANILHA_FINANCEIRA_12_MESES",
       "path": "02_PROJETOS/KabaK/planejamento/PLANILHA_FINANCEIRA_12_MESES.md"
     },
     {
-      "basename": "PROXIMOS_PASSOS_SOCIEDADE_SANSOM",
-      "path": "02_PROJETOS/KabaK/planejamento/PROXIMOS_PASSOS_SOCIEDADE_SANSOM.md"
-    },
-    {
-      "basename": "PLANILHA_KABAK_SANSOM.xlsx",
-      "path": "recursos/PLANILHA_KABAK_SANSOM.xlsx.md"
-    },
-    {
-      "basename": "Shopee Fechamento 2025 comissão Oseias",
-      "path": "Shopee Fechamento 2025 comissão Oseias.md"
-    },
-    {
-      "basename": "SESSION_LOG_ARCHIVE_2024-2025",
-      "path": "SESSION_LOG_ARCHIVE_2024-2025.md"
-    },
-    {
-      "basename": "PROMPT_VERIFICACAO_GEMINI",
-      "path": "PROMPT_VERIFICACAO_GEMINI.md"
-    },
-    {
-      "basename": "CHECKLIST_Setup_Claude_Code_Pro",
-      "path": "CHECKLIST_Setup_Claude_Code_Pro.md"
-    },
-    {
-      "basename": "GUIA_Claude_Code_Workflows_Avancados",
-      "path": "GUIA_Claude_Code_Workflows_Avancados.md"
-    },
-    {
-      "basename": "PROMPT_PARA_GEMINI_ARQUIVO2",
-      "path": "PROMPT_PARA_GEMINI_ARQUIVO2.md"
-    },
-    {
-      "basename": "GUIA_Antigravity_Draft",
-      "path": "GUIA_Antigravity_Draft.md"
-    },
-    {
-      "basename": "CLAUDE",
-      "path": "CLAUDE.md"
-    },
-    {
-      "basename": "PC_SYNC_LOG",
-      "path": "PC_SYNC_LOG.md"
-    },
-    {
-      "basename": "README",
-      "path": "README.md"
-    },
-    {
-      "basename": "STATUS_VAULT",
-      "path": "STATUS_VAULT.md"
-    },
-    {
-      "basename": "SESSION_LOG",
-      "path": "SESSION_LOG.md"
-    },
-    {
-      "basename": "PLANO_CORRECAO_URGENTE",
-      "path": "02_PROJETOS/KabaK/planejamento/PLANO_CORRECAO_URGENTE.md"
-    },
-    {
-      "basename": "PROPOSTA_FINAL_KABAK_SANSOM",
-      "path": "02_PROJETOS/KabaK/planejamento/PROPOSTA_FINAL_KABAK_SANSOM.md"
-    },
-    {
-      "basename": "PLANILHA_KABAK_PREENCHIDA",
-      "path": "02_PROJETOS/KabaK/docs/PLANILHA_KABAK_PREENCHIDA.md"
-    },
-    {
-      "basename": "DRAFT_RESPOSTA_OFICIAL_SANSOM",
-      "path": "02_PROJETOS/KabaK/docs/DRAFT_RESPOSTA_OFICIAL_SANSOM.md"
+      "basename": "PLANILHA_SANSOM_SIMPLES",
+      "path": "02_PROJETOS/KabaK/planejamento/PLANILHA_SANSOM_SIMPLES.md"
     },
     {
       "basename": "Reuniao_Titanium_Transcricao",
@@ -97,44 +37,52 @@
       "path": "02_PROJETOS/KabaK/docs/Reuniao_Titanium_Analise.md"
     },
     {
-      "basename": "CONFORMIDADE_PADROES",
-      "path": "02_PROJETOS/KabaK/docs/CONFORMIDADE_PADROES.md"
-    },
-    {
       "basename": "Resumo_Parceria_Titanium_Socios",
       "path": "02_PROJETOS/KabaK/docs/Resumo_Parceria_Titanium_Socios.md"
     },
     {
-      "basename": "Reunião Sansom transcrição",
-      "path": "02_PROJETOS/KabaK/docs/Reunião Sansom transcrição.md"
+      "basename": "DRAFT_RESPOSTA_OFICIAL_SANSOM",
+      "path": "02_PROJETOS/KabaK/docs/DRAFT_RESPOSTA_OFICIAL_SANSOM.md"
     },
     {
-      "basename": "CHECKLIST_SANSOM",
-      "path": "02_PROJETOS/KabaK/docs/CHECKLIST_SANSOM.md"
+      "basename": "CONFORMIDADE_PADROES",
+      "path": "02_PROJETOS/KabaK/docs/CONFORMIDADE_PADROES.md"
     },
     {
-      "basename": "CORRECOES_ESTRUTURA_SOCIETARIA",
-      "path": "02_PROJETOS/KabaK/docs/CORRECOES_ESTRUTURA_SOCIETARIA.md"
+      "basename": "PLANILHA_KABAK_PREENCHIDA",
+      "path": "02_PROJETOS/KabaK/docs/PLANILHA_KABAK_PREENCHIDA.md"
     },
     {
-      "basename": "RESUMO_EXECUTIVO_REUNIAO_SANSOM",
-      "path": "02_PROJETOS/KabaK/docs/RESUMO_EXECUTIVO_REUNIAO_SANSOM.md"
+      "basename": "PROPOSTA_FINAL_KABAK_SANSOM",
+      "path": "02_PROJETOS/KabaK/planejamento/PROPOSTA_FINAL_KABAK_SANSOM.md"
     },
     {
-      "basename": "BRIEFING_DR_ALEXANDRE",
-      "path": "02_PROJETOS/KabaK/docs/BRIEFING_DR_ALEXANDRE.md"
+      "basename": "PROXIMOS_PASSOS_SOCIEDADE_SANSOM",
+      "path": "02_PROJETOS/KabaK/planejamento/PROXIMOS_PASSOS_SOCIEDADE_SANSOM.md"
     },
     {
       "basename": "README",
-      "path": "02_PROJETOS/KabaK/README.md"
+      "path": "02_PROJETOS/KabaK/tarefas/README.md"
     },
     {
-      "basename": "Reunião Sansom transcrição",
-      "path": "Reunião Sansom transcrição.md"
+      "basename": "BACKLOG",
+      "path": "02_PROJETOS/KabaK/tarefas/BACKLOG.md"
     },
     {
-      "basename": "PLANILHA_KABAK_PREENCHIDA_AUDITADA",
-      "path": "02_PROJETOS/KabaK/99_ARQUIVO/Legacy_2025/Outlet_Expansion/docs/PLANILHA_KABAK_PREENCHIDA_AUDITADA.md"
+      "basename": "TODO_Sprint_Atual",
+      "path": "02_PROJETOS/KabaK/tarefas/TODO_Sprint_Atual.md"
+    },
+    {
+      "basename": "CONCLUIDAS",
+      "path": "02_PROJETOS/KabaK/tarefas/CONCLUIDAS.md"
+    },
+    {
+      "basename": "REFERENCIAS",
+      "path": "02_PROJETOS/KabaK/recursos/REFERENCIAS.md"
+    },
+    {
+      "basename": "DASHBOARD",
+      "path": "02_PROJETOS/KabaK/metricas/DASHBOARD.md"
     },
     {
       "basename": "STATUS_ATUAL",
@@ -142,7 +90,31 @@
     },
     {
       "basename": "README",
-      "path": "02_PROJETOS/KabaK/tarefas/README.md"
+      "path": "02_PROJETOS/KabaK/README.md"
+    },
+    {
+      "basename": "PLANO_CORRECAO_URGENTE",
+      "path": "02_PROJETOS/KabaK/planejamento/PLANO_CORRECAO_URGENTE.md"
+    },
+    {
+      "basename": "CLAUDE",
+      "path": "CLAUDE.md"
+    },
+    {
+      "basename": "PC_SYNC_LOG",
+      "path": "PC_SYNC_LOG.md"
+    },
+    {
+      "basename": "SESSION_LOG",
+      "path": "SESSION_LOG.md"
+    },
+    {
+      "basename": "STATUS_VAULT",
+      "path": "STATUS_VAULT.md"
+    },
+    {
+      "basename": "PLANILHA_KABAK_PREENCHIDA_AUDITADA",
+      "path": "02_PROJETOS/KabaK/99_ARQUIVO/Legacy_2025/Outlet_Expansion/docs/PLANILHA_KABAK_PREENCHIDA_AUDITADA.md"
     },
     {
       "basename": "README",
@@ -189,12 +161,32 @@
       "path": "05_PESSOAL/Sobre_Mim/Sobre_Mim/Sobre_Mim_Essência.md"
     },
     {
+      "basename": "README",
+      "path": "README.md"
+    },
+    {
       "basename": "PROTOCOLO_REVISAO_SEMANAL",
       "path": "00_SISTEMA/PROTOCOLOS/PROTOCOLO_REVISAO_SEMANAL.md"
     },
     {
       "basename": "PROTOCOLO_CRIACAO_ARQUIVOS",
       "path": "00_SISTEMA/PROTOCOLOS/PROTOCOLO_CRIACAO_ARQUIVOS.md"
+    },
+    {
+      "basename": "PROTOCOLO_SINCRONIZACAO_AGENTES",
+      "path": "00_SISTEMA/PROTOCOLOS/PROTOCOLO_SINCRONIZACAO_AGENTES.md"
+    },
+    {
+      "basename": "GUIA_RAPIDO_COMANDOS",
+      "path": "00_SISTEMA/GUIA_RAPIDO_COMANDOS.md"
+    },
+    {
+      "basename": "CHECKPOINT_28NOV2025_Limpeza_Radical",
+      "path": "00_SISTEMA/CHECKPOINTS/CHECKPOINT_28NOV2025_Limpeza_Radical.md"
+    },
+    {
+      "basename": "SESSAO_ENCERRADA_28NOV2025",
+      "path": "00_SISTEMA/CHECKPOINTS/SESSAO_ENCERRADA_28NOV2025.md"
     }
   ],
   "omittedPaths": [],

@@ -1,3 +1,7 @@
+---
+criado: 2025-12-31T13:13:54-03:00
+atualizado: 2026-01-14T12:22:05-03:00
+---
 # ⏰ SISTEMA: FOTOPERÍODO
 
 **Componente:** Ciclo luz/escuro

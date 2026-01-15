@@ -2,7 +2,7 @@
 criado: 2025-11-28
 tipo: checkpoint
 status: concluido
-atualizado: 2025-11-28T11:51:59-03:00
+atualizado: 2026-01-14T12:21:02-03:00
 ---
 
 # ✅ LIMPEZA RADICAL CONCLUÍDA

@@ -3,7 +3,7 @@ title: Simon Sinek - Mente Lendár[IA] | Alan Nicolas
 url: https://mentelendaria.com/Recursos/Autores+%26+Pensadores/Simon+Sinek
 downloaded: 2025-11-11T12:57:45.464Z
 criado: 2025-11-28T07:32:39-03:00
-atualizado: 2025-11-28T13:01:56-03:00
+atualizado: 2026-01-14T12:21:02-03:00
 ---
 
 Tag: #escritor Principais Tópicos:

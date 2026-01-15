@@ -1,6 +1,6 @@
 ---
 criado: 2025-12-02T11:38:00-03:00
-atualizado: 2026-01-14T15:06:04-03:00
+atualizado: 2026-01-14T23:53:56-03:00
 ---
 
 # 📡 PC Sync Log - Comunicação Alienware ↔ Desktop Casa
@@ -33,6 +33,37 @@ Este arquivo permite que o **Alienware** (notebook trabalho/externo) e o **Deskt
 ---
 
 ## 📋 ÚLTIMAS MUDANÇAS (Últimas 10 sessões)
+
+### 💻 Alienware - 14/01/2026 (23:55) ✨ LIMPEZA VAULT + KABAK JURÍDICO
+
+**Ações realizadas:**
+
+- ✅ **KabaK:** Correção massiva do nome da esposa do Sansom e consolidação do Briefing Jurídico.
+- ✅ **Limpeza Vault:** Raiz organizada. Pastas `recursos`, `scripts` e arquivos soltos movidos para locais corretos (00-05).
+- ✅ **Docs:** Criação de pastas para Shopee e Cultivo.
+
+**Arquivos modificados:**
+
+- `BRIEFING_DR_ALEXANDRE.md` (Finalizado)
+- Estrutura de pastas da raiz (Organizada)
+
+**Próximos passos sugeridos:**
+
+- [ ] Desktop: Validar se a estrutura nova da raiz sincronizou corretamente.
+- [ ] KabaK: Enviar docs para Sansom/Advogado.
+
+**Mensagem para Desktop Casa:**
+
+> **Alienware para Desktop!**
+>
+> Dei uma geral na casa! A raiz do vault estava bagunçada com pastas duplicadas (`recursos`, `scripts`) e arquivos soltos.
+> Usei o workflow de limpeza e organizei tudo nas pastas numeradas padrão.
+>
+> No KabaK, corrigi o nome da esposa do Sansom (estava "Patrícia" errado/chute) para "[Esposa Sansom]" em tudo. O Briefing jurídico está pronto.
+>
+> Sincroniza aí e confere se ficou tudo 100%!
+
+---
 
 ### 💻 Alienware - 14/01/2026 (15:00) 🧪 TESTE GITHUB + AUDITORIA BI-IA
 

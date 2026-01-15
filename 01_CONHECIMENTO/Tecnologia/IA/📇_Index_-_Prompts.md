@@ -2,6 +2,8 @@
 title: 📇 Index - Prompts - Mente Lendár[IA] | Alan Nicolas
 url: https://mentelendaria.com/IA/Prompts/%F0%9F%93%87+Index+-+Prompts
 downloaded: 2025-11-11T12:55:13.122Z
+criado: 2025-11-11T18:40:44-03:00
+atualizado: 2026-01-14T12:21:02-03:00
 ---
 
 📇 Index — Prompts & IA Agents 

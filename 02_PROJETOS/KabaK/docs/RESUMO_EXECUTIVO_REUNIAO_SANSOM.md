@@ -1,6 +1,6 @@
 ---
 criado: 2026-01-14T13:30:00-03:00
-atualizado: 2026-01-14T15:24:16-03:00
+atualizado: 2026-01-14T22:38:20-03:00
 tipo: resumo_executivo
 prioridade: alta
 status: consolidado
@@ -30,18 +30,21 @@ status: consolidado
 ## 👥 ESTRUTURA FAMILIAR/SOCIETÁRIA
 
 ### KabaK Atual (Empresa Familiar)
+
 - **Jean:** Dono e CEO atual, investidor principal (pai Gassen)
 - **Gassen:** Filho Jean, criador da marca, gestor, inovações, projetos
 - **Kris:** Esposa Gassen, co-criadora, cuida processo produtivo
 - **Status:** Empresa familiar (investimento 100% Jean, operação Gassen+Kris)
 
 ### Nova Sociedade com Sansom
+
 - **Sansom:** Empresário chinês, sócio 51% (decisão), 50% (lucros)
 - **Jean (Família):** Sócio 49% (decisão), 50% (lucros)
   - Representa: Jean + Gassen + Kris
   - Divisão interna: A definir com Dr. Alexandre
 
 ### Modelo Operacional
+
 - **Produção:** KabaK atual (Jean CEO + Kris produção)
   - Capacidade 80k peças/mês
   - Exclusividade para nova sociedade
@@ -57,12 +60,15 @@ status: consolidado
 ## 💼 MODELO DE NEGÓCIO
 
 ### Produto Inicial
+
 **Kit Fitness Feminino** (3 peças: calça + top + short)
+
 - **Preço:** R$ 129 por kit
 - **Custo:** R$ 45 por kit (tecido + fabricação)
 - **Margem:** R$ 84 por kit (~65%)
 
 ### Especificações Técnicas
+
 - **Tecido:** Poliéster 90/10 fundo preto (zero transparência)
 - **Fornecimento:** China (Sansom)
 - **Produção:** Fábrica Jean (MG)
@@ -73,17 +79,19 @@ status: consolidado
 ## 💰 INVESTIMENTO & PROJEÇÃO
 
 ### Investimento Inicial (6 meses)
+
 ```
 Estoque (240k peças):     R$ 1.500.000
 Marketing (6 meses):      R$   600.000
 Estrutura/Operacional:    R$   500.000
 --------------------------------
-TOTAL:                    R$ 2.600.000
+TOTAL:                    R$ 2.106.300
 ```
 
 ### Divisão do Investimento
-- **Sansom:** 50% (lucros) = R$ 1.300.000
-- **Jean (Família):** 50% (lucros) = R$ 1.300.000
+
+- **Sansom:** 50% (lucros) = R$ 1.053.150
+- **Jean (Família):** 50% (lucros) = R$ 1.053.150
   - Jean (pai, dono atual)
   - Gassen (filho, gestor)
   - Kris (produção)
@@ -95,6 +103,7 @@ TOTAL:                    R$ 2.600.000
 **Alternativa:** Sansom pode entrar com maior % inicial e ajustar posteriormente
 
 ### Projeção de Vendas (Conservadora)
+
 | Mês | Kits Vendidos | Receita      | Lucro Líquido | Status     |
 |-----|---------------|--------------|---------------|------------|
 | 1   | 1.000         | R$ 129.000   | -R$ 517.000   | Investimento |
@@ -111,6 +120,7 @@ TOTAL:                    R$ 2.600.000
 ## 🚀 ESTRATÉGIA: REPLICAR ATARA
 
 ### Por que Atara?
+
 - **Faturamento:** R$ 10 milhões/mês
 - **Tempo:** 1 ano de operação (marca criada em 2025)
 - **Produto:** Kits Fitness Feminino (mesmo nicho)
@@ -118,6 +128,7 @@ TOTAL:                    R$ 2.600.000
 - **Público:** Validado (3º lugar em visitas, atrás só Nike/Adidas)
 
 ### Nossas Vantagens vs Atara
+
 | Aspecto            | Atara            | Kabak                  | Vantagem |
 |--------------------|------------------|------------------------|----------|
 | Produção/mês       | Limitada         | 80k peças              | ✅ 100%+ |
@@ -134,6 +145,7 @@ TOTAL:                    R$ 2.600.000
 ## 📊 ESTRUTURA DE CUSTOS
 
 ### Custos Fixos Mensais
+
 ```
 Marketing Titanium:       R$  60.000
 Tráfego Pago (inicial):   R$  40.000
@@ -145,6 +157,7 @@ TOTAL FIXO:               R$ 150.000/mês
 ```
 
 ### Custos Variáveis
+
 ```
 Tecido (por kit):         R$  30,00
 Fabricação (por kit):     R$  15,00
@@ -153,6 +166,7 @@ TOTAL VARIÁVEL:           R$  45,00/kit
 ```
 
 ### Estrutura de Preço
+
 ```
 Venda (por kit):          R$ 129,00
 (-) Custo kit:            R$  45,00
@@ -167,24 +181,28 @@ MARGEM LÍQUIDA:           R$  65,29 (51% líquido)
 ## 🏭 ESTRUTURA OPERACIONAL
 
 ### Produção (Responsabilidade: Jean + família)
+
 - **Local:** Fábrica MG (prédio próprio Jean)
 - **Capacidade Atual:** 40 costureiras
 - **Capacidade Máxima:** 400 costureiras (se necessário)
 - **Produção/mês:** 80.000 peças (~27.000 kits)
 
 **Modelo de Prestação de Serviço:**
+
 - Fábrica Jean cobra nova empresa com lucro mínimo (5-10%)
 - Transparência total (abertura de custos)
 - Auditoria obrigatória primeiros 6-12 meses
 - Exclusividade 100% para nova empresa
 
 ### Gestão/Comercial (Responsabilidade: Sansom)
+
 - **Financeiro:** Controle de caixa, lucro, investimentos
 - **Marketing:** Interface com Titanium
 - **Importação:** Gestão matéria-prima China
 - **E-commerce:** Gestão Shopify
 
 ### Marketing (Terceirizado: Titanium)
+
 - **Custo:** R$ 60k/mês
 - **Tráfego Pago:** R$ 40-100k/mês (conforme demanda)
 - **Escopo:**
@@ -198,6 +216,7 @@ MARGEM LÍQUIDA:           R$  65,29 (51% líquido)
 ## 🎯 PRÓXIMOS PASSOS ACORDADOS
 
 ### 1. JURÍDICO (CRÍTICO)
+
 **Responsável:** Dr. Alexandre
 **Prazo:** 15 dias
 
@@ -209,14 +228,17 @@ MARGEM LÍQUIDA:           R$  65,29 (51% líquido)
 - [ ] Estruturar contrato prestação de serviço (Fábrica Jean → Nova Empresa)
 
 **Sansom vai:**
-- Conversar com esposa (Patrícia) sobre nome/CPF para sociedade
+
+- Conversar com esposa sobre nome/CPF para sociedade
 - Definir se entra como PF ou PJ
 
 **Gassen+Kris vão:**
+
 - Agendar reunião Dr. Alexandre
 - Definir estrutura da participação (49%)
 
 ### 2. PLANEJAMENTO FINANCEIRO (CRÍTICO)
+
 **Responsável:** Sansom + Gassen
 **Prazo:** 7 dias
 
@@ -227,6 +249,7 @@ MARGEM LÍQUIDA:           R$  65,29 (51% líquido)
 - [ ] Definir como será a entrada de capital (parcelado ou integral)
 
 ### 3. FORNECIMENTO CHINA (URGENTE)
+
 **Responsável:** Sansom
 **Prazo:** Imediato (chega março/abril)
 
@@ -236,12 +259,14 @@ MARGEM LÍQUIDA:           R$  65,29 (51% líquido)
 - [ ] Definir logística de importação
 
 **Timeline:**
+
 - Pedido: Jan/2026
 - Chegada: Mar-Abr/2026
 - Produção: Abr-Mai/2026
 - Lançamento: Mai/2026
 
 ### 4. CONTRATAÇÃO TITANIUM
+
 **Responsável:** Gassen
 **Prazo:** 30 dias
 
@@ -252,6 +277,7 @@ MARGEM LÍQUIDA:           R$  65,29 (51% líquido)
 - [ ] Assinar contrato
 
 ### 5. ESTRUTURA OPERACIONAL
+
 **Responsável:** Jean + Gassen + Kris + Sansom
 **Prazo:** 30 dias
 
@@ -262,6 +288,7 @@ MARGEM LÍQUIDA:           R$  65,29 (51% líquido)
 - [ ] Preparar fábrica Jean para exclusividade
 
 ### 6. OPORTUNIDADES PARALELAS
+
 **Responsável:** Gassen + Kris
 **Prazo:** Contínuo
 
@@ -274,16 +301,19 @@ MARGEM LÍQUIDA:           R$  65,29 (51% líquido)
 ## 🤝 ESTRUTURA SOCIETÁRIA ACORDADA
 
 ### Divisão de Poder
+
 - **51% Sansom:** Palavra final em decisões críticas (voto minerva)
 - **49% Jean (Família):** Lado brasileiro operacional
 
 **Princípios:**
+
 - 99% das decisões por consenso
 - 1% decisão final com Sansom (apenas em impasses - voto minerva)
 - Gestão profissional (mantém estrutura familiar operacional)
 - Transparência total (auditoria obrigatória)
 
 ### Responsabilidades
+
 | Área               | Responsável          | Escopo                                    |
 |--------------------|----------------------|-------------------------------------------|
 | CEO/Produção       | Jean                 | Dono KabaK, fábrica, costura, qualidade   |
@@ -295,6 +325,7 @@ MARGEM LÍQUIDA:           R$  65,29 (51% líquido)
 | Jurídico/Contábil  | Dr. Alexandre        | Estrutura, compliance, fiscal             |
 
 ### Modelo de Lucro
+
 - **Distribuição:** 50% Sansom / 50% Jean (Família)
 - **Decisão:** 51% Sansom / 49% Jean (apenas voto minerva)
 - **Reinvestimento:** Definir % a ser reinvestido vs distribuído
@@ -308,6 +339,7 @@ MARGEM LÍQUIDA:           R$  65,29 (51% líquido)
 ## 🚨 RISCOS IDENTIFICADOS
 
 ### 1. Fluxo de Caixa (ALTO)
+
 - **Risco:** Investimento alto inicial (R$ 600k+ em 6 meses)
 - **Mitigação:**
   - Vender estoque paralelo (Shopee/ML)
@@ -315,6 +347,7 @@ MARGEM LÍQUIDA:           R$  65,29 (51% líquido)
   - Escalar conforme caixa permite
 
 ### 2. Dependência Titanium (MÉDIO)
+
 - **Risco:** Agência única, sem backup
 - **Mitigação:**
   - Contrato sem exclusividade
@@ -322,6 +355,7 @@ MARGEM LÍQUIDA:           R$  65,29 (51% líquido)
   - Avaliar outras agências após 6 meses
 
 ### 3. Atraso Matéria-prima China (MÉDIO)
+
 - **Risco:** Tecido atrasar (logística/alfândega)
 - **Mitigação:**
   - Pedir com antecedência (jan → mar/abr)
@@ -329,6 +363,7 @@ MARGEM LÍQUIDA:           R$  65,29 (51% líquido)
   - Fornecedor backup (nacional, mais caro)
 
 ### 4. Capacidade Produtiva (BAIXO)
+
 - **Risco:** Demanda superar produção
 - **Mitigação:**
   - 40 costureiras atuais na fábrica Jean
@@ -336,6 +371,7 @@ MARGEM LÍQUIDA:           R$  65,29 (51% líquido)
   - Capacidade expandir até 400 se necessário
 
 ### 5. Divisão Interna Familiar (MÉDIO)
+
 - **Risco:** Divisão dos 50% família (Jean, Gassen, Kris) pode gerar conflitos
 - **Mitigação:**
   - Estruturação jurídica formal com Dr. Alexandre
@@ -349,6 +385,7 @@ MARGEM LÍQUIDA:           R$  65,29 (51% líquido)
 ## 📈 BENCHMARKS & VALIDAÇÕES
 
 ### Atara (Referência Principal)
+
 - **Faturamento:** R$ 10 milhões/mês
 - **Tempo:** 1 ano de operação
 - **Produto:** Mesmo nicho (Fitness Feminino)
@@ -356,11 +393,13 @@ MARGEM LÍQUIDA:           R$  65,29 (51% líquido)
 - **Limitação:** Produção insuficiente
 
 ### Outras Referências
+
 - **Insider:** Magazine Luiza (60 dias prazo) → migrando para online
 - **Berze:** Começou com camiseta básica → hoje diversificado
 - **Sandrine:** Vendendo short R$ 29 no Mercado Livre (custo R$ 12)
 
 ### Validação de Preço
+
 - **Shopping físico:** Calça Fitness R$ 350
 - **Atara:** Kit 3 peças R$ 119-129
 - **Kabak:** Kit 3 peças R$ 129 (competitivo)
@@ -370,6 +409,7 @@ MARGEM LÍQUIDA:           R$  65,29 (51% líquido)
 ## 🎓 INTELIGÊNCIA COMPETITIVA
 
 ### Estratégia Atara (Replicar)
+
 1. **Produto:** Kits (3 peças) com desconto vs peça avulsa
 2. **Preço:** Público C (acessível, alto volume)
 3. **Marketing:** Tráfego pago agressivo (Meta/Google)
@@ -377,6 +417,7 @@ MARGEM LÍQUIDA:           R$  65,29 (51% líquido)
 5. **Marca:** Forte (3º lugar visitas, atrás Nike/Adidas)
 
 ### Nosso Diferencial
+
 1. **Custo:** 30-40% menor (China + produção própria)
 2. **Velocidade:** 50% mais rápido (7 vs 15 dias)
 3. **Capacidade:** Ilimitada (vs limitada Atara)
@@ -388,16 +429,19 @@ MARGEM LÍQUIDA:           R$  65,29 (51% líquido)
 ## 💡 OPORTUNIDADES FUTURAS
 
 ### Curto Prazo (6 meses)
+
 - Vender estoque existente (modal, algodão) Shopee/ML
 - Testar produtos paralelos (sunga, regatinha)
 - Otimizar logística (automação China)
 
 ### Médio Prazo (12 meses)
+
 - Linha infantil com personagens (royalty ou próprio)
 - Linha masculina (replicar sucesso feminino)
 - Marketplace (expandir canais)
 
 ### Longo Prazo (18+ meses)
+
 - Múltiplas marcas (diferentes nichos)
 - Sublimação in-house (máquinas China)
 - Verticalização completa (design → entrega)
@@ -407,31 +451,36 @@ MARGEM LÍQUIDA:           R$  65,29 (51% líquido)
 ## 📋 CHECKLIST DE CONTINUIDADE
 
 ### Esta Semana (14-21/Jan)
-- [ ] Sansom conversa com Patrícia (estrutura societária)
+
+- [ ] Sansom conversa com esposa (estrutura societária)
 - [ ] Gassen+Kris alinham participação 49%
 - [ ] Gassen agenda Dr. Alexandre (jurídico)
 - [ ] Sansom inicia pedido tecido China
 - [ ] Criar planilha financeira detalhada com custos fábrica Jean
 
 ### Próximas 2 Semanas (21/Jan-04/Fev)
+
 - [ ] Reunião Dr. Alexandre (contrato social + prestação serviço)
 - [ ] Definir investimento final
 - [ ] Contrato Titanium (reunião comercial)
 - [ ] Estruturar equipe mínima
 
 ### Próximo Mês (Fev/2026)
+
 - [ ] Fechar estrutura jurídica
 - [ ] Iniciar onboarding Titanium
 - [ ] Preparar produção fábrica Jean (espaço, equipe)
 - [ ] Confirmar chegada tecido (mar/abr)
 
 ### Q1 2026 (Mar-Abr)
+
 - [ ] Receber tecido China
 - [ ] Produzir estoque inicial fábrica Jean (80k peças)
 - [ ] Setup Shopify completo
 - [ ] Campanhas teste (tráfego)
 
 ### Q2 2026 (Mai-Jun)
+
 - [ ] **LANÇAMENTO OFICIAL**
 - [ ] Escalar produção conforme demanda
 - [ ] Otimizar conversões
@@ -442,16 +491,19 @@ MARGEM LÍQUIDA:           R$  65,29 (51% líquido)
 ## 🎯 VISÃO DE SUCESSO (12 meses)
 
 **Cenário Conservador:**
+
 - Faturamento: R$ 3-5 milhões/mês
 - Lucro líquido: R$ 1-1,5 milhão/mês
 - ROI: 155% (investimento recuperado + lucro)
 
 **Cenário Otimista (replicar Atara):**
+
 - Faturamento: R$ 10 milhões/mês
 - Lucro líquido: R$ 3-4 milhões/mês
 - ROI: 300%+
 
 **Upside (Ano 2+):**
+
 - R$ 30-50 milhões lucro/ano por sócio
 - Múltiplas marcas/nichos
 - Possível exit estratégico
@@ -472,6 +524,7 @@ MARGEM LÍQUIDA:           R$  65,29 (51% líquido)
 ## 📝 OBSERVAÇÕES IMPORTANTES
 
 ### Tom da Reunião
+
 - **Positivo:** Todos os lados muito interessados (Sansom, Jean, Gassen, Kris)
 - **Transparente:** Sansom reforçou múltiplas vezes honestidade/abertura
 - **Profissional:** Foco em estrutura saudável + gestão profissional
@@ -479,6 +532,7 @@ MARGEM LÍQUIDA:           R$  65,29 (51% líquido)
 - **Familiar:** Estrutura familiar (Jean+Gassen+Kris) será mantida operacionalmente
 
 ### Quotes Relevantes
+
 - **Sansom:** "Nunca fiz sociedade antes, mas quero fazer certo"
 - **Sansom:** "51/49 para ter decisão final, mas 99% decidimos juntos"
 - **Sansom:** "Vamos fazer gestão profissional"
@@ -488,12 +542,14 @@ MARGEM LÍQUIDA:           R$  65,29 (51% líquido)
 - **Kris:** Participação ativa (cuida processo produtivo)
 
 ### Estrutura Atual KabaK
+
 - **Jean:** Dono e CEO KabaK atual, investidor 100%
 - **Gassen:** Filho Jean, criador marca, gestor inovações/projetos
 - **Kris:** Esposa Gassen, co-criadora, cuida processo produtivo
 - **Natureza:** Empresa familiar (investimento Jean, criação/operação Gassen+Kris)
 
 ### Nova Estrutura com Sansom
+
 - **Sansom:** Sócio 51% (decisão), 50% (lucros)
 - **Jean (Família):** Sócio 49% (decisão), 50% (lucros)
   - Representa: Jean + Gassen + Kris
@@ -501,6 +557,7 @@ MARGEM LÍQUIDA:           R$  65,29 (51% líquido)
   - **Projeto paralelo:** Gabriele Confecções Jurídico 2026
 
 ### Próximas Reuniões
+
 1. **Dr. Alexandre (jurídico):**
    - Objetivo: Contrato social (Sansom + Jean 50/50)
    - Prazo: 7-15 dias

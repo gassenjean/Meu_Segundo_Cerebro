@@ -2,6 +2,8 @@
 title: PN - 023 - Siga sua curiosidade - Mente Lendár[IA] | Alan Nicolas
 url: https://mentelendaria.com/Vida+Lend%C3%A1ria/Epis%C3%B3dios+VL/PN+-+023+-+Siga+sua+curiosidade
 downloaded: 2025-11-11T13:07:08.867Z
+criado: 2025-11-11T18:40:45-03:00
+atualizado: 2026-01-14T12:21:02-03:00
 ---
 
 up: Vida Lendária

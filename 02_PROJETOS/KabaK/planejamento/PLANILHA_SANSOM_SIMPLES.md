@@ -1,10 +1,10 @@
 ---
 criado: 2026-01-14T18:49:04-03:00
-atualizado: 2026-01-14T18:49:04-03:00
+atualizado: 2026-01-14T22:37:59-03:00
 ---
 # PLANILHA FINANCEIRA - Sociedade KabaK
 
-**Para:** Sansom (51%) + Jean/Família (49% = Jean + Jean (Família))
+**Para:** Sansom (50%) + Jean/Família (50% = Jean + (Família))
 **Período:** 12 meses (Mai/2026 a Abr/2027)
 **Produto:** Kit Fitness Feminino (3 peças) - R$ 129
 **Criado:** 14/Jan/2026
@@ -22,9 +22,10 @@ atualizado: 2026-01-14T18:49:04-03:00
 | **Break-even** | Mês 3 (Julho/2026) |
 | **ROI Ano 1** | 5.940% |
 
-**Divisão Lucro:**
-- Sansom (51%): R$ 3.827.000
-- Jean (Família - 49%): R$ 3.676.900
+**Divisão Lucro (50/50):**
+
+- Sansom (50%): R$ 3.751.938
+- Jean (Família - 50%): R$ 3.751.938
   - Divisão interna (Jean + Gassen + Kris): A definir com Dr. Alexandre
 
 ---
@@ -122,7 +123,7 @@ atualizado: 2026-01-14T18:49:04-03:00
 
 ---
 
-### MÊS 3 - JULHO/2026 ✅ BREAK-EVEN!
+### MÊS 3 - JULHO/2026 ✅ BREAK-EVEN
 
 | ITEM | VALOR |
 |:-----|------:|
@@ -258,23 +259,24 @@ atualizado: 2026-01-14T18:49:04-03:00
 
 | SÓCIO | % | LUCRO |
 |:------|--:|------:|
-| Sansom | 51% | R$ 3.827.000 |
-| Jean (Família) | 49% | R$ 3.676.900 |
+| Sansom | 50% | R$ 3.751.938 |
+| Jean (Família) | 50% | R$ 3.751.938 |
 | **TOTAL** | **100%** | **R$ 7.503.875** |
 
 **Composição Família (49%):**
+
 - Jean (pai, dono/CEO KabaK): % a definir
 - Gassen (filho, gestor/marca): % a definir
 - Kris (esposa Gassen, produção): % a definir
 
-**ROI Sansom:** R$ 3.827k / R$ 1.326k investido = **288%**
-**ROI Jean (Família):** R$ 3.677k / R$ 1.274k investido = **288%**
+**ROI Sansom:** R$ 3.752k / R$ 1.053k investido = **356%**
+**ROI Jean+Família:** R$ 3.752k / R$ 1.053k investido = **356%**
 
 ---
 
 ## 📋 BREAKDOWN CUSTOS (DETALHAMENTO)
 
-### CUSTOS VARIÁVEIS (por kit vendido):
+### CUSTOS VARIÁVEIS (por kit vendido)
 
 | Item | Custo Unitário |
 |:-----|---------------:|
@@ -292,16 +294,18 @@ atualizado: 2026-01-14T18:49:04-03:00
 | **TOTAL POR KIT** | **R$ 70,58** |
 | **Margem Bruta** | **R$ 58,42** (45,3%) |
 
-### CUSTOS FIXOS MENSAIS:
+### CUSTOS FIXOS MENSAIS
 
-#### MARKETING & VENDAS:
+#### MARKETING & VENDAS
+
 | Item | Mês 1-2 | Mês 3-5 | Mês 6+ |
 |:-----|--------:|--------:|-------:|
 | Titanium (gestão) | R$ 60.000 | R$ 60.000 | R$ 60.000 |
 | Tráfego Pago | R$ 40.000 | R$ 70.000 | R$ 100.000 |
 | **Subtotal** | **R$ 100.000** | **R$ 130.000** | **R$ 160.000** |
 
-#### OPERACIONAL:
+#### OPERACIONAL
+
 | Item | Custo Mensal |
 |:-----|-------------:|
 | Contador especializado | R$ 8.000 |
@@ -311,7 +315,8 @@ atualizado: 2026-01-14T18:49:04-03:00
 | Administrativo | R$ 7.000 |
 | **Subtotal** | **R$ 40.000 → R$ 45.000** |
 
-#### GESTÃO:
+#### GESTÃO
+
 | Item | Custo Mensal |
 |:-----|-------------:|
 | Pró-labore Gassen | R$ 15.000 |
@@ -320,6 +325,7 @@ atualizado: 2026-01-14T18:49:04-03:00
 | **Subtotal** | **R$ 35.000** |
 
 **TOTAL FIXO MENSAL:**
+
 - Mês 1-2: R$ 175.000
 - Mês 3-5: R$ 210.000
 - Mês 6+: R$ 235.000 → R$ 255.000
@@ -328,7 +334,7 @@ atualizado: 2026-01-14T18:49:04-03:00
 
 ## 💰 INVESTIMENTO NECESSÁRIO (DETALHADO)
 
-### PRÉ-OPERACIONAL (JAN-ABR/2026):
+### PRÉ-OPERACIONAL (JAN-ABR/2026)
 
 | Item | Valor |
 |:-----|------:|
@@ -342,7 +348,7 @@ atualizado: 2026-01-14T18:49:04-03:00
 | Contingência (10%) | R$ 180.000 |
 | **TOTAL PRÉ-OPERACIONAL** | **R$ 1.980.000** |
 
-### OPERACIONAL (MAI-JUN/2026):
+### OPERACIONAL (MAI-JUN/2026)
 
 | Item | Valor |
 |:-----|------:|
@@ -350,18 +356,19 @@ atualizado: 2026-01-14T18:49:04-03:00
 | Prejuízo Mês 2 | R$ 9.725 |
 | **TOTAL OPERACIONAL** | **R$ 126.300** |
 
-### TOTAL GERAL:
+### TOTAL GERAL
 
 | Categoria | Valor |
 |:----------|------:|
 | Pré-operacional | R$ 1.980.000 |
 | Operacional (déficit) | R$ 126.300 |
-| Contingência adicional | R$ 493.700 |
-| **TOTAL INVESTIMENTO** | **R$ 2.600.000** |
+| Contingência adicional | R$ 0 |
+| **TOTAL INVESTIMENTO** | **R$ 2.106.300** |
 
-**Divisão:**
-- Sansom (51%): R$ 1.326.000
-- Jean (Família - 49%): R$ 1.274.000
+**Divisão (50/50):**
+
+- Sansom (50%): R$ 1.053.150
+- Jean+Gassen+Kris (50%): R$ 1.053.150
   - Jean (pai, dono/CEO): Investidor principal
   - Gassen (filho): Gestor/marca
   - Kris (esposa Gassen): Produção
@@ -371,17 +378,20 @@ atualizado: 2026-01-14T18:49:04-03:00
 
 ## ⚠️ PREMISSAS A VALIDAR
 
-### CUSTOS SANSOM (CHINA):
+### CUSTOS SANSOM (CHINA)
+
 - [ ] Tecido R$ 30/kit (R$ 10/peça) - inclui frete + impostos?
 - [ ] É custo "landed" (tudo incluso)?
 - [ ] Confirmar com fornecedores
 
-### CUSTOS GASSEN (FABRICAÇÃO):
+### CUSTOS GASSEN (FABRICAÇÃO)
+
 - [ ] Fabricação R$ 15/kit (R$ 5/peça) - inclui mão-de-obra?
 - [ ] Lucro fábrica Jean (5-10%) já incluso?
 - [ ] Capacidade 27k kits/mês confirmada?
 
-### OUTRAS VALIDAÇÕES:
+### OUTRAS VALIDAÇÕES
+
 - [ ] Pró-labore: R$ 15k cada está OK?
 - [ ] Conversão site: 2-3% (Titanium validar)
 - [ ] CAC: R$ 100/cliente
@@ -392,19 +402,22 @@ atualizado: 2026-01-14T18:49:04-03:00
 
 ## 📞 PRÓXIMOS PASSOS
 
-### SANSOM:
+### SANSOM
+
 1. ✅ Validar custo tecido China (R$ 30/kit)
-2. ✅ Confirmar investimento (R$ 1.326k = 51%)
-3. ✅ Conversar com Patrícia (PF ou PJ?)
+2. ✅ Confirmar investimento (R$ 1.300k = 50%)
+3. ✅ Conversar com esposa (PF ou PJ?)
 4. ✅ Pedir tecido China (URGENTE até 21/Jan)
 
-### GASSEN:
+### GASSEN
+
 1. ✅ Validar custo fabricação (R$ 15/kit)
 2. ✅ Confirmar capacidade produtiva (27k kits/mês)
 3. ✅ Agendar Dr. Alexandre (jurídico)
 4. ✅ Reunião Titanium (comercial)
 
-### AMBOS:
+### AMBOS
+
 1. ✅ Revisar e aprovar planilha
 2. ✅ Definir política distribuição lucros
 3. ✅ Formalizar sociedade

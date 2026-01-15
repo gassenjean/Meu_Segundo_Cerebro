@@ -1,6 +1,6 @@
 ---
 criado: 2025-12-08T11:04:20-03:00
-atualizado: 2026-01-14T14:00:00-03:00
+atualizado: 2026-01-14T22:38:18-03:00
 ---
 
 # STATUS ATUAL - KabaK Reestruturação 2026
@@ -24,14 +24,17 @@ atualizado: 2026-01-14T14:00:00-03:00
 ### Estado Atual
 
 **MUDANÇA FUNDAMENTAL NO PROJETO:**
+
 - **ANTES:** Parceria Titanium como agência (R$ 60k setup + R$ 45-60k/mês)
 - **AGORA:** Sociedade com Sansom (51/49) + Titanium como prestador de serviço (R$ 60k/mês)
 
 **NOVA ESTRUTURA:**
-- **Sociedade:** Sansom (51%) + Gassen+Kris (49%)
-- **Produção:** Fábrica Jean (prestação serviço, não sócia)
+
+- **Sociedade (Poder Decisório):** **51% Sansom** (Voto de Minerva) / **49% Jean+Gassen+Kris**
+- **Sociedade (Lucros/Econômico):** **50% Sansom** / **50% Jean+Gassen+Kris**
+- **Produção:** Fábrica Jean (Gabriele Confecções) = **Fornecedor Blindado** (Prestação Serviço)
 - **Marketing:** Titanium (terceirizado, R$ 60k/mês)
-- **Investimento:** R$ 2,6M em 6 meses (51% Sansom, 49% Gassen+Kris)
+- **Investimento:** R$ 2,6M em 6 meses (Proporcional à divisão de lucros 50/50)
 - **Produto:** Kit Fitness Feminino (calça+top+short) R$ 129
 - **Meta:** Break-even mês 4 / ROI 155% ano 1
 
@@ -41,7 +44,7 @@ atualizado: 2026-01-14T14:00:00-03:00
 
 ### CRÍTICO (Esta Semana - 14-21/Jan)
 
-1. [ ] **Sansom:** Conversar com Patrícia sobre estrutura societária (PF ou PJ)
+1. [ ] **Sansom:** Conversar com esposa sobre estrutura societária (PF ou PJ)
 2. [ ] **Gassen+Kris:** Agendar reunião Dr. Alexandre (jurídico)
 3. [ ] **Sansom:** Iniciar pedido tecido China (poliéster 90/10 fundo preto)
 4. [ ] **Gassen+Sansom:** Criar planilha financeira detalhada (6 meses)
@@ -82,14 +85,21 @@ atualizado: 2026-01-14T14:00:00-03:00
 ### 14/Jan/2026 - SOCIEDADE COM SANSOM (PIVÔ ESTRATÉGICO) ⭐
 
 **Contexto:** Reunião 2h30 com Sansom, Gassen, Kris e Jean. Proposta de sociedade completa.
-**Decisão:** Sociedade 51% Sansom / 49% Gassen+Kris (ACORDO VERBAL FIRMADO).
+**Decisão:** Sociedade Híbrida (Política vs Econômica).
+**Detalhes:**
+
+- **Decisão (Política):** 51% Sansom (Exigência de "Palavra Final") / 49% Jean+Gassen.
+- **Lucros (Econômica):** 50% Sansom / 50% Jean+Gassen (Divisão justa Justa Operacional vs Capital).
+
 **Motivo:**
+
 - Sansom traz conexões China (tecido R$ 3 real vs R$ 15 Brasil)
 - Modelo validado (replicar Atara - R$ 10M/mês em 1 ano)
 - Vantagens competitivas claras (custo, velocidade, capacidade)
 - Investimento viável (R$ 2,6M em 6 meses, ROI 155%)
 
 **Estrutura:**
+
 - Nova empresa (ou usar CNPJ Kabak)
 - Fábrica Jean = prestadora serviço (não sócia)
 - Titanium = prestador marketing (R$ 60k/mês)
@@ -120,11 +130,13 @@ atualizado: 2026-01-14T14:00:00-03:00
 ## 🚧 BLOCKERS
 
 ### CRÍTICO (Bloqueia tudo)
+
 - [ ] **Estrutura jurídica** (contrato social + prestação serviço)
-- [ ] **Definir investimento** (Sansom conversar com Patrícia)
+- [ ] **Definir investimento** (Sansom conversar com esposa)
 - [ ] **Pedido tecido China** (lead time 2-3 meses)
 
 ### IMPORTANTE (Bloqueia lançamento)
+
 - [ ] **Contrato Titanium** (R$ 60k/mês)
 - [ ] **Preparação fábrica Jean** (exclusividade)
 
@@ -133,36 +145,42 @@ atualizado: 2026-01-14T14:00:00-03:00
 ## 🤝 STAKEHOLDERS
 
 ### Sócios (Nova Empresa)
+
 - **Sansom (51%):** Sócio majoritário, gestão financeira, importação China
 - **Gassen (49%):** Sócio operacional, interface marketing/e-commerce
 - **Kris (co-sócia 49%):** Co-sócia junto com Gassen
 
 ### Prestadores de Serviço
+
 - **Jean:** Dono fábrica MG (produção exclusiva, NÃO sócio)
 - **Titanium:** Agência marketing (R$ 60k/mês + tráfego pago)
 - **Dr. Alexandre:** Jurídico (estruturação)
 
 ### Família (Contexto)
-- **Patrícia:** Esposa Sansom (definir estrutura societária dele)
+
+- **Esposa Sansom:** (definir estrutura societária dele)
 
 ---
 
 ## 🚨 RISCOS
 
 ### ALTO
+
 1. **Fluxo de Caixa:** Investimento R$ 2,6M em 6 meses
    - **Mitigação:** Começar conservador (1k kits/mês), vender estoque paralelo
 2. **Atraso China:** Tecido atrasar 1-2 meses (alfândega/logística)
    - **Mitigação:** Pedir JAN → chega MAR/ABR (buffer 30 dias)
 
 ### MÉDIO
-3. **Dependência Titanium:** Agência única, sem backup
+
+1. **Dependência Titanium:** Agência única, sem backup
    - **Mitigação:** Aprender estratégias, avaliar outras após 6 meses
-4. **Conflito Familiar:** Fábrica Jean é familiar
+2. **Conflito Familiar:** Fábrica Jean é familiar
    - **Mitigação:** Contrato formal, auditoria independente, gestão profissional
 
 ### BAIXO
-5. **Capacidade Produtiva:** Demanda superar produção
+
+1. **Capacidade Produtiva:** Demanda superar produção
    - **Mitigação:** 40 costureiras + rede externa + até 400 se necessário
 
 ---
@@ -170,17 +188,20 @@ atualizado: 2026-01-14T14:00:00-03:00
 ## 📈 MÉTRICAS ALVO
 
 ### Curto Prazo (6 meses)
-- **Investimento:** R$ 2,6M (51/49)
+
+- **Investimento:** R$ 2,6M (50/50)
 - **Produção:** 240k peças estoque
 - **Vendas:** 38k kits (114k peças)
 - **Resultado:** Break-even mês 4
 
 ### Médio Prazo (12 meses)
+
 - **Faturamento:** R$ 3-5M/mês (conservador)
 - **Lucro:** R$ 1-1,5M/mês
 - **ROI:** 155%
 
 ### Longo Prazo (24+ meses)
+
 - **Faturamento:** R$ 10M/mês (replicar Atara)
 - **Lucro:** R$ 3-4M/mês
 - **Upside:** R$ 30-50M lucro/ano por sócio

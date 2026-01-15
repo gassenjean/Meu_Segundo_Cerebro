@@ -1,6 +1,6 @@
 ---
 criado: 2026-01-14T14:15:00-03:00
-atualizado: 2026-01-14T15:12:32-03:00
+atualizado: 2026-01-14T22:37:56-03:00
 tipo: plano_acao
 prioridade: critica
 status: ativo
@@ -16,13 +16,15 @@ status: ativo
 ## 🎯 VISÃO GERAL
 
 **Timeline Crítico:**
+
 - **Semana 1-2 (14-28/Jan):** Estruturação jurídica + pedido China
 - **Semana 3-4 (29/Jan-11/Fev):** Formalização + contratações
 - **Fev-Mar:** Setup operacional
 - **Mar-Abr:** Produção estoque inicial
 - **Mai:** LANÇAMENTO
 
-**Investimento Total:** R$ 2.600.000 (6 meses)
+**Investimento Total:** R$ 2.106.300 (previsão 6 meses)
+
 - Sansom (51%): R$ 1.326.000
 - Gassen+Kris (49%): R$ 1.274.000
 
@@ -36,7 +38,8 @@ status: ativo
 **Deadline:** 28/Jan/2026
 **Bloqueador:** SIM (bloqueia tudo)
 
-#### Ações:
+#### Ações
+
 1. **Gassen:** Agendar reunião Dr. Alexandre (urgente)
    - Prazo: Até 17/Jan
    - Objetivo: Apresentar acordo verbal, pedir proposta estruturação
@@ -57,7 +60,7 @@ status: ativo
 
 4. **Sansom:** Definir estrutura dele
    - Prazo: Até 21/Jan
-   - Conversar com Patrícia (esposa)
+   - Conversar com esposa
    - Decidir: Entra como PF ou PJ?
    - Se PJ: Qual empresa? (tem várias)
 
@@ -66,7 +69,8 @@ status: ativo
    - Como dividir os 49%? (conjunto ou separado?)
    - Pessoa física ou jurídica?
 
-#### Entregáveis:
+#### Entregáveis
+
 - [ ] Reunião Dr. Alexandre agendada (até 17/Jan)
 - [ ] Proposta estrutura jurídica (até 21/Jan)
 - [ ] Minutas contratos (até 28/Jan)
@@ -80,13 +84,15 @@ status: ativo
 **Deadline:** 21/Jan/2026 (URGENTE)
 **Bloqueador:** SIM (lead time 2-3 meses)
 
-#### Especificações:
+#### Especificações
+
 - **Tecido:** Poliéster 90/10 fundo preto
 - **Quantidade:** 200k peças = ~70 toneladas
 - **Custo Alvo:** R$ 10/peça (R$ 30/kit)
 - **Prazo:** Chegar Brasil em Mar-Abr/2026
 
-#### Ações:
+#### Ações
+
 1. **Sansom:** Contatar fornecedores China
    - Prazo: Até 17/Jan
    - Solicitar cotações (preço, prazo, qualidade)
@@ -110,7 +116,8 @@ status: ativo
    - Calcular impostos/taxas
    - Planejar transporte porto → MG
 
-#### Entregáveis:
+#### Entregáveis
+
 - [ ] Cotações fornecedores (até 17/Jan)
 - [ ] Pedido fechado (até 21/Jan)
 - [ ] Previsão chegada Brasil (até 21/Jan)
@@ -123,17 +130,20 @@ status: ativo
 **Deadline:** 21/Jan/2026
 **Bloqueador:** PARCIAL (define investimento)
 
-#### Objetivo:
+#### Objetivo
+
 Criar planilha financeira 6-12 meses com:
+
 - Receitas mensais (conservador)
 - Custos detalhados (fixos + variáveis)
 - Fluxo de caixa mês a mês
 - Break-even point
 - ROI projetado
 
-#### Estrutura Planilha:
+#### Estrutura Planilha
 
 **1. RECEITAS**
+
 | Mês | Kits | Preço | Receita Bruta |
 |-----|------|-------|---------------|
 | 1   | 1.000| R$ 129| R$ 129.000    |
@@ -141,11 +151,13 @@ Criar planilha financeira 6-12 meses com:
 | ... | ...  | ...   | ...           |
 
 **2. CUSTOS VARIÁVEIS (por kit)**
+
 - Tecido: R$ 30,00 (Sansom - China)
 - Fabricação: R$ 15,00 (Jean - MG)
 - **Total:** R$ 45,00/kit
 
 **3. CUSTOS FIXOS (mensais)**
+
 - Marketing Titanium: R$ 60.000
 - Tráfego Pago: R$ 40.000 (início) → R$ 100.000 (escala)
 - Logística: 10-15% receita
@@ -155,15 +167,18 @@ Criar planilha financeira 6-12 meses com:
 - **Total:** R$ 145.000 + Logística
 
 **4. IMPOSTOS**
+
 - 2,5% MG (benefício fiscal validado)
 
 **5. FLUXO DE CAIXA**
+
 - Investimento mensal (primeiros 6 meses)
 - Receitas
 - Custos
 - **Saldo** (cumulativo)
 
-#### Ações:
+#### Ações
+
 1. **Gassen:** Levantar custos fábrica Jean
    - Prazo: Até 18/Jan
    - Breakdown: Tecido, mão-de-obra, overhead
@@ -186,7 +201,8 @@ Criar planilha financeira 6-12 meses com:
    - Ajustar números
    - Confirmar viabilidade
 
-#### Entregáveis:
+#### Entregáveis
+
 - [ ] Custos fábrica Jean detalhados (até 18/Jan)
 - [ ] Custos China confirmados (até 18/Jan)
 - [ ] Planilha financeira completa (até 21/Jan)
@@ -200,10 +216,12 @@ Criar planilha financeira 6-12 meses com:
 **Deadline:** 28/Jan/2026
 **Bloqueador:** NÃO (mas importante)
 
-#### Objetivo:
+#### Objetivo
+
 Validar parceria como prestador de serviço (não mais parceiro estratégico).
 
-#### Ações:
+#### Ações
+
 1. **Gassen:** Agendar reunião
    - Prazo: Até 17/Jan
    - Contexto: Mudança de modelo (agora temos Sansom)
@@ -223,7 +241,8 @@ Validar parceria como prestador de serviço (não mais parceiro estratégico).
    - Produto: Kit Fitness Feminino (mesmo nicho)
    - Público: C (validado)
 
-#### Entregáveis:
+#### Entregáveis
+
 - [ ] Reunião agendada (até 17/Jan)
 - [ ] Proposta comercial Titanium (até 28/Jan)
 - [ ] Cronograma setup (até 28/Jan)
@@ -237,7 +256,8 @@ Validar parceria como prestador de serviço (não mais parceiro estratégico).
 **Responsável:** Todos (Dr. Alexandre coordena)
 **Deadline:** 11/Fev/2026
 
-#### Ações:
+#### Ações
+
 1. **Dr. Alexandre:** Finalizar contratos
    - Prazo: Até 04/Fev
    - Contrato Social
@@ -261,7 +281,8 @@ Validar parceria como prestador de serviço (não mais parceiro estratégico).
    - Inscrição Estadual
    - Abertura conta bancária
 
-#### Entregáveis:
+#### Entregáveis
+
 - [ ] Contratos finalizados (até 04/Fev)
 - [ ] Contratos revisados por todos (até 07/Fev)
 - [ ] Contratos assinados (até 11/Fev)
@@ -274,16 +295,19 @@ Validar parceria como prestador de serviço (não mais parceiro estratégico).
 **Responsável:** Sansom + Gassen+Kris
 **Deadline:** 11/Fev/2026
 
-#### Valores:
-- **Total:** R$ 2.600.000 (6 meses)
+#### Valores
+
+- **Total:** R$ 2.106.300 (6 meses)
 - **Sansom (51%):** R$ 1.326.000
 - **Gassen+Kris (49%):** R$ 1.274.000
 
-#### Alternativa:
+#### Alternativa
+
 - Sansom pode entrar com maior % inicial
 - Ajustar posteriormente com lucros
 
-#### Ações:
+#### Ações
+
 1. **Sansom:** Confirmar capacidade investimento
    - Prazo: Até 04/Fev
    - Quanto pode aportar?
@@ -307,7 +331,8 @@ Validar parceria como prestador de serviço (não mais parceiro estratégico).
    - Comprovantes de aporte
    - Contabilizar corretamente
 
-#### Entregáveis:
+#### Entregáveis
+
 - [ ] Capacidade investimento confirmada (até 04/Fev)
 - [ ] Modelo de aporte definido (até 11/Fev)
 - [ ] Formalização em contrato (até 11/Fev)
@@ -319,7 +344,8 @@ Validar parceria como prestador de serviço (não mais parceiro estratégico).
 **Responsável:** Gassen + Sansom
 **Deadline:** 11/Fev/2026
 
-#### Posições Críticas:
+#### Posições Críticas
+
 1. **Contador E-commerce** (PJ ou CLT)
    - Especialista em e-commerce
    - Conhecimento Shopify/marketplaces
@@ -335,7 +361,8 @@ Validar parceria como prestador de serviço (não mais parceiro estratégico).
    - Horário comercial
    - Treinado em conversão
 
-#### Ações:
+#### Ações
+
 1. **Gassen:** Buscar contador especializado
    - Prazo: Até 04/Fev
    - Entrevistar 2-3 opções
@@ -353,7 +380,8 @@ Validar parceria como prestador de serviço (não mais parceiro estratégico).
    - Formalizar contratos
    - Definir início (Mar/2026)
 
-#### Entregáveis:
+#### Entregáveis
+
 - [ ] Contador contratado (até 11/Fev)
 - [ ] Logística/SAC indicados (até 11/Fev)
 - [ ] Contratos formalizados (até 11/Fev)
@@ -368,7 +396,8 @@ Validar parceria como prestador de serviço (não mais parceiro estratégico).
 **Duração:** 1 mês (Fev/2026)
 **Investimento:** R$ 60.000
 
-#### Escopo Onboarding:
+#### Escopo Onboarding
+
 1. **Semana 1-2:** Estratégia e Planejamento
    - Estudo público-alvo (replicar Atara)
    - Definir persona (mulheres C, fitness)
@@ -389,7 +418,8 @@ Validar parceria como prestador de serviço (não mais parceiro estratégico).
    - Testes A/B iniciais
    - Budget tráfego (R$ 40k inicial)
 
-#### Entregáveis:
+#### Entregáveis
+
 - [ ] Estratégia completa (Semana 2)
 - [ ] Shopify operacional (Semana 3)
 - [ ] Campanhas prontas (Semana 4)
@@ -402,10 +432,12 @@ Validar parceria como prestador de serviço (não mais parceiro estratégico).
 **Responsável:** Jean + Gassen
 **Deadline:** 28/Fev/2026
 
-#### Objetivo:
+#### Objetivo
+
 Preparar fábrica para exclusividade 100% nova empresa.
 
-#### Ações:
+#### Ações
+
 1. **Jean:** Avaliar capacidade atual
    - Prazo: Até 07/Fev
    - 40 costureiras atuais (suficiente?)
@@ -432,7 +464,8 @@ Preparar fábrica para exclusividade 100% nova empresa.
    - Abertura de custos (transparência)
    - Auditoria (primeiros 6-12 meses)
 
-#### Entregáveis:
+#### Entregáveis
+
 - [ ] Avaliação capacidade (até 07/Fev)
 - [ ] Fábrica preparada (até 28/Fev)
 - [ ] Protótipo testado (até 28/Fev)
@@ -445,7 +478,8 @@ Preparar fábrica para exclusividade 100% nova empresa.
 **Responsável:** Sansom
 **Deadline:** 28/Fev/2026
 
-#### Ações:
+#### Ações
+
 1. **Sansom:** Acompanhar produção China
    - Prazo: Contínuo
    - Status produção
@@ -464,7 +498,8 @@ Preparar fábrica para exclusividade 100% nova empresa.
    - Data chegada fábrica
    - Armazenagem
 
-#### Entregáveis:
+#### Entregáveis
+
 - [ ] Status produção China (contínuo)
 - [ ] Despachante contratado (até 28/Fev)
 - [ ] Logística confirmada (até 28/Fev)
@@ -479,7 +514,8 @@ Preparar fábrica para exclusividade 100% nova empresa.
 **Responsável:** Sansom
 **Prazo:** Mar-Abr/2026 (conforme embarque)
 
-#### Ações:
+#### Ações
+
 1. Desembaraço aduaneiro
 2. Transporte porto → MG
 3. Recebimento fábrica Jean
@@ -494,13 +530,15 @@ Preparar fábrica para exclusividade 100% nova empresa.
 **Prazo:** Abr-Mai/2026
 **Meta:** 80.000 peças (~27.000 kits)
 
-#### Cronograma:
+#### Cronograma
+
 - **Mês 1 (Abr):** 80k peças
 - **Mês 2 (Mai):** 80k peças
 - **Mês 3 (Jun):** 80k peças
 - **Total:** 240k peças (buffer 2 meses)
 
-#### Ações:
+#### Ações
+
 1. **Jean:** Organizar produção
    - Escala costureiras
    - Distribuir tarefas
@@ -520,7 +558,8 @@ Preparar fábrica para exclusividade 100% nova empresa.
 **Responsável:** Titanium + Gassen
 **Prazo:** Abr/2026
 
-#### Ações:
+#### Ações
+
 1. Fotos profissionais produtos
 2. Descrições otimizadas (SEO + conversão)
 3. Páginas institucionais (sobre, políticas)
@@ -536,7 +575,8 @@ Preparar fábrica para exclusividade 100% nova empresa.
 **Data Alvo:** 01/Mai/2026
 **Meta Mês 1:** 1.000 kits (R$ 129.000)
 
-#### Ações:
+#### Ações
+
 1. **Titanium:** Ativar campanhas
    - Tráfego pago R$ 40k
    - Segmentação público C feminino
@@ -565,30 +605,35 @@ Preparar fábrica para exclusividade 100% nova empresa.
 ## 📊 MÉTRICAS DE SUCESSO
 
 ### Semana 1-2 (14-28/Jan)
+
 - [ ] Reunião Dr. Alexandre agendada
 - [ ] Pedido tecido China fechado
 - [ ] Planilha financeira pronta
 - [ ] Reunião Titanium realizada
 
 ### Semana 3-4 (29/Jan-11/Fev)
+
 - [ ] Contratos assinados
 - [ ] Empresa registrada
 - [ ] Investimento definido
 - [ ] Contador contratado
 
 ### Fevereiro
+
 - [ ] Onboarding Titanium completo
 - [ ] Fábrica Jean preparada
 - [ ] Tecido China confirmado
 - [ ] Shopify em setup
 
 ### Março-Abril
+
 - [ ] Tecido recebido MG
 - [ ] 240k peças produzidas
 - [ ] Shopify finalizado
 - [ ] Campanhas testadas
 
 ### Maio
+
 - [ ] **LANÇAMENTO OFICIAL**
 - [ ] 1.000 kits vendidos mês 1
 - [ ] Métricas positivas
@@ -599,21 +644,25 @@ Preparar fábrica para exclusividade 100% nova empresa.
 ## 🚨 ALERTAS E CONTINGÊNCIAS
 
 ### SE TECIDO ATRASAR (ALTO RISCO)
+
 1. **Plano B:** Fornecedor nacional (mais caro)
 2. **Plano C:** Adiar lançamento 30 dias
 3. **Comunicação:** Avisar Titanium imediatamente
 
 ### SE INVESTIMENTO TRAVAR (MÉDIO RISCO)
+
 1. **Plano B:** Começar menor (R$ 1M em 3 meses)
 2. **Plano C:** Buscar investidor/sócio adicional
 3. **Plano D:** Vender estoque paralelo (gerar caixa)
 
 ### SE FÁBRICA JEAN LIMITAR (BAIXO RISCO)
+
 1. **Plano B:** Costureiras externas (rede pronta)
 2. **Plano C:** Segunda fábrica (terceirizar parte)
 3. **Escala gradual:** Crescer conforme capacidade
 
 ### SE TITANIUM DECEPCIONAR (BAIXO RISCO)
+
 1. **Plano B:** Avaliar outras agências (lista preparada)
 2. **Plano C:** In-house gradual (contratar CMO)
 3. **Período teste:** 3 meses (avaliar resultados)
@@ -623,16 +672,19 @@ Preparar fábrica para exclusividade 100% nova empresa.
 ## 📞 CONTATOS CRÍTICOS
 
 ### Sócios
+
 - **Sansom:** [contato]
 - **Gassen:** [contato]
 - **Kris:** [contato]
 
 ### Prestadores
+
 - **Jean (Fábrica):** [contato]
 - **Dr. Alexandre (Jurídico):** [contato]
 - **Titanium (Marketing):** [contato]
 
 ### Outros
+
 - **Contador:** [a contratar]
 - **Despachante:** [a contratar]
 - **Fornecedor China:** [via Sansom]
@@ -642,25 +694,29 @@ Preparar fábrica para exclusividade 100% nova empresa.
 ## ✅ CHECKLIST EXECUTIVO
 
 ### SEMANA 1 (14-21/Jan) ⚠️
+
 - [ ] Agendar Dr. Alexandre
-- [ ] Sansom fala com Patrícia
+- [ ] Sansom fala com esposa
 - [ ] Gassen+Kris alinham 49%
 - [ ] Pedido tecido China FECHADO
 - [ ] Planilha financeira pronta
 
 ### SEMANA 2 (21-28/Jan)
+
 - [ ] Reunião Dr. Alexandre realizada
 - [ ] Minutas contratos iniciadas
 - [ ] Reunião Titanium agendada
 - [ ] Custos fábrica Jean levantados
 
 ### SEMANA 3 (29/Jan-04/Fev)
+
 - [ ] Contratos finalizados
 - [ ] Investimento definido
 - [ ] Contador shortlist
 - [ ] Tecido China em produção
 
 ### SEMANA 4 (04-11/Fev)
+
 - [ ] CONTRATOS ASSINADOS ⭐
 - [ ] EMPRESA REGISTRADA ⭐
 - [ ] Contador contratado
