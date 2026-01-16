@@ -1,7 +1,30 @@
 ---
 criado: 2025-12-01T13:15:00-03:00
 tipo: guia
-status: critico
+status: deprecado
+atualizado: 2026-01-16T13:22:52-03:00
+---
+
+# [DEPRECADO] 🚑 GUIA: RECUPERAÇÃO DE ERROS GEMINI
+
+⚠️ **DEPRECADO** - Ver [[TROUBLESHOOTING_GUIA_RAPIDO.md]] (Categoria 2: Erros Gemini)
+
+**Razão:** Consolidado em guia único de troubleshooting com 6 categorias
+**Data deprecação:** 16/Jan/2026
+**Substituído por:** [[TROUBLESHOOTING_GUIA_RAPIDO.md#categoria-2-erros-gemini]]
+
+**Por que deprecado:**
+- Conteúdo fragmentado em 2 guias diferentes (GUIA_RAPIDO_ERRO_OVERLOAD + este)
+- Dificulta navegação e manutenção
+- TROUBLESHOOTING_GUIA_RAPIDO.md consolida 6 categorias de problemas em um único local
+
+**Use o novo arquivo:**
+→ [[TROUBLESHOOTING_GUIA_RAPIDO.md]]
+
+---
+
+**[CONTEÚDO ORIGINAL PRESERVADO ABAIXO PARA REFERÊNCIA HISTÓRICA]**
+
 ---
 
 # 🚑 GUIA: RECUPERAÇÃO DE ERROS GEMINI

@@ -4,8 +4,15 @@ atualizado: 2026-01-15T18:40:00-03:00
 tipo: resumo_executivo
 status: concluido_com_pendencias
 prioridade: critica
-tags: [reuniao, marketing, transicao, outlet, 460_producoes]
-participantes: [Gassen, Danilo (460 Produções)]
+tags:
+  - reuniao
+  - marketing
+  - transicao
+  - outlet
+  - 460_producoes
+participantes:
+  - Gassen
+  - Danilo (460 Produções)
 pauta: Transição de Agência, Estratégia de Social Media, Padronização Física do Outlet
 ---
 

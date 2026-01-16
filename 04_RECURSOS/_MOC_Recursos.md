@@ -1,14 +1,14 @@
 ---
 criado: 2025-11-18T10:43:54-03:00
-atualizado: 2025-11-25T00:02:22-03:00
+atualizado: 2026-01-16T11:16:59-03:00
 ---
 # 🛠️ MOC: RECURSOS
 
 **Map of Content - Templates, Prompts e Ferramentas**
 
 **Criado:** 17/Jan/2025
-**Última atualização:** 24/Nov/2025
-**Total de recursos:** 15
+**Última atualização:** 16/Jan/2026
+**Total de recursos:** 18
 
 ---
 
@@ -38,6 +38,11 @@ Templates de documentos reutilizáveis
 **Metodologia Profissional IA:**
 - [[TEMPLATES/Metodologia_IA/TEMPLATE_Briefing_Projeto.md]] ← Briefing completo de projeto
 - [[TEMPLATES/Metodologia_IA/TEMPLATE_PRD_Tecnico.md]] ← Product Requirements Document técnico
+
+**RPI Workflow (Research-Plan-Implementation):**
+- [[TEMPLATES/TEMPLATE_RPI_MASTER_PLAN.md]] ← Master plan para grandes refatorações
+- [[TEMPLATES/TEMPLATE_RPI_IMPLEMENTATION_PHASE.md]] ← Sub-plans de implementação detalhados
+- [[TEMPLATES/TEMPLATE_RPI_RESEARCH_OUTPUT.md]] ← Documentação da fase de pesquisa
 
 ### PROMPTS/Claude/
 Prompts especializados para Claude
@@ -89,6 +94,31 @@ Automações e scripts
    ```
 3. **Preencha os campos**
 4. **Remova instruções do template**
+
+### Usando RPI Workflow
+
+**Para grandes refatorações/features (3+ semanas):**
+
+1. **RESEARCH PHASE:**
+   - Use `TEMPLATE_RPI_RESEARCH_OUTPUT.md`
+   - Investigue codebase, identifique problemas, riscos
+   - Output: Documento de pesquisa completo
+
+2. **PLANNING PHASE:**
+   - Use `TEMPLATE_RPI_MASTER_PLAN.md`
+   - Quebre em fases e sub-plans
+   - Defina success criteria, timeline, riscos
+
+3. **IMPLEMENTATION PHASE:**
+   - Para cada sub-plan: use `TEMPLATE_RPI_IMPLEMENTATION_PHASE.md`
+   - Implemente em chunks pequenos e validáveis
+   - Valide: testes passando, build OK, 100% casos cobertos
+
+**Quando usar RPI:**
+- Refatorações grandes (meses de trabalho)
+- Features complexas com múltiplas dependências
+- Quando precisa quebrar em partes reviewáveis
+- Migrações de sistemas críticos
 
 ### Criando Novo Template
 
@@ -169,14 +199,14 @@ Automações e scripts
 ## 📊 ESTATÍSTICAS
 
 ```
-📁 Total de recursos: 15
-📄 Templates: 6 (4 base + 2 Metodologia IA)
+📁 Total de recursos: 18
+📄 Templates: 9 (4 base + 2 Metodologia IA + 3 RPI Workflow)
 ✅ Checklists: 1 (200+ verificações)
 📖 Guias: 3 (Metodologia Profissional IA completa)
 🤖 Prompts Claude: 2
 🤖 Prompts Gemini: 4
 ⚙️ Workflows: 0
-📅 Último recurso criado: 24/Nov/2025
+📅 Último recurso criado: 16/Jan/2026
 ```
 
 ---

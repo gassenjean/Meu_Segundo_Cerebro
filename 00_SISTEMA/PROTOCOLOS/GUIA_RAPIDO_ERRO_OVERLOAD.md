@@ -1,7 +1,30 @@
 ---
 criado: 2025-12-02T11:14:00-03:00
 tipo: guia-rapido
-status: ativo
+status: deprecado
+atualizado: 2026-01-16T13:22:50-03:00
+---
+
+# [DEPRECADO] ⚡ GUIA RÁPIDO: Erro "Model Provider Overload"
+
+⚠️ **DEPRECADO** - Ver [[TROUBLESHOOTING_GUIA_RAPIDO.md]] (Categoria 1: Overload Contexto)
+
+**Razão:** Consolidado em guia único de troubleshooting com 6 categorias
+**Data deprecação:** 16/Jan/2026
+**Substituído por:** [[TROUBLESHOOTING_GUIA_RAPIDO.md#categoria-1-overload-contexto-claude]]
+
+**Por que deprecado:**
+- Conteúdo fragmentado em 2 guias diferentes (este + GUIA_RECUPERACAO_ERRO_GEMINI)
+- Dificulta navegação e manutenção
+- TROUBLESHOOTING_GUIA_RAPIDO.md consolida 6 categorias de problemas em um único local
+
+**Use o novo arquivo:**
+→ [[TROUBLESHOOTING_GUIA_RAPIDO.md]]
+
+---
+
+**[CONTEÚDO ORIGINAL PRESERVADO ABAIXO PARA REFERÊNCIA HISTÓRICA]**
+
 ---
 
 # ⚡ GUIA RÁPIDO: Erro "Model Provider Overload"

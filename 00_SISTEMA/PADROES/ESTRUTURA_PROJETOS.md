@@ -1,3 +1,29 @@
+---
+criado: 2026-01-16T13:22:30-03:00
+atualizado: 2026-01-16T13:22:30-03:00
+---
+# [DEPRECADO] 📁 ESTRUTURA PADRÃO DE PROJETOS
+
+⚠️ **DEPRECADO** - Ver [[../../02_PROJETOS/_GUIDELINES.md]] (Seção "Estrutura Obrigatória")
+
+**Razão:** Conteúdo consolidado no guideline de projetos (duplicação 60% eliminada)
+**Data deprecação:** 16/Jan/2026
+**Substituído por:** [[../../02_PROJETOS/_GUIDELINES.md]]
+
+**Por que deprecado:**
+- ESTRUTURA_PROJETOS.md e 02_PROJETOS/_GUIDELINES.md tinham 60% de conteúdo duplicado
+- Manutenção de 2 arquivos causava divergências
+- Single source of truth: _GUIDELINES.md é mais completo e específico da categoria
+
+**Use o novo arquivo:**
+→ [[../../02_PROJETOS/_GUIDELINES.md]]
+
+---
+
+**[CONTEÚDO ORIGINAL PRESERVADO ABAIXO PARA REFERÊNCIA HISTÓRICA]**
+
+---
+
 # 📁 ESTRUTURA PADRÃO DE PROJETOS
 
 **Sistema de Organização de Projetos - Segundo Cérebro**

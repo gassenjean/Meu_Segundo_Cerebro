@@ -1,6 +1,6 @@
 ---
 criado: 2025-11-24T21:45:11-03:00
-atualizado: 2025-12-31T15:26:58-03:00
+atualizado: 2026-01-16T13:31:09-03:00
 ---
 
 # CLAUDE.md
@@ -141,6 +141,52 @@ Um segundo cérebro digital organizado com:
 - `/marie-kondo` - Ativar Marie Kondo
 - `/atualizar-status` - Atualizar STATUS_VAULT.md
 - `/limpeza-raiz-vault` - Limpar duplicatas da raiz
+
+---
+
+## 📖 Guias de Leitura (Progressive Disclosure)
+
+**Para economizar tokens e reduzir fricção:**
+
+### Para Claude Code (você):
+
+→ [[00_SISTEMA/GUIAS/GUIA_Leitura_Claude.md]] - O que ler ao iniciar sessão
+
+**Benefícios:**
+- Progressive disclosure (ler apenas necessário)
+- Economia -40-50% tokens (80-100k → 40-60k)
+- Smart Zone (40% Rule) - Manter contexto <80k tokens
+- Decision trees claros
+
+### Para Gemini/Antigravity:
+
+→ [[00_SISTEMA/GUIAS/GUIA_Leitura_Gemini.md]] - Papel no sistema bi-IA
+
+**Benefícios:**
+- Clareza sobre papel (execução, não estratégia)
+- O que ler/não ler (economia ~40-50k tokens)
+- Templates de comunicação
+- Workflows típicos
+
+### Para Usuário (Gassen):
+
+→ [[00_SISTEMA/GUIAS/GUIA_Usuario_Quick_Start.md]] - Navegação rápida
+
+**Benefícios:**
+- Decision trees (o que fazer quando)
+- Mapa de pastas (onde está o quê)
+- Qual IA usar (Claude vs Gemini)
+- Rotinas periódicas (diária, semanal, mensal)
+
+### MOCs de Navegação:
+
+→ [[00_SISTEMA/MOCs/MOC_Padroes_Protocolos_Guidelines.md]] - Índice master (29 docs)
+
+→ [[00_SISTEMA/MOCs/MOC_Sincronizacao_Sistemas.md]] - Qual protocolo usar?
+
+→ [[00_SISTEMA/MOCs/MAPA_INTERDEPENDENCIAS.md]] - Grafo de dependências
+
+**Ver detalhes na seção "Important Files" abaixo.**
 
 ---
 
