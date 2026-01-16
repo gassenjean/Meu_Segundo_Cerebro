@@ -17,7 +17,8 @@
       "Skill(skill-creator)",
       "Bash(python:*)",
       "Skill(gemini)",
-      "Bash(if not exist \"00_SISTEMA\\\\GUIAS\" mkdir \"00_SISTEMA\\\\GUIAS\")"
+      "Bash(if not exist \"00_SISTEMA\\\\GUIAS\" mkdir \"00_SISTEMA\\\\GUIAS\")",
+      "Skill(devocionais-rpsp)"
     ]
   }
 }

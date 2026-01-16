@@ -1,12 +1,18 @@
 ---
 criado: 2026-01-08T06:00:00-03:00
-atualizado: 2026-01-08T06:00:00-03:00
+atualizado: 2026-01-16T19:32:03-03:00
 data: 08/01/2026
 dia_semana: Quinta-feira
 tema: O poder da oração
 licao: Lição 1 - 2 Coríntios
 texto_base: Colossenses 1:9-12
-tags: [colossenses, oração, vontade-de-deus, sabedoria, espírito-santo, frutificar]
+tags:
+  - colossenses
+  - oração
+  - vontade-de-deus
+  - sabedoria
+  - espírito-santo
+  - frutificar
 prompt_usado: v1 (Raciocínio Estendido)
 ---
 # Devocional — 08 de Janeiro de 2026

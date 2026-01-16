@@ -1,17 +1,24 @@
 ---
 criado: 2026-01-16T06:00:00-03:00
-atualizado: 2026-01-16T06:00:00-03:00
+atualizado: 2026-01-16T19:32:00-03:00
 data: 16/01/2026
 dia_semana: Sexta-feira
 tema: Sei em quem tenho crido
 licao: Lição 1 - 2 Coríntios (Estudo adicional)
 texto_base: 2 Timóteo 1:12
-tags: [martires, fe, testemunho, unidade-igreja, grande-conflito, sofrimento, confianca]
+tags:
+  - martires
+  - fe
+  - testemunho
+  - unidade-igreja
+  - grande-conflito
+  - sofrimento
+  - confianca
 prompt_usado: v1 (Raciocínio Estendido) - Formato Ultra-Compacto
 ---
 # Devocional — 16 de Janeiro de 2026
 
-☀️🌅 **BOM DIA** ✨
+☀️🌅 **Feliz Sábado** ✨
 
 > *"Dos instrumentos de tortura, das fogueiras, das masmorras, das covas e cavernas da Terra ecoou em seus ouvidos o grito de triunfo dos mártires. [...] Os que, dessa forma, renderam sua vida pela fé declararam ao mundo que Aquele em quem acreditaram era capaz de salvá-los plenamente"* — Ellen G. White, *Atos dos Apóstolos*, p. 326
 

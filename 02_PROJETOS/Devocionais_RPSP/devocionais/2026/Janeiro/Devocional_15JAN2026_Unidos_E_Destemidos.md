@@ -1,12 +1,19 @@
 ---
 criado: 2026-01-15T06:00:00-03:00
-atualizado: 2026-01-15T06:00:00-03:00
+atualizado: 2026-01-16T19:32:01-03:00
 data: 15/01/2026
 dia_semana: Quinta-feira
 tema: Unidos e destemidos
 licao: Lição 1 - 2 Coríntios
 texto_base: Filipenses 1:27-30
-tags: [unidade, coragem, adversarios, satanas-derrotado, sofrimento, jo, intimidacao]
+tags:
+  - unidade
+  - coragem
+  - adversarios
+  - satanas-derrotado
+  - sofrimento
+  - jo
+  - intimidacao
 prompt_usado: v1 (Raciocínio Estendido) - Formato Ultra-Compacto
 ---
 # Devocional — 15 de Janeiro de 2026

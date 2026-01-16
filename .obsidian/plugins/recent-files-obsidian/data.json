@@ -1,6 +1,18 @@
 {
   "recentFiles": [
     {
+      "basename": "Devocional_16JAN2026_Sei_Em_Quem_Tenho_Crido",
+      "path": "02_PROJETOS/Devocionais_RPSP/devocionais/2026/Janeiro/Devocional_16JAN2026_Sei_Em_Quem_Tenho_Crido.md"
+    },
+    {
+      "basename": "Devocional_08JAN2026_O_Poder_Da_Oracao",
+      "path": "02_PROJETOS/Devocionais_RPSP/devocionais/2026/Janeiro/Devocional_08JAN2026_O_Poder_Da_Oracao.md"
+    },
+    {
+      "basename": "Devocional_15JAN2026_Unidos_E_Destemidos",
+      "path": "02_PROJETOS/Devocionais_RPSP/devocionais/2026/Janeiro/Devocional_15JAN2026_Unidos_E_Destemidos.md"
+    },
+    {
       "basename": "COMUNICADO_SANSOM_NEGOCIACAO_TITANIUM",
       "path": "02_PROJETOS/KabaK/docs/reunioes/COMUNICADO_SANSOM_NEGOCIACAO_TITANIUM.md"
     },
@@ -15,10 +27,6 @@
     {
       "basename": "SESSION_LOG",
       "path": "SESSION_LOG.md"
-    },
-    {
-      "basename": "SESSION_LOG_ARCHIVE_2024-2025",
-      "path": "SESSION_LOG_ARCHIVE_2024-2025.md"
     },
     {
       "basename": "CLAUDE",
@@ -187,18 +195,6 @@
     {
       "basename": "PROTOCOLO_REVISAO_SEMANAL",
       "path": "00_SISTEMA/PROTOCOLOS/PROTOCOLO_REVISAO_SEMANAL.md"
-    },
-    {
-      "basename": "PROTOCOLO_CRIACAO_ARQUIVOS",
-      "path": "00_SISTEMA/PROTOCOLOS/PROTOCOLO_CRIACAO_ARQUIVOS.md"
-    },
-    {
-      "basename": "PROTOCOLO_SINCRONIZACAO_AGENTES",
-      "path": "00_SISTEMA/PROTOCOLOS/PROTOCOLO_SINCRONIZACAO_AGENTES.md"
-    },
-    {
-      "basename": "GUIA_RAPIDO_COMANDOS",
-      "path": "00_SISTEMA/GUIA_RAPIDO_COMANDOS.md"
     }
   ],
   "omittedPaths": [],
