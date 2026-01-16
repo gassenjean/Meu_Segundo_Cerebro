@@ -1,21 +1,32 @@
 ---
 criado: 2025-12-08T11:04:20-03:00
-atualizado: 2026-01-16T11:25:15-03:00
+atualizado: 2026-01-16T16:15:00-03:00
 ---
 
 # STATUS ATUAL - KabaK Reestruturação 2026
 
-**Última atualização:** 15/Jan/2026 - 07:15 (Auditoria e Correções)
+**Última atualização:** 16/Jan/2026 - 17:30 (Documento Sansom criado)
 
 ---
 
 ## ✅ ONDE ESTAMOS
- 
- **Fase Atual:** Estruturação Jurídica e Validação de Custos Finais
+
+ **Fase Atual:** Estruturação Jurídica e Início Titanium
  **Progresso:** 50%
  
- ### Última Ação (15/Jan/2026)
- 
+ ### Última Ação (16/Jan/2026 - 17:30)
+
+ - ✅ **DESCONTO TITANIUM:** Conseguido R$ 10k no setup (R$ 60k → R$ 50k).
+ - ✅ **ECONOMIA ANO 1:** R$ 100k total (setup + mensalidades escalonadas).
+ - ✅ **BÔNUS OUTLET:** Tráfego pago físico INCLUÍDO (valor R$ 120-240k/ano) - sem custo adicional!
+ - ✅ **INÍCIO IMEDIATO APROVADO:** Titanium começa desenvolvimento produto/linha AGORA.
+ - ✅ **INVESTIMENTO FINAL:** R$ 2.096.300 (antes R$ 2.106.300).
+ - ✅ **DIVISÃO ATUALIZADA:** R$ 1.048.150 cada lado (50/50).
+ - ✅ **DOCUMENTO SANSOM:** Criado comunicado executivo completo (`COMUNICADO_SANSOM_NEGOCIACAO_TITANIUM.md`).
+ - ✅ **ESCOPO TITANIUM:** Auxilia em TODO projeto (matéria-prima → produto → vendas online + outlet).
+
+ ### Ações Anteriores (15/Jan/2026)
+
  - ✅ **RETORNO SANSOM CONFIRMADO:** Decisão de investir tomada.
  - ✅ **START JURÍDICO:** Autorizado início do contrato social com Dr. Alexandre.
  - ✅ **VALIDAÇÃO CUSTOS:** Início da verificação final de tecido e produto pronto.
@@ -34,20 +45,38 @@ atualizado: 2026-01-16T11:25:15-03:00
  - **Sociedade (Poder Decisório):** **51% Sansom** (Voto de Minerva) / **49% Jean+Gassen+Kris**
  - **Sociedade (Lucros/Econômico):** **50% Sansom** / **50% Jean+Gassen+Kris**
  - **Produção:** Fábrica Jean (Gabriele Confecções) = **Fornecedor Blindado** (Prestação Serviço)
- - **Marketing:** Titanium (terceirizado, R$ 60k/mês)
- - **Investimento:** R$ 2.106.300 em 6 meses (Divisão 50/50: R$ 1.053.150 cada lado)
+ - **Marketing:** Titanium (terceirizado)
+   - Setup: R$ 50k (desconto R$ 10k conseguido 16/Jan)
+   - Mensalidades: R$ 45k (1-3) → R$ 50k (4-6) → R$ 55k (7-9) → R$ 60k (10+)
+ - **Investimento:** R$ 2.096.300 em 6 meses (Divisão 50/50: R$ 1.048.150 cada lado)
  - **Produto:** Kit Fitness Feminino (calça+top+short) R$ 129
- - **Meta:** Break-even mês 4 (Ago/2026) / ROI 155% ano 1
+ - **Meta:** Break-even mês 4 (Ago/2026) / ROI 155%-258% ano 1
  
  ---
  
  ## 🎯 PRÓXIMAS AÇÕES
- 
- ### CRÍTICO (Esta Semana - 15-22/Jan)
- 
- 1. [ ] **Sansom:** Informar custos finais do tecido China 🇨🇳
- 2. [ ] **Gassen/Jean:** Confirmar custo final da calça pronta (CMV) 🏭
- 3. [ ] **Gassen:** Acionar Dr. Alexandre para### 📢 Marketing & Vendas
+
+ ### CRÍTICO (Esta Semana - 16-22/Jan)
+
+ 1. [ ] **Gassen:** Enviar proposta atualizada para Sansom (novo investimento R$ 1.048.150) 📧
+    - **Prazo:** 17/Jan/2026
+    - **Incluir:** Desconto Titanium, economia R$ 100k ano 1
+
+ 2. [ ] **Gassen:** Formalizar início com Titanium (PO ou contrato provisório) 📝
+    - **Prazo:** 19/Jan/2026
+    - **Valor:** Setup R$ 50k + mensalidades escalonadas
+
+ 3. [ ] **Sansom:** Informar custos finais do tecido China 🇨🇳
+    - **Prazo:** 21/Jan/2026
+    - **Crítico:** Valida ou ajusta projeções
+
+ 4. [ ] **Gassen/Jean:** Confirmar custo final da calça pronta (CMV) 🏭
+    - **Prazo:** 21/Jan/2026
+    - **Crítico:** R$ 15/kit confirmado?
+
+ 5. [ ] **Gassen:** Acionar Dr. Alexandre para reunião estruturação jurídica
+    - **Prazo:** 17/Jan (agendar) / 21/Jan (reunião)
+    - **Pauta:** Contrato social, prestação serviço, divisão 49%### 📢 Marketing & Vendas
 *   **Agência:** **460 Produções (Transição)**
     *   *Escopo:* Social Media (KabaK + Outlet) até entrada da Titanium.
     *   *Adicional:* Consultoria de Padronização Física do Outlet.
@@ -68,10 +97,21 @@ atualizado: 2026-01-16T11:25:15-03:00
 
 ### URGENTE (Próximas 2 Semanas - 21/Jan-04/Fev)
 
-1. [ ] **Dr. Alexandre:** Reunião estruturação jurídica (contrato social + prestação serviço)
-2. [ ] **Todos:** Definir investimento final (R$ 2,6M divisão 51/49)
-3. [ ] **Gassen:** Reunião comercial Titanium (validar R$ 60k/mês)
+1. [ ] **Titanium (Gui):** Iniciar diagnóstico marca KabaK
+   - **Prazo:** 20/Jan/2026
+   - **Entregas:** Questionário, análise concorrentes, mapeamento mercado
+
+2. [ ] **Titanium:** Apresentar proposta de linha de produtos
+   - **Prazo:** 28/Jan/2026
+   - **Conteúdo:** Mix inicial, expansões futuras, estratégia comunicação
+
+3. [ ] **Gassen + Titanium:** Workshop de produto
+   - **Prazo:** 30/Jan/2026
+   - **Participantes:** Gassen, Kris, Gui, equipe Titanium
+   - **Objetivo:** Alinhar visão criativa com viabilidade produtiva
+
 4. [ ] **Jean:** Preparar fábrica para exclusividade (estrutura, equipe)
+   - **Prazo:** Início Fev/2026
 
 ### Fase 1 - Estruturação (Fev/2026)
 
@@ -97,6 +137,26 @@ atualizado: 2026-01-16T11:25:15-03:00
 ---
 
 ## 📋 DECISÕES RECENTES
+
+### 16/Jan/2026 - DESCONTO TITANIUM E INÍCIO IMEDIATO ⭐⭐
+
+**Contexto:** Reunião com Gui (Titanium) para negociar desconto e antecipar início.
+**Decisões:**
+1. **Desconto aprovado:** Setup R$ 60k → R$ 50k (**economia R$ 10k**)
+2. **Mensalidades confirmadas:** Escalonamento 45→50→55→60k mantido
+3. **Economia total ano 1:** R$ 100k (setup + mensalidades)
+4. **Início imediato:** Titanium começa desenvolvimento produto/linha AGORA (antes de contrato social)
+5. **Investimento atualizado:** R$ 2.096.300 (divisão R$ 1.048.150 cada lado)
+
+**Impacto:**
+- Investimento reduzido em R$ 10k (cada sócio economiza R$ 5k)
+- Produto/linha definidos quando tecido China chegar (Mar-Abr)
+- Lançamento pontual em Mai/2026 garantido
+
+**Próximos Passos:**
+- Formalizar início até 19/Jan (PO ou contrato provisório)
+- Titanium inicia diagnóstico marca até 20/Jan
+- Workshop produto até 30/Jan
 
 ### 15/Jan/2026 - OUTLET E ESTRUTURA ENXUTA (LIGAÇÃO) ⭐
  
@@ -148,11 +208,12 @@ atualizado: 2026-01-16T11:25:15-03:00
  **Tecido:** Poliéster 90/10 fundo preto (zero transparência)
  **Fornecedor:** China via Sansom (custo R$ 30/kit vs R$ 45 nacional)
 
-### 19/Dez/2025 - Parceria Titanium (SUPERADA)
+### 19/Dez/2025 - Parceria Titanium (ATUALIZADA 16/Jan)
 
 **Status:** Titanium agora é prestador de serviço (não parceiro).
-**Antes:** Setup R$ 60k + mensal R$ 45-60k
-**Agora:** Mensal R$ 60k (sem setup)
+**Proposta original (Dez/2025):** Setup R$ 60k + mensal R$ 45-60k (escalonado)
+**Proposta negociada (Jan/2026):** Setup R$ 50k + mensal R$ 45-60k (escalonado)
+**Economia:** R$ 10k setup + R$ 90k mensalidades ano 1 = **R$ 100k total**
 
 ### 08/Dez/2025 - Unificação de Subprojetos
 
@@ -226,16 +287,17 @@ atualizado: 2026-01-16T11:25:15-03:00
 
 ### Curto Prazo (6 meses)
 
-- **Investimento:** R$ 2.106.300 (50/50: R$ 1.053.150 cada lado)
+- **Investimento:** R$ 2.096.300 (50/50: R$ 1.048.150 cada lado)
 - **Produção:** 240k peças estoque
 - **Vendas:** 38k kits (114k peças)
 - **Resultado:** Break-even mês 4 (Agosto/2026)
+- **Economia Titanium:** R$ 100k ano 1
 
 ### Médio Prazo (12 meses)
 
 - **Faturamento:** R$ 3-5M/mês (conservador)
 - **Lucro:** R$ 1-1,5M/mês
-- **ROI:** 155%
+- **ROI:** 155%-258% (recalcular com base R$ 2.096.300)
 
 ### Longo Prazo (24+ meses)
 
@@ -246,5 +308,15 @@ atualizado: 2026-01-16T11:25:15-03:00
 ---
 
 **Próxima revisão:** 21/Jan/2026
-**Checkpoint:** Reunião Dr. Alexandre (estrutura jurídica)
+**Checkpoints Próximos:**
+- 19/Jan: Formalização Titanium
+- 21/Jan: Reunião Dr. Alexandre (estrutura jurídica)
+- 28/Jan: Workshop produto Titanium
+- 15/Fev: Setup Shopify concluído
+
 **Lançamento previsto:** Mai/2026
+
+**Ver também:**
+- [[VALORES_OFICIAIS.md]] - Fonte única da verdade (valores atualizados 16/Jan)
+- [[DASHBOARD.md]] - Métricas e progresso
+- [[docs/reunioes/RESUMO_EXECUTIVO_REUNIAO_TITANIUM_16JAN2026.md]] - Detalhes negociação

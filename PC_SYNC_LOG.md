@@ -1,6 +1,6 @@
 ---
 criado: 2025-12-02T11:38:00-03:00
-atualizado: 2026-01-15T18:36:31-03:00
+atualizado: 2026-01-14T23:53:56-03:00
 ---
 
 # 📡 PC Sync Log - Comunicação Alienware ↔ Desktop Casa

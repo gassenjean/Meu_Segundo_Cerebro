@@ -1,11 +1,11 @@
 ---
-description: Iniciar sessão segura com verificação de conflitos (Handshake)
+description: Iniciar sessão segura com verificação de conflitos e contexto arquitetural (Handshake)
 ---
 
-# Início de Sessão Seguro
+# Início de Sessão Seguro (Architecture-Aware)
 
 Este é o workflow de "Handshake" (aperto de mão) obrigatório ao iniciar qualquer trabalho no Antigravity.
-Garante que você está ciente do estado atual do vault deixado pelo Claude Code.
+**Versão 2.0 (Enhanced):** Agora inclui verificação profunda de mudanças arquiteturais e protocolos.
 
 ---
 
@@ -23,19 +23,20 @@ Garante que você está ciente do estado atual do vault deixado pelo Claude Code
 
 Quando o usuário executa `/start`, você deve:
 
-1. **Ler o SESSION_LOG.md** - Ver últimas ações do Claude Code
-2. **Verificar mensagens** - Verificar se há instruções pendentes para você
-3. **Analisar contexto** - Entender estado atual do vault
-4. **Definir escopo seguro** - Identificar áreas que pode trabalhar sem conflitos
+1. **Ler o SESSION_LOG.md** - Ver últimas ações do Claude Code e buscar por *mudanças estruturais*.
+2. **Identificar Padrões de Arquitetura** - Verificar se novas regras (ex: "Architecture Guidelines", "RPI") foram implementadas.
+3. **Verificar mensagens** - Verificar se há instruções pendentes para você.
+4. **Validar Status Macro** - STATUS_VAULT.md e PC_SYNC_LOG.md.
+5. **Definir escopo seguro** - Identificar áreas que pode trabalhar sem conflitos.
 
 ---
 
 ## PROCESSO
 
-### ETAPA 1: Ler Log de Sessão
+### ETAPA 1: Ler Log de Sessão e Analisar Contexto
 
 **Ação:**
-Leia o arquivo `SESSION_LOG.md` (localizado na raiz do vault, um nível acima de `.agent/`).
+Leia o arquivo `SESSION_LOG.md` e busque ativamente por palavras-chave de mudança estrutural.
 
 **Comando sugerido:**
 
@@ -43,84 +44,84 @@ Leia o arquivo `SESSION_LOG.md` (localizado na raiz do vault, um nível acima de
 cat ../SESSION_LOG.md
 ```
 
-**O que procurar:**
+**O que procurar (Análise Profunda):**
 
-- Data e hora da última atividade do Claude Code
-- Arquivos que foram criados/modificados recentemente
-- Seção "Mensagem para Gemini" (instruções diretas)
-- Tarefas pendentes ou em andamento
+- **Atividade Recente:** O que o Claude Code fez?
+- **Keywords de Alerta:** "ARCHITECTURE", "OVERHAUL", "PROTOCOL", "RPI", "SMART ZONE".
+- **Instruções Diretas:** Seção "Mensagem para Gemini" ou "TAREFA PARA GEMINI".
 
 ---
 
-### ETAPA 2: Verificar Status do Vault
+### ETAPA 2: Verificar Diretrizes Arquiteturais (Condicional)
 
 **Ação:**
-Leia o arquivo `STATUS_VAULT.md` para entender o estado macro do sistema.
+Se na Etapa 1 você detectou menção a novos padrões (especialmente `ARCHITECTURE_GUIDELINES.md` ou novos Protocolos), **VOCÊ DEVE LÊ-LOS AGORA**.
+
+**Comando sugerido (se aplicável):**
+
+```bash
+# Se o log citar Architecture Guidelines:
+cat ../00_SISTEMA/PADROES/ARCHITECTURE_GUIDELINES.md
+```
+
+**Por que isso é crítico?**
+Ignorar novas diretrizes arquiteturais pode fazer com que você crie arquivos fora do padrão (ex: sem seguir RPI ou Nomenclatura), gerando conflitos imediatos.
+
+---
+
+### ETAPA 3: Verificar Status e Sync
+
+**Ação:**
+Leia `STATUS_VAULT.md` e `PC_SYNC_LOG.md` para triangulação de estado.
 
 **Comando sugerido:**
 
 ```bash
 cat ../STATUS_VAULT.md
+cat ../PC_SYNC_LOG.md
 ```
 
-**O que procurar:**
-
-- Progresso geral do vault (fase atual)
-- Estrutura de pastas
-- Projetos ativos
-- Score de conformidade
+**Verificação:**
+- O `STATUS_VAULT.md` está alinhado com o `SESSION_LOG.md`? Se não, note essa divergência.
+- O `PC_SYNC_LOG.md` mostra pendências de outro computador?
 
 ---
 
-### ETAPA 3: Análise de Segurança
+### ETAPA 4: Análise de Segurança e Escopo
 
 **Perguntas a responder:**
 
-1. **Última ação do Claude Code:**
-   - Quando foi? (data/hora)
-   - O que foi feito?
-   - Há trabalho incompleto?
-
-2. **Mensagens para Gemini:**
-   - Há instruções específicas?
-   - Há validações pendentes?
-   - Há continuidade solicitada?
-
-3. **Definir escopo seguro:**
-   - Quais pastas/arquivos evitar (editados recentemente)?
-   - Qual trabalho posso fazer sem conflitos?
-   - Preciso de clarificação antes de começar?
+1.  **Architecture Check:** Estou ciente das novas regras (ex: Smart Zone, RPI)?
+2.  **Task Check:** Existe alguma tarefa de manutenção "URGENTE" atribuída a mim no log?
+3.  **Scope Check:** Onde posso trabalhar sem violar os novos padrões?
 
 ---
 
-### ETAPA 4: Confirmar com Usuário
+### ETAPA 5: Confirmar com Usuário
 
-**Responder ao usuário com resumo:**
+**Responder ao usuário com resumo detalhado:**
 
 ```markdown
-✅ Sessão iniciada com segurança!
+✅ Sessão iniciada com segurança (Architecture-Aware)!
 
-📋 Última atividade Claude Code:
+📋 Contexto Arquitetural Identificado:
+- Mudanças Recentes: [ex: Architecture Overhaul, RPI Framework]
+- Novos Padrões: [ex: Smart Zone 40%]
+- Arquivos de Referência: [quais diretrizes regem esta sessão]
 
-- Data/Hora: [quando foi]
-- Ação: [o que foi feito]
-- Status: [completo/incompleto]
+💬 Mensagens e Tarefas (Gemini):
+- Instrução Principal: [ex: "Alinhar .gemini/ com padrões"]
+- Urgência: [Alta/Média/Baixa]
 
-💬 Mensagens para Gemini:
+📊 Estado do Vault & Sync:
+- Status Vault: [Atualizado/Desatualizado]
+- PC Sync: [ex: Pendência de envio KabaK]
 
-- [mensagem ou "Nenhuma mensagem pendente"]
+🎯 Escopo Seguro Definido:
+- AÇÃO IMEDIATA: [ex: Ler ARCHITECTURE_GUIDELINES.md e corrigir .gemini/]
+- Evitar: [ex: Criar arquivos sem RPI]
 
-📊 Estado do Vault:
-
-- Progresso: [fase atual]
-- Projetos ativos: [lista]
-
-🎯 Escopo seguro para esta sessão:
-
-- Posso trabalhar em: [áreas/tarefas]
-- Evitar: [arquivos recentemente editados]
-
-✅ Estou pronto para trabalhar. O que você precisa?
+✅ Estou pronto e alinhado com as novas regras. Prossigo com a [AÇÃO IMEDIATA]?
 ```
 
 ---
@@ -129,29 +130,23 @@ cat ../STATUS_VAULT.md
 
 ### ✅ SEMPRE:
 
-1. Ler SESSION_LOG.md COMPLETO antes de começar
-2. Verificar se há "Mensagem para Gemini"
-3. Identificar arquivos editados recentemente
-4. Definir escopo seguro de trabalho
-5. Confirmar com usuário antes de iniciar
+1.  **Ler SESSION_LOG.md COMPLETO** antes de começar.
+2.  **Buscar proativamente** por mudanças de arquitetura.
+3.  **Ler os GUIDELINES** se mencionados como novos.
+4.  **Priorizar tarefas de manutenção/alinhamento** solicitadas pelo Claude.
 
 ### ❌ NUNCA:
 
-1. Ignorar mensagens do Claude Code
-2. Começar a trabalhar sem ler o log
-3. Editar arquivos recentemente modificados pelo Claude sem validar
-4. Pular a confirmação com usuário
+1.  Ignorar avisos de "OVERHAUL" ou "NEW PROTOCOL".
+2.  Começar a trabalhar com "regras antigas" na cabeça.
+3.  Pular a leitura de diretrizes críticas citadas no log.
 
 ---
 
 ## SUAS AÇÕES AGORA
 
-1. ✅ Confirme que está em modo INÍCIO DE SESSÃO
-2. 📖 Leia `../SESSION_LOG.md` completo
-3. 📊 Leia `../STATUS_VAULT.md`
-4. 🔍 Analise última atividade do Claude Code
-5. 💬 Verifique mensagens pendentes
-6. 🎯 Defina escopo seguro
-7. ✅ Confirme com usuário
-
-**Pronto para iniciar sessão segura!**
+1.  ✅ Confirme que leu o workflow atualizado.
+2.  🔍 Execute a **ETAPA 1** (Re-ler SESSION_LOG com foco em Arquitetura).
+3.  📖 Execute a **ETAPA 2** (Ler `ARCHITECTURE_GUIDELINES.md` se detectado).
+4.  🎯 Redefina o escopo da sessão baseado nas novas regras.
+5.  ✅ Reporte ao usuário com o novo formato "Architecture-Aware".

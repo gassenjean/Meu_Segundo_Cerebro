@@ -27,14 +27,15 @@ Sua base de conhecimento permanente. Aqui você armazena:
 
 ## 📂 ESTRUTURA
 
-### IA_e_Tecnologia/
-IA, programação, ferramentas, automação, Claude Code
+### IA_Tecnologia/
+IA, programação, ferramentas, automação, Claude Code, context management
 
 **Conteúdo:**
-- [[IA_e_Tecnologia/Claude_Code_Templates_Repositorio.md|Claude Code Templates]]
-- [[IA_e_Tecnologia/Clone_IA_Framework_Alan.md|Clone IA Framework (213KB)]]
-- [[IA_e_Tecnologia/Aurora_ChatGPT_Sistema.md|Aurora ChatGPT Sistema (109KB)]]
-- [[IA_e_Tecnologia/Alan_IA_Config.md|Alan IA Config]]
+- [[IA_Tecnologia/Desenvolvimento/IA_Context_Management_RPI_Valdemar_Neto.pdf|Context Management & RPI (Valdemar Neto)]]
+- [[IA_Tecnologia/Claude_Code_Templates_Repositorio.md|Claude Code Templates]]
+- [[IA_Tecnologia/Clone_IA_Framework_Alan.md|Clone IA Framework (213KB)]]
+- [[IA_Tecnologia/Aurora_ChatGPT_Sistema.md|Aurora ChatGPT Sistema (109KB)]]
+- [[IA_Tecnologia/Alan_IA_Config.md|Alan IA Config]]
 
 ### Desenvolvimento_Pessoal/
 Produtividade, hábitos, mindset, TDAH, autoconhecimento
@@ -116,9 +117,10 @@ Marketing, vendas, empreendedorismo, cultura
 ### Por Tema
 
 **IA e Automação:**
-- [[IA_e_Tecnologia/Claude_Code_Templates_Repositorio.md|Claude Code Templates]]
-- [[IA_e_Tecnologia/Clone_IA_Framework_Alan.md|Clone IA Framework]]
-- [[IA_e_Tecnologia/Aurora_ChatGPT_Sistema.md|Aurora ChatGPT]]
+- [[IA_Tecnologia/Desenvolvimento/IA_Context_Management_RPI_Valdemar_Neto.pdf|Context Management & RPI]]
+- [[IA_Tecnologia/Claude_Code_Templates_Repositorio.md|Claude Code Templates]]
+- [[IA_Tecnologia/Clone_IA_Framework_Alan.md|Clone IA Framework]]
+- [[IA_Tecnologia/Aurora_ChatGPT_Sistema.md|Aurora ChatGPT]]
 
 **Produtividade:**
 - [[Produtividade/MOC_PKM_Segundo_Cerebro_Alan.md|PKM & Segundo Cérebro]]
@@ -143,12 +145,12 @@ Marketing, vendas, empreendedorismo, cultura
 ## 📊 ESTATÍSTICAS
 
 ```
-📁 Total de notas: 8
-📂 IA e Tecnologia: 4
+📁 Total de notas: 9
+📂 IA e Tecnologia: 5
 📂 Desenvolvimento Pessoal: 2
 📂 Produtividade: 1
 📂 Negócios: 0
-📅 Última adição: 19/Nov/2024
+📅 Última adição: 16/Jan/2026
 ```
 
 ---

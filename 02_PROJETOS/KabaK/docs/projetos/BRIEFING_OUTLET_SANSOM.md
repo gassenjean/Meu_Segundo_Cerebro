@@ -1,6 +1,6 @@
 ---
 criado: 2026-01-15T15:45:00-03:00
-atualizado: 2026-01-15T18:45:00-03:00
+atualizado: 2026-01-16T12:03:17-03:00
 tipo: briefing_estrategico
 destinatario: Sansom (Sócio Estratégico & Co-Founder)
 status: para_aprovacao_final

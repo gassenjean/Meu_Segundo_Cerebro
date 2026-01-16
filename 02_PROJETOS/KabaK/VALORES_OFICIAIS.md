@@ -1,6 +1,6 @@
 ---
 criado: 2026-01-15T07:35:00-03:00
-atualizado: 2026-01-15T07:35:00-03:00
+atualizado: 2026-01-16T15:45:00-03:00
 tipo: referencia_oficial
 prioridade: critica
 status: ativo
@@ -10,8 +10,8 @@ status: ativo
 
 **Fonte Única da Verdade - TODOS os documentos devem seguir estes valores**
 
-**Data Aprovação:** 15/Jan/2026
-**Aprovado por:** Gassen (baseado em auditoria completa)
+**Data Aprovação:** 15/Jan/2026 | Atualizado: 16/Jan/2026
+**Aprovado por:** Gassen (baseado em auditoria completa + negociação Titanium)
 **Próxima Revisão:** Após reunião Dr. Alexandre (21/Jan/2026)
 
 ---
@@ -29,17 +29,17 @@ Este documento é a **FONTE OFICIAL** de todos os valores financeiros e estrutur
 ### Investimento Total Oficial
 
 ```
-INVESTIMENTO TOTAL: R$ 2.106.300
+INVESTIMENTO TOTAL: R$ 2.096.300
 ```
 
 **Breakdown:**
-- Pré-operacional (Jan-Abr/2026): R$ 1.980.000
+- Pré-operacional (Jan-Abr/2026): R$ 1.970.000
 - Déficit operacional (Mai-Jun/2026): R$ 126.300
 
 **Composição Pré-Operacional:**
 ```
 Estoque Inicial (240k peças):  R$ 1.440.000
-Marketing Setup (Titanium):     R$    60.000
+Marketing Setup (Titanium):     R$    50.000  ⬇️ DESCONTO R$ 10k (16/Jan)
 Tráfego Pago Teste:             R$    40.000
 Estrutura Jurídica:             R$    20.000
 Tecnologia (Shopify setup):     R$    10.000
@@ -47,7 +47,7 @@ Operacional (contratações):     R$    30.000
 Capital de Giro:                R$   200.000
 Contingência (10%):             R$   180.000
 ----------------------------------------
-TOTAL PRÉ-OPERACIONAL:          R$ 1.980.000
+TOTAL PRÉ-OPERACIONAL:          R$ 1.970.000
 ```
 
 **Composição Déficit Operacional:**
@@ -70,16 +70,16 @@ TOTAL DÉFICIT:                  R$   126.300
 
 ### Direitos Econômicos (Lucros e Investimento)
 
-- **50% Sansom:** R$ 1.053.150 investimento
-- **50% Jean+Gassen+Kris:** R$ 1.053.150 investimento
+- **50% Sansom:** R$ 1.048.150 investimento
+- **50% Jean+Gassen+Kris:** R$ 1.048.150 investimento
   - Divisão interna: A definir com Dr. Alexandre
 
 **Comunicação Simplificada (Arredondado):**
-- Sansom: R$ 1.300.000 (50%)
-- Jean+Gassen+Kris: R$ 1.300.000 (50%)
-- Total: R$ 2.600.000
+- Sansom: R$ 1.300.000 (50%) ou R$ 1.290.000 (mais preciso)
+- Jean+Gassen+Kris: R$ 1.300.000 (50%) ou R$ 1.290.000 (mais preciso)
+- Total: R$ 2.600.000 ou R$ 2.580.000 (mais preciso)
 
-**Nota:** Use valores exatos (R$ 1.053.150 cada) em documentos oficiais/legais. Use valores arredondados (R$ 1.3M cada) em apresentações/comunicações.
+**Nota:** Use valores exatos (R$ 1.048.150 cada) em documentos oficiais/legais. Use valores arredondados (R$ 1.3M cada) em apresentações/comunicações.
 
 ---
 
@@ -117,14 +117,18 @@ ROI OFICIAL: 155%
 **Base de Cálculo:**
 - Método conservador considerando investimento pré-operacional completo
 - Lucro ano 1: R$ 7.503.875
-- Investimento: R$ 2.106.300
-- Cálculo: (Lucro / Investimento) - 1 = Depende do método
+- Investimento: R$ 2.096.300
+- Cálculo: (7.503.875 / 2.096.300) × 100 = 358%
+- Ou método alternativo: (Lucro / Investimento) - 1 = 258%
 
 **Métodos Válidos:**
-- **155%:** Método conservador (oficial para comunicação externa)
-- **356%:** Perspectiva individual por sócio (R$ 3.752k lucro / R$ 1.053k invest)
+- **155% a 258%:** Método conservador (oficial para comunicação externa) ⚠️ RECALCULAR COM NOVA BASE
+- **358%:** Perspectiva direta (Lucro Total / Investimento Total)
+- **359%:** Perspectiva individual por sócio (R$ 3.752k lucro / R$ 1.048k invest)
 
 **NUNCA usar:** 5.940% (erro grosseiro - usava só déficit operacional como base)
+
+**⚠️ NOTA:** ROI precisa ser recalculado com nova base de investimento (R$ 2.096.300). Manter comunicação conservadora até recálculo validado.
 
 ### Break-even
 
@@ -184,9 +188,19 @@ TOTAL CUSTO VARIÁVEL:           R$  70,58
 
 ### Custos Fixos Mensais
 
+**⚠️ IMPORTANTE:** Setup Titanium mudou de R$ 60k → R$ 50k (16/Jan/2026)
+
+**Mensalidades Titanium (Escalonadas):**
+```
+Meses 1-3:  R$ 45.000/mês (Tração inicial)
+Meses 4-6:  R$ 50.000/mês (Escala de vendas)
+Meses 7-9:  R$ 55.000/mês (Consolidação)
+Mês 10+:    R$ 60.000/mês (Velocidade cruzeiro)
+```
+
 **Fase Lançamento (Mês 1-2):**
 ```
-Titanium (gestão marketing):    R$  60.000
+Titanium (gestão marketing):    R$  45.000  ⬇️ Escalonado (meses 1-3)
 Tráfego Pago:                   R$  40.000
 Pró-labore Gassen:              R$  15.000
 Pró-labore Sansom:              R$  15.000
@@ -197,24 +211,30 @@ Tecnologia (Shopify):           R$   3.000
 Administrativo:                 R$   7.000
 Jurídico:                       R$   5.000
 ----------------------------------------------------
-TOTAL FIXO (Mês 1-2):           R$ 175.000
+TOTAL FIXO (Mês 1-2):           R$ 160.000  ⬇️ -R$ 15k vs estimativa anterior
 ```
 
 **Fase Crescimento (Mês 3-5):**
 ```
-[Mesmos itens acima]
+Titanium (gestão marketing):    R$  50.000  ⬆️ Mês 4-6 (era 45k)
 Tráfego Pago:                   R$  70.000  (aumenta)
 SAC extra (+1 pessoa):          R$   5.000  (adiciona)
+[Demais itens iguais à Fase 1]
 ----------------------------------------------------
-TOTAL FIXO (Mês 3-5):           R$ 210.000
+TOTAL FIXO (Mês 3):             R$ 165.000  (Titanium ainda 45k)
+TOTAL FIXO (Mês 4-5):           R$ 200.000  (Titanium sobe para 50k)
 ```
 
 **Fase Maturidade (Mês 6+):**
 ```
-[Mesmos itens acima]
+Titanium (gestão marketing):    R$  55.000  ⬆️ Mês 7-9 (era 50k)
+                                R$  60.000  ⬆️ Mês 10+ (era 55k)
 Tráfego Pago:                   R$ 100.000  (aumenta)
+[Demais itens iguais]
 ----------------------------------------------------
-TOTAL FIXO (Mês 6+):            R$ 255.000
+TOTAL FIXO (Mês 6):             R$ 245.000  (Titanium ainda 50k)
+TOTAL FIXO (Mês 7-9):           R$ 250.000  (Titanium 55k)
+TOTAL FIXO (Mês 10+):           R$ 255.000  (Titanium 60k - velocidade cruzeiro)
 ```
 
 ---
@@ -311,24 +331,27 @@ TOTAL FIXO (Mês 6+):            R$ 255.000
 
 1. **Sansom** (51% decisão / 50% lucros)
    - Gestão financeira, importação China
-   - Investimento: R$ 1.053.150 (50%)
+   - Investimento: R$ 1.048.150 (50%)
 
 2. **Jean** (parte 49% decisão / 50% lucros)
    - CEO, produção (também prestador via fábrica)
-   - Investimento: Parte de R$ 1.053.150 (a definir)
+   - Investimento: Parte de R$ 1.048.150 (a definir)
 
 3. **Gassen** (parte 49% decisão / 50% lucros)
    - Gestor marca, e-commerce
-   - Investimento: Parte de R$ 1.053.150 (a definir)
+   - Investimento: Parte de R$ 1.048.150 (a definir)
 
 4. **Kris** (parte 49% decisão / 50% lucros)
    - Desenvolvimento produto
-   - Investimento: Parte de R$ 1.053.150 (a definir)
+   - Investimento: Parte de R$ 1.048.150 (a definir)
 
 ### Prestadores de Serviço (NÃO Sócios)
 
 - **Fábrica Jean (Gabriele Confecções):** Produção exclusiva
-- **Titanium:** Marketing (R$ 60k/mês + tráfego variável)
+- **Titanium:** Marketing
+  - Setup: R$ 50.000 (desconto de R$ 10k conseguido em 16/Jan)
+  - Mensalidades: R$ 45k (mês 1-3) → R$ 50k (4-6) → R$ 55k (7-9) → R$ 60k (10+)
+  - Tráfego variável (adicional): R$ 40k-100k/mês conforme fase
 
 ---
 
@@ -337,29 +360,59 @@ TOTAL FIXO (Mês 6+):            R$ 255.000
 ### Para Documentos Oficiais/Legais
 
 Usar valores EXATOS:
-- Investimento: R$ 2.106.300
-- Divisão: R$ 1.053.150 cada lado
-- ROI: 155% (método conservador)
+- Investimento: R$ 2.096.300
+- Divisão: R$ 1.048.150 cada lado
+- ROI: 155%-258% (recalcular com nova base) ⚠️
 - Margem: 45,3%
 
 ### Para Apresentações/Comunicações
 
 Usar valores ARREDONDADOS (mais fácil):
-- Investimento: R$ 2,6M
-- Divisão: R$ 1,3M cada lado (50/50)
-- ROI: 155%
+- Investimento: R$ 2,6M ou R$ 2,58M (mais preciso)
+- Divisão: R$ 1,3M ou R$ 1,29M cada lado (50/50)
+- ROI: 155%-258% (conservador - recalcular)
 - Margem: 45%
 
 ### Para Discussões Internas
 
 Usar valores que facilitem decisão:
-- Se discutindo perspectiva individual: ROI 356%
-- Se discutindo conservador: ROI 155%
+- Se discutindo perspectiva individual: ROI ~359% (R$ 3.752k / R$ 1.048k)
+- Se discutindo conservador: ROI 155%-258% (recalcular com base R$ 2.096.300)
 - Sempre mencionar qual método está usando
+
+### 💰 Economia Titanium (Comunicar para Sansom)
+
+**Desconto Conseguido (16/Jan/2026):**
+- Setup: R$ 60k → R$ 50k (**-R$ 10.000**)
+- Mensalidades: Escalonadas (45→50→55→60k)
+- **Economia ano 1: R$ 100.000** (R$ 10k setup + R$ 90k mensalidades)
+- **Investimento total: R$ 2.096.300** (antes R$ 2.106.300)
 
 ---
 
 ## 🔄 HISTÓRICO DE ATUALIZAÇÕES
+
+### 16/Jan/2026 - Atualização Negociação Titanium ⭐
+
+**Motivo:** Reunião com Gui (Titanium) - desconto conseguido
+
+**Mudanças:**
+1. **Setup Titanium:** R$ 60.000 → R$ 50.000 (**-R$ 10.000**)
+2. **Investimento total:** R$ 2.106.300 → R$ 2.096.300 (**-R$ 10.000**)
+3. **Divisão 50/50:** R$ 1.053.150 → R$ 1.048.150 cada lado (**-R$ 5.000 cada**)
+4. **Mensalidades escalonadas:** Confirmadas (45→50→55→60k)
+5. **Economia ano 1:** R$ 100.000 (R$ 10k setup + R$ 90k mensalidades)
+6. **Início imediato:** Aprovado (antes de contrato social)
+
+**Documentos Atualizados:**
+- VALORES_OFICIAIS.md (este documento)
+- RESUMO_EXECUTIVO_REUNIAO_TITANIUM_16JAN2026.md (criado)
+
+**Pendente Atualização:**
+- STATUS_ATUAL.md (incluir reunião Titanium)
+- DASHBOARD.md (nova negociação)
+- TODO_Sprint_Atual.md (ações da reunião)
+- ROI recalculado com nova base R$ 2.096.300
 
 ### 15/Jan/2026 - Criação do Documento
 
@@ -392,12 +445,14 @@ Antes de atualizar qualquer documento do projeto KabaK:
 
 - [ ] Li VALORES_OFICIAIS.md completamente?
 - [ ] Estou usando valores EXATOS (não arredondados)?
-- [ ] Investimento é R$ 2.106.300 (não R$ 2.6M)?
-- [ ] Divisão é 50/50 (R$ 1.053.150 cada)?
+- [ ] Investimento é R$ 2.096.300 (não R$ 2.6M, não R$ 2.106.300)?
+- [ ] Divisão é 50/50 (R$ 1.048.150 cada, não R$ 1.053.150)?
 - [ ] Sócios 49% são Jean+Gassen+Kris (não só Gassen+Kris)?
-- [ ] ROI é 155% (não 288%, 356% ou 5.940%)?
+- [ ] ROI é 155%-258% conservador (recalcular com nova base)?
 - [ ] Break-even é Mês 4 (não Mês 3)?
 - [ ] Margem bruta é 45,3% (não 51%)?
+- [ ] Setup Titanium é R$ 50k (não R$ 60k)?
+- [ ] Mensalidades Titanium escalonadas: 45→50→55→60k?
 
 Se QUALQUER item está incorreto, **PARE** e consulte este documento.
 
@@ -411,6 +466,24 @@ Se QUALQUER item está incorreto, **PARE** e consulte este documento.
 
 ---
 
-**Versão:** 1.0
-**Data:** 15/Jan/2026
+**Versão:** 1.1 (Atualizado após negociação Titanium)
+**Data Criação:** 15/Jan/2026
+**Última Atualização:** 16/Jan/2026
 **Status:** ✅ ATIVO - FONTE ÚNICA DA VERDADE
+
+---
+
+## 📌 RESUMO MUDANÇAS 16/JAN (Comunicar para Sansom)
+
+**ANTES (15/Jan):**
+- Investimento Total: R$ 2.106.300
+- Cada lado (50%): R$ 1.053.150
+- Setup Titanium: R$ 60.000
+
+**DEPOIS (16/Jan - Desconto Negociado):**
+- Investimento Total: R$ 2.096.300 (**-R$ 10k**)
+- Cada lado (50%): R$ 1.048.150 (**-R$ 5k cada**)
+- Setup Titanium: R$ 50.000 (**-R$ 10k**)
+- **Economia ano 1:** R$ 100.000
+
+**✅ AÇÃO:** Informar Sansom sobre economia e novo valor de investimento (R$ 1.048.150 dele)
