@@ -1,6 +1,6 @@
 ---
 criado: 2025-12-08T11:04:20-03:00
-atualizado: 2026-01-14T22:38:18-03:00
+atualizado: 2026-01-16T11:25:15-03:00
 ---
 
 # STATUS ATUAL - KabaK Reestruturação 2026
@@ -19,6 +19,8 @@ atualizado: 2026-01-14T22:38:18-03:00
  - ✅ **RETORNO SANSOM CONFIRMADO:** Decisão de investir tomada.
  - ✅ **START JURÍDICO:** Autorizado início do contrato social com Dr. Alexandre.
  - ✅ **VALIDAÇÃO CUSTOS:** Início da verificação final de tecido e produto pronto.
+ - ✅ **BRIEFING OUTLET:** Business Plan físico e financeiro concluído (Opus 4.5).
+ - ✅ **PACOTE ENVIO:** Mensagem e documentos prontos para Sansom.
  
  ### Estado Atual
  
@@ -55,7 +57,8 @@ atualizado: 2026-01-14T22:38:18-03:00
 ### 🏪 Canal: Varejo Físico (Outlet)
 *   **Status:** 🟢 **VALIDADO** (R$ 20k/dia em Dez/24)
 *   **Local:** Rodovia (Alto fluxo).
-*   **Ação Imediata:** Reforma e Padronização Visual (Com apoio do Danilo/460).ndares (Precisa reforma entrada + acessibilidade)
+*   **Status Atual (16/Jan):** Briefing de Estratégia e Financeiro concluído (`BRIEFING_OUTLET_SANSOM.md`).
+*   **Ação Imediata:** Aprovar reforma (Fachada de Impacto) e envio para Sansom.
  
  ### Próximos passos:
  - Orçar reforma (Entrada + Acessibilidade 2º andar)

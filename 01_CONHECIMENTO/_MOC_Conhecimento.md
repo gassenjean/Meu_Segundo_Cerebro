@@ -1,14 +1,14 @@
 ---
 criado: 2025-11-18T10:49:27-03:00
-atualizado: 2025-11-19T19:13:19-03:00
+atualizado: 2026-01-16T11:25:16-03:00
 ---
 # 📚 MOC: CONHECIMENTO
 
 **Map of Content - Base de Conhecimento Pessoal**
 
 **Criado:** 17/Jan/2025
-**Última atualização:** 19/Nov/2024
-**Total de itens:** 8
+**Última atualização:** 16/Jan/2026
+**Total de itens:** 9
 
 ---
 

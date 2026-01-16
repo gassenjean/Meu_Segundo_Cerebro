@@ -4,7 +4,12 @@ atualizado: 2026-01-15T18:35:00-03:00
 tipo: pesquisa_mercado
 status: aguardando_dados_validados
 prioridade: alta
-tags: [pesquisa, marketing, outlet, validacao, cliente]
+tags:
+  - pesquisa
+  - marketing
+  - outlet
+  - validacao
+  - cliente
 responsavel_analise: Gassen
 responsavel_coleta: Danilo (460 Produções)
 fonte_dados: Questionário Presencial (Jan/2026)

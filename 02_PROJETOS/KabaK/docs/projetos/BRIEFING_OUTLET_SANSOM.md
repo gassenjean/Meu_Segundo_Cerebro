@@ -5,7 +5,12 @@ tipo: briefing_estrategico
 destinatario: Sansom (Sócio Estratégico & Co-Founder)
 status: para_aprovacao_final
 prioridade: maxima
-tags: [estrategia, financeiro, outlet, sansom, business_plan]
+tags:
+  - estrategia
+  - financeiro
+  - outlet
+  - sansom
+  - business_plan
 projeto_vinculado: KabaK_Expansion_2026
 ---
 
