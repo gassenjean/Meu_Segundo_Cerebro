@@ -33,3 +33,4 @@ secrets/
 .mcp.json
 _ul/
 03_APRENDIZADO/Cursos_Ativos/Formacao_Lendaria_2025/Banco_de_Dados/aulas_mente_lendaria/Formação Lendária - 2.0/desbloqueando a ia/
+__pycache__/
