@@ -1,7 +1,26 @@
 ---
-description: Ativar skill devocionais-rpsp para criar devocional matinal
+description: Ativar Agente Névoa Espiritual (Devocionais RPSP) - Atalho
 ---
 
-Ativar a skill `devocionais-rpsp` para criar um devocional matinal no estilo Névoa seguindo o padrão ultra-compacto aprovado.
+# 🕊️ Criar Devocional
 
-A skill será carregada e estará pronta para processar a lição do dia que o usuário enviar (foto ou texto).
+Ativa o **Agente Névoa Espiritual** para criar devocionais matinais.
+
+**Atalho para:** `/nevoa-espiritual`
+
+Carrega automaticamente:
+- Skill `devocionais-rpsp` completa
+- Prompt Névoa v1 (Raciocínio Estendido)
+- Estrutura exata do padrão ultra-compacto
+- Checklist de validação
+
+**Como usar:**
+1. Digite `/devocional` para ativar
+2. Envie a foto da lição
+3. O agente cria, valida, salva e faz push automaticamente
+
+**Padrão garantido:**
+- ☀️🌅 BOM DIA ✨ → ----- → # 🔥 TÍTULO ✨
+- ~110-160 linhas totais
+- Tom de mentor (não sermão)
+- Fechamento com **Névoa** ✨
