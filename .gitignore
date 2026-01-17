@@ -32,3 +32,4 @@ secrets/
 .smart-env/
 .mcp.json
 _ul/
+__pycache__/
