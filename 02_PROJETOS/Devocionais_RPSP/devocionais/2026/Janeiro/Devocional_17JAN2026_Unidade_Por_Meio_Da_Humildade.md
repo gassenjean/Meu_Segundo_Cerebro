@@ -21,11 +21,11 @@ A unidade não é fardo a ser carregado. É alegria a ser completada.
 
 Mas observe a ordem: **mesmo modo de pensar → mesmo amor → unidos de alma e mente.**
 
-Você não pode pular direto para a unidade sem passar pela transformação de pensamento e amor. **Unidade forçada sem mudança interna é apenas conformismo.**
-
 *Você está tentando forçar unidade ou está permitindo que Cristo transforme seu modo de pensar?*
 
 -----
+
+# 🔥 ORGULHO DESTRÓI, HUMILDADE UNE ✨
 
 A lição é brutal: **"A força está na unidade. No entanto, saber o que é certo não é o mesmo que colocá-lo em prática. Nós falhamos, mesmo quando nos esforçamos para manter a unidade."**
 
