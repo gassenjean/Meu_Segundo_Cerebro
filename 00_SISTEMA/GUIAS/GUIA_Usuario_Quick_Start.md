@@ -1,3 +1,7 @@
+---
+criado: 2026-01-16T18:56:42-03:00
+atualizado: 2026-01-16T20:15:22-03:00
+---
 # GUIA: Usuário Quick Start
 
 **Navegação Rápida e Decision Trees para Gassen**

@@ -1,6 +1,22 @@
 {
   "recentFiles": [
     {
+      "basename": "GUIA_Leitura_Claude",
+      "path": "00_SISTEMA/GUIAS/GUIA_Leitura_Claude.md"
+    },
+    {
+      "basename": "GUIA_Leitura_Gemini",
+      "path": "00_SISTEMA/GUIAS/GUIA_Leitura_Gemini.md"
+    },
+    {
+      "basename": "GUIA_Usuario_Quick_Start",
+      "path": "00_SISTEMA/GUIAS/GUIA_Usuario_Quick_Start.md"
+    },
+    {
+      "basename": "CLAUDE",
+      "path": "CLAUDE.md"
+    },
+    {
       "basename": "Devocional_16JAN2026_Sei_Em_Quem_Tenho_Crido",
       "path": "02_PROJETOS/Devocionais_RPSP/devocionais/2026/Janeiro/Devocional_16JAN2026_Sei_Em_Quem_Tenho_Crido.md"
     },
@@ -27,10 +43,6 @@
     {
       "basename": "SESSION_LOG",
       "path": "SESSION_LOG.md"
-    },
-    {
-      "basename": "CLAUDE",
-      "path": "CLAUDE.md"
     },
     {
       "basename": "BRIEFING_OUTLET_SANSOM",
@@ -187,14 +199,6 @@
     {
       "basename": "Sobre_Mim_Essência",
       "path": "05_PESSOAL/Sobre_Mim/Sobre_Mim/Sobre_Mim_Essência.md"
-    },
-    {
-      "basename": "README",
-      "path": "README.md"
-    },
-    {
-      "basename": "PROTOCOLO_REVISAO_SEMANAL",
-      "path": "00_SISTEMA/PROTOCOLOS/PROTOCOLO_REVISAO_SEMANAL.md"
     }
   ],
   "omittedPaths": [],

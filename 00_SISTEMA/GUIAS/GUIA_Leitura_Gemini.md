@@ -1,3 +1,7 @@
+---
+criado: 2026-01-16T18:56:42-03:00
+atualizado: 2026-01-16T20:15:23-03:00
+---
 # GUIA: Leitura Gemini/Antigravity
 
 **Papel no Sistema Bi-IA - O que ler como agente de execução**
