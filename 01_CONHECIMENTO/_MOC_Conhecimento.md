@@ -50,3 +50,7 @@ Sua base de conhecimento permanente. Aqui você armazena:
 **Versão:** 1.0
 
 **CONHECIMENTO É PODER! 📚**
+
+- [[C:\Users\Gassen\OneDrive\Meu_Segundo_Cerebro\01_CONHECIMENTO\Inbox_Organizer\Prompt_Gemini_Criar_Vault_Organizer_Skill.md|Prompt_Gemini_Criar_Vault_Organizer_Skill.md]] - Organizado automaticamente em 18JAN2026
+- [[C:\Users\Gassen\OneDrive\Meu_Segundo_Cerebro\01_CONHECIMENTO\Inbox_Organizer\Readme.md|Readme.md]] - Organizado automaticamente em 18JAN2026
+- [[C:\Users\Gassen\OneDrive\Meu_Segundo_Cerebro\01_CONHECIMENTO\Inbox_Organizer\Teste_Organizacao.pdf|Teste_Organizacao.pdf]] - Organizado automaticamente em 18JAN2026

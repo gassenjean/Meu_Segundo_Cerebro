@@ -96,11 +96,12 @@
 | [[00_SISTEMA/PROTOCOLOS/PROTOCOLO_GITHUB_MULTI_DISPOSITIVO.md]] | Sincronizar iPhone ↔ Desktop ↔ Alienware (git) | Resolver branches Claude /* |
 | [[00_SISTEMA/PROTOCOLOS/PROTOCOLO_ANTIGRAVITY_GITHUB.md]] | GitHub API via Antigravity/Gemini | Criar issues, PRs via Gemini |
 
-#### 4.2. Criação e Organização (2 protocolos)
+#### 4.2. Criação e Organização (3 protocolos)
 
 | Arquivo | Uso | Quando Aplicar |
 |---------|-----|----------------|
 | [[00_SISTEMA/PROTOCOLOS/PROTOCOLO_CRIACAO_ARQUIVOS.md]] | **OBRIGATÓRIO** - Workflow de criação | Antes de criar QUALQUER arquivo |
+| [[00_SISTEMA/PROTOCOLOS/PROTOCOLO_DIVISAO_SKILLS_Claude_Antigravity.md]] | **CRÍTICO** - Quem cria qual skill (Claude vs Gemini) | Criar skills, decisão de plataforma |
 | [[00_SISTEMA/PROTOCOLOS/PROTOCOLO_REVISAO_SEMANAL.md]] | Checklist semanal (Sexta 17h) | Fim de semana |
 
 #### 4.3. Orquestração Bi-IA (2 protocolos)
@@ -125,7 +126,21 @@
 | [[00_SISTEMA/PROTOCOLOS/GUIA_RAPIDO_ERRO_OVERLOAD.md]] | ⚠️ **DEPRECADO** | Redireciona → TROUBLESHOOTING Seção 1 |
 | [[00_SISTEMA/PROTOCOLOS/GUIA_RECUPERACAO_ERRO_GEMINI.md]] | ⚠️ **DEPRECADO** | Redireciona → TROUBLESHOOTING Seção 2 |
 
-**Total:** ~80KB
+#### 4.6. Antigravity Skills (7 documentos - Fase 7.3) ✅
+
+**Adicionado:** 18/JAN/2026
+
+| Arquivo | Tipo | Uso |
+|---------|------|-----|
+| [[00_SISTEMA/PROTOCOLOS/PROTOCOLO_Uso_Skills_Antigravity.md]] | Protocolo | Triggers, workflows, exemplos de uso das 3 skills |
+| [[00_SISTEMA/PROTOCOLOS/PROTOCOLO_Troubleshooting_Skills.md]] | Protocolo | Diagnóstico, erros comuns, fallback manual |
+| [[00_SISTEMA/PROTOCOLOS/PROTOCOLO_Manutencao_Skills.md]] | Protocolo | Versionamento, atualização, padrões Python |
+| [[00_SISTEMA/GUIAS/GUIA_Edge_Cases_Skills.md]] | Guia | Limitações, cenários especiais, workarounds |
+| [[04_RECURSOS/TEMPLATES/TEMPLATE_Criar_Skill_Antigravity.md]] | Template | Estrutura base para criar novas skills |
+| [[04_RECURSOS/TEMPLATES/TEMPLATE_Prompt_Gemini_Nova_Skill.md]] | Template | Prompt padrão para pedir skills ao Gemini |
+| [[04_RECURSOS/CHECKLISTS/CHECKLIST_Uso_Skills_Antigravity.md]] | Checklist | Pre/Post flight checks |
+
+**Total:** ~80KB + ~40KB (Antigravity Skills) = ~120KB
 
 ---
 
@@ -140,6 +155,25 @@
 | [[00_SISTEMA/GUIAS/GUIA_Usuario_Quick_Start.md]] | Usuário (Gassen) | Decision trees, mapa de pastas, qual IA usar, rotinas |
 
 **Total:** ~20KB
+
+---
+
+### 🔬 NÍVEL 6: ANÁLISES E PESQUISAS (1 arquivo)
+
+**Investigações técnicas e oportunidades de integração**
+
+| Arquivo | Tópico | Status | Quando Consultar |
+|---------|--------|--------|------------------|
+| [[00_SISTEMA/ANALISES/ANALISE_Antigravity_Skills_Integracao_Sistema_BiIA.md]] | Antigravity Skills vs Claude Code Skills, arquitetura de integração bi-IA | 🔍 EM ANÁLISE | Planejar skills, integração Antigravity, monitoramento updates |
+
+**Total:** ~30KB
+
+**Conteúdo:**
+- Comparação arquitetural Claude Skills vs Antigravity Skills
+- Oportunidades de integração bi-IA
+- Plano de ação em 5 fases
+- Pesquisas necessárias (documentação oficial, limitações técnicas)
+- Sistema de monitoramento de updates (Anthropic + Google)
 
 ---
 
@@ -186,14 +220,17 @@ Grafo é acíclico, ordenação topológica possível.
 | 1. Fundação | 3 | 0 | 3 |
 | 2. Padrões | 3 | 1 (ESTRUTURA_PROJETOS) | 4 |
 | 3. Guidelines | 6 (1 arch + 5 categorias) | 0 | 6 |
-| 4. Protocolos | 11 | 2 (ERRO_OVERLOAD, ERRO_GEMINI) | 13 |
-| 5. Guias | 3 | 0 | 3 |
-| **TOTAL** | **26** | **3** | **29** |
+| 4. Protocolos | 12 + 7 (Skills) = 19 | 2 (ERRO_OVERLOAD, ERRO_GEMINI) | 21 |
+| 5. Guias | 3 + 1 (Edge Cases) = 4 | 0 | 4 |
+| 6. Análises | 1 | 0 | 1 |
+| **TOTAL** | **35** | **3** | **38** |
 
 ### Tamanho Estimado
 
 - **Antes consolidação:** ~319KB (25 arquivos + redundância 60%)
 - **Depois consolidação:** ~300KB ativos + 48KB novos = ~348KB total
+- **Fase 7.3 (Skills):** +40KB (7 documentos Antigravity Skills)
+- **Total atual:** ~388KB (38 arquivos)
 - **Duplicação:** 60% → 0% ✅
 - **Economia progressive disclosure:** 80-100k tokens → 40-60k tokens ✅
 
@@ -420,9 +457,9 @@ Substituído por: [[Link]]
 
 ---
 
-**Versão:** 1.0
+**Versão:** 1.1
 **Criado:** 16/Jan/2026
 **Status:** ✅ ATIVO
-**Última atualização:** 16/Jan/2026
+**Última atualização:** 18/Jan/2026 (Fase 7.3 - Antigravity Skills docs)
 
 **NAVEGAÇÃO CLARA = ECONOMIA DE TOKENS = MELHOR DESEMPENHO** 🗺️✅
