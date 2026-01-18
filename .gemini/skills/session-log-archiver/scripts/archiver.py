@@ -10,7 +10,7 @@ ROOT_DIR = os.path.dirname(os.path.dirname(os.path.dirname(os.path.dirname(os.pa
 SESSION_LOG_PATH = os.path.join(ROOT_DIR, "SESSION_LOG.md")
 LOGS_DIR = os.path.join(ROOT_DIR, "00_SISTEMA", "LOGS")
 BACKUP_EXT = ".bak"
-KEEP_ENTRIES = 30
+KEEP_ENTRIES = 5
 
 def log(message: str, level: str = "INFO"):
     """Função de log padronizada com emojis."""

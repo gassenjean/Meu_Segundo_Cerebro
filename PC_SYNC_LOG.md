@@ -996,3 +996,17 @@ _[Vazio - primeira conversa será registrada aqui]_
 > 'validate' serve para checar se arquivos seguem o padrão.
 > Próximo passo: Skills mais complexas (context-manager).
 
+
+---
+
+###  Desktop Casa - 18/01/2026 (16:17)  FIX: SESSION LOG SIZE
+
+**Ação Corretiva:**
+-  Usuário reportou SESSION_LOG.md muito grande (~100KB).
+-  Modificado session-log-archiver: Limite reduzido de 30 -> 5 entradas.
+-  Executado arquivamento imediato.
+-  Resultado:
+  - Antes: 25 entradas, 102KB.
+  - Depois: 5 entradas, 15KB.
+  - Arquivados: 20 entradas movidas para LOGS/SESSION_LOG_ARQUIVO_JAN_2026.md.
+
