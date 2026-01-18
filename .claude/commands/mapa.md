@@ -1,237 +1,221 @@
 ---
-description: Carrega índice completo do vault (zero busca, zero desperdício)
-argument-hint: [opcional] "atualizar"
+description: Índice inteligente do vault (carregamento otimizado por categoria)
+argument-hint: [opcional] sistema|conhecimento|projetos|aprendizado|recursos|completo
 ---
 
-# Mapa - Índice Inteligente do Vault
+# Mapa - Índice Inteligente do Vault (v2.0)
 
-Carrega o **índice completo do vault** pré-compilado para acesso instantâneo a TODO o conteúdo.
+Carrega índice do vault com **carregamento inteligente por categoria**.
 
-## 🎯 O Que Faz
+---
 
-Ao executar `/mapa`, você carrega:
+## 🎯 Novo Sistema (v2.0)
 
-- Estrutura completa de pastas (00-05)
-- Localização de ~1.847 arquivos
-- Índice de conceitos-chave por tema
-- Atalhos rápidos para cada domínio
-- **Economia:** ~2000 tokens/sessão (não precisa Grep/Glob!)
+**Arquitetura otimizada:**
+- ✅ Resumo (~3k tokens) - Padrão
+- ✅ Índices por categoria (~4-10k tokens) - Sob demanda
+- ✅ Índice completo (~41k tokens) - Raramente necessário
 
-## 📖 Conteúdo Carregado
+**Economia: 93% vs versão anterior!**
 
-**Arquivo principal:**
-
-```
-00_SISTEMA/INDICE_VAULT_COMPLETO.md (~800 tokens)
-```
-
-**Inclui:**
-
-- 6 categorias completas (00_SISTEMA → 05_PESSOAL)
-- Localização de TODOS os conceitos-chave
-- Material TDAH completo (15 capítulos Mentes Inquietas!)
-- Cursos ativos (Pedro, Lucas, Alan)
-- Projetos ativos (KabaK, DeFi_Verso)
-- Agentes do sistema (Névoa, Elena, Pedro, Lucas, Alan, Marie Kondo)
+---
 
 ## 🚀 Uso
 
 ```bash
-# Carregar índice completo
+# Carregar resumo (padrão - 3k tokens)
 /mapa
 
-# Atualizar índice (roda script - futuro)
-/mapa atualizar
+# Carregar categoria específica
+/mapa sistema      # 00_SISTEMA (~5k tokens)
+/mapa conhecimento # 01_CONHECIMENTO (~8k tokens)
+/mapa projetos     # 02_PROJETOS (~6k tokens)
+/mapa aprendizado  # 03_APRENDIZADO (~10k tokens)
+/mapa recursos     # 04_RECURSOS (~4k tokens)
+
+# Carregar tudo (raramente necessário - 41k tokens)
+/mapa completo
 ```
 
-## 💡 Por Que Usar?
+---
 
-**SEM /mapa:**
+## 📖 O Que Carrega
 
-```
-Você: "Onde está o material sobre TDAH?"
-Claude: [Usa Grep - 1000 tokens]
-        [Usa Glob - 500 tokens]
-        [Lê arquivos - 500 tokens]
-Total: 2000 tokens desperdiçados!
-```
+### `/mapa` (Padrão - Resumido)
+**Arquivo:** `00_SISTEMA/INDICE_RESUMIDO.md` (~3k tokens)
 
-**COM /mapa:**
+**Inclui:**
+- Overview de todas as 6 categorias
+- Estatísticas do vault (2.243 arquivos)
+- Quick access - localizações principais
+- Guia de quando usar cada índice
+- **Perfeito para:** Início de sessão, overview geral
 
-```
-Você: "Onde está o material sobre TDAH?"
-Claude: [Lê índice pré-carregado - 0 tokens extras!]
-        "04_RECURSOS/Mentes_Inquietas/ (15 capítulos)"
-Total: 0 tokens desperdiçados!
-```
+---
 
-**Economia: 2000 tokens por sessão = ~90% redução em buscas!**
+### `/mapa sistema`
+**Arquivo:** `00_SISTEMA/indices/INDICE_00_SISTEMA.md` (~5k tokens)
 
-## 🎓 Quando Usar
+**Inclui:**
+- Todos protocolos (29 docs)
+- Todos MOCs (23 temas)
+- Guias (4 principais)
+- Checkpoints recentes
+- Manuais técnicos
+- **Perfeito para:** Consultar protocolos, encontrar MOCs
 
-**USE /mapa quando:**
+---
 
-- ✅ Iniciar sessão de trabalho
-- ✅ Não souber onde está algo
-- ✅ Precisar overview do vault
-- ✅ Combinar com outras skills
+### `/mapa conhecimento`
+**Arquivo:** `00_SISTEMA/indices/INDICE_01_CONHECIMENTO.md` (~8k tokens)
 
-**Exemplo combinado:**
+**Inclui:**
+- Material TDAH completo (15 caps)
+- Cultivo Medicinal (protocolos, sistema)
+- DeFi & Finanças
+- IA & Tecnologia (Alan Nicolas)
+- Livros, autores, filosofia
+- **Perfeito para:** Acessar material de estudo
+
+---
+
+### `/mapa projetos`
+**Arquivo:** `00_SISTEMA/indices/INDICE_02_PROJETOS.md` (~6k tokens)
+
+**Inclui:**
+- KabaK (reuniões, docs, status)
+- DeFi_Verso_2025
+- Devocionais_RPSP (11 posts jan/2026)
+- Gabriele Confecções
+- Lio Liofilização
+- **Perfeito para:** Work context, status projetos
+
+---
+
+### `/mapa aprendizado`
+**Arquivo:** `00_SISTEMA/indices/INDICE_03_APRENDIZADO.md` (~10k tokens)
+
+**Inclui:**
+- Pedro Sobral - Tráfego (M02 9/13)
+- Lucas Amoedo - DeFi (M4 5/10)
+- Alan Nicolas - Formação IA (S7 7/10)
+- Vida Lendária (24 episódios)
+- Lives, checkpoints, lessons
+- **Perfeito para:** Learning context, cursos
+
+---
+
+### `/mapa recursos`
+**Arquivo:** `00_SISTEMA/indices/INDICE_04_RECURSOS.md` (~4k tokens)
+
+**Inclui:**
+- 9 Agentes completos (prompts)
+- Templates, checklists
+- Material TDAH (Mentes Inquietas)
+- Prompts especializados (5C, DeFi, etc)
+- **Perfeito para:** Acessar templates, agentes
+
+---
+
+### `/mapa completo`
+**Arquivo:** `00_SISTEMA/INDICE_VAULT_COMPLETO.md` (~41k tokens)
+
+**Inclui:** Tudo (2.243 arquivos catalogados)
+**Perfeito para:** Raramente necessário (use índices específicos!)
+
+---
+
+## 💡 Quando Usar Qual Índice
+
+| Se você precisa... | Use... | Tokens |
+|:-------------------|:-------|:-------|
+| Overview geral | `/mapa` | ~3k |
+| Protocolos, MOCs | `/mapa sistema` | ~5k |
+| Material TDAH, cultivo | `/mapa conhecimento` | ~8k |
+| Status projetos | `/mapa projetos` | ~6k |
+| Cursos ativos | `/mapa aprendizado` | ~10k |
+| Templates, agentes | `/mapa recursos` | ~4k |
+| Tudo (raro!) | `/mapa completo` | ~41k |
+
+---
+
+## 📊 Economia de Tokens
+
+**Comparação vs v1.0:**
+
+| Versão | Comportamento | Tokens | Economia |
+|:-------|:--------------|:-------|:---------|
+| v1.0 | Carrega completo sempre | ~41k | - |
+| v2.0 (padrão) | Carrega resumido | ~3k | **93%** |
+| v2.0 (categoria) | Carrega sob demanda | ~4-10k | 75-90% |
+
+**Resultado:**
+- Início de sessão: 41k → 3k tokens (**93% economia**)
+- Janela disponível: 159k → 197k tokens (**+38k disponíveis**)
+
+---
+
+## 🔗 Integração com Skills
+
+**Combinação poderosa:**
 
 ```bash
-# Carrega índice + ativa coach
+# Overview + Coach TDAH
 /mapa
 /coach
 
-# Agora Coach sabe ONDE está TUDO sem buscar!
-# Resultado: Produtividade máxima, zero desperdício
+# Projetos + Work context
+/mapa projetos
+/work
+
+# Cursos + Learning context
+/mapa aprendizado
+/learn
+
+# Recursos + Agente específico
+/mapa recursos
+/pedro  # ou /lucas, /alan, etc
 ```
 
-## 📊 O Que Tem No Índice
+---
 
-### TDAH & Produtividade
-
-- 15 capítulos Mentes Inquietas
-- Episódio VL #017 (Procrastinação - 610 linhas!)
-- Elena Vasquez (agente especialista)
-- Foco, Obsessão Focada, Hiperconsciência
-
-### Tráfego Pago (Pedro Sobral)
-
-- Curso completo (Status: M02 9/13)
-- Framework 7 Pilares
-- Projeto KabaK (ROAS 2.5x → 4.0x)
-
-### DeFi & Cripto (Lucas Amoedo)
-
-- Curso completo (Status: M4 Leva 5/10)
-- Metodologia Benjamin Graham DeFi
-- Projeto DeFi_Verso_2025
-
-### IA & Automação (Alan Nicolas)
-
-- Curso completo (Status: Semana 7/10)
-- N8N workflows
-- Sistema 5C
-
-### Agentes do Sistema
-
-- Névoa (Orquestração)
-- Elena Vasquez (TDAH/Produtividade)
-- Pedro Sobral (Tráfego)
-- Lucas Amoedo (DeFi)
-- Alan Nicolas (IA)
-- Marie Kondo (Organização)
-
-## 🔗 Integração com Outras Skills
-
-**Todas as skills podem usar o mapa:**
-
-```bash
-# Coach conhece TODO material TDAH
-/mapa
-/coach
-> Coach agora sabe exatamente onde está cada capítulo!
-
-# Pedro sabe estrutura completa do curso
-/mapa
-/pedro
-> Pedro acessa conceitos sem buscar!
-
-# Lucas sabe onde está cada análise
-/mapa
-/lucas
-> Lucas vê arsenal completo instantaneamente!
-
-# Alan sabe localização de todos workflows
-/mapa
-/alan
-> Alan encontra templates N8N sem delay!
-```
-
-## 🔄 Atualização do Índice
-
-**Manual (futuro):**
-
-```bash
-powershell -ExecutionPolicy Bypass -File scripts/gerar-indice.ps1
-```
-
-**Via skill (futuro):**
-
-```bash
-/mapa atualizar
-```
-
-**Quando atualizar:**
-
-- Após adicionar muitos arquivos novos
-- Após reorganização de pastas
-- Semanalmente (recomendado para manter atualizado)
-
-## 📈 Benefícios Comprovados
-
-**Economia de tokens:**
-
-- Antes: ~2000 tokens/sessão em buscas
-- Depois: ~0 tokens em buscas
-- Economia: 100% em busca de conteúdo!
-
-**Velocidade:**
-
-- Antes: 30-60 segundos para localizar
-- Depois: Instantâneo (já está carregado)
-- Ganho: 10x mais rápido!
-
-**Precisão:**
-
-- Antes: Às vezes não encontra (Grep imperfeito)
-- Depois: Sempre encontra (está catalogado)
-- Ganho: 100% confiabilidade!
-
-## 🎯 Principais Localizações (Quick Reference)
+## 🎯 Quick Reference - Localizações
 
 **TDAH:**
-
-- Material completo: `04_RECURSOS/Mentes_Inquietas/`
-- Procrastinação: `01_CONHECIMENTO/Desenvolvimento_Pessoal/017_-_Por_Que_Procrastinamos__E_Como_Parar!.md`
-- Elena Vasquez: `04_RECURSOS/PROMPTS/Agentes_Sistema/PROMPT_AGENTE_ELENA_VASQUEZ.md`
+- `04_RECURSOS/Mentes_Inquietas/` (15 capítulos)
+- `01_CONHECIMENTO/Desenvolvimento_Pessoal/017_Por_Que_Procrastinamos.md`
 
 **Tráfego:**
-
-- Curso: `03_APRENDIZADO/Cursos_Ativos/Subido_Trafego/`
-- Conceitos: `03_APRENDIZADO/Cursos_Ativos/Subido_Trafego/Conceitos/`
+- `03_APRENDIZADO/Cursos_Ativos/Subido_Trafego/`
 
 **DeFi:**
+- `03_APRENDIZADO/Cursos_Ativos/DeFi_Journey/`
+- `02_PROJETOS/DeFi_Verso_2025/`
 
-- Curso: `03_APRENDIZADO/Cursos_Ativos/DeFi_Journey/`
-- Projeto: `02_PROJETOS/DeFi_Verso_2025/`
+**IA/Automação:**
+- `03_APRENDIZADO/Cursos_Ativos/Formacao_Lendaria_2025/`
 
-**IA:**
-
-- Curso: `03_APRENDIZADO/Cursos_Ativos/Formacao_Lendaria_2025/`
-- N8N: `03_APRENDIZADO/Cursos_Ativos/Formacao_Lendaria_2025/N8N/`
+**Projetos:**
+- `02_PROJETOS/[KabaK|DeFi_Verso|Devocionais_RPSP]/`
 
 **Agentes:**
-
-- Todos: `04_RECURSOS/PROMPTS/Agentes_Sistema/`
+- `04_RECURSOS/PROMPTS/Agentes_Sistema/`
 
 ---
 
 ## ⚡ Ação Imediata
 
-Execute `/mapa` agora para carregar o índice completo!
+**Primeiro uso?** Execute `/mapa` para carregar resumo!
 
 **Resultado:**
-
-- ✅ Acesso instantâneo a TODO o vault
-- ✅ Zero desperdício de tokens em busca
-- ✅ Base perfeita para `/coach` e outras skills
-- ✅ Produtividade máxima garantida!
+- ✅ Overview completo do vault
+- ✅ 93% economia de tokens vs v1.0
+- ✅ Carregamento inteligente sob demanda
+- ✅ Base perfeita para outras skills
 
 ---
 
-**Criado:** 30/12/2025
-**Versão:** 1.0
-**Status:** ✅ Pronto para uso
-**Economia estimada:** 2000+ tokens/sessão
+**Versão:** 2.0 (Token Optimized)
+**Atualizado:** 18/Jan/2026
+**Status:** ✅ Production Ready
+**Economia:** 93% vs v1.0
