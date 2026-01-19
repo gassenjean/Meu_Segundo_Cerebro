@@ -185,13 +185,15 @@ NOVA SOCIEDADE (E-COMMERCE + OUTLET + MARKETPLACES)
 
 **⚠️ LOCAL DE TRABALHO (IMPORTANTE PARA PRÓ-LABORE):**
 
-| Pessoa | Onde Trabalha |
-|--------|---------------|
-| **Jean** | KabaK (nova sociedade e-commerce) |
-| **Gassen** | Gabriele Confecções (fábrica) |
-| **Kris** | Gabriele Confecções (fábrica) |
+**Todos os três trabalham nas DUAS empresas:**
 
-**Nota:** Gassen e Kris trabalham na fábrica (Gabriele Confecções), não na KabaK diretamente. Isso impacta a questão do pró-labore.
+| Pessoa | Gabriele Confecções (fábrica) | KabaK (e-commerce) |
+|--------|-------------------------------|---------------------|
+| **Jean** | ✅ Produção, gestão fábrica | ✅ CEO, estratégia |
+| **Gassen** | ✅ Apoio produção | ✅ E-commerce, marketing |
+| **Kris** | ✅ Produto, qualidade | ✅ Estilismo, desenvolvimento |
+
+**Nota:** Os três atuam em ambas as empresas. Precisamos definir como estruturar isso contratualmente.
 
 #### Jean Bou Karim (Pai, Dono/CEO)
 
@@ -202,13 +204,13 @@ NOVA SOCIEDADE (E-COMMERCE + OUTLET + MARKETPLACES)
 - Experiência: 7+ anos indústria têxtil, produção
 - Fábrica própria em MG, 80k peças/mês
 
-**Trabalha na:** KabaK (nova sociedade)
+**Trabalha em:** Gabriele Confecções + KabaK
 
 **Responsabilidades:**
 
-- **Dono e CEO da KabaK**
+- **Dono e CEO da KabaK** (e-commerce)
+- **Dono da Gabriele Confecções** (fábrica)
 - **Gerente Geral** (visão estratégica e operacional)
-- Gestão do negócio e-commerce
 - Interface com Sansom (sócio)
 - Decisões estratégicas e financeiras
 
@@ -227,15 +229,15 @@ NOVA SOCIEDADE (E-COMMERCE + OUTLET + MARKETPLACES)
 - Experiência: E-commerce, marketing digital, gestão de projetos
 - Conhecimento: Marketing digital, Shopify, logística, produção
 
-**Trabalha na:** Gabriele Confecções (fábrica)
+**Trabalha em:** Gabriele Confecções + KabaK
 
 **Responsabilidades:**
 
-- **E-commerce** (Shopify, estratégia digital, operação)
-- **Marketing** (interface com Titanium, campanhas, branding)
-- **Gestão de Projetos** (novos projetos, inovações)
-- **Apoio integral à produção** (trabalha NA fábrica)
-- Gestão da marca
+- **E-commerce** (Shopify, estratégia digital, operação) - KabaK
+- **Marketing** (interface com Titanium, campanhas, branding) - KabaK
+- **Gestão de Projetos** (novos projetos, inovações) - Ambas
+- **Apoio à produção** - Gabriele Confecções
+- Gestão da marca - KabaK
 
 ---
 
@@ -248,36 +250,38 @@ NOVA SOCIEDADE (E-COMMERCE + OUTLET + MARKETPLACES)
 - **Estilista** - visão criativa e design
 - Experiência: Desenvolvimento de produto, produção têxtil, controle qualidade
 
-**Trabalha na:** Gabriele Confecções (fábrica)
+**Trabalha em:** Gabriele Confecções + KabaK
 
 **Responsabilidades:**
 
-- **Estilista** (visão criativa, tendências, identidade visual produto)
-- **Gerente de Produto** (linha de produtos, mix, estratégia)
-- **Desenvolvimento de Produto** (criação, modelagem, protótipos)
-- **Produção** (acompanhamento processo produtivo, qualidade)
-- Interface técnica com fornecedores (tecidos, insumos)
+- **Estilista** (visão criativa, tendências, identidade visual) - KabaK
+- **Gerente de Produto** (linha de produtos, mix, estratégia) - Ambas
+- **Desenvolvimento de Produto** (criação, modelagem, protótipos) - Gabriele Confecções
+- **Produção** (acompanhamento processo produtivo, qualidade) - Gabriele Confecções
+- Interface técnica com fornecedores (tecidos, insumos) - Ambas
 
 ---
 
-### QUESTÃO PRÓ-LABORE (DEFINIR COM DR. ALEXANDRE)
+### QUESTÃO PRÓ-LABORE E DIVISÕES CONTRATUAIS (DEFINIR COM DR. ALEXANDRE)
 
 **Duas empresas envolvidas:**
 
-| Empresa | Quem Trabalha | Atividade |
-|---------|---------------|-----------|
-| **KabaK** (nova sociedade) | Jean | E-commerce, gestão, estratégia |
-| **Gabriele Confecções** (fábrica) | Gassen, Kris | Produção, desenvolvimento produto |
+| Empresa | Atividade | Quem Trabalha |
+|---------|-----------|---------------|
+| **KabaK** (nova sociedade) | E-commerce, marketing, estratégia | Jean, Gassen, Kris |
+| **Gabriele Confecções** (fábrica) | Produção, desenvolvimento produto | Jean, Gassen, Kris |
 
 **Situação:**
-- Jean trabalha na KabaK → pró-labore pago pela KabaK (se necessário)
-- Gassen e Kris trabalham na Gabriele Confecções → pró-labore pago pela fábrica (se necessário)
+- Os três (Jean, Gassen, Kris) trabalham nas DUAS empresas
+- Precisamos definir divisões contratuais adequadas
+- Queremos sugestões do Dr. Alexandre sobre a melhor estrutura
 
 **Perguntas para Dr. Alexandre:**
-1. É necessário pró-labore? Em quais casos?
-2. Se Gassen/Kris recebem da Gabriele, isso já está no custo de produção que a KabaK paga?
-3. Como estruturar a relação entre as duas empresas (KabaK e Gabriele)?
-4. Qual a melhor forma de remunerar cada um considerando onde trabalham?
+1. É necessário pró-labore? Em quais casos? De qual empresa?
+2. Como dividir a atuação dos três entre as duas empresas contratualmente?
+3. Como estruturar a relação entre KabaK e Gabriele Confecções?
+4. Qual a melhor forma de remunerar cada um considerando que atuam em ambas?
+5. **Pedimos sugestões:** Qual estrutura o Dr. Alexandre recomenda para essa situação?
 
 ---
 
