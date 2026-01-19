@@ -19,7 +19,23 @@ Estruturar juridicamente nova sociedade entre:
 
 **Negócio:** E-commerce moda fitness feminina + Outlet físico + Marketplaces
 **Produto:** Kit 3 peças (calça+top+short) R$ 129
+**Custo produto:** R$ 48/kit (confirmado) | **Margem bruta:** 45,3%
 **Meta:** Faturamento R$ 3-5M/mês | ROI 155% em 12 meses
+**Lançamento:** Mai/2026
+
+---
+
+## CONFIRMAÇÕES RECENTES (19/Jan/2026)
+
+| Item | Status |
+|------|--------|
+| Titanium (agência marketing) | ✅ APROVADO por Sansom |
+| Setup Titanium | R$ 50k (desconto R$ 10k negociado) |
+| Mensalidades Titanium | R$ 45k→50k→55k→60k (escalonado) |
+| Custo tecido | R$ 5/peça (R$ 25/kg ÷ 5 peças) |
+| Custo fabricação | R$ 10/peça (costura + sublimação) |
+| Custo total kit | R$ 48 (3 peças + embalagem) |
+| Entrega tecido China | 2 toneladas - Final Mar/2026 |
 
 ---
 
