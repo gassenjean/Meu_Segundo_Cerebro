@@ -1,6 +1,6 @@
 ---
 criado: 2026-01-15T07:35:00-03:00
-atualizado: 2026-01-16T15:45:00-03:00
+atualizado: 2026-01-19T12:00:00-03:00
 tipo: referencia_oficial
 prioridade: critica
 status: ativo
@@ -10,8 +10,8 @@ status: ativo
 
 **Fonte Única da Verdade - TODOS os documentos devem seguir estes valores**
 
-**Data Aprovação:** 15/Jan/2026 | Atualizado: 16/Jan/2026
-**Aprovado por:** Gassen (baseado em auditoria completa + negociação Titanium)
+**Data Aprovação:** 15/Jan/2026 | Atualizado: 19/Jan/2026
+**Aprovado por:** Gassen (baseado em auditoria completa + atualizações Sansom)
 **Próxima Revisão:** Após reunião Dr. Alexandre (21/Jan/2026)
 
 ---
@@ -153,16 +153,18 @@ BREAK-EVEN OFICIAL: Mês 4 (Agosto/2026)
 ### Margem Bruta
 
 ```
-MARGEM BRUTA OFICIAL: 45,3%
+MARGEM BRUTA OFICIAL: 56,9%  ⬆️ ATUALIZADO 19/Jan (antes 45,3%)
 ```
 
-**Cálculo:**
+**Cálculo (Atualizado 19/Jan):**
 - Preço venda: R$ 129/kit
-- Custo variável total: R$ 70,58/kit
-- Margem bruta: R$ 58,42/kit
-- Margem %: (58,42 / 129) × 100 = 45,3%
+- Custo variável total: R$ 55,58/kit (antes R$ 70,58)
+- Margem bruta: R$ 73,42/kit (antes R$ 58,42)
+- Margem %: (73,42 / 129) × 100 = **56,9%**
 
-**NUNCA usar:** 51% (valor incorreto encontrado em alguns docs antigos)
+**Economia por kit: R$ 15 (tecido confirmado R$ 25/kg = R$ 5/peça)**
+
+**NUNCA usar:** 45,3% (valor antigo antes da confirmação do custo do tecido)
 
 ---
 
@@ -171,20 +173,25 @@ MARGEM BRUTA OFICIAL: 45,3%
 ### Custos Variáveis (por kit)
 
 ```
-Tecido China (3 peças):         R$  30,00  ⚠️ A VALIDAR SANSOM
+Tecido China (3 peças):         R$  15,00  ✅ CONFIRMADO 19/Jan (R$ 25/kg ÷ 5 peças × 3)
 Fabricação Jean (3 peças):      R$  15,00  ⚠️ A VALIDAR JEAN
 Embalagem + Tags:               R$   3,00
 ----------------------------------------------------
-SUBTOTAL PRODUTO:               R$  48,00
+SUBTOTAL PRODUTO:               R$  33,00  ⬇️ ANTES R$ 48 (economia R$ 15/kit)
 
 Logística/Frete (12%):          R$  15,48
 Gateway Pagamento (3%):         R$   3,87
 Impostos MG (2,5%):             R$   3,23  ⚠️ A VALIDAR DR. ALEXANDRE
 ----------------------------------------------------
-TOTAL CUSTO VARIÁVEL:           R$  70,58
+TOTAL CUSTO VARIÁVEL:           R$  55,58  ⬇️ ANTES R$ 70,58 (economia R$ 15/kit)
 ```
 
-**CRÍTICO:** Sansom DEVE confirmar R$ 30/kit (landed cost China) até 21/Jan
+**✅ TECIDO CONFIRMADO (19/Jan/2026):**
+- Custo: R$ 25/kg
+- Rendimento: 5 peças/kg
+- Custo/peça: R$ 5
+- Custo/kit (3 peças): R$ 15
+- **Economia vs estimativa anterior: R$ 15/kit**
 
 ### Custos Fixos Mensais
 
@@ -248,11 +255,20 @@ TOTAL FIXO (Mês 10+):           R$ 255.000  (Titanium 60k - velocidade cruzeiro
 - **Preço:** R$ 129,00 por kit
 - **Público:** Mulheres classe C, 25-45 anos, fitness
 
+### Tecido China (Confirmado 19/Jan)
+
+- **Custo:** R$ 25/kg
+- **Rendimento:** 5 peças/kg
+- **Custo/peça:** R$ 5,00
+- **Custo/kit:** R$ 15,00 (3 peças)
+- **Primeira remessa:** 2 toneladas (2.000 kg) = 10.000 peças (~3.333 kits)
+- **Entrega prevista:** Final de Março/2026
+
 ### Estoque Inicial
 
-- **Tecido China:** 200.000 peças (~66.667 kits) ⚠️ CONFIRMAR COM SANSOM
-- **Produção 3 meses:** 240.000 peças (~80.000 kits)
-- **Diferença:** 40.000 peças - Explicar de onde vêm? ⚠️ RESOLVER
+- **Tecido primeira remessa:** 10.000 peças (~3.333 kits)
+- **Produção escalável:** Conforme pedidos de tecido
+- **Lead time tecido:** ~2-3 meses (China → Brasil)
 
 ### Capacidade Produtiva
 
@@ -290,36 +306,61 @@ TOTAL FIXO (Mês 10+):           R$ 255.000  (Titanium 60k - velocidade cruzeiro
 
 ---
 
-## ⚠️ PREMISSAS A VALIDAR (URGENTE)
+## ✅ PREMISSAS VALIDADAS (19/Jan)
+
+### ✅ CONFIRMADAS
+
+1. **✅ Titanium APROVADO** (19/Jan/2026)
+   - Sansom aprovou contratação
+   - Início imediato confirmado
+
+2. **✅ Custo tecido China:** R$ 25/kg = R$ 5/peça = **R$ 15/kit**
+   - **Confirmado por:** Sansom (19/Jan/2026)
+   - **Impacto:** Economia de R$ 15/kit vs estimativa anterior
+   - **Margem bruta:** 45,3% → **56,9%**
+
+3. **✅ Entrega tecido:** Final de Março/2026
+   - **Quantidade:** 2 toneladas (10.000 peças / ~3.333 kits)
+
+---
+
+## 📦 CANAIS DE VENDA (Atualizado 19/Jan)
+
+### Escopo Contrato (Sansom solicitou inclusão)
+
+| Canal | Divisão | Status |
+|-------|---------|--------|
+| **E-commerce próprio** | 50/50 | ✅ Confirmado |
+| **Outlet físico** | 50/50 | ✅ Confirmado |
+| **Shopee** | 50/50 | 🆕 Incluir no contrato |
+| **Mercado Livre** | 50/50 | 🆕 Incluir no contrato |
+| **TikTok Shop** | 50/50 | 🆕 Incluir no contrato |
+
+**Nota:** Marketplaces seguem mesmo modelo 50/50 da sociedade.
+
+---
+
+## ⚠️ PREMISSAS AINDA A VALIDAR
 
 ### 🔴 CRÍTICAS (Bloqueiam Contrato)
 
-1. **Custo tecido China:** R$ 30/kit é landed cost final?
-   - **Responsável:** Sansom
-   - **Deadline:** 21/Jan/2026
-   - **Impacto:** Se for R$ 36/kit (+20%), margem cai 5% e lucro R$ 2M menos
-
-2. **Impostos MG 2,5%:** É benefício fiscal real?
+1. **Impostos MG 2,5%:** É benefício fiscal real?
    - **Responsável:** Dr. Alexandre
    - **Deadline:** 21/Jan/2026
    - **Impacto:** Se for maior, lucro reduz proporcionalmente
 
-3. **Divisão interna 49%:** Como dividir Jean+Gassen+Kris?
+2. **Divisão interna 49%:** Como dividir Jean+Gassen+Kris?
    - **Responsável:** Dr. Alexandre
    - **Deadline:** 28/Jan/2026
-   - **Impacto:** Define quem recebe quanto dos R$ 3.752k/ano
+   - **Impacto:** Define quem recebe quanto dos lucros
 
 ### 🟡 IMPORTANTES (Ajustam Projeção)
 
-4. **Custo fabricação:** R$ 15/kit inclui lucro fábrica Jean?
+3. **Custo fabricação:** R$ 15/kit inclui lucro fábrica Jean?
    - **Responsável:** Jean
    - **Deadline:** 21/Jan/2026
 
-5. **Estoque:** Por que 200k peças China vs 240k produção?
-   - **Responsável:** Sansom + Jean
-   - **Deadline:** 21/Jan/2026
-
-6. **Capacidade:** 27k kits/mês é confirmado?
+4. **Capacidade:** 27k kits/mês é confirmado?
    - **Responsável:** Jean
    - **Deadline:** 28/Jan/2026
 
@@ -391,6 +432,39 @@ Usar valores que facilitem decisão:
 ---
 
 ## 🔄 HISTÓRICO DE ATUALIZAÇÕES
+
+### 19/Jan/2026 - GRANDE ATUALIZAÇÃO: Titanium Aprovado + Custo Tecido Confirmado ⭐⭐⭐
+
+**Motivo:** Confirmações importantes de Sansom
+
+**Mudanças:**
+1. **✅ Titanium APROVADO:** Sansom deu GO final
+2. **✅ Custo tecido CONFIRMADO:** R$ 25/kg = R$ 5/peça = R$ 15/kit
+   - **Economia:** R$ 15/kit vs estimativa anterior (R$ 30/kit)
+   - **Impacto margem:** 45,3% → **56,9%** (+11,6%)
+3. **✅ Entrega tecido:** 2 toneladas final de Março/2026
+4. **🆕 Canais de venda expandidos:** Sansom quer incluir no contrato:
+   - Outlet físico (já confirmado antes)
+   - Shopee
+   - Mercado Livre
+   - TikTok Shop
+   - Todos seguem divisão 50/50
+
+**Impacto Financeiro:**
+- Custo variável: R$ 70,58 → **R$ 55,58/kit** (-R$ 15)
+- Margem bruta: R$ 58,42 → **R$ 73,42/kit** (+R$ 15)
+- Margem %: 45,3% → **56,9%** (+11,6%)
+
+**Documentos Atualizados:**
+- VALORES_OFICIAIS.md (este documento)
+
+**Pendente Atualização:**
+- STATUS_ATUAL.md
+- TODO_Sprint_Atual.md
+- DASHBOARD.md
+- Resumo executivo 19/Jan
+
+---
 
 ### 16/Jan/2026 - Atualização Negociação Titanium ⭐
 
