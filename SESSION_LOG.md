@@ -1,6 +1,6 @@
 ---
 criado: 2026-01-19T11:18:41-03:00
-atualizado: 2026-01-19T11:20:56-03:00
+atualizado: 2026-01-19T11:25:31-03:00
 ---
 criado: 2026-01-14T13:02:05-03:00
 
@@ -266,12 +266,6 @@ Estamos no **Alienware** (PC trabalho). Quando trabalhar no **PC Casa**, os skil
 ### Arquivos Criados/Modificados
 
 **Criados (8):**
-1. `00_SISTEMA/INDICE_RESUMIDO.md` (3k tokens)
-2. `00_SISTEMA/indices/INDICE_00_SISTEMA.md` (5k)
-3. `00_SISTEMA/indices/INDICE_01_CONHECIMENTO.md` (8k)
-4. `00_SISTEMA/indices/INDICE_02_PROJETOS.md` (6k)
-5. `00_SISTEMA/indices/INDICE_03_APRENDIZADO.md` (10k)
-6. `00_SISTEMA/indices/INDICE_04_RECURSOS.md` (4k)
 7. `00_SISTEMA/indices/INDICE_05_PESSOAL.md` (1k)
 8. `00_SISTEMA/RELATORIOS/OTIMIZACAO_TOKENS_18JAN2026.md` (documentação completa)
 
