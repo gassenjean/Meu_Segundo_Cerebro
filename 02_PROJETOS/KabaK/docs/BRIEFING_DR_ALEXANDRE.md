@@ -181,15 +181,17 @@ NOVA SOCIEDADE (E-COMMERCE + OUTLET + MARKETPLACES)
 
 ### Jean (Família - 49% decisão / 50% lucros)
 
-**IMPORTANTE:** Jean representa o lado familiar (Jean + Gassen + Kris). Divisão interna dos 50% a definir posteriormente.
+**IMPORTANTE:** Jean representa o lado familiar (Jean + Gassen + Kris). Os 50% são do grupo familiar como um todo, sem divisão interna societária.
 
-**⚠️ DIVISÃO DE DEDICAÇÃO (CRÍTICO PARA PRÓ-LABORE):**
+**⚠️ LOCAL DE TRABALHO (IMPORTANTE PARA PRÓ-LABORE):**
 
-| Pessoa | Dedicação Principal | Local de Trabalho |
-|--------|---------------------|-------------------|
-| **Jean** | 100% KabaK (nova sociedade) | E-commerce/Gestão |
-| **Gassen** | 100% Fábrica (Gabriele Confecções) | Produção |
-| **Kris** | 100% Fábrica (Gabriele Confecções) | Produção |
+| Pessoa | Onde Trabalha |
+|--------|---------------|
+| **Jean** | KabaK (nova sociedade e-commerce) |
+| **Gassen** | Gabriele Confecções (fábrica) |
+| **Kris** | Gabriele Confecções (fábrica) |
+
+**Nota:** Gassen e Kris trabalham na fábrica (Gabriele Confecções), não na KabaK diretamente. Isso impacta a questão do pró-labore.
 
 #### Jean Bou Karim (Pai, Dono/CEO)
 
@@ -200,7 +202,7 @@ NOVA SOCIEDADE (E-COMMERCE + OUTLET + MARKETPLACES)
 - Experiência: 7+ anos indústria têxtil, produção
 - Fábrica própria em MG, 80k peças/mês
 
-**Dedicação:** 100% na **KabaK (nova sociedade e-commerce)**
+**Trabalha na:** KabaK (nova sociedade)
 
 **Responsabilidades:**
 
@@ -212,8 +214,7 @@ NOVA SOCIEDADE (E-COMMERCE + OUTLET + MARKETPLACES)
 
 **Investimento:**
 
-- **R$ 1.048.150** (50% de R$ 2.096.300)
-- **Divisão interna:** Jean + Gassen + Kris (a definir)
+- **R$ 1.048.150** (50% de R$ 2.096.300) - compartilhado com Gassen e Kris
 
 ---
 
@@ -226,7 +227,7 @@ NOVA SOCIEDADE (E-COMMERCE + OUTLET + MARKETPLACES)
 - Experiência: E-commerce, marketing digital, gestão de projetos
 - Conhecimento: Marketing digital, Shopify, logística, produção
 
-**Dedicação:** 100% na **Fábrica (Gabriele Confecções)**
+**Trabalha na:** Gabriele Confecções (fábrica)
 
 **Responsabilidades:**
 
@@ -235,11 +236,6 @@ NOVA SOCIEDADE (E-COMMERCE + OUTLET + MARKETPLACES)
 - **Gestão de Projetos** (novos projetos, inovações)
 - **Apoio integral à produção** (trabalha NA fábrica)
 - Gestão da marca
-
-**Participação:**
-
-- **Parte dos 50% lado Jean** (divisão interna a definir)
-- Critério: Criação marca + e-commerce + marketing + gestão projetos + dedicação fábrica
 
 ---
 
@@ -252,7 +248,7 @@ NOVA SOCIEDADE (E-COMMERCE + OUTLET + MARKETPLACES)
 - **Estilista** - visão criativa e design
 - Experiência: Desenvolvimento de produto, produção têxtil, controle qualidade
 
-**Dedicação:** 100% na **Fábrica (Gabriele Confecções)**
+**Trabalha na:** Gabriele Confecções (fábrica)
 
 **Responsabilidades:**
 
@@ -262,57 +258,18 @@ NOVA SOCIEDADE (E-COMMERCE + OUTLET + MARKETPLACES)
 - **Produção** (acompanhamento processo produtivo, qualidade)
 - Interface técnica com fornecedores (tecidos, insumos)
 
-**Participação:**
-
-- **Parte dos 50% lado Jean** (divisão interna a definir)
-- Critério: Co-criação marca + estilismo + desenvolvimento produto + dedicação integral produção
-
 ---
 
-### DIVISÃO INTERNA FAMÍLIA (CRÍTICO DEFINIR)
+### QUESTÃO PRÓ-LABORE (DEFINIR COM DR. ALEXANDRE)
 
-**Lado Jean = 50% lucros da nova sociedade**
+**Situação:**
+- Jean trabalha na KabaK → pró-labore pago pela KabaK
+- Gassen e Kris trabalham na Gabriele Confecções (fábrica) → pró-labore pago por quem?
 
-**Situação de trabalho:**
-
-| Pessoa | Onde Trabalha | Dedicação | Receberá Pró-labore de |
-|--------|---------------|-----------|------------------------|
-| **Jean** | KabaK (e-commerce) | 100% | KabaK (nova sociedade) |
-| **Gassen** | Fábrica (Gabriele) | 100% | Fábrica OU KabaK? |
-| **Kris** | Fábrica (Gabriele) | 100% | Fábrica OU KabaK? |
-
-**QUESTÃO CRÍTICA PRÓ-LABORE:**
-
-Gassen e Kris trabalham 100% na fábrica, mas são sócios da KabaK.
-- Quem paga o pró-labore deles? Fábrica ou KabaK?
-- Se fábrica paga: Isso já é contemplado no custo de produção?
-- Se KabaK paga: Como justificar se trabalham na fábrica?
-- Solução possível: Contrato de prestação de serviço (Gassen+Kris via fábrica para KabaK)?
-
-**Como dividir os 50% entre:**
-
-1. **Jean:** CEO KabaK, investidor 100% histórico, dedicação integral KabaK
-2. **Gassen:** E-commerce, Marketing, co-criador marca, dedicação integral fábrica
-3. **Kris (Kristyellen):** Estilista, Produto, co-criadora marca, dedicação integral fábrica
-
-**Critérios a considerar:**
-
-- Investimento histórico (100% Jean)
-- Criação marca/valor intangível (Gassen + Kris)
-- Dedicação futura: Jean na KabaK, Gassen+Kris na fábrica
-- Quem gera valor onde?
-
-**PERGUNTAS DR. ALEXANDRE:**
-
-1. "Como estruturar divisão interna familiar de forma justa, clara e sem conflitos?"
-2. "Gassen e Kris trabalham na fábrica mas são sócios da KabaK - como estruturar pró-labore?"
-3. "Faz sentido Gassen+Kris receberem via contrato prestação serviço da fábrica para KabaK?"
-
-**Projeto Paralelo:**
-
-- **Gabriele Confecções Jurídico 2026**
-- Estruturação jurídica completa KabaK atual
-- Definir sociedade familiar formalmente
+**Perguntas para Dr. Alexandre:**
+1. Gassen e Kris devem receber pró-labore da fábrica ou da KabaK?
+2. Se recebem da fábrica, isso já está contemplado no custo de produção?
+3. Qual a melhor estrutura para isso?
 
 ---
 
@@ -1112,13 +1069,13 @@ Qualquer dúvida, estou à disposição.
 
 ### Histórico de Revisões
 
-**19/Jan/2026 (v3) - Divisão de Trabalho e Pró-labore:**
-- CORRIGIDO: Dedicação de cada pessoa:
-  - Jean: 100% KabaK (nova sociedade)
-  - Gassen: 100% Fábrica (Gabriele Confecções)
-  - Kris: 100% Fábrica (Gabriele Confecções)
-- ADICIONADO: Questão crítica sobre pró-labore (quem paga Gassen/Kris?)
-- ADICIONADO: Perguntas para Dr. Alexandre sobre estruturação
+**19/Jan/2026 (v3) - Local de Trabalho e Pró-labore:**
+- INFORMADO: Onde cada pessoa trabalha:
+  - Jean: KabaK (nova sociedade)
+  - Gassen: Gabriele Confecções (fábrica)
+  - Kris: Gabriele Confecções (fábrica)
+- SIMPLIFICADO: 50% família é do grupo todo (sem divisão interna societária)
+- ADICIONADO: Questão pró-labore para Dr. Alexandre
 
 **19/Jan/2026 (v2) - Observância Religiosa:**
 - ADICIONADO: Cláusula observância Sábado (Jean, Gassen, Kris não trabalham)
