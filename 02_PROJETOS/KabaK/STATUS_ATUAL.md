@@ -163,25 +163,34 @@ atualizado: 2026-01-19T12:00:00-03:00
 ### 19/Jan/2026 - TITANIUM APROVADO + CUSTO TECIDO CONFIRMADO ⭐⭐⭐
 
 **Contexto:** Atualizações de Sansom sobre Titanium e tecido China.
+
 **Decisões:**
-1. **Titanium APROVADO:** Sansom deu GO final na contratação
+1. **Titanium APROVADO:** Sansom deu GO (verbal, documentos hoje)
 2. **Custo tecido CONFIRMADO:** R$ 25/kg = R$ 5/peça = **R$ 15/kit**
-3. **Entrega tecido:** 2 toneladas final de Março/2026
-4. **Canais expandidos:** Incluir no contrato Shopee, ML, TikTok Shop (50/50)
+3. **Entrega tecido:** 2 toneladas (primeira remessa) final de Março/2026
+4. **Canais expandidos:** Incluir no contrato (todos 50/50 lucros / 51/49 decisão):
+   - Outlet físico
+   - Shopee
+   - Mercado Livre
+   - TikTok Shop
 
 **Impacto Financeiro ENORME:**
-- Custo tecido antes: R$ 30/kit (estimado)
-- Custo tecido agora: **R$ 15/kit** (confirmado)
-- **Economia: R$ 15/kit**
-- Custo variável: R$ 70,58 → **R$ 55,58/kit**
-- Margem bruta: 45,3% → **56,9%** (+11,6%)
-- Lucro por kit: R$ 58,42 → **R$ 73,42** (+R$ 15)
+
+| Item | Antes | Agora | Economia |
+|------|-------|-------|----------|
+| Tecido/kit | R$ 30 | R$ 15 | R$ 15 |
+| Fabricação/kit | R$ 15 | R$ 15 | - |
+| Embalagem/kit | R$ 3 | R$ 3 | - |
+| **Produto/kit** | R$ 48 | **R$ 33** | **R$ 15** |
+| Custo variável | R$ 70,58 | **R$ 55,58** | R$ 15 |
+| Margem bruta | R$ 58,42 | **R$ 73,42** | +R$ 15 |
+| Margem % | 45,3% | **56,9%** | +11,6% |
 
 **Cálculo do tecido:**
 - R$ 25/kg ÷ 5 peças/kg = R$ 5/peça
 - Kit (3 peças) = R$ 5 × 3 = R$ 15
 
-**Primeira remessa:**
+**Primeira remessa China:**
 - 2 toneladas = 2.000 kg
 - 2.000 kg × 5 peças/kg = 10.000 peças
 - 10.000 ÷ 3 = ~3.333 kits
