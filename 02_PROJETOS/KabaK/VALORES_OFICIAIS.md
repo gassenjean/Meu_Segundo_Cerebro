@@ -199,6 +199,43 @@ TOTAL CUSTO VARIÁVEL:           R$  70,58
 
 **Nota:** Custo total do produto igual à estimativa anterior (R$ 48/kit). A composição mudou (tecido menor, fabricação maior), mas o total permanece.
 
+### 🚀 FASE 2 - Oportunidade Otimização (Tecido na Cor)
+
+**Quando:** Após validar produto/marca (estimativa: 6-12 meses)
+**Premissa:** Tecido já vem estampado/na cor da China → elimina sublimação no Brasil
+
+**Composição Fase 1 (Atual) - R$ 10/peça fabricação:**
+```
+Costura:      R$  5-6/peça
+Sublimação:   R$  4-5/peça
+--------------------------
+TOTAL:        R$ 10/peça
+```
+
+**Composição Fase 2 (Futura) - R$ 5-6/peça fabricação:**
+```
+Costura:      R$  5-6/peça
+Sublimação:   R$    0/peça  (eliminado - tecido na cor)
+--------------------------
+TOTAL:        R$  5-6/peça
+```
+
+**Impacto Projetado:**
+
+| Métrica | Fase 1 | Fase 2 | Economia |
+|---------|--------|--------|----------|
+| Fabricação/peça | R$ 10 | R$ 5-6 | R$ 4-5 |
+| Produto/kit | R$ 48 | R$ 33-36 | R$ 12-15 |
+| Custo variável | R$ 70,58 | R$ 55-58 | R$ 12-15 |
+| **Margem %** | **45,3%** | **56-60%** | **+11-15%** |
+| Economia/ano (177k kits) | - | - | **R$ 2,1-2,6M** |
+
+**Requisitos para Fase 2:**
+- [ ] Validar que tecido na cor China tem mesma qualidade
+- [ ] Confirmar custo tecido na cor (estimativa: mesmo ~R$ 25/kg)
+- [ ] Testar aceitação do mercado com produto estampado China
+- [ ] Negociar volumes mínimos com fornecedor China
+
 ### Custos Fixos Mensais
 
 **⚠️ IMPORTANTE:** Setup Titanium mudou de R$ 60k → R$ 50k (16/Jan/2026)
