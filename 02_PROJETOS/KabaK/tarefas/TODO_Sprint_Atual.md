@@ -1,11 +1,12 @@
 ---
 criado: 2026-01-14T19:53:37-03:00
-atualizado: 2026-01-16T17:30:00-03:00
+atualizado: 2026-01-19T12:00:00-03:00
 ---
 # TODO - Sprint Jan/2026
 
 **Período:** 14-28/Jan/2026
 **Foco:** Estruturação Jurídica + Início Titanium + Pedido China
+**Atualização:** 19/Jan - Titanium APROVADO + Custo tecido CONFIRMADO
 
 ---
 
