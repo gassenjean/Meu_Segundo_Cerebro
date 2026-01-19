@@ -1,6 +1,6 @@
 # Stakeholders - KabaK Project
 
-**Última atualização:** 14/Jan/2026
+**Última atualização:** 19/Jan/2026
 
 ---
 
@@ -10,9 +10,10 @@
 
 **Perfil:**
 - Empresário chinês residente no Brasil
-- Casado com brasileira
+- Casado com mulher chinesa (informações adicionais a obter)
 - Primeira sociedade fora da família
 - Experiência em importação e comércio
+- **Patricia:** Funcionária do Sansom (não esposa)
 
 **Empresas/Negócios:**
 - Possui outras empresas no Brasil (detalhes confidenciais)
@@ -27,7 +28,7 @@
 - **Palavra Final:** Voto minerva em casos de impasse (<1% dos casos)
 
 **Investimento:**
-- R$ 1.300.000 (50% do total)
+- **R$ 1.048.150** (50% de R$ 2.096.300)
 - Estrutura: A definir (PF ou PJ)
 
 **Características:**
@@ -63,13 +64,14 @@
 - Capacidade máxima: 240k peças/mês
 
 **Responsabilidades no Projeto:**
-- **CEO e Produção:** Gestão completa da fábrica
-- **Costura/Qualidade:** Controle produtivo
+- **Dono e CEO**
+- **Gerente Geral** (visão estratégica e operacional)
+- **Gestão da Fábrica:** Produção, costura, qualidade
 - **Gestão Equipe:** 40+ costureiras + expansão conforme necessário
 - **Capacidade Produtiva:** Escalar conforme demanda
 
 **Investimento:**
-- R$ 1.300.000 (50% do total, lado família)
+- **R$ 1.048.150** (50% de R$ 2.096.300, lado família)
 - Divisão interna: Jean + Gassen + Kris (a definir)
 
 **Papel Dual:**
@@ -91,19 +93,19 @@
 **Perfil:**
 - Brasileiro, filho de Jean
 - **Criador da marca KabaK** (junto com Kris)
-- Gestor operacional e de inovações
+- Experiência: E-commerce, marketing digital, gestão de projetos
 - Conhecimento: Marketing digital, Shopify, logística, produção
 
 **Responsabilidades no Projeto:**
-- **Gestão Marca:** Inovações, identidade, posicionamento
-- **Projetos:** Desenvolvimento de produtos e linhas
-- **E-commerce:** Interface Shopify, estratégia online
-- **Marketing:** Interface com Titanium, campanhas
+- **E-commerce:** Shopify, estratégia digital, operação
+- **Marketing:** Interface com Titanium, campanhas, branding
+- **Gestão de Projetos:** Novos projetos, inovações
+- **Gestão da Marca:** Identidade, posicionamento
 - **Apoio Produção:** Suporte à operação fábrica
 
 **Participação:**
 - Parte dos 50% lado Jean (divisão interna a definir)
-- Critério: Criação marca + gestão operacional
+- Critério: Criação marca + e-commerce + marketing + gestão projetos
 
 **Características:**
 - Co-criou marca KabaK com Kris
@@ -118,29 +120,29 @@
 
 ---
 
-### Kris (Parte dos 49% - Esposa Gassen)
+### Kristyellen "Kris" (Parte dos 49% - Esposa Gassen)
 
 **Perfil:**
 - Brasileira, esposa de Gassen
 - **Co-criadora da marca KabaK** (junto com Gassen)
-- Especialista em processo produtivo e desenvolvimento produto
-- Experiência: Produção têxtil, controle qualidade, design
+- **Estilista** - visão criativa e design
+- Experiência: Desenvolvimento de produto, produção têxtil, controle qualidade
 
 **Responsabilidades no Projeto:**
-- **Processo Produtivo:** Dia a dia operacional da fábrica
+- **Estilista:** Visão criativa, tendências, identidade visual produto
+- **Gerente de Produto:** Linha de produtos, mix, estratégia
 - **Desenvolvimento de Produto:** Criação, modelagem, protótipos
-- **Controle Qualidade:** Garantia de padrão produtivo
-- **Gestão Operacional:** Coordenação produção
+- **Produção:** Acompanhamento processo produtivo, qualidade
 - **Interface Fornecedores:** Técnica (tecidos, insumos)
 
 **Participação:**
 - Parte dos 50% lado Jean (divisão interna a definir)
-- Critério: Co-criação marca + desenvolvimento produto + operação
+- Critério: Co-criação marca + estilismo + desenvolvimento produto + produção
 
 **Características:**
-- Cuida processo produtivo atualmente
+- Estilista e gerente de produto
 - Conhecimento técnico têxtil profundo
-- Participação ativa em criação de produto
+- Participação ativa em criação e produção
 
 **Contato:**
 - [A adicionar quando apropriado]
@@ -149,9 +151,11 @@
 
 ## Prestadores de Serviço (NÃO Sócios)
 
-### Titanium (Agência de Marketing)
+### Titanium (Agência de Marketing) ✅ APROVADO 19/Jan
 
-**Tipo:** Prestador de serviço (R$ 60.000/mês)
+**Tipo:** Prestador de serviço Full Service
+
+**Status:** ✅ APROVADO por Sansom (19/Jan/2026)
 
 **Perfil:**
 - Agência de marketing digital especializada em e-commerce
@@ -159,17 +163,23 @@
 - Mesmo produto/nicho que KabaK
 
 **Escopo de Serviços:**
+- Full Service (marca → produto → vendas)
 - Criação de campanhas
-- Gestão de tráfego pago (Meta/Google)
+- Gestão de tráfego pago (Meta/Google) + Outlet físico
 - CRO (Conversion Rate Optimization)
 - Indicação equipe SAC/atendimento
 - Setup Shopify e otimização
 
 **Modelo Comercial:**
-- **Fixo:** R$ 60.000/mês (sem setup)
-- **Variável:** Tráfego pago R$ 40.000-100.000/mês
-- **Onboarding:** 1 mês (Fev/2026)
-- **Contrato:** Sem exclusividade, 3 meses aviso prévio
+- **Setup:** R$ 50.000 (desconto R$ 10k negociado 16/Jan)
+- **Mensalidades Escalonadas:**
+  - Meses 1-3: R$ 45.000/mês
+  - Meses 4-6: R$ 50.000/mês
+  - Meses 7-9: R$ 55.000/mês
+  - Mês 10+: R$ 60.000/mês
+- **Tráfego Pago:** R$ 40.000-100.000/mês (variável)
+- **Bônus:** Tráfego pago outlet físico incluído (valor R$ 120-240k/ano)
+- **Economia ano 1:** R$ 100.000 (setup + mensalidades escalonadas)
 
 **Timeline:**
 - **Jan/2026:** Reunião comercial (validar modelo)

@@ -306,8 +306,8 @@ atualizado: 2026-01-19T12:00:00-03:00
 
 - **Sansom (51% decisão / 50% lucros):** Sócio majoritário, gestão financeira, importação China
 - **Jean (parte dos 49% decisão / 50% lucros):** CEO, dono fábrica, produção
-- **Gassen (parte dos 49% decisão / 50% lucros):** Gestor marca, e-commerce, inovações
-- **Kris (parte dos 49% decisão / 50% lucros):** Co-criadora, desenvolvimento produto, operação produtiva
+- **Gassen (parte dos 49% decisão / 50% lucros):** E-commerce, marketing, gestão projetos, gestão marca
+- **Kris (parte dos 49% decisão / 50% lucros):** Estilista, gerente produto, desenvolvimento produto, produção
 - **Divisão interna 49%:** A definir com Dr. Alexandre
 
 ### Prestadores de Serviço
@@ -318,7 +318,8 @@ atualizado: 2026-01-19T12:00:00-03:00
 
 ### Família (Contexto)
 
-- **Esposa Sansom:** (definir estrutura societária dele)
+- **Esposa Sansom:** Chinesa (informações a obter - definir estrutura societária dele)
+- **Nota:** Patricia é funcionária do Sansom, não esposa
 
 ---
 

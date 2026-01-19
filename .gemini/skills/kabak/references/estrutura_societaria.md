@@ -1,6 +1,6 @@
 # Estrutura Societária - KabaK
 
-**Última atualização:** 15/Jan/2026 (Auditoria e Correções)
+**Última atualização:** 19/Jan/2026 (Titanium APROVADO + Funções corrigidas)
 **Status:** Acordo verbal firmado, aguardando estruturação jurídica
 **Fonte Oficial:** C:\Users\Gassen\OneDrive\Meu_Segundo_Cerebro\02_PROJETOS\KabaK\VALORES_OFICIAIS.md
 
@@ -43,12 +43,12 @@ A sociedade KabaK possui estrutura híbrida diferenciando poder de decisão e di
   - Palavra final apenas em impasses (voto minerva)
 
 **Investimento:**
-- R$ 1.053.150 (50% do total R$ 2.106.300)
-- Arredondado: R$ 1.300.000 para comunicação simplificada
+- R$ 1.048.150 (50% do total R$ 2.096.300)
 - A definir: PF ou PJ, integral ou parcelado
 
 **Perfil:**
-- Casado com brasileira
+- Casado com mulher chinesa (informações a obter)
+- **Patricia:** Funcionária do Sansom (não esposa)
 - Possui outras empresas no Brasil
 - Possui negócios na China (cunhado Eric opera)
 - Conexões-chave: Fornecedores têxteis China
@@ -57,38 +57,39 @@ A sociedade KabaK possui estrutura híbrida diferenciando poder de decisão e di
 
 **Estrutura Familiar:**
 
-**Jean** (Pai, CEO/Dono KabaK Atual):
+**Jean** (Pai, Dono/CEO/Gerente Geral):
 - Dono e CEO da KabaK/Gabriele Confecções
 - Investidor 100% do KabaK até agora
 - **Responsabilidades:**
-  - CEO e gestão produção
-  - Fábrica/costura/qualidade (MG)
+  - **Dono e CEO**
+  - **Gerente Geral** (visão estratégica e operacional)
+  - Gestão da Fábrica (produção, costura, qualidade)
   - Gestão equipe produtiva (40+ costureiras)
   - Capacidade produtiva (escalar conforme demanda)
 
-**Gassen** (Filho Jean, Gestor/Criador Marca):
+**Gassen** (Filho Jean, E-commerce/Marketing/Gestão Projetos):
 - Filho de Jean
 - Criador da marca KabaK (junto com Kris)
 - **Responsabilidades:**
-  - Gestão marca e inovações
-  - Projetos e desenvolvimento produtos
-  - Interface e-commerce (Shopify, estratégia)
-  - Interface marketing (Titanium)
-  - Apoio produção
+  - **E-commerce:** Shopify, estratégia digital, operação
+  - **Marketing:** Interface com Titanium, campanhas, branding
+  - **Gestão de Projetos:** Novos projetos, inovações
+  - **Gestão da Marca:** Identidade, posicionamento
+  - **Apoio Produção:** Suporte à operação fábrica
 
-**Kris** (Esposa Gassen, Co-criadora/Produção):
+**Kris (Kristyellen)** (Esposa Gassen, Estilista/Gerente Produto):
 - Esposa de Gassen
 - Co-criadora da marca KabaK
+- **Estilista** - visão criativa e design
 - **Responsabilidades:**
-  - Processo produtivo (dia a dia fábrica)
-  - Desenvolvimento de produto (novos modelos, protótipos)
-  - Controle qualidade
-  - Gestão operacional produção
-  - Interface técnica com fornecedores
+  - **Estilista:** Visão criativa, tendências, identidade visual produto
+  - **Gerente de Produto:** Linha de produtos, mix, estratégia
+  - **Desenvolvimento de Produto:** Criação, modelagem, protótipos
+  - **Produção:** Acompanhamento processo produtivo, qualidade
+  - **Interface Fornecedores:** Técnica (tecidos, insumos)
 
 **Investimento Família:**
-- R$ 1.053.150 (50% do total R$ 2.106.300)
-- Arredondado: R$ 1.300.000 para comunicação simplificada
+- R$ 1.048.150 (50% do total R$ 2.096.300)
 - Divisão interna a definir com Dr. Alexandre
 
 **Divisão Interna dos 50% (A Definir):**
@@ -130,20 +131,28 @@ Opções:
 - Máxima: 240.000 peças/mês (se necessário)
 - Costureiras: 40 atuais, escalável até 400
 
-### Titanium (Agência Marketing)
+### Titanium (Agência Marketing) ✅ APROVADO 19/Jan
 
-**Status:** Prestadora de serviço (NÃO parceira)
+**Status:** ✅ APROVADO por Sansom (19/Jan/2026) - Prestadora de serviço Full Service
 
-**Modelo:**
-- Custo fixo: R$ 60.000/mês
-- Tráfego pago: R$ 40.000-100.000/mês (variável)
-- Sem setup (era R$ 60k no modelo antigo)
+**Modelo Comercial:**
+- **Setup:** R$ 50.000 (desconto R$ 10k negociado 16/Jan)
+- **Mensalidades Escalonadas:**
+  - Meses 1-3: R$ 45.000/mês
+  - Meses 4-6: R$ 50.000/mês
+  - Meses 7-9: R$ 55.000/mês
+  - Mês 10+: R$ 60.000/mês
+- **Tráfego Pago:** R$ 40.000-100.000/mês (variável)
+- **Bônus:** Tráfego pago outlet físico incluído (valor R$ 120-240k/ano)
+- **Economia ano 1:** R$ 100.000
 
 **Escopo:**
+- Full Service (marca → produto → vendas)
 - Criação campanhas
-- Gestão tráfego pago (Meta/Google)
+- Gestão tráfego pago (Meta/Google) + Outlet físico
 - CRO (Conversion Rate Optimization)
 - Indicação equipe SAC/atendimento
+- Setup Shopify e otimização
 - Onboarding: 1 mês (Fev/2026)
 
 **Contrato:**
