@@ -481,7 +481,36 @@ NOVA SOCIEDADE (E-COMMERCE + OUTLET + MARKETPLACES)
 - Prazo: 6 meses? 12 meses? 24 meses?
 - Escopo: Fitness feminino? Qualquer e-commerce? Qualquer têxtil?
 
-#### H. Prestação de Serviço (Fábrica Jean)
+#### H. Observância Religiosa (IMPORTANTE)
+
+**O lado Jean (Jean, Gassen, Kris) observa o Sábado por motivos religiosos.**
+
+**Cláusula a incluir no contrato:**
+
+- **Sábado (por do sol sexta → por do sol sábado):** Jean, Gassen e Kris NÃO trabalham
+- **Motivo:** Observância religiosa (Adventismo do 7º Dia ou similar)
+- **Aplicação:** Reuniões, decisões, operações que envolvam os três
+- **Exceção:** Emergências operacionais críticas (a definir critério)
+
+**Funcionamento Outlet Físico:**
+
+- **DOMINGO:** Loja ABERTA (funcionamento normal)
+- **SÁBADO:** Loja FECHADA (não opera aos sábados)
+- **Nota:** Isso pode impactar faturamento vs concorrentes (sexta/sábado são dias fortes varejo)
+
+**Implicações para contrato:**
+
+1. Assembleia/reuniões de sócios: Não agendar sábado
+2. Prazos contratuais: Não contar sábado como dia útil para lado Jean
+3. Operação digital (e-commerce): Funciona normalmente (automático)
+4. Operação física (outlet): Definir escala equipe para domingo
+
+**PERGUNTA DR. ALEXANDRE:**
+"Como redigir cláusula de observância religiosa que proteja o direito dos sócios sem prejudicar operação?"
+
+---
+
+#### I. Prestação de Serviço (Fábrica Jean)
 
 **Incluir no contrato social:**
 
@@ -971,6 +1000,12 @@ Para projeção financeira, precisamos saber:
 2. [ ] Pró-labore (quem recebe? Obrigatório? Quanto?)
 3. [ ] Distribuição lucros (periodicidade? Reserva obrigatória?)
 
+### Observância Religiosa (NOVO)
+
+20. [ ] Como redigir cláusula que Jean/Gassen/Kris não trabalham aos sábados (motivo religioso)?
+21. [ ] Outlet fechado sábado / aberto domingo - implicações contratuais?
+22. [ ] Reuniões de sócios: Cláusula proibindo sábado como dia de assembleia?
+
 ### Prazo e Custo
 
 20. [ ] Prazo total para tudo pronto e registrado? (dias/semanas?)
@@ -1045,7 +1080,12 @@ Qualquer dúvida, estou à disposição.
 
 ### Histórico de Revisões
 
-**19/Jan/2026 - Atualizações Importantes + Correções:**
+**19/Jan/2026 (v2) - Observância Religiosa:**
+- ADICIONADO: Cláusula observância Sábado (Jean, Gassen, Kris não trabalham)
+- ADICIONADO: Outlet fecha sábado, abre domingo
+- ADICIONADO: Perguntas para Dr. Alexandre sobre redação da cláusula
+
+**19/Jan/2026 (v1) - Atualizações Importantes + Correções:**
 
 **Confirmações de negócio:**
 - Titanium APROVADO por Sansom (verbal, documentos em andamento)
