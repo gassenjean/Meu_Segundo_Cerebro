@@ -1,6 +1,6 @@
 ---
 criado: 2026-01-16T13:24:57-03:00
-atualizado: 2026-01-19T10:58:53-03:00
+atualizado: 2026-01-19T11:18:41-03:00
 ---
 # GUIA: Leitura Claude Code
 
