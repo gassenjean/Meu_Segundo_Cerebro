@@ -28,7 +28,7 @@ Activate this skill when the user needs to:
 - **Launch:** May 2026
 
 **Key Stakeholders:**
-- **Sansom:** Chinese entrepreneur, manages China imports and finances (wife is Chinese, Patricia is employee)
+- **Sansom:** Chinese entrepreneur, manages China imports and finances (wife is Chinese)
 - **Jean:** Factory owner, CEO, General Manager (production, strategy)
 - **Gassen:** E-commerce, marketing, project management, brand management
 - **Kris (Kristyellen):** Stylist, Product Manager, Product Development, Production (co-creator)

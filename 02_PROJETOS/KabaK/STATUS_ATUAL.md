@@ -319,7 +319,6 @@ atualizado: 2026-01-19T12:00:00-03:00
 ### Família (Contexto)
 
 - **Esposa Sansom:** Chinesa (informações a obter - definir estrutura societária dele)
-- **Nota:** Patricia é funcionária do Sansom, não esposa
 
 ---
 

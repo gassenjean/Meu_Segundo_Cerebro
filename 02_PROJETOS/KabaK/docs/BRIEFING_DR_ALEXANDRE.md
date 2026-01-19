@@ -155,7 +155,6 @@ NOVA SOCIEDADE (E-COMMERCE + OUTLET + MARKETPLACES)
 - Casado com mulher chinesa (informações adicionais a obter)
 - Possui outras empresas no Brasil
 - Possui negócios na China (cunhado Eric opera)
-- **Patricia:** Funcionária do Sansom (não esposa)
 
 **Responsabilidades na sociedade:**
 
@@ -1106,7 +1105,7 @@ Qualquer dúvida, estou à disposição.
 - Entrega tecido: 2 toneladas final Mar/2026
 
 **Correções de informações:**
-- Sansom: Esposa é chinesa (não Patricia/brasileira). Patricia é funcionária.
+- Sansom: Esposa é chinesa
 - Jean: Dono, CEO, Gerente Geral
 - Gassen: E-commerce, Marketing, Gestão de Projetos, apoio produção
 - Kris (Kristyellen): Estilista, Gerente de Produto, Desenvolvimento de Produto, Produção

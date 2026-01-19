@@ -48,7 +48,6 @@ A sociedade KabaK possui estrutura híbrida diferenciando poder de decisão e di
 
 **Perfil:**
 - Casado com mulher chinesa (informações a obter)
-- **Patricia:** Funcionária do Sansom (não esposa)
 - Possui outras empresas no Brasil
 - Possui negócios na China (cunhado Eric opera)
 - Conexões-chave: Fornecedores têxteis China

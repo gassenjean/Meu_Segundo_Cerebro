@@ -13,7 +13,6 @@
 - Casado com mulher chinesa (informações adicionais a obter)
 - Primeira sociedade fora da família
 - Experiência em importação e comércio
-- **Patricia:** Funcionária do Sansom (não esposa)
 
 **Empresas/Negócios:**
 - Possui outras empresas no Brasil (detalhes confidenciais)
