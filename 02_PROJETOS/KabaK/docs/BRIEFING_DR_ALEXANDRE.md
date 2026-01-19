@@ -294,11 +294,11 @@ NOVA SOCIEDADE (E-COMMERCE + OUTLET + MARKETPLACES)
 - Começo limpo (sem passivos)
 - Estrutura clara desde início
 - Não mistura com histórico Kabak
+- Marca KabaK pode ser transferida (registrada no nome da Kris)
 
 **Desvantagens:**
 
 - Tempo registro (quanto tempo?)
-- Perda marca Kabak (já existe, 18k followers Instagram)
 - Custo registro/estruturação
 
 ---
@@ -307,7 +307,7 @@ NOVA SOCIEDADE (E-COMMERCE + OUTLET + MARKETPLACES)
 
 **Vantagens:**
 
-- Marca já registrada (®)
+- Marca já registrada (®) - no nome da Kris
 - Base 18k followers Instagram
 - Economiza 6 meses construção marca
 - Já tem histórico (3-6 meses operação)
@@ -318,12 +318,10 @@ NOVA SOCIEDADE (E-COMMERCE + OUTLET + MARKETPLACES)
 - Sócios anteriores (se houver - como sair?)
 - Estrutura societária atual (como reestruturar?)
 
-**Informações necessárias:**
-
-- Qual a situação societária atual do CNPJ Kabak?
-- Há outros sócios? Quem?
-- Há passivos? Dívidas? Processos?
-- É viável usar ou melhor começar novo?
+**Informação importante sobre a marca:**
+- **Marca KabaK está registrada no nome da Kris**
+- Temos os direitos da marca
+- Pode ser transferida para nova sociedade se necessário
 
 ---
 
@@ -827,20 +825,20 @@ Para projeção financeira, precisamos saber:
 
 ### 5. Marca Kabak
 
-**Risco:**
+**Situação atual:**
 
-- Marca registrada em nome de quem hoje? (Gassen? Jean? Empresa antiga?)
-- Se usarmos CNPJ Kabak: Está tudo regularizado?
-- Se criarmos empresa nova: Como transferir marca?
+- **Marca KabaK está registrada no nome da Kris**
+- Temos os direitos da marca
+- Pode ser transferida para nova sociedade se necessário
 
-**URGENTE:**
+**Questões:**
 
-- Levantar situação atual marca Kabak (INPI)
-- Se necessário: Transferir para nova sociedade
-- Se Gassen tem marca pessoal: Transferir para empresa
+- Se criarmos empresa nova: Como transferir marca da Kris para a nova sociedade?
+- Qual o processo de transferência no INPI?
+- Custo e prazo da transferência?
 
 **PERGUNTA DR. ALEXANDRE:**
-"Qual a situação da marca Kabak? Precisamos regularizar algo?"
+"A marca está no nome da Kris. Como transferir para a nova sociedade? Qual processo?"
 
 ---
 
