@@ -1,20 +1,33 @@
 ---
 criado: 2025-12-08T11:04:20-03:00
-atualizado: 2026-01-16T16:15:00-03:00
+atualizado: 2026-01-19T12:00:00-03:00
 ---
 
 # STATUS ATUAL - KabaK Reestruturação 2026
 
-**Última atualização:** 16/Jan/2026 - 17:30 (Documento Sansom criado)
+**Última atualização:** 19/Jan/2026 - 12:00 (Titanium APROVADO + Custo Tecido CONFIRMADO)
 
 ---
 
 ## ✅ ONDE ESTAMOS
 
  **Fase Atual:** Estruturação Jurídica e Início Titanium
- **Progresso:** 50%
- 
- ### Última Ação (16/Jan/2026 - 17:30)
+ **Progresso:** 65% ⬆️
+
+ ### Última Ação (19/Jan/2026 - 12:00) ⭐⭐⭐
+
+ - ✅ **TITANIUM APROVADO:** Sansom deu GO final na contratação!
+ - ✅ **CUSTO TECIDO CONFIRMADO:** R$ 25/kg = R$ 5/peça = **R$ 15/kit** (antes R$ 30)
+ - ✅ **MARGEM AUMENTOU:** 45,3% → **56,9%** (economia R$ 15/kit)
+ - ✅ **ENTREGA TECIDO:** 2 toneladas final de Março/2026
+ - 🆕 **CANAIS EXPANDIDOS:** Sansom quer incluir no contrato:
+   - Outlet físico
+   - Shopee
+   - Mercado Livre
+   - TikTok Shop
+   - (Todos 50/50)
+
+ ### Ação Anterior (16/Jan/2026 - 17:30)
 
  - ✅ **DESCONTO TITANIUM:** Conseguido R$ 10k no setup (R$ 60k → R$ 50k).
  - ✅ **ECONOMIA ANO 1:** R$ 100k total (setup + mensalidades escalonadas).
@@ -77,11 +90,20 @@ atualizado: 2026-01-16T16:15:00-03:00
  5. [ ] **Gassen:** Acionar Dr. Alexandre para reunião estruturação jurídica
     - **Prazo:** 17/Jan (agendar) / 21/Jan (reunião)
     - **Pauta:** Contrato social, prestação serviço, divisão 49%### 📢 Marketing & Vendas
-*   **Agência:** **460 Produções (Transição)**
-    *   *Escopo:* Social Media (KabaK + Outlet) até entrada da Titanium.
-    *   *Adicional:* Consultoria de Padronização Física do Outlet.
-*   **Estratégia Futura:** Titanium (E-commerce Hard + Branding Global).
-*   **Tráfego:** Pausado/Reduzido (Foco no orgânico/local por enquanto).
+*   **Agência:** **Titanium** ✅ APROVADO (19/Jan)
+    *   *Escopo:* E-commerce + Outlet + Marketplaces (Full Service)
+    *   *Setup:* R$ 50k (desconto R$ 10k)
+    *   *Mensalidades:* Escalonadas (45→50→55→60k)
+*   **Estratégia:** Titanium (E-commerce Hard + Branding Global + Outlet).
+
+### 📦 Canais de Venda (Contrato)
+| Canal | Divisão | Status |
+|-------|---------|--------|
+| E-commerce próprio | 50/50 | ✅ Confirmado |
+| Outlet físico | 50/50 | ✅ Confirmado |
+| Shopee | 50/50 | 🆕 Incluir |
+| Mercado Livre | 50/50 | 🆕 Incluir |
+| TikTok Shop | 50/50 | 🆕 Incluir |
 
 ### 🏪 Canal: Varejo Físico (Outlet)
 *   **Status:** 🟢 **VALIDADO** (R$ 20k/dia em Dez/24)
@@ -137,6 +159,34 @@ atualizado: 2026-01-16T16:15:00-03:00
 ---
 
 ## 📋 DECISÕES RECENTES
+
+### 19/Jan/2026 - TITANIUM APROVADO + CUSTO TECIDO CONFIRMADO ⭐⭐⭐
+
+**Contexto:** Atualizações de Sansom sobre Titanium e tecido China.
+**Decisões:**
+1. **Titanium APROVADO:** Sansom deu GO final na contratação
+2. **Custo tecido CONFIRMADO:** R$ 25/kg = R$ 5/peça = **R$ 15/kit**
+3. **Entrega tecido:** 2 toneladas final de Março/2026
+4. **Canais expandidos:** Incluir no contrato Shopee, ML, TikTok Shop (50/50)
+
+**Impacto Financeiro ENORME:**
+- Custo tecido antes: R$ 30/kit (estimado)
+- Custo tecido agora: **R$ 15/kit** (confirmado)
+- **Economia: R$ 15/kit**
+- Custo variável: R$ 70,58 → **R$ 55,58/kit**
+- Margem bruta: 45,3% → **56,9%** (+11,6%)
+- Lucro por kit: R$ 58,42 → **R$ 73,42** (+R$ 15)
+
+**Cálculo do tecido:**
+- R$ 25/kg ÷ 5 peças/kg = R$ 5/peça
+- Kit (3 peças) = R$ 5 × 3 = R$ 15
+
+**Primeira remessa:**
+- 2 toneladas = 2.000 kg
+- 2.000 kg × 5 peças/kg = 10.000 peças
+- 10.000 ÷ 3 = ~3.333 kits
+
+---
 
 ### 16/Jan/2026 - DESCONTO TITANIUM E INÍCIO IMEDIATO ⭐⭐
 
