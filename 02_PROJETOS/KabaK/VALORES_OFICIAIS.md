@@ -153,18 +153,16 @@ BREAK-EVEN OFICIAL: Mês 4 (Agosto/2026)
 ### Margem Bruta
 
 ```
-MARGEM BRUTA OFICIAL: 56,9%  ⬆️ ATUALIZADO 19/Jan (antes 45,3%)
+MARGEM BRUTA OFICIAL: 45,3%
 ```
 
-**Cálculo (Atualizado 19/Jan):**
+**Cálculo:**
 - Preço venda: R$ 129/kit
-- Custo variável total: R$ 55,58/kit (antes R$ 70,58)
-- Margem bruta: R$ 73,42/kit (antes R$ 58,42)
-- Margem %: (73,42 / 129) × 100 = **56,9%**
+- Custo variável total: R$ 70,58/kit
+- Margem bruta: R$ 58,42/kit
+- Margem %: (58,42 / 129) × 100 = **45,3%**
 
-**Economia por kit: R$ 15 (tecido confirmado R$ 25/kg = R$ 5/peça)**
-
-**NUNCA usar:** 45,3% (valor antigo antes da confirmação do custo do tecido)
+**NUNCA usar:** 51% (valor incorreto encontrado em alguns docs antigos)
 
 ---
 
@@ -174,24 +172,32 @@ MARGEM BRUTA OFICIAL: 56,9%  ⬆️ ATUALIZADO 19/Jan (antes 45,3%)
 
 ```
 Tecido China (3 peças):         R$  15,00  ✅ CONFIRMADO 19/Jan (R$ 25/kg ÷ 5 peças × 3)
-Fabricação Jean (3 peças):      R$  15,00  ⚠️ A VALIDAR JEAN
+Fabricação Jean (3 peças):      R$  30,00  ✅ CONFIRMADO 19/Jan (R$ 10/peça × 3)
 Embalagem + Tags:               R$   3,00
 ----------------------------------------------------
-SUBTOTAL PRODUTO:               R$  33,00  ⬇️ ANTES R$ 48 (economia R$ 15/kit)
+SUBTOTAL PRODUTO:               R$  48,00
 
 Logística/Frete (12%):          R$  15,48
 Gateway Pagamento (3%):         R$   3,87
 Impostos MG (2,5%):             R$   3,23  ⚠️ A VALIDAR DR. ALEXANDRE
 ----------------------------------------------------
-TOTAL CUSTO VARIÁVEL:           R$  55,58  ⬇️ ANTES R$ 70,58 (economia R$ 15/kit)
+TOTAL CUSTO VARIÁVEL:           R$  70,58
 ```
 
-**✅ TECIDO CONFIRMADO (19/Jan/2026):**
-- Custo: R$ 25/kg
-- Rendimento: 5 peças/kg
-- Custo/peça: R$ 5
-- Custo/kit (3 peças): R$ 15
-- **Economia vs estimativa anterior: R$ 15/kit**
+**✅ CUSTOS CONFIRMADOS (19/Jan/2026 - Jean):**
+
+**Por peça:**
+- Tecido: R$ 5/peça (R$ 25/kg ÷ 5 peças)
+- Fabricação (costura + sublimação): R$ 10/peça
+- **Total: R$ 15/peça**
+
+**Por kit (3 peças):**
+- Tecido: R$ 15/kit
+- Fabricação: R$ 30/kit
+- Embalagem: R$ 3/kit
+- **Total produto: R$ 48/kit**
+
+**Nota:** Custo total do produto igual à estimativa anterior (R$ 48/kit). A composição mudou (tecido menor, fabricação maior), mas o total permanece.
 
 ### Custos Fixos Mensais
 
@@ -311,16 +317,23 @@ TOTAL FIXO (Mês 10+):           R$ 255.000  (Titanium 60k - velocidade cruzeiro
 ### ✅ CONFIRMADAS
 
 1. **✅ Titanium APROVADO** (19/Jan/2026)
-   - Sansom aprovou contratação
+   - Sansom aprovou contratação (verbal, documentos hoje)
    - Início imediato confirmado
 
 2. **✅ Custo tecido China:** R$ 25/kg = R$ 5/peça = **R$ 15/kit**
    - **Confirmado por:** Sansom (19/Jan/2026)
-   - **Impacto:** Economia de R$ 15/kit vs estimativa anterior
-   - **Margem bruta:** 45,3% → **56,9%**
 
-3. **✅ Entrega tecido:** Final de Março/2026
-   - **Quantidade:** 2 toneladas (10.000 peças / ~3.333 kits)
+3. **✅ Custo fabricação Jean:** R$ 10/peça (costura + sublimação) = **R$ 30/kit**
+   - **Confirmado por:** Jean (19/Jan/2026)
+   - **Inclui:** Costura + estampa sublimada
+   - **NÃO inclui:** Tecido (fornecido por Sansom)
+
+4. **✅ Custo total por peça:** R$ 15 (R$ 5 tecido + R$ 10 fabricação)
+   - **Por kit (3 peças):** R$ 45 + R$ 3 embalagem = **R$ 48/kit**
+   - **Margem bruta:** Mantém **45,3%** (igual estimativa anterior)
+
+5. **✅ Entrega tecido:** Final de Março/2026
+   - **Quantidade:** 2 toneladas (10.000 peças / ~3.333 kits) - primeira remessa
 
 ---
 
@@ -356,11 +369,7 @@ TOTAL FIXO (Mês 10+):           R$ 255.000  (Titanium 60k - velocidade cruzeiro
 
 ### 🟡 IMPORTANTES (Ajustam Projeção)
 
-3. **Custo fabricação:** R$ 15/kit inclui lucro fábrica Jean?
-   - **Responsável:** Jean
-   - **Deadline:** 21/Jan/2026
-
-4. **Capacidade:** 27k kits/mês é confirmado?
+3. **Capacidade:** 27k kits/mês é confirmado?
    - **Responsável:** Jean
    - **Deadline:** 28/Jan/2026
 
@@ -433,17 +442,17 @@ Usar valores que facilitem decisão:
 
 ## 🔄 HISTÓRICO DE ATUALIZAÇÕES
 
-### 19/Jan/2026 - GRANDE ATUALIZAÇÃO: Titanium Aprovado + Custo Tecido Confirmado ⭐⭐⭐
+### 19/Jan/2026 - Titanium Aprovado + Custos Confirmados (Jean) ⭐⭐⭐
 
-**Motivo:** Confirmações importantes de Sansom
+**Motivo:** Confirmações importantes de Sansom e Jean
 
 **Mudanças:**
-1. **✅ Titanium APROVADO:** Sansom deu GO final
+1. **✅ Titanium APROVADO:** Sansom deu GO (verbal, documentos hoje)
 2. **✅ Custo tecido CONFIRMADO:** R$ 25/kg = R$ 5/peça = R$ 15/kit
-   - **Economia:** R$ 15/kit vs estimativa anterior (R$ 30/kit)
-   - **Impacto margem:** 45,3% → **56,9%** (+11,6%)
-3. **✅ Entrega tecido:** 2 toneladas final de Março/2026
-4. **🆕 Canais de venda expandidos:** Sansom quer incluir no contrato:
+3. **✅ Custo fabricação CONFIRMADO (Jean):** R$ 10/peça (costura + sublimação) = R$ 30/kit
+4. **✅ Custo total peça:** R$ 15 (R$ 5 tecido + R$ 10 fabricação)
+5. **✅ Entrega tecido:** 2 toneladas final de Março/2026 (primeira remessa)
+6. **🆕 Canais de venda expandidos:** Sansom quer incluir no contrato:
    - Outlet físico (já confirmado antes)
    - Shopee
    - Mercado Livre
@@ -451,18 +460,16 @@ Usar valores que facilitem decisão:
    - Todos seguem divisão 50/50
 
 **Impacto Financeiro:**
-- Custo variável: R$ 70,58 → **R$ 55,58/kit** (-R$ 15)
-- Margem bruta: R$ 58,42 → **R$ 73,42/kit** (+R$ 15)
-- Margem %: 45,3% → **56,9%** (+11,6%)
+- **Margem bruta MANTÉM 45,3%** (sem mudança)
+- Custo produto/kit: R$ 48 (igual estimativa)
+- Composição mudou: Tecido R$ 15 + Fabricação R$ 30 + Emb R$ 3 = R$ 48
+
+**Nota:** Inicialmente pensou-se haver economia de R$ 15/kit no tecido, mas a fabricação (R$ 10/peça = R$ 30/kit) é maior que a estimativa anterior (R$ 15/kit). O custo total permanece R$ 48/kit.
 
 **Documentos Atualizados:**
 - VALORES_OFICIAIS.md (este documento)
-
-**Pendente Atualização:**
 - STATUS_ATUAL.md
 - TODO_Sprint_Atual.md
-- DASHBOARD.md
-- Resumo executivo 19/Jan
 
 ---
 
