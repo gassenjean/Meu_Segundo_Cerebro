@@ -18,7 +18,18 @@
       "Bash(python:*)",
       "Skill(gemini)",
       "Bash(if not exist \"00_SISTEMA\\\\GUIAS\" mkdir \"00_SISTEMA\\\\GUIAS\")",
-      "Skill(devocionais-rpsp)"
+      "Skill(devocionais-rpsp)",
+      "Bash(where:*)",
+      "Bash(cmd /c:*)",
+      "Bash(git fetch:*)",
+      "Bash(git merge:*)",
+      "Bash(for skill in .claude/skills/*/)",
+      "Bash(if [ -f \"$skill/SKILL.md\" ])",
+      "Bash(then head -20 \"$skill/SKILL.md\")",
+      "Bash(else echo \"Missing SKILL.md\")",
+      "Bash(fi)",
+      "Bash(done)",
+      "Bash(for skill in .gemini/skills/*/)"
     ]
   }
 }
