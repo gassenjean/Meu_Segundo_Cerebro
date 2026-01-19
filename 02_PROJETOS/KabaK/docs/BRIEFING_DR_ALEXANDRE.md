@@ -1,12 +1,3 @@
----
-criado: 2026-01-14T14:50:00-03:00
-atualizado: 2026-01-19T12:00:00-03:00
-tipo: briefing_juridico
-destinatario: Dr. Alexandre (Advogado)
-prioridade: critica
-confidencial: sim
----
-
 # BRIEFING JURÍDICO - Dr. Alexandre
 
 **Solicitante:** Gassen Jean Bou Karim
@@ -1013,20 +1004,6 @@ Para projeção financeira, precisamos saber:
 
 ---
 
-## 📎 ANEXOS
-
-**Anexar ao enviar para Dr. Alexandre:**
-
-1. [ ] Este briefing (BRIEFING_DR_ALEXANDRE.md)
-2. [ ] Resumo Executivo Reunião (RESUMO_EXECUTIVO_REUNIAO_SANSOM.md)
-3. [ ] Transcrição Reunião (Reunião Sansom transcrição.md)
-4. [ ] Planilha Financeira (quando pronta - até 21/Jan)
-5. [ ] Documentos pessoais sócios (quando solicitado)
-6. [ ] Documentos Fábrica Jean (quando solicitado)
-7. [ ] Situação Marca Kabak INPI (se tiver)
-
----
-
 ## 💬 MENSAGEM FINAL
 
 **Dr. Alexandre,**
@@ -1066,61 +1043,3 @@ Criar uma estrutura jurídica **sólida, clara e à prova de conflitos** que:
 Qualquer dúvida, estou à disposição.
 
 **Gassen Jean Bou Karim**
-
----
-
-**Documento criado:** 14/Jan/2026
-**Última revisão:** 19/Jan/2026 (Titanium APROVADO + Custos Confirmados)
-**Criado por:** Gassen (via Claude Code)
-**Baseado em:** Reunião 14/Jan/2026 + Transcrição + VALORES_OFICIAIS.md
-**Confidencialidade:** ALTA (informações financeiras e estratégicas sensíveis)
-
----
-
-### Histórico de Revisões
-
-**19/Jan/2026 (v3) - Local de Trabalho e Pró-labore:**
-- INFORMADO: Onde cada pessoa trabalha:
-  - Jean: KabaK (nova sociedade)
-  - Gassen: Gabriele Confecções (fábrica)
-  - Kris: Gabriele Confecções (fábrica)
-- SIMPLIFICADO: 50% família é do grupo todo (sem divisão interna societária)
-- ADICIONADO: Questão pró-labore para Dr. Alexandre
-
-**19/Jan/2026 (v2) - Observância Religiosa:**
-- ADICIONADO: Cláusula observância Sábado (Jean, Gassen, Kris não trabalham)
-- ADICIONADO: Outlet fecha sábado, abre domingo
-- ADICIONADO: Perguntas para Dr. Alexandre sobre redação da cláusula
-
-**19/Jan/2026 (v1) - Atualizações Importantes + Correções:**
-
-**Confirmações de negócio:**
-- Titanium APROVADO por Sansom (verbal, documentos em andamento)
-- Investimento: R$ 2.106.300 → R$ 2.096.300 (desconto Titanium R$ 10k)
-- Divisão: R$ 1.053.150 → R$ 1.048.150 cada lado
-- Custos CONFIRMADOS (Jean):
-  - Tecido: R$ 5/peça (R$ 25/kg)
-  - Fabricação (costura + sublimação): R$ 10/peça
-  - Total: R$ 15/peça = R$ 48/kit
-- Margem bruta: 45,3% (confirmada)
-- Canais EXPANDIDOS (incluir no contrato):
-  - E-commerce próprio (original)
-  - Outlet físico (confirmado)
-  - Shopee (NOVO)
-  - Mercado Livre (NOVO)
-  - TikTok Shop (NOVO)
-  - Todos seguem divisão 50/50 lucros / 51/49 decisão
-- Entrega tecido: 2 toneladas final Mar/2026
-
-**Correções de informações:**
-- Sansom: Esposa é chinesa
-- Jean: Dono, CEO, Gerente Geral
-- Gassen: E-commerce, Marketing, Gestão de Projetos, apoio produção
-- Kris (Kristyellen): Estilista, Gerente de Produto, Desenvolvimento de Produto, Produção
-
-**15/Jan/2026 - Correções Auditoria:**
-- Investimento: R$ 2.6M → R$ 2.106.300 (exato)
-- Divisão: 51/49 → 50/50 lucros (R$ 1.053.150 cada)
-- Sócios 49%: Jean+Gassen+Kris (todos 3 entram formalmente)
-- ROI: 288% → 155% (método conservador oficial)
-- Valores alinhados com VALORES_OFICIAIS.md
