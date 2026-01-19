@@ -1,6 +1,6 @@
 ---
 criado: 2026-01-14T14:50:00-03:00
-atualizado: 2026-01-15T15:45:00-03:00
+atualizado: 2026-01-19T12:00:00-03:00
 tipo: briefing_juridico
 destinatario: Dr. Alexandre (Advogado)
 prioridade: critica
@@ -12,7 +12,7 @@ confidencial: sim
 **Solicitante:** Gassen Jean Bou Karim
 **Projeto:** Sociedade KabaK + Sansom (E-commerce Fitness Feminino)
 **Data Reunião Societária:** 14/Jan/2026
-**Última revisão:** 15/Jan/2026 (Auditoria e Correções)
+**Última revisão:** 19/Jan/2026 (Titanium APROVADO + Custos Confirmados + Canais Expandidos)
 **Prazo Entrega:** 28/Jan/2026 (15 dias)
 
 ---
@@ -29,7 +29,38 @@ Estruturar juridicamente uma **nova sociedade empresarial** entre:
 - **Kris** (esposa Gassen, produto) - **parte dos 49% decisão / 50% lucros**
   - **Divisão interna 49%:** A definir com Dr. Alexandre
 
-Para explorar **e-commerce de moda fitness feminina** com investimento de **R$ 2.106.300** em 6 meses, projeção de faturamento **R$ 3-5M/mês** e ROI **155% em 12 meses** (método conservador).
+Para explorar **e-commerce de moda fitness feminina** + **Outlet físico** + **Marketplaces** com investimento de **R$ 2.096.300** em 6 meses, projeção de faturamento **R$ 3-5M/mês** e ROI **155% em 12 meses** (método conservador).
+
+---
+
+## ⭐ ATUALIZAÇÕES 19/JAN/2026 (IMPORTANTE)
+
+### Confirmações Recentes
+
+| Item | Status | Detalhe |
+|------|--------|---------|
+| **Titanium** | ✅ APROVADO | Sansom deu GO (verbal, docs em andamento) |
+| **Setup Titanium** | ✅ R$ 50k | Desconto R$ 10k negociado |
+| **Custo tecido** | ✅ R$ 5/peça | R$ 25/kg ÷ 5 peças |
+| **Custo fabricação** | ✅ R$ 10/peça | Costura R$ 5-6 + Sublimação R$ 4-5 |
+| **Custo total peça** | ✅ R$ 15/peça | Tecido + Fabricação |
+| **Custo kit (3 peças)** | ✅ R$ 48/kit | R$ 45 + R$ 3 embalagem |
+| **Margem bruta** | ✅ 45,3% | Confirmada |
+| **Entrega tecido** | ✅ Final Mar/2026 | 2 toneladas (primeira remessa) |
+
+### 🆕 Canais de Venda (INCLUIR NO CONTRATO)
+
+**Sansom solicitou que TODOS os canais sejam incluídos no contrato social com divisão 50/50:**
+
+| Canal | Divisão Lucros | Divisão Decisão | Status |
+|-------|----------------|-----------------|--------|
+| **E-commerce próprio** | 50/50 | 51/49 | ✅ Original |
+| **Outlet físico** | 50/50 | 51/49 | ✅ Confirmado |
+| **Shopee** | 50/50 | 51/49 | 🆕 Incluir |
+| **Mercado Livre** | 50/50 | 51/49 | 🆕 Incluir |
+| **TikTok Shop** | 50/50 | 51/49 | 🆕 Incluir |
+
+**Implicação jurídica:** Contrato deve prever que a sociedade pode operar em múltiplos canais de venda, todos sob mesmo modelo de divisão.
 
 **ALÉM DISSO:**
 
@@ -52,9 +83,21 @@ Para explorar **e-commerce de moda fitness feminina** com investimento de **R$ 2
 
 **Produto:** Kit 3 peças (calça legging + top + short) por **R$ 129**
 
-- Custo: R$ 45/kit (tecido R$ 30 + fabricação R$ 15)
-- Margem: 45,3% bruta
-- Público: Mulheres classe C, 25-45 anos, fitness
+**Custos Confirmados (19/Jan/2026 - Jean):**
+
+| Item | Por Peça | Por Kit (×3) |
+|------|----------|--------------|
+| Tecido (China) | R$ 5 | R$ 15 |
+| Fabricação (costura + sublimação) | R$ 10 | R$ 30 |
+| Embalagem + Tags | - | R$ 3 |
+| **TOTAL PRODUTO** | **R$ 15** | **R$ 48** |
+
+- **Margem bruta:** 45,3%
+- **Público:** Mulheres classe C, 25-45 anos, fitness
+
+**Detalhamento Fabricação (R$ 10/peça):**
+- Costura: R$ 5-6/peça
+- Sublimação/Estampa: R$ 4-5/peça
 
 **Estratégia:** Replicar modelo da **Atara** (concorrente que fatura R$ 10M/mês em apenas 1 ano de operação) mas com **vantagens competitivas**:
 
@@ -90,9 +133,11 @@ NOVA SOCIEDADE (E-COMMERCE)
 │       └── Outras matérias-primas
 │
 └── CONTRATA SERVIÇOS DE:
-    └── Titanium (Agência Marketing)
-        ├── Custo: R$ 60k/mês + tráfego pago
-        └── Escopo: Campanhas, CRO, SAC
+    └── Titanium (Agência Marketing) ✅ APROVADO 19/Jan
+        ├── Setup: R$ 50k (desconto R$ 10k negociado)
+        ├── Mensalidades: Escalonadas (45→50→55→60k/mês)
+        ├── Tráfego Pago: R$ 40-100k/mês (variável)
+        └── Escopo: Full Service (marca → produto → vendas)
 ```
 
 **IMPORTANTE:** KabaK atual (Jean dono) produz para nova sociedade. Modelo comercial a definir.
@@ -121,7 +166,7 @@ NOVA SOCIEDADE (E-COMMERCE)
 
 **Investimento:**
 
-- R$ 1.300.000 (50% lucros de R$ 2.106.300)
+- **R$ 1.048.150** (50% de R$ 2.096.300)
 - A definir: PF ou PJ? Integral ou parcelado?
 
 **Observações importantes:**
@@ -156,7 +201,7 @@ NOVA SOCIEDADE (E-COMMERCE)
 
 **Investimento:**
 
-- R$ 1.300.000 (50% lucros de R$ 2.106.300)
+- **R$ 1.048.150** (50% de R$ 2.096.300)
 - **Divisão interna:** Jean + Gassen + Kris (a definir)
 
 ---
@@ -953,9 +998,10 @@ Para projeção financeira, precisamos saber:
 
 Este é um projeto **transformador** para todos os envolvidos. Estamos falando de:
 
-- Investimento: **R$ 2.106.300**
+- Investimento: **R$ 2.096.300** (R$ 1.048.150 cada lado)
 - Faturamento projetado: **R$ 3-5M/mês**
 - Sociedade internacional: Brasileiro + Chinês
+- **Canais:** E-commerce + Outlet + Shopee + Mercado Livre + TikTok Shop
 
 **Sansom enfatizou múltiplas vezes:**
 
@@ -989,12 +1035,34 @@ Qualquer dúvida, estou à disposição.
 ---
 
 **Documento criado:** 14/Jan/2026
-**Última revisão:** 15/Jan/2026 (Auditoria e Correções)
+**Última revisão:** 19/Jan/2026 (Titanium APROVADO + Custos Confirmados)
 **Criado por:** Gassen (via Claude Code)
 **Baseado em:** Reunião 14/Jan/2026 + Transcrição + VALORES_OFICIAIS.md
 **Confidencialidade:** ALTA (informações financeiras e estratégicas sensíveis)
 
-**Correções aplicadas 15/Jan:**
+---
+
+### Histórico de Revisões
+
+**19/Jan/2026 - Atualizações Importantes:**
+- Titanium APROVADO por Sansom (verbal, documentos em andamento)
+- Investimento: R$ 2.106.300 → R$ 2.096.300 (desconto Titanium R$ 10k)
+- Divisão: R$ 1.053.150 → R$ 1.048.150 cada lado
+- Custos CONFIRMADOS (Jean):
+  - Tecido: R$ 5/peça (R$ 25/kg)
+  - Fabricação (costura + sublimação): R$ 10/peça
+  - Total: R$ 15/peça = R$ 48/kit
+- Margem bruta: 45,3% (confirmada)
+- Canais EXPANDIDOS (incluir no contrato):
+  - E-commerce próprio (original)
+  - Outlet físico (confirmado)
+  - Shopee (NOVO)
+  - Mercado Livre (NOVO)
+  - TikTok Shop (NOVO)
+  - Todos seguem divisão 50/50 lucros / 51/49 decisão
+- Entrega tecido: 2 toneladas final Mar/2026
+
+**15/Jan/2026 - Correções Auditoria:**
 - Investimento: R$ 2.6M → R$ 2.106.300 (exato)
 - Divisão: 51/49 → 50/50 lucros (R$ 1.053.150 cada)
 - Sócios 49%: Jean+Gassen+Kris (todos 3 entram formalmente)
