@@ -16,10 +16,12 @@ atualizado: 2026-01-19T12:00:00-03:00
 
  ### Última Ação (19/Jan/2026 - 12:00) ⭐⭐⭐
 
- - ✅ **TITANIUM APROVADO:** Sansom deu GO final na contratação!
- - ✅ **CUSTO TECIDO CONFIRMADO:** R$ 25/kg = R$ 5/peça = **R$ 15/kit** (antes R$ 30)
- - ✅ **MARGEM AUMENTOU:** 45,3% → **56,9%** (economia R$ 15/kit)
- - ✅ **ENTREGA TECIDO:** 2 toneladas final de Março/2026
+ - ✅ **TITANIUM APROVADO:** Sansom deu GO (verbal, documentos hoje)
+ - ✅ **CUSTO TECIDO CONFIRMADO:** R$ 25/kg = R$ 5/peça = **R$ 15/kit**
+ - ✅ **CUSTO FABRICAÇÃO CONFIRMADO (Jean):** R$ 10/peça (costura + sublimação) = **R$ 30/kit**
+ - ✅ **CUSTO TOTAL PEÇA:** R$ 15 (R$ 5 tecido + R$ 10 fabricação)
+ - ✅ **MARGEM BRUTA:** Mantém **45,3%** (custo produto R$ 48/kit = igual estimativa)
+ - ✅ **ENTREGA TECIDO:** 2 toneladas final de Março/2026 (primeira remessa)
  - 🆕 **CANAIS EXPANDIDOS:** Sansom quer incluir no contrato:
    - Outlet físico
    - Shopee
@@ -160,35 +162,36 @@ atualizado: 2026-01-19T12:00:00-03:00
 
 ## 📋 DECISÕES RECENTES
 
-### 19/Jan/2026 - TITANIUM APROVADO + CUSTO TECIDO CONFIRMADO ⭐⭐⭐
+### 19/Jan/2026 - TITANIUM APROVADO + CUSTOS CONFIRMADOS (Jean) ⭐⭐⭐
 
-**Contexto:** Atualizações de Sansom sobre Titanium e tecido China.
+**Contexto:** Confirmações de Sansom (Titanium/tecido) e Jean (fabricação).
 
 **Decisões:**
 1. **Titanium APROVADO:** Sansom deu GO (verbal, documentos hoje)
 2. **Custo tecido CONFIRMADO:** R$ 25/kg = R$ 5/peça = **R$ 15/kit**
-3. **Entrega tecido:** 2 toneladas (primeira remessa) final de Março/2026
-4. **Canais expandidos:** Incluir no contrato (todos 50/50 lucros / 51/49 decisão):
+3. **Custo fabricação CONFIRMADO (Jean):** R$ 10/peça (costura + sublimação) = **R$ 30/kit**
+4. **Entrega tecido:** 2 toneladas (primeira remessa) final de Março/2026
+5. **Canais expandidos:** Incluir no contrato (todos 50/50 lucros / 51/49 decisão):
    - Outlet físico
    - Shopee
    - Mercado Livre
    - TikTok Shop
 
-**Impacto Financeiro ENORME:**
+**Custos Confirmados (por peça):**
+- Tecido: R$ 5/peça (R$ 25/kg ÷ 5 peças)
+- Fabricação (costura + sublimação): R$ 10/peça
+- **Total: R$ 15/peça**
 
-| Item | Antes | Agora | Economia |
-|------|-------|-------|----------|
-| Tecido/kit | R$ 30 | R$ 15 | R$ 15 |
-| Fabricação/kit | R$ 15 | R$ 15 | - |
+**Custos Confirmados (por kit - 3 peças):**
+
+| Item | Estimativa Anterior | Confirmado | Diferença |
+|------|---------------------|------------|-----------|
+| Tecido/kit | R$ 30 | **R$ 15** | -R$ 15 |
+| Fabricação/kit | R$ 15 | **R$ 30** | +R$ 15 |
 | Embalagem/kit | R$ 3 | R$ 3 | - |
-| **Produto/kit** | R$ 48 | **R$ 33** | **R$ 15** |
-| Custo variável | R$ 70,58 | **R$ 55,58** | R$ 15 |
-| Margem bruta | R$ 58,42 | **R$ 73,42** | +R$ 15 |
-| Margem % | 45,3% | **56,9%** | +11,6% |
+| **TOTAL PRODUTO** | **R$ 48** | **R$ 48** | **R$ 0** |
 
-**Cálculo do tecido:**
-- R$ 25/kg ÷ 5 peças/kg = R$ 5/peça
-- Kit (3 peças) = R$ 5 × 3 = R$ 15
+**Margem bruta:** Mantém **45,3%** (sem mudança - custo total igual)
 
 **Primeira remessa China:**
 - 2 toneladas = 2.000 kg
