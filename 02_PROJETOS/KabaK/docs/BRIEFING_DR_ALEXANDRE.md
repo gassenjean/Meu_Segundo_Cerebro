@@ -262,14 +262,22 @@ NOVA SOCIEDADE (E-COMMERCE + OUTLET + MARKETPLACES)
 
 ### QUESTÃO PRÓ-LABORE (DEFINIR COM DR. ALEXANDRE)
 
+**Duas empresas envolvidas:**
+
+| Empresa | Quem Trabalha | Atividade |
+|---------|---------------|-----------|
+| **KabaK** (nova sociedade) | Jean | E-commerce, gestão, estratégia |
+| **Gabriele Confecções** (fábrica) | Gassen, Kris | Produção, desenvolvimento produto |
+
 **Situação:**
-- Jean trabalha na KabaK → pró-labore pago pela KabaK
-- Gassen e Kris trabalham na Gabriele Confecções (fábrica) → pró-labore pago por quem?
+- Jean trabalha na KabaK → pró-labore pago pela KabaK (se necessário)
+- Gassen e Kris trabalham na Gabriele Confecções → pró-labore pago pela fábrica (se necessário)
 
 **Perguntas para Dr. Alexandre:**
-1. Gassen e Kris devem receber pró-labore da fábrica ou da KabaK?
-2. Se recebem da fábrica, isso já está contemplado no custo de produção?
-3. Qual a melhor estrutura para isso?
+1. É necessário pró-labore? Em quais casos?
+2. Se Gassen/Kris recebem da Gabriele, isso já está no custo de produção que a KabaK paga?
+3. Como estruturar a relação entre as duas empresas (KabaK e Gabriele)?
+4. Qual a melhor forma de remunerar cada um considerando onde trabalham?
 
 ---
 
