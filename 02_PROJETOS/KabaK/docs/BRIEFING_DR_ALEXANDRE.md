@@ -108,22 +108,22 @@ Para explorar **e-commerce de moda fitness feminina** + **Outlet físico** + **M
 ### Estrutura Operacional
 
 ```
-NOVA SOCIEDADE (E-COMMERCE)
+NOVA SOCIEDADE (E-COMMERCE + OUTLET + MARKETPLACES)
 ├── Sócios:
 │   ├── Sansom: 51% decisão / 50% lucros
 │   └── Jean (Família): 49% decisão / 50% lucros
-│       ├── Jean: Dono/CEO KabaK, investidor principal
-│       ├── Gassen: Filho Jean, criador marca, gestor
-│       └── Kris: Esposa Gassen, co-criadora, produção
+│       ├── Jean: Dono, CEO, Gerente Geral
+│       ├── Gassen: E-commerce, Marketing, Gestão de Projetos
+│       └── Kris (Kristyellen): Estilista, Gerente de Produto, Produção
 │       └── Divisão interna: A DEFINIR com Dr. Alexandre
 │
-├── Atividade: Comércio eletrônico de vestuário fitness
+├── Atividade: Comércio vestuário fitness (E-commerce + Outlet + Marketplaces)
 ├── Gestão: Profissional + estrutura familiar operacional
 │
 ├── PRODUÇÃO (KabaK Atual):
-│   ├── Jean: CEO, dono fábrica
-│   ├── Kris: Cuida processo produtivo
-│   ├── Gassen: Apoio produção + gestão marca
+│   ├── Jean: Dono, CEO, Gerente Geral
+│   ├── Kris: Estilista, Gerente de Produto, Desenvolvimento, Produção
+│   ├── Gassen: E-commerce, Marketing, Apoio produção, Gestão de Projetos
 │   ├── Capacidade: 80k peças/mês
 │   └── Exclusividade: 100% para nova sociedade
 │
@@ -152,9 +152,10 @@ NOVA SOCIEDADE (E-COMMERCE)
 
 - Empresário chinês residente no Brasil
 - Experiência: Importação, comércio, relacionamento China
-- Casado com [Esposa Sansom] (brasileira)
+- Casado com mulher chinesa (informações adicionais a obter)
 - Possui outras empresas no Brasil
 - Possui negócios na China (cunhado Eric opera)
+- **Patricia:** Funcionária do Sansom (não esposa)
 
 **Responsabilidades na sociedade:**
 
@@ -183,7 +184,7 @@ NOVA SOCIEDADE (E-COMMERCE)
 
 **IMPORTANTE:** Jean representa o lado familiar (Jean + Gassen + Kris). Divisão interna dos 50% a definir posteriormente.
 
-#### Jean (Pai, Dono/CEO KabaK)
+#### Jean Bou Karim (Pai, Dono/CEO)
 
 **Perfil:**
 
@@ -194,10 +195,11 @@ NOVA SOCIEDADE (E-COMMERCE)
 
 **Responsabilidades:**
 
-- CEO e gestão produção (mantém papel atual)
-- Fábrica/costura/qualidade
+- **Dono e CEO**
+- **Gerente Geral** (visão estratégica e operacional)
+- Gestão da fábrica/produção
+- Qualidade e capacidade produtiva
 - Gestão equipe produtiva
-- Capacidade produtiva (escalar conforme demanda)
 
 **Investimento:**
 
@@ -206,52 +208,51 @@ NOVA SOCIEDADE (E-COMMERCE)
 
 ---
 
-#### Gassen Jean Bou Karim (Filho Jean, Gestor Marca)
+#### Gassen Jean Bou Karim (Filho Jean, E-commerce & Marketing)
 
 **Perfil:**
 
 - Brasileiro, filho de Jean
 - **Criador da marca KabaK** (junto com Kris)
-- Experiência: Gestão marca, inovações, projetos, e-commerce
+- Experiência: E-commerce, marketing digital, gestão de projetos
 - Conhecimento: Marketing digital, Shopify, logística, produção
 
 **Responsabilidades:**
 
-- Gestão marca e inovações
-- Projetos e desenvolvimento produtos
-- Interface e-commerce (Shopify, estratégia)
-- Interface marketing (Titanium)
-- Apoio produção
+- **E-commerce** (Shopify, estratégia digital, operação)
+- **Marketing** (interface com Titanium, campanhas, branding)
+- **Gestão de Projetos** (novos projetos, inovações)
+- Apoio à produção
+- Gestão da marca
 
 **Participação:**
 
 - **Parte dos 50% lado Jean** (divisão interna a definir)
-- Critério: Criação marca + gestão operacional
+- Critério: Criação marca + e-commerce + marketing + gestão projetos
 
 ---
 
-#### Kris (Esposa Gassen, Co-criadora)
+#### Kristyellen "Kris" (Esposa Gassen, Estilista & Gerente de Produto)
 
 **Perfil:**
 
 - Brasileira, esposa de Gassen
 - **Co-criadora da marca KabaK** (junto com Gassen)
-- Cuida processo produtivo (operação fábrica)
-- **Desenvolvimento de produto** (criação, modelagem, protótipos)
-- Experiência: Produção têxtil, controle qualidade, design produto
+- **Estilista** - visão criativa e design
+- Experiência: Desenvolvimento de produto, produção têxtil, controle qualidade
 
 **Responsabilidades:**
 
-- Processo produtivo (dia a dia fábrica)
-- **Desenvolvimento de produto** (novos modelos, protótipos)
-- Controle qualidade
-- Gestão operacional produção
+- **Estilista** (visão criativa, tendências, identidade visual produto)
+- **Gerente de Produto** (linha de produtos, mix, estratégia)
+- **Desenvolvimento de Produto** (criação, modelagem, protótipos)
+- **Produção** (acompanhamento processo produtivo, qualidade)
 - Interface técnica com fornecedores (tecidos, insumos)
 
 **Participação:**
 
 - **Parte dos 50% lado Jean** (divisão interna a definir)
-- Critério: Co-criação marca + desenvolvimento produto + operação produtiva
+- Critério: Co-criação marca + estilismo + desenvolvimento produto + produção
 
 ---
 
@@ -261,15 +262,15 @@ NOVA SOCIEDADE (E-COMMERCE)
 
 **Como dividir entre:**
 
-1. **Jean:** Investidor 100% KabaK atual, dono/CEO, fábrica
-2. **Gassen:** Criador marca, gestor, inovações, projetos
-3. **Kris:** Co-criadora marca, cuida processo produtivo
+1. **Jean:** Dono, CEO, Gerente Geral, investidor 100% histórico
+2. **Gassen:** E-commerce, Marketing, Gestão de Projetos, co-criador marca
+3. **Kris (Kristyellen):** Estilista, Gerente de Produto, Desenvolvimento de Produto, Produção, co-criadora marca
 
 **Critérios possíveis:**
 
 - Investimento histórico (100% Jean)
 - Criação marca/valor intangível (Gassen + Kris)
-- Operação atual (Jean + Kris produção, Gassen gestão)
+- Operação atual (Jean gerência geral, Kris produto/produção, Gassen e-commerce/marketing)
 - Dedicação futura (quem dedica mais tempo?)
 
 **PERGUNTA DR. ALEXANDRE:**
@@ -1044,7 +1045,9 @@ Qualquer dúvida, estou à disposição.
 
 ### Histórico de Revisões
 
-**19/Jan/2026 - Atualizações Importantes:**
+**19/Jan/2026 - Atualizações Importantes + Correções:**
+
+**Confirmações de negócio:**
 - Titanium APROVADO por Sansom (verbal, documentos em andamento)
 - Investimento: R$ 2.106.300 → R$ 2.096.300 (desconto Titanium R$ 10k)
 - Divisão: R$ 1.053.150 → R$ 1.048.150 cada lado
@@ -1061,6 +1064,12 @@ Qualquer dúvida, estou à disposição.
   - TikTok Shop (NOVO)
   - Todos seguem divisão 50/50 lucros / 51/49 decisão
 - Entrega tecido: 2 toneladas final Mar/2026
+
+**Correções de informações:**
+- Sansom: Esposa é chinesa (não Patricia/brasileira). Patricia é funcionária.
+- Jean: Dono, CEO, Gerente Geral
+- Gassen: E-commerce, Marketing, Gestão de Projetos, apoio produção
+- Kris (Kristyellen): Estilista, Gerente de Produto, Desenvolvimento de Produto, Produção
 
 **15/Jan/2026 - Correções Auditoria:**
 - Investimento: R$ 2.6M → R$ 2.106.300 (exato)
