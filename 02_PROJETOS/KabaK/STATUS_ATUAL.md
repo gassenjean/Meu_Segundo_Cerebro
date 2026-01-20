@@ -1,6 +1,6 @@
 ---
 criado: 2025-12-08T11:04:20-03:00
-atualizado: 2026-01-19T12:00:00-03:00
+atualizado: 2026-01-20T14:32:15-03:00
 ---
 
 # STATUS ATUAL - KabaK Reestruturação 2026

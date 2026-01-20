@@ -1,0 +1,135 @@
+# RELATÓRIO BATCH RENAME: 01_CONHECIMENTO
+**Data:** 20JAN2026_1446
+
+## Mudanças Realizadas
+
+- ⚠️ SKIPPED (Conflito): `README.md` -> `Readme.md` (Arquivo já existe)
+- ✅ `_GUIDELINES.md` -> `Guidelines.md`
+- ✅ `_MOC_Conhecimento.md` -> `Moc_Conhecimento.md`
+- ⚠️ SKIPPED (Conflito): `INDEX.md` -> `Index.md` (Arquivo já existe)
+- ⚠️ SKIPPED (Conflito): `CRONOGRAMA_VISUAL_CICLO2.md` -> `Cronograma_Visual_Ciclo2.md` (Arquivo já existe)
+- ⚠️ SKIPPED (Conflito): `LEMBRETES_APLICACOES_CICLO2.md` -> `Lembretes_Aplicacoes_Ciclo2.md` (Arquivo já existe)
+- ✅ `_MOC_Cultivo_Medicinal.md` -> `Moc_Cultivo_Medicinal.md`
+- ⚠️ SKIPPED (Conflito): `ANALISE_PROFUNDA_DIA12_31DEZ2025.md` -> `Analise_Profunda_Dia12_31dez2025.md` (Arquivo já existe)
+- ⚠️ SKIPPED (Conflito): `Cultivo_Analise_Nevoa_16DEZ2025.md` -> `Cultivo_Analise_Nevoa_16dez2025.md` (Arquivo já existe)
+- ⚠️ SKIPPED (Conflito): `Cultivo_Ciclo2_Status_04DEZ2025.md` -> `Cultivo_Ciclo2_Status_04dez2025.md` (Arquivo já existe)
+- ⚠️ SKIPPED (Conflito): `Cultivo_Status_Dia12_31DEZ2025.md` -> `Cultivo_Status_Dia12_31dez2025.md` (Arquivo já existe)
+- ⚠️ SKIPPED (Conflito): `CULTIVO_MEDICINAL_UPDATE_09JUL2025.md` -> `Cultivo_Medicinal_Update_09jul2025.md` (Arquivo já existe)
+- ✅ `histórico de 26.07 a 07.08.md` -> `Histórico_De_2607_A_0708.md`
+- ⚠️ SKIPPED (Conflito): `MEMORIA_COMPLETA_10JUL2025.md` -> `Memoria_Completa_10jul2025.md` (Arquivo já existe)
+- ⚠️ SKIPPED (Conflito): `MEMORIA_COMPLETA_CULTIVO_09AGO2025.md` -> `Memoria_Completa_Cultivo_09ago2025.md` (Arquivo já existe)
+- ⚠️ SKIPPED (Conflito): `nebo_complete_system.html` -> `Nebo_Complete_System.html` (Arquivo já existe)
+- ⚠️ SKIPPED (Conflito): `SISTEMA_QUADRUPLO_10JUL2025.md` -> `Sistema_Quadruplo_10jul2025.md` (Arquivo já existe)
+- ✅ `🌱 NEBO CLOUD - MASTER PROMPT CULTIVO MEDICINAL.md` -> `Nebo_Cloud_Master_Prompt_Cultivo_Medicinal.md`
+- ⚠️ SKIPPED (Conflito): `Cultivo_Protocolo_Alquifish_BioBokashi.md` -> `Cultivo_Protocolo_Alquifish_Biobokashi.md` (Arquivo já existe)
+- ⚠️ SKIPPED (Conflito): `Cultivo_Protocolo_EM1_Melaco.md` -> `Cultivo_Protocolo_Em1_Melaco.md` (Arquivo já existe)
+- ⚠️ SKIPPED (Conflito): `Cultivo_Protocolo_LMX.md` -> `Cultivo_Protocolo_Lmx.md` (Arquivo já existe)
+- ⚠️ SKIPPED (Conflito): `Cultivo_Protocolo_PSB_POW.md` -> `Cultivo_Protocolo_Psb_Pow.md` (Arquivo já existe)
+- ✅ `013_-_Estoicismo_A_Arte_De_Viver.md` -> `013_Estoicismo_A_Arte_De_Viver.md`
+- ✅ `017_-_Por_Que_Procrastinamos__E_Como_Parar!.md` -> `017_Por_Que_Procrastinamos_E_Como_Parar.md`
+- ⚠️ SKIPPED (Conflito): `Carreira_Paixao_vs_Habilidade.md` -> `Carreira_Paixao_Vs_Habilidade.md` (Arquivo já existe)
+- ⚠️ SKIPPED (Conflito): `README.md` -> `Readme.md` (Arquivo já existe)
+- ⚠️ SKIPPED (Conflito): `claude_desktop_config_correto.json` -> `Claude_Desktop_Config_Correto.json` (Arquivo já existe)
+- ⚠️ SKIPPED (Conflito): `claude_desktop_config_CORRIGIDO.json` -> `Claude_Desktop_Config_Corrigido.json` (Arquivo já existe)
+- ⚠️ SKIPPED (Conflito): `claude_desktop_config_FINAL.json` -> `Claude_Desktop_Config_Final.json` (Arquivo já existe)
+- ⚠️ SKIPPED (Conflito): `claude_desktop_config_SIMPLES.json` -> `Claude_Desktop_Config_Simples.json` (Arquivo já existe)
+- ⚠️ SKIPPED (Conflito): `COMO_EXECUTAR.md` -> `Como_Executar.md` (Arquivo já existe)
+- ⚠️ SKIPPED (Conflito): `CONFIGURACAO_COMPLETA.md` -> `Configuracao_Completa.md` (Arquivo já existe)
+- ⚠️ SKIPPED (Conflito): `criar_workflow_automatico.js` -> `Criar_Workflow_Automatico.js` (Arquivo já existe)
+- ⚠️ SKIPPED (Conflito): `IMPLEMENTACAO_FINAL.md` -> `Implementacao_Final.md` (Arquivo já existe)
+- ⚠️ SKIPPED (Conflito): `n8n_test_connection.js` -> `N8n_Test_Connection.js` (Arquivo já existe)
+- ⚠️ SKIPPED (Conflito): `PROMPT_NEVOA_ESPIRITUAL_APRIMORADO.md` -> `Prompt_Nevoa_Espiritual_Aprimorado.md` (Arquivo já existe)
+- ⚠️ SKIPPED (Conflito): `README_IMPLEMENTACAO.md` -> `Readme_Implementacao.md` (Arquivo já existe)
+- ⚠️ SKIPPED (Conflito): `workflow_complete.json` -> `Workflow_Complete.json` (Arquivo já existe)
+- ⚠️ SKIPPED (Conflito): `INDICE_MESTRE.md` -> `Indice_Mestre.md` (Arquivo já existe)
+- ⚠️ SKIPPED (Conflito): `QUICK_REFERENCE.md` -> `Quick_Reference.md` (Arquivo já existe)
+- ⚠️ SKIPPED (Conflito): `README_SISTEMA.md` -> `Readme_Sistema.md` (Arquivo já existe)
+- ✅ `2025-10-02_Prosperidade_Verdadeira.md` -> `2025_10_02_Prosperidade_Verdadeira.md`
+- ⚠️ SKIPPED (Conflito): `Dev_Dados_APIs.md` -> `Dev_Dados_Apis.md` (Arquivo já existe)
+- ⚠️ SKIPPED (Conflito): `IA_Chatbase.md` -> `Ia_Chatbase.md` (Arquivo já existe)
+- ⚠️ SKIPPED (Conflito): `IA_ChatGPT_Overview.md` -> `Ia_Chatgpt_Overview.md` (Arquivo já existe)
+- ⚠️ SKIPPED (Conflito): `IA_Chatvolt_Finch.md` -> `Ia_Chatvolt_Finch.md` (Arquivo já existe)
+- ⚠️ SKIPPED (Conflito): `IA_Code_Interpreter.md` -> `Ia_Code_Interpreter.md` (Arquivo já existe)
+- ⚠️ SKIPPED (Conflito): `IA_Ideogram.md` -> `Ia_Ideogram.md` (Arquivo já existe)
+- ⚠️ SKIPPED (Conflito): `IA_Text_Generator.md` -> `Ia_Text_Generator.md` (Arquivo já existe)
+- ⚠️ SKIPPED (Conflito): `REF_Claude_Uso_Criador.pdf` -> `Ref_Claude_Uso_Criador.pdf` (Arquivo já existe)
+- ⚠️ SKIPPED (Conflito): `Alan_Nicolas_Conceito_TDAH.md` -> `Alan_Nicolas_Conceito_Tdah.md` (Arquivo já existe)
+- ⚠️ SKIPPED (Conflito): `Alan_Nicolas_Frameworks_TDAH.md` -> `Alan_Nicolas_Frameworks_Tdah.md` (Arquivo já existe)
+- ⚠️ SKIPPED (Conflito): `Alan_Nicolas_Metodo_5C.md` -> `Alan_Nicolas_Metodo_5c.md` (Arquivo já existe)
+- ⚠️ SKIPPED (Conflito): `Alan_Nicolas_Sistema_5C.md` -> `Alan_Nicolas_Sistema_5c.md` (Arquivo já existe)
+- ⚠️ SKIPPED (Conflito): `IA_Context_Management_RPI_Valdemar_Neto.pdf` -> `Ia_Context_Management_Rpi_Valdemar_Neto.pdf` (Arquivo já existe)
+- ⚠️ SKIPPED (Conflito): `DevPessoal_Livro_Habitos_Atomicos.md` -> `Devpessoal_Livro_Habitos_Atomicos.md` (Arquivo já existe)
+- ⚠️ SKIPPED (Conflito): `Ibook_INDEX.md` -> `Ibook_Index.md` (Arquivo já existe)
+- ⚠️ SKIPPED (Conflito): `INDEX.md` -> `Index.md` (Arquivo já existe)
+- ✅ `Copy.Ai_Brand_Voice.md` -> `Copyai_Brand_Voice.md`
+- ⚠️ SKIPPED (Conflito): `Empreendedorismo_README.md` -> `Empreendedorismo_Readme.md` (Arquivo já existe)
+- ⚠️ SKIPPED (Conflito): `Geral_Circulo_Dourado_SimonSinek.md` -> `Geral_Circulo_Dourado_Simonsinek.md` (Arquivo já existe)
+- ⚠️ SKIPPED (Conflito): `INDEX.md` -> `Index.md` (Arquivo já existe)
+- ⚠️ SKIPPED (Conflito): `MOC_PKM_Segundo_Cerebro_Alan.md` -> `Moc_Pkm_Segundo_Cerebro_Alan.md` (Arquivo já existe)
+- ✅ `004_-_Uma_Vida_Lendária.md` -> `004_Uma_Vida_Lendária.md`
+- ✅ `006_-_A_Sombra_Da_Ideologia.md` -> `006_A_Sombra_Da_Ideologia.md`
+- ✅ `007_-_Uma_Mente_Milionária.md` -> `007_Uma_Mente_Milionária.md`
+- ✅ `008_-_Zona_De_Genialidade.md` -> `008_Zona_De_Genialidade.md`
+- ✅ `009_-_Essencialismo_A_Arte_De_Dizer_Não.md` -> `009_Essencialismo_A_Arte_De_Dizer_Não.md`
+- ✅ `1_Ideia_=_1_Conteúdo.md` -> `1_Ideia_1_Conteúdo.md`
+- ✅ `Claude-Conversation.md` -> `Claude_Conversation.md`
+- ✅ `Exploring_Ai_Self-Awareness_-_Claude.md` -> `Exploring_Ai_Self_Awareness_Claude.md`
+- ✅ `Fine-Tuning_Rick_Sanchez.md` -> `Fine_Tuning_Rick_Sanchez.md`
+- ✅ `Gpts_Dall-E_3.md` -> `Gpts_Dall_E_3.md`
+- ✅ `Guia-Prompt.md` -> `Guia_Prompt.md`
+- ✅ `Ia_Claude_Code_📇_Index.md` -> `Ia_Claude_Code_Index.md`
+- ✅ `Ia_Prompts_📇_Index_-_Prompts.md` -> `Ia_Prompts_Index_Prompts.md`
+- ✅ `Ia_📇_Index.md` -> `Ia_Index.md`
+- ✅ `Lista-Exemplos-Prompts.md` -> `Lista_Exemplos_Prompts.md`
+- ✅ `Meu-Clone-Ia_Readme.md` -> `Meu_Clone_Ia_Readme.md`
+- ✅ `Prompt_Atena_-_Sdr_Lendária_V2.md` -> `Prompt_Atena_Sdr_Lendária_V2.md`
+- ✅ `Vida_Lendária_Episódios_Vl_001_-_Por_Quê_.md` -> `Vida_Lendária_Episódios_Vl_001_Por_Quê.md`
+- ✅ `Vida_Lendária_Episódios_Vl_003_-_Aprendendo_A_Morrer.md` -> `Vida_Lendária_Episódios_Vl_003_Aprendendo_A_Morrer.md`
+- ✅ `Vida_Lendária_Episódios_Vl_004_-_Uma_Vida_Lendária.md` -> `Vida_Lendária_Episódios_Vl_004_Uma_Vida_Lendária.md`
+- ✅ `Vida_Lendária_Episódios_Vl_005_-_Herói_Ou_Vilão.md` -> `Vida_Lendária_Episódios_Vl_005_Herói_Ou_Vilão.md`
+- ✅ `Vida_Lendária_Episódios_Vl_007_-_Uma_Mente_Milionária.md` -> `Vida_Lendária_Episódios_Vl_007_Uma_Mente_Milionária.md`
+- ✅ `Vida_Lendária_Episódios_Vl_008_-_Zona_De_Genialidade.md` -> `Vida_Lendária_Episódios_Vl_008_Zona_De_Genialidade.md`
+- ✅ `Vida_Lendária_Episódios_Vl_017_-_Por_Que_Procrastinamos__E_Como_Parar!.md` -> `Vida_Lendária_Episódios_Vl_017_Por_Que_Procrastinamos_E_Como.md`
+- ✅ `Vida_Lendária_Episódios_Vl_021_-_Seja_Um_Otimista_Racional.md` -> `Vida_Lendária_Episódios_Vl_021_Seja_Um_Otimista_Racional.md`
+- ✅ `Vida_Lendária_Episódios_Vl_Pn_-_023_-_Siga_Sua_Curiosidade.md` -> `Vida_Lendária_Episódios_Vl_Pn_023_Siga_Sua_Curiosidade.md`
+- ✅ `Vida_Lendária_Moc_-_Episódios_Vl.md` -> `Vida_Lendária_Moc_Episódios_Vl.md`
+- ✅ `Vida_Lendária_📇_Index.md` -> `Vida_Lendária_Index.md`
+- ✅ `📇_Index_-_Prompts.md` -> `Index_Prompts.md`
+- ✅ `004_-_Uma_Vida_Lendária.md` -> `004_Uma_Vida_Lendária.md`
+- ✅ `006_-_A_Sombra_Da_Ideologia.md` -> `006_A_Sombra_Da_Ideologia.md`
+- ✅ `007_-_Uma_Mente_Milionária.md` -> `007_Uma_Mente_Milionária.md`
+- ✅ `008_-_Zona_De_Genialidade.md` -> `008_Zona_De_Genialidade.md`
+- ✅ `009_-_Essencialismo_A_Arte_De_Dizer_Não.md` -> `009_Essencialismo_A_Arte_De_Dizer_Não.md`
+- ✅ `1_Ideia_=_1_Conteúdo.md` -> `1_Ideia_1_Conteúdo.md`
+- ⚠️ SKIPPED (Conflito): `Alan_IA_Config.md` -> `Alan_Ia_Config.md` (Arquivo já existe)
+- ⚠️ SKIPPED (Conflito): `Aurora_ChatGPT_Sistema.md` -> `Aurora_Chatgpt_Sistema.md` (Arquivo já existe)
+- ✅ `Claude-Conversation.md` -> `Claude_Conversation.md`
+- ⚠️ SKIPPED (Conflito): `Clone_IA_Framework_Alan.md` -> `Clone_Ia_Framework_Alan.md` (Arquivo já existe)
+- ✅ `Exploring_Ai_Self-Awareness_-_Claude.md` -> `Exploring_Ai_Self_Awareness_Claude.md`
+- ✅ `Fine-Tuning_Rick_Sanchez.md` -> `Fine_Tuning_Rick_Sanchez.md`
+- ✅ `Gpts_Dall-E_3.md` -> `Gpts_Dall_E_3.md`
+- ✅ `Guia-Prompt.md` -> `Guia_Prompt.md`
+- ✅ `Ia_Claude_Code_📇_Index.md` -> `Ia_Claude_Code_Index.md`
+- ✅ `Ia_Prompts_📇_Index_-_Prompts.md` -> `Ia_Prompts_Index_Prompts.md`
+- ✅ `Ia_📇_Index.md` -> `Ia_Index.md`
+- ✅ `Lista-Exemplos-Prompts.md` -> `Lista_Exemplos_Prompts.md`
+- ✅ `Meu-Clone-Ia_Readme.md` -> `Meu_Clone_Ia_Readme.md`
+- ✅ `Prompt_Atena_-_Sdr_Lendária_V2.md` -> `Prompt_Atena_Sdr_Lendária_V2.md`
+- ⚠️ SKIPPED (Conflito): `README.md` -> `Readme.md` (Arquivo já existe)
+- ✅ `Vida_Lendária_Episódios_Vl_001_-_Por_Quê_.md` -> `Vida_Lendária_Episódios_Vl_001_Por_Quê.md`
+- ✅ `Vida_Lendária_Episódios_Vl_003_-_Aprendendo_A_Morrer.md` -> `Vida_Lendária_Episódios_Vl_003_Aprendendo_A_Morrer.md`
+- ✅ `Vida_Lendária_Episódios_Vl_004_-_Uma_Vida_Lendária.md` -> `Vida_Lendária_Episódios_Vl_004_Uma_Vida_Lendária.md`
+- ✅ `Vida_Lendária_Episódios_Vl_005_-_Herói_Ou_Vilão.md` -> `Vida_Lendária_Episódios_Vl_005_Herói_Ou_Vilão.md`
+- ✅ `Vida_Lendária_Episódios_Vl_007_-_Uma_Mente_Milionária.md` -> `Vida_Lendária_Episódios_Vl_007_Uma_Mente_Milionária.md`
+- ✅ `Vida_Lendária_Episódios_Vl_008_-_Zona_De_Genialidade.md` -> `Vida_Lendária_Episódios_Vl_008_Zona_De_Genialidade.md`
+- ✅ `Vida_Lendária_Episódios_Vl_017_-_Por_Que_Procrastinamos__E_Como_Parar!.md` -> `Vida_Lendária_Episódios_Vl_017_Por_Que_Procrastinamos_E_Como.md`
+- ✅ `Vida_Lendária_Episódios_Vl_021_-_Seja_Um_Otimista_Racional.md` -> `Vida_Lendária_Episódios_Vl_021_Seja_Um_Otimista_Racional.md`
+- ✅ `Vida_Lendária_Episódios_Vl_Pn_-_023_-_Siga_Sua_Curiosidade.md` -> `Vida_Lendária_Episódios_Vl_Pn_023_Siga_Sua_Curiosidade.md`
+- ✅ `Vida_Lendária_Moc_-_Episódios_Vl.md` -> `Vida_Lendária_Moc_Episódios_Vl.md`
+- ✅ `Vida_Lendária_📇_Index.md` -> `Vida_Lendária_Index.md`
+- ✅ `📇_Index_-_Prompts.md` -> `Index_Prompts.md`
+- ⚠️ SKIPPED (Conflito): `GUIA_SKILLS_AGENTES.md` -> `Guia_Skills_Agentes.md` (Arquivo já existe)
+- ⚠️ SKIPPED (Conflito): `INDEX.md` -> `Index.md` (Arquivo já existe)
+
+**Total Renomeados:** 67
+**Total Erros:** 0
