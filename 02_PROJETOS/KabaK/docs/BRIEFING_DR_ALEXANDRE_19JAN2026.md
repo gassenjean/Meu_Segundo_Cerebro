@@ -1,6 +1,6 @@
 ---
 criado: 2026-01-19T13:00:00-03:00
-atualizado: 2026-01-19T13:00:00-03:00
+atualizado: 2026-01-20T11:48:49-03:00
 tipo: briefing_juridico
 destinatario: Dr. Alexandre (Advogado)
 prioridade: critica

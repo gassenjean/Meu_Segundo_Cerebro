@@ -1,12 +1,16 @@
 {
   "recentFiles": [
     {
-      "basename": "BRIEFING_DR_ALEXANDRE_19JAN2026",
-      "path": "02_PROJETOS/KabaK/docs/BRIEFING_DR_ALEXANDRE_19JAN2026.md"
-    },
-    {
       "basename": "BRIEFING_DR_ALEXANDRE",
       "path": "02_PROJETOS/KabaK/docs/BRIEFING_DR_ALEXANDRE.md"
+    },
+    {
+      "basename": "BRIEFING_DR_ALEXANDRE_COMPACTO",
+      "path": "02_PROJETOS/KabaK/docs/BRIEFING_DR_ALEXANDRE_COMPACTO.md"
+    },
+    {
+      "basename": "BRIEFING_DR_ALEXANDRE_19JAN2026",
+      "path": "02_PROJETOS/KabaK/docs/BRIEFING_DR_ALEXANDRE_19JAN2026.md"
     },
     {
       "basename": "GUIA_Leitura_Claude",
@@ -195,10 +199,6 @@
     {
       "basename": "Sobre_Mim_Quem_É_Alan_Nicolas",
       "path": "05_PESSOAL/Sobre_Mim/Sobre_Mim/Sobre_Mim_Quem_É_Alan_Nicolas.md"
-    },
-    {
-      "basename": "Sobre_Mim_Jornada_E_História",
-      "path": "05_PESSOAL/Sobre_Mim/Sobre_Mim/Sobre_Mim_Jornada_E_História.md"
     }
   ],
   "omittedPaths": [],
