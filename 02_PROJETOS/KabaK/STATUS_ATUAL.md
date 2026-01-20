@@ -5,16 +5,29 @@ atualizado: 2026-01-19T12:00:00-03:00
 
 # STATUS ATUAL - KabaK Reestruturação 2026
 
-**Última atualização:** 19/Jan/2026 - 12:00 (Titanium APROVADO + Custo Tecido CONFIRMADO)
+**Última atualização:** 20/Jan/2026 - 14:30 (Briefing Enviado + Reuniões Agendadas)
 
 ---
 
 ## ✅ ONDE ESTAMOS
 
  **Fase Atual:** Estruturação Jurídica e Início Titanium
- **Progresso:** 65% ⬆️
+ **Progresso:** 70% ⬆️
 
- ### Última Ação (19/Jan/2026 - 12:00) ⭐⭐⭐
+ ### Última Ação (20/Jan/2026 - 14:30) ⭐⭐⭐
+
+ - ✅ **BRIEFING ENVIADO:** Versão completa enviada ao Dr. Alexandre
+ - ✅ **REUNIÃO DR. ALEXANDRE:** Agendada para **21/Jan/2026** (amanhã)
+ - 🆕 **VISITA SANSOM:** Vai conhecer unidade SP (antes da reunião jurídica)
+ - 🆕 **EDUARDA (CUNHADA):** Opção oferecida a Sansom para contratação
+   - **Perfil:** Experiência em logística, planejamento e financeiro
+   - **Status:** Aguardando decisão Sansom
+
+ **Ordem das reuniões (21/Jan):**
+ 1. Sansom visita unidade SP (conhecer operação)
+ 2. Reunião Dr. Alexandre (estruturação jurídica)
+
+ ### Ação Anterior (19/Jan/2026 - 12:00) ⭐⭐
 
  - ✅ **TITANIUM APROVADO:** Sansom deu GO (verbal, documentos hoje)
  - ✅ **CUSTO TECIDO CONFIRMADO:** R$ 25/kg = R$ 5/peça = **R$ 15/kit**
@@ -73,25 +86,25 @@ atualizado: 2026-01-19T12:00:00-03:00
 
  ### CRÍTICO (Esta Semana - 16-22/Jan)
 
- 1. [ ] **Gassen:** Enviar proposta atualizada para Sansom (novo investimento R$ 1.048.150) 📧
-    - **Prazo:** 17/Jan/2026
-    - **Incluir:** Desconto Titanium, economia R$ 100k ano 1
+ 1. [x] **Gassen:** Enviar proposta atualizada para Sansom ✅ CONCLUÍDO
+ 2. [x] **Gassen:** Formalizar início com Titanium (PO criado) ✅ CONCLUÍDO
+ 3. [x] **Sansom:** Custos tecido China confirmados (R$ 25/kg) ✅ CONCLUÍDO
+ 4. [x] **Gassen/Jean:** Custo final confirmado (R$ 15/peça) ✅ CONCLUÍDO
+ 5. [x] **Gassen:** Briefing Dr. Alexandre enviado ✅ CONCLUÍDO
 
- 2. [ ] **Gassen:** Formalizar início com Titanium (PO ou contrato provisório) 📝
-    - **Prazo:** 19/Jan/2026
-    - **Valor:** Setup R$ 50k + mensalidades escalonadas
+ ### HOJE/AMANHÃ (20-21/Jan) 🔥
 
- 3. [ ] **Sansom:** Informar custos finais do tecido China 🇨🇳
-    - **Prazo:** 21/Jan/2026
-    - **Crítico:** Valida ou ajusta projeções
+ 1. [ ] **Sansom:** Visita unidade SP (conhecer operação) 📍
+    - **Data:** 21/Jan/2026
+    - **Pauta:** Conhecer fábrica, estrutura, equipe
 
- 4. [ ] **Gassen/Jean:** Confirmar custo final da calça pronta (CMV) 🏭
-    - **Prazo:** 21/Jan/2026
-    - **Crítico:** R$ 15/kit confirmado?
+ 2. [ ] **Todos:** Reunião Dr. Alexandre (estruturação jurídica) ⚖️
+    - **Data:** 21/Jan/2026 (após visita Sansom)
+    - **Pauta:** Contrato social, prestação serviço, divisão 49%
 
- 5. [ ] **Gassen:** Acionar Dr. Alexandre para reunião estruturação jurídica
-    - **Prazo:** 17/Jan (agendar) / 21/Jan (reunião)
-    - **Pauta:** Contrato social, prestação serviço, divisão 49%### 📢 Marketing & Vendas
+ 3. [ ] **Sansom:** Decidir sobre contratação Eduarda 👩‍💼
+    - **Perfil:** Logística, planejamento, financeiro
+    - **Relação:** Cunhada do Gassen### 📢 Marketing & Vendas
 *   **Agência:** **Titanium** ✅ APROVADO (19/Jan)
     *   *Escopo:* E-commerce + Outlet + Marketplaces (Full Service)
     *   *Setup:* R$ 50k (desconto R$ 10k)
@@ -315,6 +328,12 @@ atualizado: 2026-01-19T12:00:00-03:00
 - **Jean:** Dono fábrica MG (produção exclusiva, NÃO sócio)
 - **Titanium:** Agência marketing (R$ 60k/mês + tráfego pago)
 - **Dr. Alexandre:** Jurídico (estruturação)
+
+### Potencial Contratação
+
+- **Eduarda (Cunhada Gassen):** Experiência em logística, planejamento e financeiro
+  - **Status:** Opção oferecida a Sansom (aguardando decisão)
+  - **Área potencial:** Gestão financeira/operacional da nova sociedade
 
 ### Família (Contexto)
 
