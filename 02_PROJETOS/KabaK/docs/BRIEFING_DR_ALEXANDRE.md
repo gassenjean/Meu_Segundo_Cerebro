@@ -1,12 +1,3 @@
----
-criado: 2026-01-14T14:50:00-03:00
-atualizado: 2026-01-19T12:00:00-03:00
-tipo: briefing_juridico
-destinatario: Dr. Alexandre (Advogado)
-prioridade: critica
-confidencial: sim
----
-
 # BRIEFING JURÍDICO - Dr. Alexandre
 
 **Solicitante:** Gassen Jean Bou Karim
@@ -108,22 +99,22 @@ Para explorar **e-commerce de moda fitness feminina** + **Outlet físico** + **M
 ### Estrutura Operacional
 
 ```
-NOVA SOCIEDADE (E-COMMERCE)
+NOVA SOCIEDADE (E-COMMERCE + OUTLET + MARKETPLACES)
 ├── Sócios:
 │   ├── Sansom: 51% decisão / 50% lucros
 │   └── Jean (Família): 49% decisão / 50% lucros
-│       ├── Jean: Dono/CEO KabaK, investidor principal
-│       ├── Gassen: Filho Jean, criador marca, gestor
-│       └── Kris: Esposa Gassen, co-criadora, produção
+│       ├── Jean: Dono, CEO, Gerente Geral
+│       ├── Gassen: E-commerce, Marketing, Gestão de Projetos
+│       └── Kris (Kristyellen): Estilista, Gerente de Produto, Produção
 │       └── Divisão interna: A DEFINIR com Dr. Alexandre
 │
-├── Atividade: Comércio eletrônico de vestuário fitness
+├── Atividade: Comércio vestuário fitness (E-commerce + Outlet + Marketplaces)
 ├── Gestão: Profissional + estrutura familiar operacional
 │
 ├── PRODUÇÃO (KabaK Atual):
-│   ├── Jean: CEO, dono fábrica
-│   ├── Kris: Cuida processo produtivo
-│   ├── Gassen: Apoio produção + gestão marca
+│   ├── Jean: Dono, CEO, Gerente Geral
+│   ├── Kris: Estilista, Gerente de Produto, Desenvolvimento, Produção
+│   ├── Gassen: E-commerce, Marketing, Apoio produção, Gestão de Projetos
 │   ├── Capacidade: 80k peças/mês
 │   └── Exclusividade: 100% para nova sociedade
 │
@@ -152,7 +143,7 @@ NOVA SOCIEDADE (E-COMMERCE)
 
 - Empresário chinês residente no Brasil
 - Experiência: Importação, comércio, relacionamento China
-- Casado com [Esposa Sansom] (brasileira)
+- Casado com mulher chinesa (informações adicionais a obter)
 - Possui outras empresas no Brasil
 - Possui negócios na China (cunhado Eric opera)
 
@@ -181,9 +172,21 @@ NOVA SOCIEDADE (E-COMMERCE)
 
 ### Jean (Família - 49% decisão / 50% lucros)
 
-**IMPORTANTE:** Jean representa o lado familiar (Jean + Gassen + Kris). Divisão interna dos 50% a definir posteriormente.
+**IMPORTANTE:** Jean representa o lado familiar (Jean + Gassen + Kris). Os 50% são do grupo familiar como um todo, sem divisão interna societária.
 
-#### Jean (Pai, Dono/CEO KabaK)
+**⚠️ LOCAL DE TRABALHO (IMPORTANTE PARA PRÓ-LABORE):**
+
+**Todos os três trabalham nas DUAS empresas:**
+
+| Pessoa | Gabriele Confecções (fábrica) | KabaK (e-commerce) |
+|--------|-------------------------------|---------------------|
+| **Jean** | ✅ Produção, gestão fábrica | ✅ CEO, estratégia |
+| **Gassen** | ✅ Apoio produção | ✅ E-commerce, marketing |
+| **Kris** | ✅ Produto, qualidade | ✅ Estilismo, desenvolvimento |
+
+**Nota:** Os três atuam em ambas as empresas. Precisamos definir como estruturar isso contratualmente.
+
+#### Jean Bou Karim (Pai, Dono/CEO)
 
 **Perfil:**
 
@@ -192,94 +195,84 @@ NOVA SOCIEDADE (E-COMMERCE)
 - Experiência: 7+ anos indústria têxtil, produção
 - Fábrica própria em MG, 80k peças/mês
 
+**Trabalha em:** Gabriele Confecções + KabaK
+
 **Responsabilidades:**
 
-- CEO e gestão produção (mantém papel atual)
-- Fábrica/costura/qualidade
-- Gestão equipe produtiva
-- Capacidade produtiva (escalar conforme demanda)
+- **Dono e CEO da KabaK** (e-commerce)
+- **Dono da Gabriele Confecções** (fábrica)
+- **Gerente Geral** (visão estratégica e operacional)
+- Interface com Sansom (sócio)
+- Decisões estratégicas e financeiras
 
 **Investimento:**
 
-- **R$ 1.048.150** (50% de R$ 2.096.300)
-- **Divisão interna:** Jean + Gassen + Kris (a definir)
+- **R$ 1.048.150** (50% de R$ 2.096.300) - compartilhado com Gassen e Kris
 
 ---
 
-#### Gassen Jean Bou Karim (Filho Jean, Gestor Marca)
+#### Gassen Jean Bou Karim (Filho Jean, E-commerce & Marketing)
 
 **Perfil:**
 
 - Brasileiro, filho de Jean
 - **Criador da marca KabaK** (junto com Kris)
-- Experiência: Gestão marca, inovações, projetos, e-commerce
+- Experiência: E-commerce, marketing digital, gestão de projetos
 - Conhecimento: Marketing digital, Shopify, logística, produção
+
+**Trabalha em:** Gabriele Confecções + KabaK
 
 **Responsabilidades:**
 
-- Gestão marca e inovações
-- Projetos e desenvolvimento produtos
-- Interface e-commerce (Shopify, estratégia)
-- Interface marketing (Titanium)
-- Apoio produção
-
-**Participação:**
-
-- **Parte dos 50% lado Jean** (divisão interna a definir)
-- Critério: Criação marca + gestão operacional
+- **E-commerce** (Shopify, estratégia digital, operação) - KabaK
+- **Marketing** (interface com Titanium, campanhas, branding) - KabaK
+- **Gestão de Projetos** (novos projetos, inovações) - Ambas
+- **Apoio à produção** - Gabriele Confecções
+- Gestão da marca - KabaK
 
 ---
 
-#### Kris (Esposa Gassen, Co-criadora)
+#### Kristyellen "Kris" (Esposa Gassen, Estilista & Gerente de Produto)
 
 **Perfil:**
 
 - Brasileira, esposa de Gassen
 - **Co-criadora da marca KabaK** (junto com Gassen)
-- Cuida processo produtivo (operação fábrica)
-- **Desenvolvimento de produto** (criação, modelagem, protótipos)
-- Experiência: Produção têxtil, controle qualidade, design produto
+- **Estilista** - visão criativa e design
+- Experiência: Desenvolvimento de produto, produção têxtil, controle qualidade
+
+**Trabalha em:** Gabriele Confecções + KabaK
 
 **Responsabilidades:**
 
-- Processo produtivo (dia a dia fábrica)
-- **Desenvolvimento de produto** (novos modelos, protótipos)
-- Controle qualidade
-- Gestão operacional produção
-- Interface técnica com fornecedores (tecidos, insumos)
-
-**Participação:**
-
-- **Parte dos 50% lado Jean** (divisão interna a definir)
-- Critério: Co-criação marca + desenvolvimento produto + operação produtiva
+- **Estilista** (visão criativa, tendências, identidade visual) - KabaK
+- **Gerente de Produto** (linha de produtos, mix, estratégia) - Ambas
+- **Desenvolvimento de Produto** (criação, modelagem, protótipos) - Gabriele Confecções
+- **Produção** (acompanhamento processo produtivo, qualidade) - Gabriele Confecções
+- Interface técnica com fornecedores (tecidos, insumos) - Ambas
 
 ---
 
-### DIVISÃO INTERNA FAMÍLIA (CRÍTICO DEFINIR)
+### QUESTÃO PRÓ-LABORE E DIVISÕES CONTRATUAIS (DEFINIR COM DR. ALEXANDRE)
 
-**Lado Jean = 50% lucros da nova sociedade**
+**Duas empresas envolvidas:**
 
-**Como dividir entre:**
+| Empresa | Atividade | Quem Trabalha |
+|---------|-----------|---------------|
+| **KabaK** (nova sociedade) | E-commerce, marketing, estratégia | Jean, Gassen, Kris |
+| **Gabriele Confecções** (fábrica) | Produção, desenvolvimento produto | Jean, Gassen, Kris |
 
-1. **Jean:** Investidor 100% KabaK atual, dono/CEO, fábrica
-2. **Gassen:** Criador marca, gestor, inovações, projetos
-3. **Kris:** Co-criadora marca, cuida processo produtivo
+**Situação:**
+- Os três (Jean, Gassen, Kris) trabalham nas DUAS empresas
+- Precisamos definir divisões contratuais adequadas
+- Queremos sugestões do Dr. Alexandre sobre a melhor estrutura
 
-**Critérios possíveis:**
-
-- Investimento histórico (100% Jean)
-- Criação marca/valor intangível (Gassen + Kris)
-- Operação atual (Jean + Kris produção, Gassen gestão)
-- Dedicação futura (quem dedica mais tempo?)
-
-**PERGUNTA DR. ALEXANDRE:**
-"Como estruturar divisão interna familiar de forma justa, clara e sem conflitos?"
-
-**Projeto Paralelo:**
-
-- **Gabriele Confecções Jurídico 2026**
-- Estruturação jurídica completa KabaK atual
-- Definir sociedade familiar formalmente
+**Perguntas para Dr. Alexandre:**
+1. É necessário pró-labore? Em quais casos? De qual empresa?
+2. Como dividir a atuação dos três entre as duas empresas contratualmente?
+3. Como estruturar a relação entre KabaK e Gabriele Confecções?
+4. Qual a melhor forma de remunerar cada um considerando que atuam em ambas?
+5. **Pedimos sugestões:** Qual estrutura o Dr. Alexandre recomenda para essa situação?
 
 ---
 
@@ -292,11 +285,11 @@ NOVA SOCIEDADE (E-COMMERCE)
 - Começo limpo (sem passivos)
 - Estrutura clara desde início
 - Não mistura com histórico Kabak
+- Marca KabaK pode ser transferida (registrada no nome da Kris)
 
 **Desvantagens:**
 
 - Tempo registro (quanto tempo?)
-- Perda marca Kabak (já existe, 18k followers Instagram)
 - Custo registro/estruturação
 
 ---
@@ -305,7 +298,7 @@ NOVA SOCIEDADE (E-COMMERCE)
 
 **Vantagens:**
 
-- Marca já registrada (®)
+- Marca já registrada (®) - no nome da Kris
 - Base 18k followers Instagram
 - Economiza 6 meses construção marca
 - Já tem histórico (3-6 meses operação)
@@ -316,12 +309,10 @@ NOVA SOCIEDADE (E-COMMERCE)
 - Sócios anteriores (se houver - como sair?)
 - Estrutura societária atual (como reestruturar?)
 
-**Informações necessárias:**
-
-- Qual a situação societária atual do CNPJ Kabak?
-- Há outros sócios? Quem?
-- Há passivos? Dívidas? Processos?
-- É viável usar ou melhor começar novo?
+**Informação importante sobre a marca:**
+- **Marca KabaK está registrada no nome da Kris**
+- Temos os direitos da marca
+- Pode ser transferida para nova sociedade se necessário
 
 ---
 
@@ -480,7 +471,36 @@ NOVA SOCIEDADE (E-COMMERCE)
 - Prazo: 6 meses? 12 meses? 24 meses?
 - Escopo: Fitness feminino? Qualquer e-commerce? Qualquer têxtil?
 
-#### H. Prestação de Serviço (Fábrica Jean)
+#### H. Observância Religiosa (IMPORTANTE)
+
+**O lado Jean (Jean, Gassen, Kris) observa o Sábado por motivos religiosos.**
+
+**Cláusula a incluir no contrato:**
+
+- **Sábado (por do sol sexta → por do sol sábado):** Jean, Gassen e Kris NÃO trabalham
+- **Motivo:** Observância religiosa (Adventismo do 7º Dia ou similar)
+- **Aplicação:** Reuniões, decisões, operações que envolvam os três
+- **Exceção:** Emergências operacionais críticas (a definir critério)
+
+**Funcionamento Outlet Físico:**
+
+- **DOMINGO:** Loja ABERTA (funcionamento normal)
+- **SÁBADO:** Loja FECHADA (não opera aos sábados)
+- **Nota:** Isso pode impactar faturamento vs concorrentes (sexta/sábado são dias fortes varejo)
+
+**Implicações para contrato:**
+
+1. Assembleia/reuniões de sócios: Não agendar sábado
+2. Prazos contratuais: Não contar sábado como dia útil para lado Jean
+3. Operação digital (e-commerce): Funciona normalmente (automático)
+4. Operação física (outlet): Definir escala equipe para domingo
+
+**PERGUNTA DR. ALEXANDRE:**
+"Como redigir cláusula de observância religiosa que proteja o direito dos sócios sem prejudicar operação?"
+
+---
+
+#### I. Prestação de Serviço (Fábrica Jean)
 
 **Incluir no contrato social:**
 
@@ -796,20 +816,20 @@ Para projeção financeira, precisamos saber:
 
 ### 5. Marca Kabak
 
-**Risco:**
+**Situação atual:**
 
-- Marca registrada em nome de quem hoje? (Gassen? Jean? Empresa antiga?)
-- Se usarmos CNPJ Kabak: Está tudo regularizado?
-- Se criarmos empresa nova: Como transferir marca?
+- **Marca KabaK está registrada no nome da Kris**
+- Temos os direitos da marca
+- Pode ser transferida para nova sociedade se necessário
 
-**URGENTE:**
+**Questões:**
 
-- Levantar situação atual marca Kabak (INPI)
-- Se necessário: Transferir para nova sociedade
-- Se Gassen tem marca pessoal: Transferir para empresa
+- Se criarmos empresa nova: Como transferir marca da Kris para a nova sociedade?
+- Qual o processo de transferência no INPI?
+- Custo e prazo da transferência?
 
 **PERGUNTA DR. ALEXANDRE:**
-"Qual a situação da marca Kabak? Precisamos regularizar algo?"
+"A marca está no nome da Kris. Como transferir para a nova sociedade? Qual processo?"
 
 ---
 
@@ -970,25 +990,17 @@ Para projeção financeira, precisamos saber:
 2. [ ] Pró-labore (quem recebe? Obrigatório? Quanto?)
 3. [ ] Distribuição lucros (periodicidade? Reserva obrigatória?)
 
+### Observância Religiosa (NOVO)
+
+20. [ ] Como redigir cláusula que Jean/Gassen/Kris não trabalham aos sábados (motivo religioso)?
+21. [ ] Outlet fechado sábado / aberto domingo - implicações contratuais?
+22. [ ] Reuniões de sócios: Cláusula proibindo sábado como dia de assembleia?
+
 ### Prazo e Custo
 
 20. [ ] Prazo total para tudo pronto e registrado? (dias/semanas?)
 2. [ ] Honorários totais? (estruturação completa)
 3. [ ] Forma de pagamento? (à vista? Parcelado?)
-
----
-
-## 📎 ANEXOS
-
-**Anexar ao enviar para Dr. Alexandre:**
-
-1. [ ] Este briefing (BRIEFING_DR_ALEXANDRE.md)
-2. [ ] Resumo Executivo Reunião (RESUMO_EXECUTIVO_REUNIAO_SANSOM.md)
-3. [ ] Transcrição Reunião (Reunião Sansom transcrição.md)
-4. [ ] Planilha Financeira (quando pronta - até 21/Jan)
-5. [ ] Documentos pessoais sócios (quando solicitado)
-6. [ ] Documentos Fábrica Jean (quando solicitado)
-7. [ ] Situação Marca Kabak INPI (se tiver)
 
 ---
 
@@ -1031,40 +1043,3 @@ Criar uma estrutura jurídica **sólida, clara e à prova de conflitos** que:
 Qualquer dúvida, estou à disposição.
 
 **Gassen Jean Bou Karim**
-
----
-
-**Documento criado:** 14/Jan/2026
-**Última revisão:** 19/Jan/2026 (Titanium APROVADO + Custos Confirmados)
-**Criado por:** Gassen (via Claude Code)
-**Baseado em:** Reunião 14/Jan/2026 + Transcrição + VALORES_OFICIAIS.md
-**Confidencialidade:** ALTA (informações financeiras e estratégicas sensíveis)
-
----
-
-### Histórico de Revisões
-
-**19/Jan/2026 - Atualizações Importantes:**
-- Titanium APROVADO por Sansom (verbal, documentos em andamento)
-- Investimento: R$ 2.106.300 → R$ 2.096.300 (desconto Titanium R$ 10k)
-- Divisão: R$ 1.053.150 → R$ 1.048.150 cada lado
-- Custos CONFIRMADOS (Jean):
-  - Tecido: R$ 5/peça (R$ 25/kg)
-  - Fabricação (costura + sublimação): R$ 10/peça
-  - Total: R$ 15/peça = R$ 48/kit
-- Margem bruta: 45,3% (confirmada)
-- Canais EXPANDIDOS (incluir no contrato):
-  - E-commerce próprio (original)
-  - Outlet físico (confirmado)
-  - Shopee (NOVO)
-  - Mercado Livre (NOVO)
-  - TikTok Shop (NOVO)
-  - Todos seguem divisão 50/50 lucros / 51/49 decisão
-- Entrega tecido: 2 toneladas final Mar/2026
-
-**15/Jan/2026 - Correções Auditoria:**
-- Investimento: R$ 2.6M → R$ 2.106.300 (exato)
-- Divisão: 51/49 → 50/50 lucros (R$ 1.053.150 cada)
-- Sócios 49%: Jean+Gassen+Kris (todos 3 entram formalmente)
-- ROI: 288% → 155% (método conservador oficial)
-- Valores alinhados com VALORES_OFICIAIS.md

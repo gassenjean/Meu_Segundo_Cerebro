@@ -28,11 +28,11 @@ Activate this skill when the user needs to:
 - **Launch:** May 2026
 
 **Key Stakeholders:**
-- **Sansom:** Chinese entrepreneur, manages China imports and finances
-- **Jean:** Factory owner/CEO, father of Gassen, manages production
-- **Gassen:** Brand creator, project manager, handles e-commerce
-- **Kris:** Gassen's wife, co-creator, manages production process
-- **Titanium:** Marketing agency (R$ 60k/month)
+- **Sansom:** Chinese entrepreneur, manages China imports and finances (wife is Chinese)
+- **Jean:** Factory owner, CEO, General Manager (production, strategy)
+- **Gassen:** E-commerce, marketing, project management, brand management
+- **Kris (Kristyellen):** Stylist, Product Manager, Product Development, Production (co-creator)
+- **Titanium:** Marketing agency ✅ APPROVED (R$ 50k setup + R$ 45-60k/month escalating)
 - **Dr. Alexandre:** Corporate lawyer for legal structuring
 
 ## Core Workflows
@@ -116,9 +116,9 @@ Activate this skill when the user needs to:
    - Update existing? (validate numbers, adjust assumptions)
    - Scenario analysis? (conservative, realistic, optimistic)
 2. Consult `references/produto_tecnico.md` for:
-   - Product costs (fabric R$ 30, production R$ 15, total R$ 45/kit)
+   - Product costs (fabric R$ 15/kit, production R$ 30/kit, packaging R$ 3/kit = total R$ 48/kit)
    - Pricing (R$ 129/kit)
-   - Fixed costs (Titanium R$ 60k, traffic R$ 40-100k)
+   - Fixed costs (Titanium R$ 45-60k escalating, traffic R$ 40-100k)
 3. Use `assets/templates/TEMPLATE_PLANILHA_FINANCEIRA.md` as base
 4. Calculate:
    - Monthly revenue (units × price)
