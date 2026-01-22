@@ -1,6 +1,6 @@
 ---
 criado: 2025-12-02T11:38:00-03:00
-atualizado: 2026-01-20T14:48:36-03:00
+atualizado: 2026-01-22T00:50:00-03:00
 ---
 
 # 📡 PC Sync Log - Comunicação Alienware ↔ Desktop Casa
@@ -25,14 +25,34 @@ Este arquivo permite que o **Alienware** (notebook trabalho/externo) e o **Deskt
 
 ## 🔄 ÚLTIMA SESSÃO ATIVA
 
-**Computador:** Alienware 💻
-**Data:** 20/01/2026 - 14:48
-**Usuário Sistema:** Gassen (Antigravity Agent)
-**Status:** 🟣 KabaK + Marie Kondo Cleanup
+**Computador:** Desktop Casa 🖥️
+**Data:** 22/01/2026 - 00:50
+**Usuário Sistema:** Gassen (Claude Code)
+**Status:** 🔵 KabaK - Dossiê Tributário + Mensagens
 
 ---
 
 ## 📋 ÚLTIMAS MUDANÇAS (Últimas 10 sessões)
+
+### 🖥️ Desktop Casa - 22/01/2026 (00:50) 🔵 KABAK DOSSIÊ
+**Ações realizadas:**
+- ✅ **Dossiê Financeiro criado:** `DOSSIE_FINANCEIRO_ANALISE_TRIBUTARIA.md` (600+ linhas)
+  - Projeções 12 meses (3 cenários)
+  - Simulações tributárias (Simples vs Presumido vs Real)
+  - 12 perguntas para Dr. Alexandre
+- ✅ **Mensagens preparadas:** Grupo WhatsApp (Sansom) + Dr. Alexandre
+- ✅ **SESSION_LOG.md atualizado**
+- ✅ **TODO_Sprint_Atual.md atualizado**
+
+**Arquivos criados:**
+- `02_PROJETOS/KabaK/docs/DOSSIE_FINANCEIRO_ANALISE_TRIBUTARIA.md`
+
+**Próximos passos:**
+- Enviar mensagens (WhatsApp)
+- Reunião Sansom (23/Jan)
+- Reunião ML (27/Jan)
+
+---
 
 ### 💻 Alienware - 20/01/2026 (14:48) 🟣 KABAK + KONDO
 **Ações realizadas:**

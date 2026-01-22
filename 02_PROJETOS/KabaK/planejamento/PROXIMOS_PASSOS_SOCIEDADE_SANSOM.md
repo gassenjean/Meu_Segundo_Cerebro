@@ -4,6 +4,8 @@ atualizado: 2026-01-15T07:45:00-03:00
 tipo: plano_acao
 prioridade: critica
 status: ativo
+created: 2026-01-22T12:08
+updated: 2026-01-22T12:08
 ---
 
 # PRÓXIMOS PASSOS - Sociedade Sansom
@@ -24,7 +26,7 @@ status: ativo
 - **Mar-Abr:** Produção estoque inicial
 - **Mai:** LANÇAMENTO
 
-**Investimento Total:** R$ 2.106.300 (previsão 6 meses)
+**Investimento Total:** R$ 2.096.300 (previsão 6 meses)
 
 - Sansom (50% lucros): R$ 1.053.150
 - Jean+Gassen+Kris (50% lucros): R$ 1.053.150
@@ -303,7 +305,7 @@ Validar parceria como prestador de serviço (não mais parceiro estratégico).
 
 #### Valores
 
-- **Total:** R$ 2.106.300 (6 meses)
+- **Total:** R$ 2.096.300 (6 meses)
 - **Sansom (51%):** R$ 1.326.000
 - **Gassen+Kris (49%):** R$ 1.274.000
 
@@ -739,7 +741,7 @@ Preparar fábrica para exclusividade 100% nova empresa.
 **Baseado em:** Reunião Sansom 14/Jan/2026 + VALORES_OFICIAIS.md
 
 **Correções aplicadas 15/Jan:**
-- Investimento: R$ 2.106.300 (não R$ 2.6M)
+- Investimento: R$ 2.096.300 (não R$ 2.6M)
 - Divisão: 50/50 lucros (R$ 1.053.150 cada)
 - Sócios 49%: Jean+Gassen+Kris (todos 3 entram)
 - Valores alinhados com VALORES_OFICIAIS.md

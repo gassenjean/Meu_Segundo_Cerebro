@@ -3,11 +3,13 @@ criado: 2026-01-14
 status: OFICIAL
 projeto: KabaK
 atualizado: 2026-01-14T22:04:54-03:00
+created: 2026-01-22T12:08
+updated: 2026-01-22T12:08
 ---
 
 # 📊 PLANILHA MASTER KABAK - VISÃO GERAL (1 ANO)
 
-**Investimento Total:** R$ 2.106.300 (R$ 1.053.150 por Sócio)
+**Investimento Total:** R$ 2.096.300 (R$ 1.053.150 por Sócio)
 **Estrutura:** 50% Sansom | 50% Jean + Gassen + Kris
 
 ---
@@ -21,7 +23,7 @@ atualizado: 2026-01-14T22:04:54-03:00
 | **ESTRUTURA/GIRO** | **R$ 440.000** | R$ 200k Giro + R$ 180k Contingência + R$ 60k Ops |
 | **TOTAL PRÉ-OP** | **R$ 1.980.000** | Janeiro a Abril/2026 |
 
-*(Adicional de R$ 126.300 será necessário para cobrir prejuízo operacional dos meses 1 e 2, totalizando R$ 2.106.300)*
+*(Adicional de R$ 126.300 será necessário para cobrir prejuízo operacional dos meses 1 e 2, totalizando R$ 2.096.300)*
 
 ---
 

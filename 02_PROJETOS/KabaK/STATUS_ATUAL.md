@@ -2,12 +2,12 @@
 criado: 2025-12-08T11:04:20-03:00
 atualizado: 2026-01-21T22:45:00-03:00
 created: 2026-01-21T22:58
-updated: 2026-01-21T23:03
+updated: 2026-01-21T23:38
 ---
 
 # STATUS ATUAL - KabaK Reestruturação 2026
 
-**Última atualização:** 21/Jan/2026 - 22:45 (Pós-reunião Dr. Alexandre - Documento Completo)
+**Última atualização:** 22/Jan/2026 - 10:00 (Esclarecimentos Sansom adicionados)
 
 ---
 
@@ -29,7 +29,7 @@ updated: 2026-01-21T23:03
 - ✅ **PLANEJAMENTO TRIBUTÁRIO:** Dr. Alexandre vai entregar estudo completo (1 mês)
 - ✅ **BNDES DESCOBERTO:** Linha R$ 1-10M sem garantia, 2 anos carência, 0.27-0.83% ao ano!
 - ✅ **LOGÍSTICA SANSOM:** Parceiro com 41% desconto frete + 500.000 m² armazém GRÁTIS
-- ✅ **PRESTAÇÃO SERVIÇO JKM:** Gabriele NÃO é sócia, apenas fornecedora (5-10% margem)
+- ✅ **PRESTAÇÃO SERVIÇO:** Sports.com NÃO é sócia, apenas fornecedora (5-10% margem)
 - ✅ **MARCAS NO CNPJ:** TODAS marcas devem pertencer à empresa (não pessoa física)
 - ✅ **FUNDO DE RESERVA:** Percentual a definir - NÃO distribuir 100% lucro (modelo Mercado Livre)
 
@@ -45,7 +45,7 @@ updated: 2026-01-21T23:03
 #### Próximas Entregas Dr. Alexandre (26/Jan - Segunda):
 1. Ata de reunião de sócios
 2. Acordo de sócios (Word editável)
-3. Minuta contrato prestação serviço KabaK ↔ JKM
+3. Minuta contrato prestação serviço KabaK ↔ Sports.com
 
 #### Visão de Futuro - Sansom:
 - **R$ 1M/mês:** Começa a dedicar mais tempo
@@ -53,6 +53,23 @@ updated: 2026-01-21T23:03
 - **Depois:** Buscar investidor bilionário da China (Shein, TikTok, Alibaba)
 
 **Ver documento completo:** [[docs/reunioes/RESUMO_COMPLETO_REUNIAO_DR_ALEXANDRE_SANSOM_21JAN2026.md]]
+
+### Esclarecimentos Sansom (22/Jan/2026) ⭐⭐⭐⭐
+
+**Sansom enviou 4 esclarecimentos importantes após revisar resumo:**
+
+| # | Tema | Decisão |
+|---|------|---------|
+| 1 | **Poder de decisão (51%)** | Abrange TODAS empresas, canais, investimentos, ativos/passivos - **EXCETO Sports.com** |
+| 2 | **Logística ANJUN** | Transportadora oferece 500m² espaço se usar serviços deles |
+| 3 | **Investimento inicial** | Sansom financia 100% nos primeiros 3 meses → família Jean paga com distribuição lucro |
+| 4 | **Base de operações** | Escritório financeiro/comercial/administrativo no **Bom Retiro** |
+
+**Implicações:**
+- ✅ Sports.com protegida - família Jean mantém controle total da fábrica
+- ✅ Logística resolvida - parceria ANJUN (500m² + frete)
+- ✅ Fluxo caixa aliviado - Sansom financia 3 meses iniciais
+- ✅ Base definida - Bom Retiro (próximo ao Sansom)
 
 ### Ação Anterior (20/Jan/2026 - 14:30) ⭐⭐⭐
 
@@ -91,7 +108,7 @@ updated: 2026-01-21T23:03
 
 - **Sociedade (Poder Decisório):** **51% Sansom** (Voto de Minerva) / **49% Jean+Gassen+Kris**
 - **Sociedade (Lucros/Econômico):** **50% Sansom** / **50% Jean+Gassen+Kris**
-- **Produção:** Fábrica Jean (JKM/Gabriele) = **Fornecedor** (5-10% margem, 100% prioridade KabaK)
+- **Produção:** Fábrica Jean (Sports.com) = **Fornecedor** (5-10% margem, 100% prioridade KabaK)
 - **Marketing:** Titanium (terceirizado)
   - Setup: R$ 50k (desconto R$ 10k conseguido 16/Jan)
   - Mensalidades: R$ 45k (1-3) → R$ 50k (4-6) → R$ 55k (7-9) → R$ 60k (10+)
@@ -116,7 +133,7 @@ updated: 2026-01-21T23:03
 3. [ ] **Dr. Alexandre:** Enviar documentos jurídicos (segunda-feira 26/Jan) ⚖️
    - Ata de reunião de sócios
    - Acordo de sócios (Word editável)
-   - Minuta contrato prestação serviço KabaK ↔ JKM
+   - Minuta contrato prestação serviço KabaK ↔ Sports.com
 
 4. [ ] **Gassen:** Reunião equipe Mercado Livre (terça-feira 27/Jan) 🛍️
    - **Local:** Escritório Sansom
@@ -223,7 +240,7 @@ updated: 2026-01-21T23:03
    - Todos canais 50/50 (e-commerce, marketplaces, outlet, lojas físicas)
    - Possibilidade de várias marcas (todas da empresa)
 
-3. **JKM como Fornecedor:**
+3. **Sports.com como Fornecedor:**
    - NÃO é sócia
    - 5-10% margem no fornecimento
    - 100% prioridade para KabaK
@@ -315,7 +332,7 @@ updated: 2026-01-21T23:03
 
 ### Prestadores de Serviço
 
-- **JKM/Gabriele:** Fábrica MG (fornecedor, 5-10% margem, 100% prioridade KabaK)
+- **Sports.com:** Fábrica MG (fornecedor, 5-10% margem, 100% prioridade KabaK)
 - **Titanium:** Agência marketing (R$ 50k setup + R$ 45-60k/mês + tráfego pago)
 - **Dr. Alexandre:** Jurídico (estruturação societária e tributária)
 - **Parceiro Logística (Sansom):** 500k m² armazém grátis + 41% desconto frete
@@ -379,7 +396,7 @@ updated: 2026-01-21T23:03
 
 ---
 
-## 🏭 CAPACIDADE PRODUTIVA (JKM/Jean)
+## 🏭 CAPACIDADE PRODUTIVA (Sports.com/Jean)
 
 | Aspecto | Capacidade |
 |---------|------------|

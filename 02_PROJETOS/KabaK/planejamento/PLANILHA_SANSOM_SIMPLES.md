@@ -1,6 +1,8 @@
 ---
 criado: 2026-01-14T18:49:04-03:00
 atualizado: 2026-01-15T07:30:00-03:00
+created: 2026-01-22T12:08
+updated: 2026-01-22T12:08
 ---
 # PLANILHA FINANCEIRA - Sociedade KabaK
 
@@ -19,7 +21,7 @@ atualizado: 2026-01-15T07:30:00-03:00
 | **Vendas Ano 1** | 177.000 kits |
 | **Receita Total** | R$ 22.833.000 |
 | **Lucro Líquido** | R$ 7.503.875 |
-| **Investimento Total** | R$ 2.106.300 (pré-op R$ 1.980.000 + déficit op R$ 126.300) |
+| **Investimento Total** | R$ 2.096.300 (pré-op R$ 1.980.000 + déficit op R$ 126.300) |
 | **Break-even** | Mês 4 (Agosto/2026) |
 | **ROI Ano 1** | 155% (sobre investimento total) |
 
@@ -369,7 +371,7 @@ atualizado: 2026-01-15T07:30:00-03:00
 | Pré-operacional | R$ 1.980.000 |
 | Operacional (déficit) | R$ 126.300 |
 | Contingência adicional | R$ 0 |
-| **TOTAL INVESTIMENTO** | **R$ 2.106.300** |
+| **TOTAL INVESTIMENTO** | **R$ 2.096.300** |
 
 **Divisão (50/50):**
 
@@ -441,6 +443,6 @@ atualizado: 2026-01-15T07:30:00-03:00
 
 **Correções aplicadas 15/Jan:**
 - ROI corrigido de 5.940% → 155% (erro de base de cálculo)
-- Investimento total explicitado: R$ 2.106.300
+- Investimento total explicitado: R$ 2.096.300
 - Sócios 49% ajustado: Jean+Gassen+Kris (todos entram)
 - Break-even ajustado: Mês 4 (Agosto/2026) - conservador

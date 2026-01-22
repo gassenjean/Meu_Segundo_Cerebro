@@ -51,13 +51,13 @@
 ### Jean (49% Decisão / 50% Lucros - Lado Família)
 
 **Perfil:**
-- Brasileiro, dono e CEO da KabaK/Gabriele Confecções atual
+- Brasileiro, dono e CEO da KabaK/Sports.com atual
 - Pai de Gassen
 - Investidor 100% do KabaK até agora
 - 7+ anos experiência indústria têxtil
 
 **Empresa Atual:**
-- **Gabriele Confecções:** Fábrica MG com produção 80k peças/mês
+- **Sports.com:** Fábrica MG com produção 80k peças/mês
 - Prédio próprio
 - 40 costureiras (escalável até 400)
 - Capacidade máxima: 240k peças/mês
@@ -205,7 +205,7 @@
 - **Contratos:** Social, Prestação Serviço, Acordo Sócios
 - **Regime tributário:** Recomendar melhor opção
 - **Governança:** Alçadas, decisões, saídas
-- **Projeto paralelo:** Gabriele Confecções Jurídico 2026
+- **Projeto paralelo:** Sports.com Jurídico 2026
 
 **Entregas Críticas:**
 1. **Proposta Estruturação** (até 21/Jan)

@@ -1,40 +1,72 @@
 {
   "recentFiles": [
     {
-      "basename": "MENSAGEM_ENVIO_DR_ALEXANDRE_19JAN2026",
-      "path": "02_PROJETOS/KabaK/docs/reunioes/MENSAGEM_ENVIO_DR_ALEXANDRE_19JAN2026.md"
+      "basename": "RESUMO_COMPLETO_REUNIAO_DR_ALEXANDRE_SANSOM_21JAN2026",
+      "path": "02_PROJETOS/KabaK/docs/reunioes/RESUMO_COMPLETO_REUNIAO_DR_ALEXANDRE_SANSOM_21JAN2026.md"
     },
     {
-      "basename": "MENSAGEM_ENVIO_SANSOM",
-      "path": "02_PROJETOS/KabaK/docs/reunioes/MENSAGEM_ENVIO_SANSOM.md"
+      "basename": "DOSSIE_FINANCEIRO_ANALISE_TRIBUTARIA",
+      "path": "02_PROJETOS/KabaK/docs/DOSSIE_FINANCEIRO_ANALISE_TRIBUTARIA.md"
     },
     {
-      "basename": "RESUMO_EXECUTIVO_REUNIAO_TITANIUM_16JAN2026",
-      "path": "02_PROJETOS/KabaK/docs/reunioes/RESUMO_EXECUTIVO_REUNIAO_TITANIUM_16JAN2026.md"
+      "basename": "PLANO_Estruturacao_Legal_KabaK",
+      "path": "02_PROJETOS/KabaK/planejamento/PLANO_Estruturacao_Legal_KabaK.md"
     },
     {
-      "basename": "RESUMO_EXECUTIVO_REUNIAO_DR_ALEXANDRE_21JAN2026",
-      "path": "02_PROJETOS/KabaK/docs/reunioes/RESUMO_EXECUTIVO_REUNIAO_DR_ALEXANDRE_21JAN2026.md"
+      "basename": "PLANILHA_SANSOM_SIMPLES",
+      "path": "02_PROJETOS/KabaK/planejamento/PLANILHA_SANSOM_SIMPLES.md"
     },
     {
-      "basename": "Transcrio_reuniao_Sansom_com_dr_Alexandre_",
-      "path": "02_PROJETOS/KabaK/docs/Transcrio_reuniao_Sansom_com_dr_Alexandre_.pdf"
+      "basename": "PROXIMOS_PASSOS_SOCIEDADE_SANSOM",
+      "path": "02_PROJETOS/KabaK/planejamento/PROXIMOS_PASSOS_SOCIEDADE_SANSOM.md"
     },
     {
-      "basename": "PROXIMOS_PASSOS_ESTRUTURACAO_LEGAL",
-      "path": "02_PROJETOS/KabaK/planejamento/PROXIMOS_PASSOS_ESTRUTURACAO_LEGAL.md"
+      "basename": "tabela_kabak_v5",
+      "path": "02_PROJETOS/KabaK/planejamento/recursos/tabela_kabak_v5.png"
+    },
+    {
+      "basename": "TODO_Sprint_Atual",
+      "path": "02_PROJETOS/KabaK/tarefas/TODO_Sprint_Atual.md"
+    },
+    {
+      "basename": "CHECKPOINT_19DEZ2025_Proposta_Titanium",
+      "path": "02_PROJETOS/KabaK/checkpoints/CHECKPOINT_19DEZ2025_Proposta_Titanium.md"
+    },
+    {
+      "basename": "CHECKPOINT_24DEZ2025_Correcao_Impostos",
+      "path": "02_PROJETOS/KabaK/checkpoints/CHECKPOINT_24DEZ2025_Correcao_Impostos.md"
+    },
+    {
+      "basename": "CHECKLIST_ENVIO_SANSOM",
+      "path": "02_PROJETOS/KabaK/docs/CHECKLIST_ENVIO_SANSOM.md"
+    },
+    {
+      "basename": "BRIEFING_DR_ALEXANDRE_19JAN2026",
+      "path": "02_PROJETOS/KabaK/docs/BRIEFING_DR_ALEXANDRE_19JAN2026.md"
     },
     {
       "basename": "BRIEFING_DR_ALEXANDRE_COMPACTO",
       "path": "02_PROJETOS/KabaK/docs/BRIEFING_DR_ALEXANDRE_COMPACTO.md"
     },
     {
-      "basename": "BRIEFING_DR_ALEXANDRE",
-      "path": "02_PROJETOS/KabaK/docs/BRIEFING_DR_ALEXANDRE.md"
+      "basename": "Transcrio_reuniao_Sansom_com_dr_Alexandre_",
+      "path": "02_PROJETOS/KabaK/docs/Transcrio_reuniao_Sansom_com_dr_Alexandre_.pdf"
     },
     {
-      "basename": "BRIEFING_DR_ALEXANDRE_19JAN2026",
-      "path": "02_PROJETOS/KabaK/docs/BRIEFING_DR_ALEXANDRE_19JAN2026.md"
+      "basename": "STATUS_ATUAL",
+      "path": "02_PROJETOS/KabaK/STATUS_ATUAL.md"
+    },
+    {
+      "basename": "RESUMO_EXECUTIVO_REUNIAO_TITANIUM_16JAN2026",
+      "path": "02_PROJETOS/KabaK/docs/reunioes/RESUMO_EXECUTIVO_REUNIAO_TITANIUM_16JAN2026.md"
+    },
+    {
+      "basename": "MENSAGEM_ENVIO_DR_ALEXANDRE_19JAN2026",
+      "path": "02_PROJETOS/KabaK/docs/reunioes/MENSAGEM_ENVIO_DR_ALEXANDRE_19JAN2026.md"
+    },
+    {
+      "basename": "MENSAGEM_ENVIO_SANSOM",
+      "path": "02_PROJETOS/KabaK/docs/reunioes/MENSAGEM_ENVIO_SANSOM.md"
     },
     {
       "basename": "GUIA_Leitura_Claude",
@@ -109,18 +141,6 @@
       "path": "02_PROJETOS/KabaK/planejamento/PLANILHA_FINANCEIRA_12_MESES.md"
     },
     {
-      "basename": "PLANILHA_SANSOM_SIMPLES",
-      "path": "02_PROJETOS/KabaK/planejamento/PLANILHA_SANSOM_SIMPLES.md"
-    },
-    {
-      "basename": "Reuniao_Titanium_Transcricao",
-      "path": "02_PROJETOS/KabaK/docs/Reuniao_Titanium_Transcricao.md"
-    },
-    {
-      "basename": "Reuniao_Titanium_Analise",
-      "path": "02_PROJETOS/KabaK/docs/Reuniao_Titanium_Analise.md"
-    },
-    {
       "basename": "Resumo_Parceria_Titanium_Socios",
       "path": "02_PROJETOS/KabaK/docs/Resumo_Parceria_Titanium_Socios.md"
     },
@@ -141,20 +161,12 @@
       "path": "02_PROJETOS/KabaK/planejamento/PROPOSTA_FINAL_KABAK_SANSOM.md"
     },
     {
-      "basename": "PROXIMOS_PASSOS_SOCIEDADE_SANSOM",
-      "path": "02_PROJETOS/KabaK/planejamento/PROXIMOS_PASSOS_SOCIEDADE_SANSOM.md"
-    },
-    {
       "basename": "README",
       "path": "02_PROJETOS/KabaK/tarefas/README.md"
     },
     {
       "basename": "BACKLOG",
       "path": "02_PROJETOS/KabaK/tarefas/BACKLOG.md"
-    },
-    {
-      "basename": "TODO_Sprint_Atual",
-      "path": "02_PROJETOS/KabaK/tarefas/TODO_Sprint_Atual.md"
     },
     {
       "basename": "CONCLUIDAS",
@@ -169,36 +181,8 @@
       "path": "02_PROJETOS/KabaK/metricas/DASHBOARD.md"
     },
     {
-      "basename": "STATUS_ATUAL",
-      "path": "02_PROJETOS/KabaK/STATUS_ATUAL.md"
-    },
-    {
       "basename": "README",
       "path": "02_PROJETOS/KabaK/README.md"
-    },
-    {
-      "basename": "PLANO_CORRECAO_URGENTE",
-      "path": "02_PROJETOS/KabaK/planejamento/PLANO_CORRECAO_URGENTE.md"
-    },
-    {
-      "basename": "STATUS_VAULT",
-      "path": "STATUS_VAULT.md"
-    },
-    {
-      "basename": "PLANILHA_KABAK_PREENCHIDA_AUDITADA",
-      "path": "02_PROJETOS/KabaK/99_ARQUIVO/Legacy_2025/Outlet_Expansion/docs/PLANILHA_KABAK_PREENCHIDA_AUDITADA.md"
-    },
-    {
-      "basename": "README",
-      "path": "02_PROJETOS/KabaK/planejamento/README.md"
-    },
-    {
-      "basename": "CHECKPOINT_19DEZ2025_Proposta_Titanium",
-      "path": "02_PROJETOS/KabaK/checkpoints/CHECKPOINT_19DEZ2025_Proposta_Titanium.md"
-    },
-    {
-      "basename": "valores fabrica",
-      "path": "valores fabrica.md"
     }
   ],
   "omittedPaths": [],

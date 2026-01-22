@@ -52,7 +52,7 @@
 
 ### Fabricação
 
-**Local:** Fábrica Jean (Gabriele Confecções) - MG
+**Local:** Fábrica Jean (Sports.com) - MG
 
 **Processo:**
 - Corte

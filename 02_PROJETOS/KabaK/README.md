@@ -1,6 +1,8 @@
 ---
 criado: 2025-12-19T18:01:51-03:00
 atualizado: 2026-01-15T15:45:00-03:00
+created: 2026-01-22T12:08
+updated: 2026-01-22T12:08
 ---
 
 # KabaK - Reestruturação e E-commerce 2026
@@ -68,7 +70,7 @@ Reunião 2h30 com Sansom, Gassen, Kris e Jean. **ACORDO VERBAL FIRMADO:**
 
 **Investimento:**
 
-- **Total:** R$ 2.106.300 (6 meses)
+- **Total:** R$ 2.096.300 (6 meses)
 - **Sansom:** R$ 1.053.150 (50%)
 - **Jean+Gassen+Kris:** R$ 1.053.150 (50%)
 - **ROI:** 155% em 12 meses
@@ -181,7 +183,7 @@ Estoque (240k peças):     R$ 1.440.000
 Marketing/Setup/Giro:     R$   540.000
 Déficit Operacional:      R$   126.300
 ---------------------------------------
-TOTAL:                    R$ 2.106.300
+TOTAL:                    R$ 2.096.300
 ```
 
 ### Divisão Societária

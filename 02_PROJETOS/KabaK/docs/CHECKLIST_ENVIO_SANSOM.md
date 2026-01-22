@@ -1,6 +1,8 @@
 ---
 criado: 2026-01-14T21:55:04-03:00
 atualizado: 2026-01-14T22:30:00-03:00
+created: 2026-01-14T21:55
+updated: 2026-01-21T23:39
 ---
 # 📦 PACOTE DE ENVIO - PROJETO KABAK (SANSOM)
 

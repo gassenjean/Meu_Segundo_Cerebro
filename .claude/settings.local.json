@@ -29,7 +29,12 @@
       "Bash(else echo \"Missing SKILL.md\")",
       "Bash(fi)",
       "Bash(done)",
-      "Bash(for skill in .gemini/skills/*/)"
+      "Bash(for skill in .gemini/skills/*/)",
+      "Skill(kabak)",
+      "WebSearch",
+      "Bash(find:*)",
+      "Bash(python3:*)",
+      "Bash(node -e:*)"
     ]
   }
 }

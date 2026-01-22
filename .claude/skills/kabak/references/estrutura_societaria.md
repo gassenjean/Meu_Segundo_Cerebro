@@ -58,7 +58,7 @@ A sociedade KabaK possui estrutura híbrida diferenciando poder de decisão e di
 **Estrutura Familiar:**
 
 **Jean** (Pai, CEO/Dono KabaK Atual):
-- Dono e CEO da KabaK/Gabriele Confecções
+- Dono e CEO da KabaK/Sports.com
 - Investidor 100% do KabaK até agora
 - **Responsabilidades:**
   - CEO e gestão produção
@@ -103,13 +103,13 @@ Opções:
 - **Opção A:** Jean 60% / Gassen 25% / Kris 15% (peso no investimento histórico)
 - **Opção B:** Jean 50% / Gassen 30% / Kris 20% (mais equilibrado)
 - **Opção C:** Jean 40% / Gassen 35% / Kris 25% (peso na criação/operação)
-- **A DEFINIR:** Com Dr. Alexandre no projeto "Gabriele Confecções Jurídico 2026"
+- **A DEFINIR:** Com Dr. Alexandre no projeto "Sports.com Jurídico 2026"
 
 ---
 
 ## Prestadores de Serviço (NÃO Sócios)
 
-### Fábrica Jean (Gabriele Confecções)
+### Fábrica Jean (Sports.com)
 
 **Status:** Prestadora de serviço exclusiva (NÃO sócia)
 
@@ -207,11 +207,11 @@ Opções:
 - Caixa da operação
 - **LIMPA:** Sem dívidas ou passivos históricos
 
-**Gabriele Confecções (Fábrica Jean):**
+**Sports.com (Fábrica Jean):**
 - Atua exclusivamente como **FORNECEDORA/PRESTADORA DE SERVIÇO**
 - Não há confusão patrimonial
-- KabaK contrata produção da Gabriele (modelo "Custo + Margem")
-- Passivos da Gabriele ficam isolados na fábrica
+- KabaK contrata produção da Sports.com (modelo "Custo + Margem")
+- Passivos da Sports.com ficam isolados na fábrica
 - **NÃO contamina** a Nova Sociedade
 
 **Benefícios:**

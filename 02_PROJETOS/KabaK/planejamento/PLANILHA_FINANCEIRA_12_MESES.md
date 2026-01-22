@@ -1,12 +1,14 @@
 ---
 criado: 2026-01-14T19:40:21-03:00
 atualizado: 2026-01-14T22:00:03-03:00
+created: 2026-01-22T12:08
+updated: 2026-01-22T12:08
 ---
 # PLANILHA FINANCEIRA DETALHADA - 12 MESES
 
 **Projeto:** Sociedade KabaK (50% Sansom / 50% Jean + Gassen + Kris)
 **Período:** Mai/2026 a Abr/2027 (12 meses operacionais)
-**Investimento Total:** R$ 2.106.300 (R$ 1.053.150 Sansom / R$ 1.053.150 Jean + Gassen + Kris) (payback mês 4)
+**Investimento Total:** R$ 2.096.300 (R$ 1.053.150 Sansom / R$ 1.053.150 Jean + Gassen + Kris) (payback mês 4)
 
 ### 📋 PREMISSAS DA PLANILHA
 
@@ -419,7 +421,7 @@ Baseado em estratégia Atara + capacidade produtiva.
 |:----------|------:|
 | Pré-operacional | R$ 1.980.000 |
 | Operacional | R$ 126.300 |
-| **TOTAL** | **R$ 2.106.300** ✅ |
+| **TOTAL** | **R$ 2.096.300** ✅ |
 | **Por Parte (50%)** | **R$ 1.053.150** |
 
 ### DIVISÃO SOCIETÁRIA
@@ -428,7 +430,7 @@ Baseado em estratégia Atara + capacidade produtiva.
 Sansom (50%):                    R$ 1.053.150
 Gassen + Kris + Jean (50%):      R$ 1.053.150
 -----------------------------------------------
-TOTAL:                           R$ 2.106.300
+TOTAL:                           R$ 2.096.300
 ```
 
 ---
