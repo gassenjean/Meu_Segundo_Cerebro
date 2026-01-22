@@ -75,6 +75,7 @@
 **Total:** ~110KB (consolidados, otimizados)
 
 **Quando ler:**
+
 - Criar arquivo na categoria X → Ler X/_GUIDELINES.md
 - Mover arquivo → Ler guideline de origem + destino
 - Dúvida sobre organização → Guideline relevante
@@ -144,7 +145,7 @@
 
 ---
 
-### 📖 NÍVEL 5: GUIAS DE LEITURA (3 guias)
+### 📖 NÍVEL 5: GUIAS DE LEITURA (6 guias)
 
 **Progressive disclosure - o que ler quando**
 
@@ -153,8 +154,11 @@
 | [[00_SISTEMA/GUIAS/GUIA_Leitura_Claude.md]] | Claude Code | Leitura obrigatória/condicional, workflows, economia 40-50% tokens |
 | [[00_SISTEMA/GUIAS/GUIA_Leitura_Gemini.md]] | Gemini/Antigravity | Papel no sistema bi-IA, o que ler/não ler, templates |
 | [[00_SISTEMA/GUIAS/GUIA_Usuario_Quick_Start.md]] | Usuário (Gassen) | Decision trees, mapa de pastas, qual IA usar, rotinas |
+| [[00_SISTEMA/GUIAS/GUIA_COMANDOS_CLAUDE.md]] | Técnico | Referência completa de comandos Claude |
+| [[00_SISTEMA/GUIAS/QUICK_START_ANTIGRAVITY_GITHUB.md]] | Técnico | Quick Start para GitHub via Antigravity |
+| [[00_SISTEMA/GUIAS/MANUAL_SYSTEM_GASSEN_V3.md]] | Histórico | Manual V3 do sistema (Referência) |
 
-**Total:** ~20KB
+**Total:** ~40KB
 
 ---
 
@@ -169,6 +173,7 @@
 **Total:** ~30KB
 
 **Conteúdo:**
+
 - Comparação arquitetural Claude Skills vs Antigravity Skills
 - Oportunidades de integração bi-IA
 - Plano de ação em 5 fases
@@ -190,22 +195,27 @@ Grafo é acíclico, ordenação topológica possível.
 ### Dependências Principais
 
 **Fundação (Nível 1):**
+
 - CLAUDE.md → Referencia TODOS os outros
 - ARCHITECTURE_GUIDELINES → Define princípios (Smart Zone 40%, RPI)
 
 **Padrões (Nível 2):**
+
 - NOMENCLATURA.md ← Usado por PROTOCOLO_CRIACAO_ARQUIVOS
 - GUIA_Claude_vs_Gemini ← Usado por PROTOCOLO_CLAUDE_GEMINI_ORQUESTRACAO
 
 **Guidelines (Nível 3):**
+
 - Cada _GUIDELINES.md ← Depende de NOMENCLATURA.md
 - 02_PROJETOS/_GUIDELINES.md ← Substitui ESTRUTURA_PROJETOS.md
 
 **Protocolos (Nível 4):**
+
 - PROTOCOLO_CRIACAO_ARQUIVOS → Depende de NOMENCLATURA + Guidelines
 - TROUBLESHOOTING_GUIA_RAPIDO → Consolida 2 guias antigos
 
 **Guias (Nível 5):**
+
 - GUIA_Leitura_Claude → Referencia MOC_Padroes_Protocolos_Guidelines (este arquivo)
 - GUIA_Usuario_Quick_Start → Decision trees apontam para docs específicos
 
@@ -256,6 +266,7 @@ Grafo é acíclico, ordenação topológica possível.
 ```
 
 **Tokens:**
+
 - Primeira sessão: 30-40min leitura (~80k tokens)
 - Sessões típicas: 5-10min leitura (~20k tokens)
 - Sessões urgentes: 2min (logs apenas, ~5k tokens)
@@ -339,6 +350,7 @@ Grafo é acíclico, ordenação topológica possível.
 **Princípio:** Manter contexto abaixo de 40% da janela (80k/200k tokens)
 
 **Aplicação:**
+
 - Progressive disclosure (guias de leitura)
 - On-demand loading (só ler arquivos necessários)
 - Sub-agents (Task tool para tarefas específicas)
@@ -349,6 +361,7 @@ Grafo é acíclico, ordenação topológica possível.
 **Princípio:** Uma fonte de verdade por tipo de informação
 
 **Aplicação:**
+
 - Nomenclatura → NOMENCLATURA.md (único)
 - Estrutura projetos → 02_PROJETOS/_GUIDELINES.md (deprecou ESTRUTURA_PROJETOS)
 - Valores KabaK → VALORES_OFICIAIS.md (único)
@@ -359,6 +372,7 @@ Grafo é acíclico, ordenação topológica possível.
 **Princípio:** Nunca deletar, sempre deprecar com aviso claro
 
 **Template:**
+
 ```markdown
 # [DEPRECADO] Título Original
 
@@ -380,6 +394,7 @@ Substituído por: [[Link]]
 ### 16/Jan/2026 - Consolidação Opção B (Moderada)
 
 **Problema:**
+
 - 25+ arquivos (~319KB)
 - Duplicação 60% (ESTRUTURA_PROJETOS vs 02_PROJETOS/_GUIDELINES)
 - Troubleshooting fragmentado (2 guias)
@@ -387,6 +402,7 @@ Substituído por: [[Link]]
 - Token usage 80-100k por sessão típica
 
 **Solução:**
+
 - ✅ Criados 7 novos arquivos estruturais (48KB)
 - ✅ Deprecados 3 arquivos (preservados com avisos)
 - ✅ Eliminada duplicação 60% → 0%
@@ -396,6 +412,7 @@ Substituído por: [[Link]]
 - ✅ Economia estimada: -40-50% tokens (80k → 40-60k)
 
 **Arquivos criados:**
+
 1. MOC_Padroes_Protocolos_Guidelines.md (este arquivo)
 2. MOC_Sincronizacao_Sistemas.md
 3. TROUBLESHOOTING_GUIA_RAPIDO.md
@@ -405,6 +422,7 @@ Substituído por: [[Link]]
 7. MAPA_INTERDEPENDENCIAS.md
 
 **Arquivos deprecados:**
+
 1. ESTRUTURA_PROJETOS.md → [[02_PROJETOS/_GUIDELINES.md]]
 2. GUIA_RAPIDO_ERRO_OVERLOAD.md → [[TROUBLESHOOTING_GUIA_RAPIDO.md]] Seção 1
 3. GUIA_RECUPERACAO_ERRO_GEMINI.md → [[TROUBLESHOOTING_GUIA_RAPIDO.md]] Seção 2
@@ -428,7 +446,7 @@ Substituído por: [[Link]]
 
 ## 🆘 AJUDA
 
-### Se está perdido:
+### Se está perdido
 
 1. **"Não sei o que ler ao iniciar sessão"**
    → [[00_SISTEMA/GUIAS/GUIA_Leitura_Claude.md]] (se Claude)
@@ -451,7 +469,7 @@ Substituído por: [[Link]]
 6. **"Como está estruturada a arquitetura?"**
    → [[00_SISTEMA/PADROES/ARCHITECTURE_GUIDELINES.md]]
 
-### Se quer entender interdependências:
+### Se quer entender interdependências
 
 → [[00_SISTEMA/MOCs/MAPA_INTERDEPENDENCIAS.md]]
 
