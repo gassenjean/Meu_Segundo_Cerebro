@@ -1,6 +1,8 @@
 ---
 criado: 2025-12-02T11:38:00-03:00
 atualizado: 2026-01-22T00:50:00-03:00
+created: 2026-01-22T09:47
+updated: 2026-01-22T12:46
 ---
 
 # 📡 PC Sync Log - Comunicação Alienware ↔ Desktop Casa
@@ -34,36 +36,48 @@ Este arquivo permite que o **Alienware** (notebook trabalho/externo) e o **Deskt
 
 ## 📋 ÚLTIMAS MUDANÇAS (Últimas 10 sessões)
 
-### 🖥️ Desktop Casa - 22/01/2026 (00:50) 🔵 KABAK DOSSIÊ
+### 🖥️ Desktop Casa - 22/01/2026 (12:45) 🦅 WIKI LENDÁRIA COMPLETA (PHASE 5)
+
 **Ações realizadas:**
-- ✅ **Dossiê Financeiro criado:** `DOSSIE_FINANCEIRO_ANALISE_TRIBUTARIA.md` (600+ linhas)
-  - Projeções 12 meses (3 cenários)
-  - Simulações tributárias (Simples vs Presumido vs Real)
-  - 12 perguntas para Dr. Alexandre
-- ✅ **Mensagens preparadas:** Grupo WhatsApp (Sansom) + Dr. Alexandre
-- ✅ **SESSION_LOG.md atualizado**
-- ✅ **TODO_Sprint_Atual.md atualizado**
+
+- ✅ **Extração Granular (Deep Dive):**
+  - **99 Prompts Brutos** extraídos para `WIKI/ASSETS/PROMPTS/` (Athena, Clone, Aurora).
+  - **3 Estudos de Caso** extraídos para `WIKI/ASSETS/CASES/` (Flows reais de 1.5h).
+- ✅ **Manual V2 Atualizado:** Links diretos para os assets no Volume 2.
+- ✅ **Master Index Finalizado:** `CONHECIMENTO_CONSOLIDADO.md` aponta para tudo (4 Volumes + Assets).
+- ✅ **Limpeza:** Arquivos `TEMP_` deletados.
 
 **Arquivos criados:**
-- `02_PROJETOS/KabaK/docs/DOSSIE_FINANCEIRO_ANALISE_TRIBUTARIA.md`
+
+- `WIKI/ASSETS/PROMPTS/*.md` (99 arquivos)
+- `WIKI/ASSETS/CASES/*.md` (3 arquivos)
+- `WIKI/MANUAL_ENGENHARIA_DE_AGENTES.md` (Atualizado)
+- `CONHECIMENTO_CONSOLIDADO.md` (Versão Final)
 
 **Próximos passos:**
-- Enviar mensagens (WhatsApp)
-- Reunião Sansom (23/Jan)
-- Reunião ML (27/Jan)
+
+- Estudar os casos de uso em `WIKI/ASSETS/CASES`.
+- Começar a aplicar os prompts reais no n8n/Claude.
+
+---
+
+### 🖥️ Desktop Casa - 22/01/2026 (00:50) 🔵 KABAK DOSSIÊ
 
 ---
 
 ### 💻 Alienware - 20/01/2026 (14:48) 🟣 KABAK + KONDO
+
 **Ações realizadas:**
+
 - ✅ **Agente KabaK:** Sprint de documentos de execução (Jurídico, Titanium, China).
 - ✅ **Marie Kondo:** Auditoria e Limpeza Inicial.
-    - 🧹 Removidos 4 templates perdidos para `04_RECURSOS/TEMPLATES`.
-    - 🧹 Eliminada pasta duplicada `00_SISTEMA/MOCs/MOCs` (22 arquivos).
-    - 🧹 Renomeados 67 arquivos em `01_CONHECIMENTO` (espaços -> underscores).
-    - 📊 Relatório de Auditoria criado: `00_SISTEMA/RELATORIOS/AUDITORIA_VAULT_20JAN2026.md`.
+  - 🧹 Removidos 4 templates perdidos para `04_RECURSOS/TEMPLATES`.
+  - 🧹 Eliminada pasta duplicada `00_SISTEMA/MOCs/MOCs` (22 arquivos).
+  - 🧹 Renomeados 67 arquivos em `01_CONHECIMENTO` (espaços -> underscores).
+  - 📊 Relatório de Auditoria criado: `00_SISTEMA/RELATORIOS/AUDITORIA_VAULT_20JAN2026.md`.
 
 **Arquivos criados:**
+
 - `02_PROJETOS/KabaK/docs/reunioes/MENSAGEM_ENVIO_DR_ALEXANDRE_19JAN2026.md`
 - `02_PROJETOS/KabaK/docs/contratos/PO_TITANIUM_INICIAL.md`
 - `02_PROJETOS/KabaK/docs/suprimentos/CHECKLIST_PEDIDO_CHINA.md`
@@ -71,6 +85,7 @@ Este arquivo permite que o **Alienware** (notebook trabalho/externo) e o **Deskt
 - `.gemini/skills/vault-organizer/scripts/batch_renamer.py`
 
 **Próximos passos sugeridos:**
+
 - [ ] **KabaK:** Enviar documentos (Dr. Alexandre, Titanium, Sansom).
 - [ ] **Organização:** Continuar renomeação em lotes nas outras pastas.
 
@@ -79,9 +94,9 @@ Este arquivo permite que o **Alienware** (notebook trabalho/externo) e o **Deskt
 >
 > 🧹 **Sessão Produtiva: KabaK Execution + Faxina Marie Kondo**
 >
-> 1.  **KabaK:** Documentos finais prontos (Jurídico, Titanium, China). Só enviar.
-> 2.  **Organização:** Rodei a Marie Kondo. Movi templates perdidos, apaguei duplicatas e renomeei 67 arquivos de Conhecimento.
-> 3.  **Ferramenta Nova:** Criei `batch_renamer.py` para renomear em massa. Pode usar aí também se precisar.
+> 1. **KabaK:** Documentos finais prontos (Jurídico, Titanium, China). Só enviar.
+> 2. **Organização:** Rodei a Marie Kondo. Movi templates perdidos, apaguei duplicatas e renomeei 67 arquivos de Conhecimento.
+> 3. **Ferramenta Nova:** Criei `batch_renamer.py` para renomear em massa. Pode usar aí também se precisar.
 >
 > O vault está mais leve e o KabaK está pronto para decolar. Bom descanso! 💤
 
@@ -1026,14 +1041,14 @@ _[Vazio - primeira conversa será registrada aqui]_
 
 ---
 
-###  Desktop Casa - 18/01/2026 (17:30)  AUDITORIA & PREPARAÇÃO FASE 7.4
+### Desktop Casa - 18/01/2026 (17:30)  AUDITORIA & PREPARAÇÃO FASE 7.4
 
 **Ações realizadas:**
 
--  **Criada Skill:** session-log-archiver (Log verificado, sem arquivamento necessário).
--  **Criada Skill:** vault-auditor (Relatório gerado com 1000+ issues).
--  **Fix:** Limpeza da Raiz do Vault (12 arquivos movidos/deletados).
--  **Planejamento:** Revisado PLANO_Fase_7_4 para versão simplificada (Top 4).
+- **Criada Skill:** session-log-archiver (Log verificado, sem arquivamento necessário).
+- **Criada Skill:** vault-auditor (Relatório gerado com 1000+ issues).
+- **Fix:** Limpeza da Raiz do Vault (12 arquivos movidos/deletados).
+- **Planejamento:** Revisado PLANO_Fase_7_4 para versão simplificada (Top 4).
 
 **Arquivos modificados:**
 
@@ -1059,18 +1074,18 @@ _[Vazio - primeira conversa será registrada aqui]_
 > O plano da Fase 7.4 foi ajustado para focar em qualidade (Top 4 skills).
 > Tudo pronto para começar a criar a skill 'validate'.
 
-
 ---
 
-###  Desktop Casa - 18/01/2026 (16:08)  FASE 7.4 - WEEK 1 (COMPLETA)
+### Desktop Casa - 18/01/2026 (16:08)  FASE 7.4 - WEEK 1 (COMPLETA)
 
 **Ações realizadas:**
 
--  **Implementada Skill:** validate (Guardião do Sistema).
--  **Implementada Skill:** mapa (Índice Completo).
--  **Output:**  0_SISTEMA/INDICE_VAULT_COMPLETO.md gerado.
+- **Implementada Skill:** validate (Guardião do Sistema).
+- **Implementada Skill:** mapa (Índice Completo).
+- **Output:**  0_SISTEMA/INDICE_VAULT_COMPLETO.md gerado.
 
 **Status:**
+
 - Week 1 (Quick Wins)  CONCLUÍDA.
 - Week 2 (Estruturais)  AGUARDANDO.
 
@@ -1080,17 +1095,16 @@ _[Vazio - primeira conversa será registrada aqui]_
 > 'validate' serve para checar se arquivos seguem o padrão.
 > Próximo passo: Skills mais complexas (context-manager).
 
-
 ---
 
-###  Desktop Casa - 18/01/2026 (16:17)  FIX: SESSION LOG SIZE
+### Desktop Casa - 18/01/2026 (16:17)  FIX: SESSION LOG SIZE
 
 **Ação Corretiva:**
--  Usuário reportou SESSION_LOG.md muito grande (~100KB).
--  Modificado session-log-archiver: Limite reduzido de 30 -> 5 entradas.
--  Executado arquivamento imediato.
--  Resultado:
-  - Antes: 25 entradas, 102KB.
-  - Depois: 5 entradas, 15KB.
-  - Arquivados: 20 entradas movidas para LOGS/SESSION_LOG_ARQUIVO_JAN_2026.md.
 
+- Usuário reportou SESSION_LOG.md muito grande (~100KB).
+- Modificado session-log-archiver: Limite reduzido de 30 -> 5 entradas.
+- Executado arquivamento imediato.
+- Resultado:
+- Antes: 25 entradas, 102KB.
+- Depois: 5 entradas, 15KB.
+- Arquivados: 20 entradas movidas para LOGS/SESSION_LOG_ARQUIVO_JAN_2026.md.
