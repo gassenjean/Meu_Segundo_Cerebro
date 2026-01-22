@@ -6,7 +6,7 @@ prioridade: critica
 status: ativo
 fonte: transcricao_completa
 created: 2026-01-21T22:54
-updated: 2026-01-21T23:07
+updated: 2026-01-22T12:53
 ---
 
 # RESUMO COMPLETO - Reuniao Dr. Alexandre + Sansom (21/Jan/2026)
@@ -36,7 +36,7 @@ Estruturar juridicamente a sociedade KabaK e alinhar:
 1. [Visao de Futuro - Sansom](#1-visao-de-futuro---sansom)
 2. [Estrutura Societaria](#2-estrutura-societaria)
 3. [Modelo de Negocio Expandido](#3-modelo-de-negocio-expandido)
-4. [Sports.com como Fornecedor](#4-jkmgabriele-como-fornecedor)
+4. [Sports.com como Fornecedor](#4-sportscom-como-fornecedor)
 5. [Planejamento Tributario](#5-planejamento-tributario)
 6. [Credito BNDES - Oportunidade](#6-credito-bndes---oportunidade)
 7. [Logistica - Parceiro Sansom](#7-logistica---parceiro-sansom)
@@ -568,7 +568,7 @@ Estruturar juridicamente a sociedade KabaK e alinhar:
 - Simulacoes Simples vs Presumido vs Real
 - Cenarios de faturamento
 - Beneficios fiscais
-- Analise completa Gabriele + KabaK
+- Analise completa Sports.com + KabaK
 
 ### Acoes Imediatas Acordadas
 

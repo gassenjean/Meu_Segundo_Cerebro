@@ -1,6 +1,6 @@
 ---
 created: 2026-01-22T11:59
-updated: 2026-01-22T12:30
+updated: 2026-01-22T12:57
 ---
 # 🦅 WIKI LENDÁRIA: O GRIMÓRIO CENTRAL
 
@@ -46,6 +46,26 @@ O conteúdo foi refinado, sintetizado e dividido em 4 volumes temáticos para fa
 
 - **Foco:** Definições rápidas de termos técnicos e filosóficos.
 - **Quando usar:** Para entender o "dialeto" e siglas (MOC, CoT, ToT).
+
+---
+
+## 💎 DEEP DIVE (ASSETS & CASOS REAIS)
+
+Aprofunde-se com os arquivos "crus" extraídos diretamente do cérebro do Alan.
+
+### 📜 [Prompts Originais (Raw Assets)](WIKI/ASSETS/PROMPTS/)
+
+A coleção completa de 99+ arquivos de instruções.
+
+- **Destaques:** [Prompt Clone.md](WIKI/ASSETS/PROMPTS/Prompt%20Clone.md), [Atena SDR](WIKI/ASSETS/PROMPTS/Prompt_Atena%20-%20SDR%20Lendária%20v2.md), [Aurora](WIKI/ASSETS/PROMPTS/Prompt%20Aurora.md).
+
+### 🔬 [Estudos de Caso Técnicos](WIKI/ASSETS/CASES/)
+
+Passo-a-passo granular de implementações reais.
+
+- [📝 Documentação em 1.5h](WIKI/ASSETS/CASES/WORKFLOW_DOCUMENTACAO_PROJETO.md) (O caso dos R$20k economizados)
+- [🎓 Criação de Curso](WIKI/ASSETS/CASES/WORKFLOW_CRIACAO_CURSO.md) (De 40h para 2h)
+- [📂 Organização de Arquivos](WIKI/ASSETS/CASES/WORKFLOW_ORGANIZACAO_ARQUIVOS.md) (O fim da bagunça no Desktop)
 
 ---
 
