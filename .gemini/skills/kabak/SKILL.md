@@ -46,9 +46,9 @@ Activate this skill when the user needs to:
 2. Consult `references/stakeholders.md` for participant context
 3. Extract key decisions, action items, and next steps
 4. Use templates from `assets/templates/` to generate:
-   - `RESUMO_EXECUTIVO_REUNIAO_[TOPIC]_[DATE].md` - Complete executive summary
-   - `RESUMO_FINANCEIRO_[STAKEHOLDER].md` - Financial summary if relevant
-   - `PROXIMOS_PASSOS_[TOPIC].md` - Detailed action plan with deadlines
+   - `Reuniao_[TOPIC]_[DATE].md` - Complete meeting summary (in `docs/reunioes/`)
+   - `Resumo_Financeiro_[STAKEHOLDER].md` - Financial summary if relevant
+   - `PLANO_[TOPIC].md` - Detailed action plan with deadlines (in `planejamento/`)
 5. Update `TODO_Sprint_Atual.md` with new action items
 6. Update `DASHBOARD.md` with new metrics if mentioned
 7. Create entries in `CONCLUIDAS.md` for completed tasks mentioned
@@ -163,7 +163,7 @@ Activate this skill when the user needs to:
 
 All templates are in `assets/templates/` and follow KabaK documentation standards:
 
-1. **TEMPLATE_RESUMO_EXECUTIVO.md** - Meeting executive summary
+1. **TEMPLATE_Reuniao.md** - Meeting summary
    - Structured sections with emojis
    - Participants, decisions, action items
    - Next steps with deadlines and owners
@@ -174,7 +174,7 @@ All templates are in `assets/templates/` and follow KabaK documentation standard
    - Cash flow timeline
    - Risk mitigation
 
-3. **TEMPLATE_PROXIMOS_PASSOS.md** - Detailed action plan
+3. **TEMPLATE_Plano_Acao.md** - Detailed action plan (PLANO_)
    - Organized by priority (🔴 Critical, 🟡 Urgent, 🟢 Nice-to-have)
    - Responsible parties and deadlines
    - Dependencies and blockers
@@ -240,6 +240,9 @@ Scripts in `scripts/` automate repetitive calculations and updates:
 
 ## Documentation Standards
 
+**⚠️ IMPORTANTE:** Sempre consultar `00_SISTEMA/PADROES/NOMENCLATURA.md` antes de criar arquivos.
+Prefixos válidos: `MOC_`, `PLANO_`, `CHECKPOINT_`, `TEMPLATE_`, `STATUS_`, `ROADMAP_`, `GUIA_`, `README`
+
 All KabaK documents follow these standards:
 
 **Frontmatter:**
@@ -253,13 +256,13 @@ status: [ativo|concluido|pausado]
 ---
 ```
 
-**Naming:**
-- RESUMO_EXECUTIVO_[TOPIC]_[DATE].md
-- RESUMO_FINANCEIRO_[STAKEHOLDER].md
-- PROXIMOS_PASSOS_[TOPIC].md
-- BRIEFING_[STAKEHOLDER].md
-- STATUS_ATUAL.md (single source of truth)
-- DASHBOARD.md (single metrics view)
+**Naming (seguir NOMENCLATURA.md do vault):**
+- `Reuniao_[TOPIC]_[DATE].md` - Meeting summaries (in `docs/reunioes/`)
+- `Resumo_Financeiro_[STAKEHOLDER].md` - Financial summaries
+- `PLANO_[TOPIC].md` - Action plans (in `planejamento/`)
+- `BRIEFING_[STAKEHOLDER]_[DATE].md` - Stakeholder briefings (in `docs/`)
+- `STATUS_ATUAL.md` - Single source of truth (project root)
+- `DASHBOARD.md` - Single metrics view (in `metricas/`)
 
 **Formatting:**
 - Use emojis for sections (🎯, 🔴, 🟡, 🟢, ✅, 📊, 💰)
@@ -300,6 +303,7 @@ When in doubt, ask user which workflow they prefer or suggest the most relevant 
 
 ---
 
-**Version:** 1.0
+**Version:** 1.1
 **Created:** 2026-01-14
+**Updated:** 2026-01-21 (Correção nomenclatura + custos atualizados)
 **For:** KabaK E-commerce Project (Sociedade Sansom/Jean)

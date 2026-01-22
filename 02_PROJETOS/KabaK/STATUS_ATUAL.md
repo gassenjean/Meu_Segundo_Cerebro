@@ -1,161 +1,160 @@
 ---
 criado: 2025-12-08T11:04:20-03:00
-atualizado: 2026-01-21T16:00:00-03:00
-created: 2026-01-21T22:07
-updated: 2026-01-21T22:24
+atualizado: 2026-01-21T22:45:00-03:00
+created: 2026-01-21T22:58
+updated: 2026-01-21T23:03
 ---
 
 # STATUS ATUAL - KabaK Reestruturação 2026
 
-**Última atualização:** 21/Jan/2026 - 16:00 (Reunião Dr. Alexandre - Estruturação Jurídica)
+**Última atualização:** 21/Jan/2026 - 22:45 (Pós-reunião Dr. Alexandre - Documento Completo)
 
 ---
 
 ## ✅ ONDE ESTAMOS
 
- **Fase Atual:** Estruturação Jurídica e Início Titanium
- **Progresso:** 75% ⬆️
+**Fase Atual:** Estruturação Jurídica e Início Titanium
+**Progresso:** 80% ⬆️
 
- ### Última Ação (21/Jan/2026 - 16:00) ⭐⭐⭐⭐
+### Última Ação (21/Jan/2026 - 16:00) ⭐⭐⭐⭐⭐
 
- - ✅ **REUNIÃO DR. ALEXANDRE REALIZADA:** Estruturação jurídica completa (~2h30)
- - ✅ **MODELO EXPANDIDO:** Não só e-commerce, mas marketplaces + outlet + lojas físicas (TODOS 50/50)
- - ✅ **PLANEJAMENTO TRIBUTÁRIO:** Dr. Alexandre vai entregar estudo completo (1 mês)
- - ✅ **BNDES DESCOBERTO:** Linha R$ 1-10M sem garantia, 2 anos carência, 0.27-0.83% ao ano!
- - ✅ **LOGÍSTICA SANSOM:** Parceiro com desconto 20% frete + 500.000 m² armazém GRÁTIS
- - 🆕 **PRESTAÇÃO SERVIÇO JKM:** Gabriele NÃO é sócia, apenas fornecedora (5-10% margem)
- - 🆕 **MARCAS NO CNPJ:** TODAS marcas devem pertencer à empresa (não pessoa física)
- - 🆕 **FUNDO DE RESERVA:** Percentual a definir - NÃO distribuir 100% lucro (modelo Mercado Livre)
+**REUNIÃO HISTÓRICA - Dr. Alexandre + Sansom + Gassen + Jean**
+**Local:** Casa do Jean, Zona Leste, SP
+**Duração:** ~2h30
 
- **Próximas Entregas Dr. Alexandre (26/Jan - Segunda):**
- 1. Ata de reunião de sócios
- 2. Acordo de sócios (Word editável)
- 3. Minuta contrato prestação serviço KabaK ↔ JKM
+#### Decisões Principais:
 
- ### Ação Anterior (20/Jan/2026 - 14:30) ⭐⭐⭐
+- ✅ **REUNIÃO DR. ALEXANDRE REALIZADA:** Estruturação jurídica completa
+- ✅ **MODELO EXPANDIDO:** E-commerce + marketplaces + outlet + lojas físicas (TODOS 50/50)
+- ✅ **PLANEJAMENTO TRIBUTÁRIO:** Dr. Alexandre vai entregar estudo completo (1 mês)
+- ✅ **BNDES DESCOBERTO:** Linha R$ 1-10M sem garantia, 2 anos carência, 0.27-0.83% ao ano!
+- ✅ **LOGÍSTICA SANSOM:** Parceiro com 41% desconto frete + 500.000 m² armazém GRÁTIS
+- ✅ **PRESTAÇÃO SERVIÇO JKM:** Gabriele NÃO é sócia, apenas fornecedora (5-10% margem)
+- ✅ **MARCAS NO CNPJ:** TODAS marcas devem pertencer à empresa (não pessoa física)
+- ✅ **FUNDO DE RESERVA:** Percentual a definir - NÃO distribuir 100% lucro (modelo Mercado Livre)
 
- - ✅ **BRIEFING ENVIADO:** Versão completa enviada ao Dr. Alexandre
- - ✅ **REUNIÃO DR. ALEXANDRE:** Agendada para **21/Jan/2026** (amanhã)
- - 🆕 **VISITA SANSOM:** Vai conhecer unidade SP (antes da reunião jurídica)
- - 🆕 **EDUARDA (CUNHADA):** Opção oferecida a Sansom para contratação
-   - **Perfil:** Experiência em logística, planejamento e financeiro
-   - **Status:** Aguardando decisão Sansom
+#### Oportunidades Descobertas:
 
- **Ordem das reuniões (21/Jan):**
- 1. Sansom visita unidade SP (conhecer operação)
- 2. Reunião Dr. Alexandre (estruturação jurídica)
+| Oportunidade | Detalhes | Impacto |
+|--------------|----------|---------|
+| **BNDES** | R$ 1-10M, 0.27-0.83% ao ano, sem garantia, 2 anos carência | 💰💰💰 |
+| **Logística** | 500k m² armazém GRÁTIS + 41% desconto frete | 💰💰 |
+| **Benefícios MG** | ICMS + desoneração folha = R$ 350k/ano economia | 💰💰 |
+| **Mercado Livre** | Equipe que fatura R$ 4M/mês, modelo hubs | 🚀 |
 
- ### Ação Anterior (19/Jan/2026 - 12:00) ⭐⭐
+#### Próximas Entregas Dr. Alexandre (26/Jan - Segunda):
+1. Ata de reunião de sócios
+2. Acordo de sócios (Word editável)
+3. Minuta contrato prestação serviço KabaK ↔ JKM
 
- - ✅ **TITANIUM APROVADO:** Sansom deu GO (verbal, documentos hoje)
- - ✅ **CUSTO TECIDO CONFIRMADO:** R$ 25/kg = R$ 5/peça = **R$ 15/kit**
- - ✅ **CUSTO FABRICAÇÃO CONFIRMADO (Jean):** R$ 10/peça (costura + sublimação) = **R$ 30/kit**
- - ✅ **CUSTO TOTAL PEÇA:** R$ 15 (R$ 5 tecido + R$ 10 fabricação)
- - ✅ **MARGEM BRUTA:** Mantém **45,3%** (custo produto R$ 48/kit = igual estimativa)
- - ✅ **ENTREGA TECIDO:** 2 toneladas final de Março/2026 (primeira remessa)
- - 🆕 **CANAIS EXPANDIDOS:** Sansom quer incluir no contrato:
-   - Outlet físico
-   - Shopee
-   - Mercado Livre
-   - TikTok Shop
-   - (Todos 50/50)
+#### Visão de Futuro - Sansom:
+- **R$ 1M/mês:** Começa a dedicar mais tempo
+- **R$ 10M/mês:** Dedica **MÍNIMO 50%** do tempo ao negócio
+- **Depois:** Buscar investidor bilionário da China (Shein, TikTok, Alibaba)
 
- ### Ação Anterior (16/Jan/2026 - 17:30)
+**Ver documento completo:** [[docs/reunioes/RESUMO_COMPLETO_REUNIAO_DR_ALEXANDRE_SANSOM_21JAN2026.md]]
 
- - ✅ **DESCONTO TITANIUM:** Conseguido R$ 10k no setup (R$ 60k → R$ 50k).
- - ✅ **ECONOMIA ANO 1:** R$ 100k total (setup + mensalidades escalonadas).
- - ✅ **BÔNUS OUTLET:** Tráfego pago físico INCLUÍDO (valor R$ 120-240k/ano) - sem custo adicional!
- - ✅ **INÍCIO IMEDIATO APROVADO:** Titanium começa desenvolvimento produto/linha AGORA.
- - ✅ **INVESTIMENTO FINAL:** R$ 2.096.300 (antes R$ 2.106.300).
- - ✅ **DIVISÃO ATUALIZADA:** R$ 1.048.150 cada lado (50/50).
- - ✅ **DOCUMENTO SANSOM:** Criado comunicado executivo completo (`COMUNICADO_SANSOM_NEGOCIACAO_TITANIUM.md`).
- - ✅ **ESCOPO TITANIUM:** Auxilia em TODO projeto (matéria-prima → produto → vendas online + outlet).
+### Ação Anterior (20/Jan/2026 - 14:30) ⭐⭐⭐
 
- ### Ações Anteriores (15/Jan/2026)
+- ✅ **BRIEFING ENVIADO:** Versão completa enviada ao Dr. Alexandre
+- ✅ **REUNIÃO DR. ALEXANDRE:** Agendada para **21/Jan/2026** (amanhã)
+- 🆕 **VISITA SANSOM:** Vai conhecer unidade SP (antes da reunião jurídica)
+- 🆕 **EDUARDA (CUNHADA):** Opção oferecida a Sansom para contratação
+  - **Perfil:** Formada em logística, trabalha na ABIHPEC (Fiesp)
+  - **Status:** Sansom demonstrou interesse forte
 
- - ✅ **RETORNO SANSOM CONFIRMADO:** Decisão de investir tomada.
- - ✅ **START JURÍDICO:** Autorizado início do contrato social com Dr. Alexandre.
- - ✅ **VALIDAÇÃO CUSTOS:** Início da verificação final de tecido e produto pronto.
- - ✅ **BRIEFING OUTLET:** Business Plan físico e financeiro concluído (Opus 4.5).
- - ✅ **PACOTE ENVIO:** Mensagem e documentos prontos para Sansom.
- 
- ### Estado Atual
- 
- **MUDANÇA FUNDAMENTAL NO PROJETO:**
- 
- - **ANTES:** Parceria Titanium como agência (R$ 60k setup + R$ 45-60k/mês)
- - **AGORA:** Sociedade com Sansom (51/49) + Titanium como prestador de serviço (R$ 60k/mês)
- 
- **NOVA ESTRUTURA:**
- 
- - **Sociedade (Poder Decisório):** **51% Sansom** (Voto de Minerva) / **49% Jean+Gassen+Kris**
- - **Sociedade (Lucros/Econômico):** **50% Sansom** / **50% Jean+Gassen+Kris**
- - **Produção:** Fábrica Jean (Gabriele Confecções) = **Fornecedor Blindado** (Prestação Serviço)
- - **Marketing:** Titanium (terceirizado)
-   - Setup: R$ 50k (desconto R$ 10k conseguido 16/Jan)
-   - Mensalidades: R$ 45k (1-3) → R$ 50k (4-6) → R$ 55k (7-9) → R$ 60k (10+)
- - **Investimento:** R$ 2.096.300 em 6 meses (Divisão 50/50: R$ 1.048.150 cada lado)
- - **Produto:** Kit Fitness Feminino (calça+top+short) R$ 129
- - **Meta:** Break-even mês 4 (Ago/2026) / ROI 155%-258% ano 1
- 
- ---
- 
- ## 🎯 PRÓXIMAS AÇÕES
+### Ação Anterior (19/Jan/2026 - 12:00) ⭐⭐
 
- ### CRÍTICO (Esta Semana - 16-22/Jan)
+- ✅ **TITANIUM APROVADO:** Sansom deu GO (verbal, documentos hoje)
+- ✅ **CUSTO TECIDO CONFIRMADO:** R$ 25/kg = R$ 5/peça = **R$ 15/kit**
+- ✅ **CUSTO FABRICAÇÃO CONFIRMADO (Jean):** R$ 10/peça (costura + sublimação) = **R$ 30/kit**
+- ✅ **CUSTO TOTAL PEÇA:** R$ 15 (R$ 5 tecido + R$ 10 fabricação)
+- ✅ **MARGEM BRUTA:** Mantém **45,3%** (custo produto R$ 48/kit = igual estimativa)
+- ✅ **ENTREGA TECIDO:** 2 toneladas final de Março/2026 (primeira remessa)
 
- 1. [x] **Gassen:** Enviar proposta atualizada para Sansom ✅ CONCLUÍDO
- 2. [x] **Gassen:** Formalizar início com Titanium (PO criado) ✅ CONCLUÍDO
- 3. [x] **Sansom:** Custos tecido China confirmados (R$ 25/kg) ✅ CONCLUÍDO
- 4. [x] **Gassen/Jean:** Custo final confirmado (R$ 15/peça) ✅ CONCLUÍDO
- 5. [x] **Gassen:** Briefing Dr. Alexandre enviado ✅ CONCLUÍDO
+### Estado Atual
 
- ### CRÍTICO (Esta Semana - 22-26/Jan) 🔥
+**ESTRUTURA DEFINIDA (21/Jan/2026):**
 
- 1. [ ] **Dr. Alexandre:** Enviar documentos jurídicos (segunda-feira 26/Jan) ⚖️
-    - Ata de reunião de sócios
-    - Acordo de sócios (Word editável)
-    - Minuta contrato prestação serviço KabaK ↔ JKM
+| Aspecto | Sansom | Jean + Gassen + Kris |
+|---------|--------|---------------------|
+| **Poder de Decisão** | 51% (voto minerva) | 49% |
+| **Distribuição Lucros** | 50% | 50% |
+| **Acesso às Contas** | 100% | 100% |
 
- 2. [ ] **Gassen:** Reunião escritório Sansom (sexta-feira 23/Jan) 📦
-    - **Pauta:** Ver produtos disponíveis, estoque atual, capacidade produtiva
+**Gestão:**
+- **Sansom:** Comercial + Financeiro (contas a pagar/receber)
+- **Jean/Kris:** Operação + Produção
+- **Gassen:** E-commerce + Marketing + Gestão Projetos
 
- 3. [ ] **Gassen:** Reunião equipe Mercado Livre (terça-feira 27/Jan) 🛍️
-    - **Local:** Escritório Sansom
-    - **Quem:** Equipe que fatura R$ 4M/mês no ML
-    - **Objetivo:** Entender modelo hubs estratégicos
+**NOVA ESTRUTURA:**
 
- 4. [ ] **Sansom:** Decidir sobre contratação Eduarda 👩‍💼
-    - **Perfil:** Logística, planejamento, financeiro
-    - **Relação:** Cunhada do Gassen
+- **Sociedade (Poder Decisório):** **51% Sansom** (Voto de Minerva) / **49% Jean+Gassen+Kris**
+- **Sociedade (Lucros/Econômico):** **50% Sansom** / **50% Jean+Gassen+Kris**
+- **Produção:** Fábrica Jean (JKM/Gabriele) = **Fornecedor** (5-10% margem, 100% prioridade KabaK)
+- **Marketing:** Titanium (terceirizado)
+  - Setup: R$ 50k (desconto R$ 10k conseguido 16/Jan)
+  - Mensalidades: R$ 45k (1-3) → R$ 50k (4-6) → R$ 55k (7-9) → R$ 60k (10+)
+- **Investimento:** R$ 2.096.300 em 6 meses (Divisão 50/50: R$ 1.048.150 cada lado)
+- **Produto:** Kit Fitness Feminino (calça+top+short) R$ 129
+- **Público:** Classe C (gráfico de vendas sobe mais rápido)
+- **Meta:** Break-even mês 4 (Ago/2026) / ROI 155%-258% ano 1
+
+---
+
+## 🎯 PRÓXIMAS AÇÕES
+
+### CRÍTICO (Esta Semana - 22-26/Jan) 🔥
+
+1. [x] **Gassen:** Reunião Dr. Alexandre realizada ✅ CONCLUÍDO (21/Jan)
+
+2. [ ] **Gassen:** Reunião escritório Sansom (sexta-feira 23/Jan) 📦
+   - **Local:** Escritório Sansom, Bom Retiro
+   - **Pauta:** Ver produtos disponíveis, estoque atual, capacidade produtiva
+   - **Extra:** Sansom quer começar a controlar financeiro
+
+3. [ ] **Dr. Alexandre:** Enviar documentos jurídicos (segunda-feira 26/Jan) ⚖️
+   - Ata de reunião de sócios
+   - Acordo de sócios (Word editável)
+   - Minuta contrato prestação serviço KabaK ↔ JKM
+
+4. [ ] **Gassen:** Reunião equipe Mercado Livre (terça-feira 27/Jan) 🛍️
+   - **Local:** Escritório Sansom
+   - **Quem:** Equipe que fatura R$ 4M/mês no ML + moça de Cachoeira de Minas
+   - **Objetivo:** Entender modelo hubs estratégicos (10k peças/ponto, entrega 1 dia)
+
+5. [ ] **Sansom:** Decidir sobre contratação Eduarda 👩‍💼
+   - **Perfil:** Formada em logística, trabalha na ABIHPEC (Fiesp)
+   - **Relação:** Cunhada do Gassen
+   - **Status:** Sansom demonstrou interesse forte na reunião
 
 ### 📢 Marketing & Vendas
-*   **Agência:** **Titanium** ✅ APROVADO (19/Jan)
-    *   *Escopo:* E-commerce + Outlet + Marketplaces (Full Service)
-    *   *Setup:* R$ 50k (desconto R$ 10k)
-    *   *Mensalidades:* Escalonadas (45→50→55→60k)
-*   **Estratégia:** Titanium (E-commerce Hard + Branding Global + Outlet).
+* **Agência:** **Titanium** ✅ APROVADO (19/Jan)
+    * *Escopo:* E-commerce + Outlet + Marketplaces (Full Service)
+    * *Setup:* R$ 50k (desconto R$ 10k)
+    * *Mensalidades:* Escalonadas (45→50→55→60k)
+* **Estratégia:** Titanium (E-commerce Hard + Branding Global + Outlet)
 
-### 📦 Canais de Venda (Contrato)
+### 📦 Canais de Venda (Contrato - TODOS 50/50)
 | Canal | Divisão | Status |
 |-------|---------|--------|
-| E-commerce próprio | 50/50 | ✅ Confirmado |
+| E-commerce próprio (Shopify) | 50/50 | ✅ Confirmado |
 | Outlet físico | 50/50 | ✅ Confirmado |
-| Shopee | 50/50 | 🆕 Incluir |
-| Mercado Livre | 50/50 | 🆕 Incluir |
-| TikTok Shop | 50/50 | 🆕 Incluir |
+| Shopee | 50/50 | ✅ Confirmado |
+| Mercado Livre | 50/50 | ✅ Confirmado |
+| TikTok Shop | 50/50 | ✅ Confirmado |
+| Lojas físicas futuras | 50/50 | ✅ Confirmado |
 
 ### 🏪 Canal: Varejo Físico (Outlet)
-*   **Status:** 🟢 **VALIDADO** (R$ 20k/dia em Dez/24)
-*   **Local:** Rodovia (Alto fluxo).
-*   **Status Atual (16/Jan):** Briefing de Estratégia e Financeiro concluído (`BRIEFING_OUTLET_SANSOM.md`).
-*   **Ação Imediata:** Aprovar reforma (Fachada de Impacto) e envio para Sansom.
- 
- ### Próximos passos:
- - Orçar reforma (Entrada + Acessibilidade 2º andar)
- - Formalizar no contrato social
- - Dr. Alexandre revisar contratos imóvel
- - Definir equipe loja (R$ 20k/dia exige braço!)
+* **Status:** 🟢 **VALIDADO** (R$ 20k/dia em Dez/24)
+* **Local:** Rodovia (Alto fluxo)
+* **Ação:** Formalizar no contrato social, Dr. Alexandre revisar contratos imóvel
+
+### Próximos passos Outlet:
+- Orçar reforma (Entrada + Acessibilidade 2º andar)
+- Formalizar no contrato social
+- Dr. Alexandre revisar contratos imóvel
+- Definir equipe loja
 
 ### URGENTE (Próximas 2 Semanas - 21/Jan-04/Fev)
 
@@ -175,12 +174,18 @@ updated: 2026-01-21T22:24
 4. [ ] **Jean:** Preparar fábrica para exclusividade (estrutura, equipe)
    - **Prazo:** Início Fev/2026
 
+5. [ ] **Dr. Alexandre:** Estudo planejamento tributário completo
+   - **Prazo:** ~1 mês (Fev/2026)
+   - **Conteúdo:** Simples vs Presumido vs Real, benefícios MG, cenários faturamento
+
 ### Fase 1 - Estruturação (Fev/2026)
 
-- [ ] Fechar estrutura jurídica completa
+- [ ] Fechar estrutura jurídica completa (assinar documentos)
+- [ ] Registrar ata na Junta Comercial (com sigilo)
+- [ ] Transferir marca KabaK para CNPJ (cessão direitos)
 - [ ] Iniciar onboarding Titanium (1 mês setup)
 - [ ] Confirmar chegada tecido China (Mar-Abr)
-- [ ] Estruturar logística e operacional
+- [ ] Estruturar logística com parceiro Sansom
 
 ### Fase 2 - Produção (Mar-Abr/2026)
 
@@ -200,6 +205,55 @@ updated: 2026-01-21T22:24
 
 ## 📋 DECISÕES RECENTES
 
+### 21/Jan/2026 - REUNIÃO DR. ALEXANDRE (ESTRUTURAÇÃO JURÍDICA) ⭐⭐⭐⭐⭐
+
+**Local:** Casa do Jean, Zona Leste, SP
+**Participantes:** Sansom, Gassen, Dr. Alexandre, Jean (parte)
+**Duração:** ~2h30
+
+**Decisões Principais:**
+
+1. **Estrutura Societária:**
+   - 51/49 decisão (Sansom voto minerva)
+   - 50/50 lucros
+   - Fundo de reserva obrigatório (não distribuir 100%)
+   - 100% transparência - todos acessam todas as contas
+
+2. **Modelo de Negócio Expandido:**
+   - Todos canais 50/50 (e-commerce, marketplaces, outlet, lojas físicas)
+   - Possibilidade de várias marcas (todas da empresa)
+
+3. **JKM como Fornecedor:**
+   - NÃO é sócia
+   - 5-10% margem no fornecimento
+   - 100% prioridade para KabaK
+   - Contrato de prestação de serviço
+
+4. **Marcas no CNPJ:**
+   - KabaK deve pertencer ao CNPJ (não pessoa física)
+   - Cessão de direitos necessária
+   - Futuras marcas também da empresa
+
+5. **Planejamento Tributário:**
+   - Sair do Simples Nacional
+   - Ir para Presumido ou Real
+   - Aproveitar benefícios MG (ICMS + desoneração folha)
+   - Economia potencial: R$ 350k/ano
+
+6. **BNDES Descoberto:**
+   - R$ 1-10M sem garantia
+   - 0,27-0,83% ao ano
+   - 2 anos carência
+   - 160 meses para pagar
+   - Comissão: 10% deputado
+
+7. **Logística Sansom:**
+   - Parceiro chinês (presidente associação)
+   - Desconto frete: R$ 12k → R$ 7,1k (41%)
+   - 500.000 m² armazém GRÁTIS
+
+**Ver documento completo:** [[docs/reunioes/RESUMO_COMPLETO_REUNIAO_DR_ALEXANDRE_SANSOM_21JAN2026.md]]
+
 ### 19/Jan/2026 - TITANIUM APROVADO + CUSTOS CONFIRMADOS (Jean) ⭐⭐⭐
 
 **Contexto:** Confirmações de Sansom (Titanium/tecido) e Jean (fabricação).
@@ -209,16 +263,7 @@ updated: 2026-01-21T22:24
 2. **Custo tecido CONFIRMADO:** R$ 25/kg = R$ 5/peça = **R$ 15/kit**
 3. **Custo fabricação CONFIRMADO (Jean):** R$ 10/peça (costura + sublimação) = **R$ 30/kit**
 4. **Entrega tecido:** 2 toneladas (primeira remessa) final de Março/2026
-5. **Canais expandidos:** Incluir no contrato (todos 50/50 lucros / 51/49 decisão):
-   - Outlet físico
-   - Shopee
-   - Mercado Livre
-   - TikTok Shop
-
-**Custos Confirmados (por peça):**
-- Tecido: R$ 5/peça (R$ 25/kg ÷ 5 peças)
-- Fabricação (costura + sublimação): R$ 10/peça
-- **Total: R$ 15/peça**
+5. **Canais expandidos:** Incluir no contrato (todos 50/50)
 
 **Custos Confirmados (por kit - 3 peças):**
 
@@ -231,95 +276,14 @@ updated: 2026-01-21T22:24
 
 **Margem bruta:** Mantém **45,3%** (sem mudança - custo total igual)
 
-**Primeira remessa China:**
-- 2 toneladas = 2.000 kg
-- 2.000 kg × 5 peças/kg = 10.000 peças
-- 10.000 ÷ 3 = ~3.333 kits
-
----
-
 ### 16/Jan/2026 - DESCONTO TITANIUM E INÍCIO IMEDIATO ⭐⭐
 
-**Contexto:** Reunião com Gui (Titanium) para negociar desconto e antecipar início.
 **Decisões:**
 1. **Desconto aprovado:** Setup R$ 60k → R$ 50k (**economia R$ 10k**)
 2. **Mensalidades confirmadas:** Escalonamento 45→50→55→60k mantido
 3. **Economia total ano 1:** R$ 100k (setup + mensalidades)
-4. **Início imediato:** Titanium começa desenvolvimento produto/linha AGORA (antes de contrato social)
+4. **Início imediato:** Titanium começa desenvolvimento produto/linha AGORA
 5. **Investimento atualizado:** R$ 2.096.300 (divisão R$ 1.048.150 cada lado)
-
-**Impacto:**
-- Investimento reduzido em R$ 10k (cada sócio economiza R$ 5k)
-- Produto/linha definidos quando tecido China chegar (Mar-Abr)
-- Lançamento pontual em Mai/2026 garantido
-
-**Próximos Passos:**
-- Formalizar início até 19/Jan (PO ou contrato provisório)
-- Titanium inicia diagnóstico marca até 20/Jan
-- Workshop produto até 30/Jan
-
-### 15/Jan/2026 - OUTLET E ESTRUTURA ENXUTA (LIGAÇÃO) ⭐
- 
- **Contexto:** Ligação de Sansom para alinhar custos e estrutura.
- **Decisões:**
- 1. **Outlet IN:** Loja física incluída na sociedade (mesmo modelo 50/50).
- 2. **Tecido:** 2 opções China com custo reduzido encontradas.
- 3. **Operação:** Estrutura enxuta (1 Atendimento + 1 RH) potencializada por IA.
- 
- ### 15/Jan/2026 - GO NO PROJETO (INVESTIMENTO CONFIRMADO) ⭐⭐
- 
- **Contexto:** Retorno de Sansom após análise de documentos e conversa com família.
- **Decisão:** Investir e tocar o projeto.
- **Ações Imediatas:**
- - Iniciar contrato social.
- - Verificar custos finais (Tecido + Produção).
- - Planejar mix de produtos.
- 
- ### 14/Jan/2026 - SOCIEDADE COM SANSOM (PIVÔ ESTRATÉGICO) ⭐
- 
- **Contexto:** Reunião 2h30 com Sansom, Gassen, Kris e Jean. Proposta de sociedade completa.
- **Decisão:** Sociedade Híbrida (Política vs Econômica).
- **Detalhes:**
- 
- - **Decisão (Política):** 51% Sansom (Exigência de "Palavra Final") / 49% Jean+Gassen.
- - **Lucros (Econômica):** 50% Sansom / 50% Jean+Gassen (Divisão justa Justa Operacional vs Capital).
- 
- **Motivo:**
- 
- - Sansom traz conexões China (tecido R$ 3 real vs R$ 15 Brasil)
- - Modelo validado (replicar Atara - R$ 10M/mês em 1 ano)
- - Vantagens competitivas claras (custo, velocidade, capacidade)
- - Investimento viável (R$ 2,6M em 6 meses, ROI 155%)
- 
- **Estrutura:**
- 
- - Nova empresa (ou usar CNPJ Kabak)
- - Fábrica Jean = prestadora serviço (não sócia)
- - Titanium = prestador marketing (R$ 60k/mês)
- - Gestão profissional (não familiar)
- - **Outlet/Loja Física:** Incluído na sociedade.
- - **Equipe:** Foco em IA + Gestão Enxuta (Atendimento/RH).
- 
- ### 14/Jan/2026 - Produto Definido: Kit Fitness Feminino
- 
- **Contexto:** Atara fatura R$ 10M/mês com mesmo produto.
- **Decisão:** Replicar estratégia Atara com vantagens competitivas.
- **Produto:** Kit 3 peças (calça+top+short) R$ 129
- **Tecido:** Poliéster 90/10 fundo preto (zero transparência)
- **Fornecedor:** China via Sansom (custo R$ 30/kit vs R$ 45 nacional)
-
-### 19/Dez/2025 - Parceria Titanium (ATUALIZADA 16/Jan)
-
-**Status:** Titanium agora é prestador de serviço (não parceiro).
-**Proposta original (Dez/2025):** Setup R$ 60k + mensal R$ 45-60k (escalonado)
-**Proposta negociada (Jan/2026):** Setup R$ 50k + mensal R$ 45-60k (escalonado)
-**Economia:** R$ 10k setup + R$ 90k mensalidades ano 1 = **R$ 100k total**
-
-### 08/Dez/2025 - Unificação de Subprojetos
-
-**Contexto:** Dr Alexandre, Material Gui e E-commerce apareceram separados na lista
-**Decisão:** Tratar como ÚNICO projeto integrado (KabaK Reestruturação 2025/2026)
-**Motivo:** São frentes complementares do mesmo objetivo macro (reestruturar e escalar KabaK)
 
 ---
 
@@ -327,13 +291,14 @@ updated: 2026-01-21T22:24
 
 ### CRÍTICO (Bloqueia tudo)
 
-- [ ] **Estrutura jurídica** (contrato social + prestação serviço)
-- [ ] **Definir investimento** (Sansom conversar com esposa)
+- [x] **Reunião Dr. Alexandre** ✅ REALIZADA (21/Jan)
+- [ ] **Documentos jurídicos** (aguardando Dr. Alexandre - 26/Jan)
 - [ ] **Pedido tecido China** (lead time 2-3 meses)
 
 ### IMPORTANTE (Bloqueia lançamento)
 
-- [ ] **Contrato Titanium** (R$ 60k/mês)
+- [ ] **Assinatura contrato social** (após documentos Dr. Alexandre)
+- [ ] **Contrato Titanium formal** (R$ 60k/mês)
 - [ ] **Preparação fábrica Jean** (exclusividade)
 
 ---
@@ -342,27 +307,27 @@ updated: 2026-01-21T22:24
 
 ### Sócios (Nova Empresa)
 
-- **Sansom (51% decisão / 50% lucros):** Sócio majoritário, gestão financeira, importação China
-- **Jean (parte dos 49% decisão / 50% lucros):** CEO, dono fábrica, produção
-- **Gassen (parte dos 49% decisão / 50% lucros):** E-commerce, marketing, gestão projetos, gestão marca
-- **Kris (parte dos 49% decisão / 50% lucros):** Estilista, gerente produto, desenvolvimento produto, produção
+- **Sansom (51% decisão / 50% lucros):** Sócio majoritário, gestão comercial + financeira, importação China
+- **Jean (parte dos 49% decisão / 50% lucros):** Dono fábrica, produção
+- **Gassen (parte dos 49% decisão / 50% lucros):** E-commerce, marketing, gestão projetos, marca
+- **Kris (parte dos 49% decisão / 50% lucros):** Estilista, gerente produto, desenvolvimento, produção
 - **Divisão interna 49%:** A definir com Dr. Alexandre
 
 ### Prestadores de Serviço
 
-- **Jean:** Dono fábrica MG (produção exclusiva, NÃO sócio)
-- **Titanium:** Agência marketing (R$ 60k/mês + tráfego pago)
-- **Dr. Alexandre:** Jurídico (estruturação)
+- **JKM/Gabriele:** Fábrica MG (fornecedor, 5-10% margem, 100% prioridade KabaK)
+- **Titanium:** Agência marketing (R$ 50k setup + R$ 45-60k/mês + tráfego pago)
+- **Dr. Alexandre:** Jurídico (estruturação societária e tributária)
+- **Parceiro Logística (Sansom):** 500k m² armazém grátis + 41% desconto frete
 
 ### Potencial Contratação
 
-- **Eduarda (Cunhada Gassen):** Experiência em logística, planejamento e financeiro
-  - **Status:** Opção oferecida a Sansom (aguardando decisão)
-  - **Área potencial:** Gestão financeira/operacional da nova sociedade
-
-### Família (Contexto)
-
-- **Esposa Sansom:** Chinesa (informações a obter - definir estrutura societária dele)
+- **Eduarda (Cunhada Gassen):**
+  - **Formação:** Logística
+  - **Trabalho atual:** ABIHPEC (Associação Brasileira de Higiene Pessoal e Cosméticos) - Fiesp
+  - **Horário:** 7h às 16h, 4x/semana presencial
+  - **Status:** Sansom demonstrou interesse forte na reunião
+  - **Área potencial:** Gestão financeira/operacional
 
 ---
 
@@ -371,7 +336,7 @@ updated: 2026-01-21T22:24
 ### ALTO
 
 1. **Fluxo de Caixa:** Investimento R$ 2,6M em 6 meses
-   - **Mitigação:** Começar conservador (1k kits/mês), vender estoque paralelo
+   - **Mitigação:** Começar conservador (1k kits/mês), vender estoque paralelo, BNDES?
 2. **Atraso China:** Tecido atrasar 1-2 meses (alfândega/logística)
    - **Mitigação:** Pedir JAN → chega MAR/ABR (buffer 30 dias)
 
@@ -379,13 +344,13 @@ updated: 2026-01-21T22:24
 
 1. **Dependência Titanium:** Agência única, sem backup
    - **Mitigação:** Aprender estratégias, avaliar outras após 6 meses
-2. **Conflito Familiar:** Fábrica Jean é familiar
-   - **Mitigação:** Contrato formal, auditoria independente, gestão profissional
+2. **Regime Tributário:** Erro pode prender por 1 ano
+   - **Mitigação:** Estudo completo Dr. Alexandre antes de decidir
 
 ### BAIXO
 
 1. **Capacidade Produtiva:** Demanda superar produção
-   - **Mitigação:** 40 costureiras + rede externa + até 400 se necessário
+   - **Mitigação:** Corte 50k peças/dia + 40 costureiras + rede externa + até 400 se necessário
 
 ---
 
@@ -410,19 +375,36 @@ updated: 2026-01-21T22:24
 - **Faturamento:** R$ 10M/mês (replicar Atara)
 - **Lucro:** R$ 3-4M/mês
 - **Upside:** R$ 30-50M lucro/ano por sócio
+- **Próximo passo:** Investidor bilionário China (Shein, TikTok, Alibaba)
 
 ---
 
-**Próxima revisão:** 21/Jan/2026
+## 🏭 CAPACIDADE PRODUTIVA (JKM/Jean)
+
+| Aspecto | Capacidade |
+|---------|------------|
+| **Corte** | Até 50.000 peças/dia |
+| **Costureiras atuais** | 40 |
+| **Capacidade máxima** | 300-400 costureiras |
+| **Maquinário** | Parque fabril de primeira |
+| **Máquinas novas** | Na caixa, nem usou ainda |
+| **Galpões disponíveis** | 3 na rodovia (prontos) |
+
+---
+
+**Próxima revisão:** 23/Jan/2026 (pós-reunião escritório Sansom)
+
 **Checkpoints Próximos:**
-- 19/Jan: Formalização Titanium
-- 21/Jan: Reunião Dr. Alexandre (estrutura jurídica)
+- 23/Jan: Reunião escritório Sansom (produtos/estoque)
+- 26/Jan: Documentos Dr. Alexandre
+- 27/Jan: Reunião equipe Mercado Livre
 - 28/Jan: Workshop produto Titanium
-- 15/Fev: Setup Shopify concluído
+- Fev/2026: Estudo tributário completo
 
 **Lançamento previsto:** Mai/2026
 
 **Ver também:**
 - [[VALORES_OFICIAIS.md]] - Fonte única da verdade (valores atualizados 16/Jan)
-- [[DASHBOARD.md]] - Métricas e progresso
-- [[docs/reunioes/RESUMO_EXECUTIVO_REUNIAO_TITANIUM_16JAN2026.md]] - Detalhes negociação
+- [[metricas/DASHBOARD.md]] - Métricas e progresso
+- [[docs/reunioes/RESUMO_COMPLETO_REUNIAO_DR_ALEXANDRE_SANSOM_21JAN2026.md]] - Reunião completa 21/Jan
+- [[docs/reunioes/Reuniao_Dr_Alexandre_Estruturacao_21JAN2026.md]] - Resumo executivo 21/Jan

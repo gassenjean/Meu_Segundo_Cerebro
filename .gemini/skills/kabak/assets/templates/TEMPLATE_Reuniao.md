@@ -6,7 +6,7 @@ prioridade: alta
 status: consolidado
 ---
 
-# RESUMO EXECUTIVO - [TITULO_REUNIAO]
+# Reunião - [TITULO_REUNIAO]
 
 **Participantes:** [LISTA_PARTICIPANTES]
 **Duração:** [DURACAO]

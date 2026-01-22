@@ -6,7 +6,7 @@ prioridade: critica
 status: ativo
 ---
 
-# PRÓXIMOS PASSOS - [TITULO]
+# PLANO - [TITULO]
 
 **Criado após:** [EVENTO_OU_REUNIAO]
 **Objetivo:** [OBJETIVO_PRINCIPAL]

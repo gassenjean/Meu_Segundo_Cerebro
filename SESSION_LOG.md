@@ -1,9 +1,57 @@
 ---
 criado: 2026-01-14T13:02:05-03:00
-atualizado: 2026-01-20T14:32:49-03:00
+atualizado: 2026-01-21T23:00:00-03:00
+created: 2026-01-21T23:04
+updated: 2026-01-21T23:13
 ---
 
 # SESSION_LOG
+
+## 21/Jan/2026 - Correção Nomenclatura KabaK + Skill Kabak (Claude)
+
+**Contexto:** Sessão anterior processou reunião Dr. Alexandre mas cometeu erros de nomenclatura. Skill /kabak também estava instruindo nomenclatura inválida.
+
+### Parte 1: Arquivos do Projeto
+
+**Erros Identificados:**
+1. `RESUMO_EXECUTIVO_REUNIAO_DR_ALEXANDRE_21JAN2026.md` - Prefixo `RESUMO_EXECUTIVO_` não existe nos padrões
+2. `PROXIMOS_PASSOS_ESTRUTURACAO_LEGAL.md` - Deveria usar prefixo `PLANO_`
+
+**Correções Aplicadas:**
+
+| Arquivo Original | Arquivo Corrigido |
+|------------------|-------------------|
+| `docs/reunioes/RESUMO_EXECUTIVO_REUNIAO_DR_ALEXANDRE_21JAN2026.md` | `docs/reunioes/Reuniao_Dr_Alexandre_Estruturacao_21JAN2026.md` |
+| `planejamento/PROXIMOS_PASSOS_ESTRUTURACAO_LEGAL.md` | `planejamento/PLANO_Estruturacao_Legal_KabaK.md` |
+
+### Parte 2: Skill /kabak Corrigida (v1.0 → v1.1)
+
+**Problemas na Skill:**
+- Instruía criar arquivos com prefixos inválidos (`RESUMO_EXECUTIVO_`, `PROXIMOS_PASSOS_`)
+- Custos desatualizados (R$ 45/kit → R$ 48/kit)
+- Templates com nomenclatura incorreta
+
+**Correções Aplicadas:**
+
+| Arquivo | Correção |
+|---------|----------|
+| `.claude/skills/kabak/SKILL.md` | Nomenclatura corrigida + custos atualizados |
+| `.gemini/skills/kabak/SKILL.md` | Nomenclatura corrigida |
+| `TEMPLATE_RESUMO_EXECUTIVO.md` | Renomeado → `TEMPLATE_Reuniao.md` |
+| `TEMPLATE_PROXIMOS_PASSOS.md` | Renomeado → `TEMPLATE_Plano_Acao.md` |
+| `.claude/commands/kabak-agent.md` | Referência corrigida + aviso nomenclatura |
+
+**Adições nas Skills:**
+- ⚠️ Aviso obrigatório: "Sempre consultar NOMENCLATURA.md antes de criar arquivos"
+- Lista de prefixos válidos
+- Caminhos corretos para cada tipo de documento
+
+**Lição Aprendida:**
+- SEMPRE consultar `00_SISTEMA/PADROES/NOMENCLATURA.md` antes de criar arquivos
+- Prefixos válidos: `MOC_`, `PLANO_`, `CHECKPOINT_`, `TEMPLATE_`, `STATUS_`, `ROADMAP_`, `GUIA_`, `README`
+- Skills devem referenciar padrões do vault, não criar seus próprios
+
+---
 
 ## 20/Jan/2026 - Reuniões Agendadas + Eduarda (Claude)
 
