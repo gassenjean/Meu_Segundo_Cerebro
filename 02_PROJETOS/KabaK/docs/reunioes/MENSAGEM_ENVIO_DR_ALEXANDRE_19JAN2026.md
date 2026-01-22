@@ -1,6 +1,8 @@
 ---
 criado: 2026-01-19T11:24:19-03:00
 atualizado: 2026-01-20T12:10:37-03:00
+created: 2026-01-20T17:59
+updated: 2026-01-21T22:11
 ---
 # MENSAGEM DE ENVIO - DR. ALEXANDRE (19/JAN/2026)
 

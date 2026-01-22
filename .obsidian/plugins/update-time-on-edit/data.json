@@ -1,0 +1,19 @@
+{
+  "dateFormat": "yyyy-MM-dd'T'HH:mm",
+  "enableCreateTime": true,
+  "headerUpdated": "updated",
+  "headerCreated": "created",
+  "minMinutesBetweenSaves": 1,
+  "ignoreGlobalFolder": [],
+  "ignoreCreatedFolder": [],
+  "enableExperimentalHash": false,
+  "fileHashMap": {
+    "02_PROJETOS/KabaK/docs/BRIEFING_DR_ALEXANDRE.md": "7cfaff49b11fd1b6dd5cd3467fcbad2cc0dc97c08686ed48825bf229700ccd0c",
+    "02_PROJETOS/KabaK/docs/reunioes/RESUMO_EXECUTIVO_REUNIAO_DR_ALEXANDRE_21JAN2026.md": "965fb7f141971c45918a4b6776cdb90a82985875f4f55f43ef2d7620f91fbd0a",
+    "02_PROJETOS/KabaK/planejamento/PROXIMOS_PASSOS_ESTRUTURACAO_LEGAL.md": "32b970e2d8ba83f4bb012cad8257428e2b1ddd7fd7e7fab9b2c8e9763c6b09cd",
+    "02_PROJETOS/KabaK/STATUS_ATUAL.md": "f9b8328c4e405e5cdf5ebaf1faaa0ccb4fb09ca9c7917a271612547b78e25a1a",
+    "02_PROJETOS/KabaK/docs/reunioes/MENSAGEM_ENVIO_DR_ALEXANDRE_19JAN2026.md": "39bfec266c2498a1e2521754eb5b3960075bdb7c0ed44b85b65dc051624d75ed",
+    "02_PROJETOS/KabaK/docs/reunioes/RESUMO_EXECUTIVO_REUNIAO_TITANIUM_16JAN2026.md": "b2523d3c57c53ac93032e68a420a500ec8af32b6af545b67a2f334d3e40713eb",
+    "02_PROJETOS/KabaK/docs/reunioes/MENSAGEM_ENVIO_SANSOM.md": "c1c6ca38a3b746af0c2d18ec9e788607b9ef3031110a89d921b74471608e248c"
+  }
+}

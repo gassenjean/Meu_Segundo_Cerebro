@@ -1,20 +1,38 @@
 ---
 criado: 2025-12-08T11:04:20-03:00
-atualizado: 2026-01-20T14:32:15-03:00
+atualizado: 2026-01-21T16:00:00-03:00
+created: 2026-01-21T22:07
+updated: 2026-01-21T22:24
 ---
 
 # STATUS ATUAL - KabaK Reestruturação 2026
 
-**Última atualização:** 20/Jan/2026 - 14:30 (Briefing Enviado + Reuniões Agendadas)
+**Última atualização:** 21/Jan/2026 - 16:00 (Reunião Dr. Alexandre - Estruturação Jurídica)
 
 ---
 
 ## ✅ ONDE ESTAMOS
 
  **Fase Atual:** Estruturação Jurídica e Início Titanium
- **Progresso:** 70% ⬆️
+ **Progresso:** 75% ⬆️
 
- ### Última Ação (20/Jan/2026 - 14:30) ⭐⭐⭐
+ ### Última Ação (21/Jan/2026 - 16:00) ⭐⭐⭐⭐
+
+ - ✅ **REUNIÃO DR. ALEXANDRE REALIZADA:** Estruturação jurídica completa (~2h30)
+ - ✅ **MODELO EXPANDIDO:** Não só e-commerce, mas marketplaces + outlet + lojas físicas (TODOS 50/50)
+ - ✅ **PLANEJAMENTO TRIBUTÁRIO:** Dr. Alexandre vai entregar estudo completo (1 mês)
+ - ✅ **BNDES DESCOBERTO:** Linha R$ 1-10M sem garantia, 2 anos carência, 0.27-0.83% ao ano!
+ - ✅ **LOGÍSTICA SANSOM:** Parceiro com desconto 20% frete + 500.000 m² armazém GRÁTIS
+ - 🆕 **PRESTAÇÃO SERVIÇO JKM:** Gabriele NÃO é sócia, apenas fornecedora (5-10% margem)
+ - 🆕 **MARCAS NO CNPJ:** TODAS marcas devem pertencer à empresa (não pessoa física)
+ - 🆕 **FUNDO DE RESERVA:** Percentual a definir - NÃO distribuir 100% lucro (modelo Mercado Livre)
+
+ **Próximas Entregas Dr. Alexandre (26/Jan - Segunda):**
+ 1. Ata de reunião de sócios
+ 2. Acordo de sócios (Word editável)
+ 3. Minuta contrato prestação serviço KabaK ↔ JKM
+
+ ### Ação Anterior (20/Jan/2026 - 14:30) ⭐⭐⭐
 
  - ✅ **BRIEFING ENVIADO:** Versão completa enviada ao Dr. Alexandre
  - ✅ **REUNIÃO DR. ALEXANDRE:** Agendada para **21/Jan/2026** (amanhã)
@@ -92,19 +110,26 @@ atualizado: 2026-01-20T14:32:15-03:00
  4. [x] **Gassen/Jean:** Custo final confirmado (R$ 15/peça) ✅ CONCLUÍDO
  5. [x] **Gassen:** Briefing Dr. Alexandre enviado ✅ CONCLUÍDO
 
- ### HOJE/AMANHÃ (20-21/Jan) 🔥
+ ### CRÍTICO (Esta Semana - 22-26/Jan) 🔥
 
- 1. [ ] **Sansom:** Visita unidade SP (conhecer operação) 📍
-    - **Data:** 21/Jan/2026
-    - **Pauta:** Conhecer fábrica, estrutura, equipe
+ 1. [ ] **Dr. Alexandre:** Enviar documentos jurídicos (segunda-feira 26/Jan) ⚖️
+    - Ata de reunião de sócios
+    - Acordo de sócios (Word editável)
+    - Minuta contrato prestação serviço KabaK ↔ JKM
 
- 2. [ ] **Todos:** Reunião Dr. Alexandre (estruturação jurídica) ⚖️
-    - **Data:** 21/Jan/2026 (após visita Sansom)
-    - **Pauta:** Contrato social, prestação serviço, divisão 49%
+ 2. [ ] **Gassen:** Reunião escritório Sansom (sexta-feira 23/Jan) 📦
+    - **Pauta:** Ver produtos disponíveis, estoque atual, capacidade produtiva
 
- 3. [ ] **Sansom:** Decidir sobre contratação Eduarda 👩‍💼
+ 3. [ ] **Gassen:** Reunião equipe Mercado Livre (terça-feira 27/Jan) 🛍️
+    - **Local:** Escritório Sansom
+    - **Quem:** Equipe que fatura R$ 4M/mês no ML
+    - **Objetivo:** Entender modelo hubs estratégicos
+
+ 4. [ ] **Sansom:** Decidir sobre contratação Eduarda 👩‍💼
     - **Perfil:** Logística, planejamento, financeiro
-    - **Relação:** Cunhada do Gassen### 📢 Marketing & Vendas
+    - **Relação:** Cunhada do Gassen
+
+### 📢 Marketing & Vendas
 *   **Agência:** **Titanium** ✅ APROVADO (19/Jan)
     *   *Escopo:* E-commerce + Outlet + Marketplaces (Full Service)
     *   *Setup:* R$ 50k (desconto R$ 10k)

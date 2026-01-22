@@ -1,3 +1,7 @@
+---
+created: 2026-01-15T07:49
+updated: 2026-01-21T22:04
+---
 # BRIEFING JURÍDICO - Dr. Alexandre
 
 **Solicitante:** Gassen Jean Bou Karim

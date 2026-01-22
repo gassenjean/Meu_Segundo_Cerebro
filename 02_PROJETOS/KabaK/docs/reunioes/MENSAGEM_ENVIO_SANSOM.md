@@ -4,6 +4,8 @@ tipo: mensagem_whatsapp
 destinatario: Sansom
 status: proposta
 atualizado: 2026-01-16T11:16:51-03:00
+created: 2026-01-16T18:56
+updated: 2026-01-21T22:12
 ---
 
 # 📱 Mensagem para Sansom (Proposta)

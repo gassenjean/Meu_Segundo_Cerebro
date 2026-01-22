@@ -4,6 +4,8 @@ atualizado: 2026-01-16T15:30:00-03:00
 tipo: resumo_executivo
 prioridade: alta
 status: ativo
+created: 2026-01-16T18:56
+updated: 2026-01-21T22:11
 ---
 
 # RESUMO EXECUTIVO - Reunião Titanium (Gui) - 16/Jan/2026
