@@ -15,7 +15,7 @@ description: Ativar Agente Névoa (Orquestração)
 
 ## Arquitetura de Delegação
 
-```
+```text
 VOCÊ (Gassen)
     ↓
 NÉVOA (este workflow)
@@ -57,7 +57,7 @@ NÉVOA (este workflow)
 
 ### Palavras-Chave para Detecção
 
-```
+```text
 CONHECIMENTO: "organizar", "mapa", "indexar", "wiki", "conhecimento", "aprendizado"
 PROJETOS: "kabak", "projeto", "tráfego", "pedro", "validar", "criar"
 PRODUTIVIDADE: "rotina", "energia", "foco", "tdah", "prioridade", "elena"
@@ -68,25 +68,29 @@ GUARDIAN: "auditar", "limpar", "nomenclatura", "mover arquivo", "correção"
 ## Workflow de Delegação
 
 ### Passo 1: Receber Tarefa
-```
+
+```text
 Usuário: "Névoa, organize os arquivos da pasta X"
 ```
 
 ### Passo 2: Classificar
-```
+
+```text
 Névoa: Detectando tipo...
 → Palavras: "organize", "arquivos"
 → Classificação: CONHECIMENTO
 ```
 
 ### Passo 3: Delegar
-```
+
+```text
 Névoa: Delegando para GERENTE_CONHECIMENTO...
 → Invocar: /gerente-conhecimento "organizar arquivos pasta X"
 ```
 
 ### Passo 4: Verificar (Loop Ralph)
-```
+
+```text
 Névoa: Verificando conclusão...
 → Tarefa concluída? ✅
 → Registrar em SESSION_LOG
@@ -118,7 +122,8 @@ Força delegação explícita.
 Mostra estado atual de todos os clusters.
 
 **Output:**
-```
+
+```text
 NÉVOA STATUS
 ============
 CONHECIMENTO: OK (último: há 2h)
@@ -150,7 +155,7 @@ Protocolo de encerramento.
 
 Névoa opera em **Nível 2 (PROPOSE)** por padrão.
 
-```
+```text
 Nível 1 (READ):     Névoa consulta gerentes
 Nível 2 (PROPOSE):  Névoa sugere delegação, usuário aprova ← PADRÃO
 Nível 3 (EXECUTE):  Névoa delega automaticamente
@@ -171,19 +176,22 @@ Se qualquer verificação falhar → ALERTAR usuário.
 ## Fallbacks
 
 **Gerente não existe:**
-```
+
+```text
 Névoa: GERENTE_CONHECIMENTO ainda não implementado.
 → Executando diretamente com skill: /marie-kondo
 ```
 
 **Tarefa ambígua:**
-```
+
+```text
 Névoa: Não consegui classificar. Parece CONHECIMENTO ou PROJETOS.
 → Qual gerente você prefere? (1) Conhecimento (2) Projetos
 ```
 
 **Múltiplos domínios:**
-```
+
+```text
 Névoa: Tarefa envolve PRODUTIVIDADE + PROJETOS.
 → Dividindo em subtarefas...
 → PRODUTIVIDADE: Planejar energia
@@ -195,7 +203,7 @@ Névoa: Tarefa envolve PRODUTIVIDADE + PROJETOS.
 **Claude Code (Névoa):** Decisões, orquestração, delegação
 **Gemini (Antigravity):** Execução pesada, bulk operations
 
-```
+```text
 Névoa detecta tarefa pesada (>100 arquivos)?
 → Delegar para Gemini via /gemini-handoff
 ```
@@ -212,7 +220,7 @@ Névoa detecta tarefa pesada (>100 arquivos)?
 
 ## Exemplos de Uso
 
-```
+```bash
 # Ativar conversacionalmente
 /nevoa
 

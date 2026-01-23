@@ -8,7 +8,7 @@ description: GERENTE_PRODUTIVIDADE - Orquestra elena, coach
 
 ## Posição na Hierarquia
 
-```
+```text
 NÉVOA (Master)
     ↓
 GERENTE_PRODUTIVIDADE (este) ← você está aqui
@@ -20,7 +20,7 @@ GERENTE_PRODUTIVIDADE (este) ← você está aqui
 ## Responsabilidades
 
 | Domínio | Descrição |
-|---------|-----------|
+| :--- | :--- |
 | Rotina | Gerenciar rotina diária, blocos de tempo |
 | Energia | Monitorar níveis, prevenir burnout |
 | Foco | Sessões de deep work, pomodoro |
@@ -57,7 +57,7 @@ GERENTE_PRODUTIVIDADE (este) ← você está aqui
 
 ## Lógica de Decisão
 
-```
+```text
 Tarefa recebida
     ↓
 Classificar tipo
@@ -96,7 +96,7 @@ Check-in de energia.
 
 **Output:**
 
-```
+```text
 ENERGIA CHECK-IN
 ================
 Nível atual: [1-10]
@@ -141,7 +141,7 @@ Protocolo de encerramento.
 
 ## Sistema de Permissões
 
-```
+```text
 Nível 1 (READ):     Consultar rotina, energia
 Nível 2 (PROPOSE):  Sugerir ações, aguardar OK ← PADRÃO
 Nível 3 (EXECUTE):  Timer automático (só foco)
@@ -167,7 +167,7 @@ Após cada sessão:
 
 **Blocos de Energia:**
 
-```
+```text
 MANHÃ (Alto):     Deep work, tarefas difíceis
 TARDE (Médio):    Reuniões, tarefas leves
 NOITE (Variável): Evitar telas, descanso
@@ -177,7 +177,7 @@ NOITE (Variável): Evitar telas, descanso
 
 ### Com Névoa
 
-```
+```text
 /nevoa bom-dia
 → Delega para GERENTE_PRODUTIVIDADE
 → Executa protocolo matinal
@@ -186,7 +186,7 @@ NOITE (Variável): Evitar telas, descanso
 
 ### Com Guardian
 
-```
+```text
 Fim do dia?
 → GERENTE_PRODUTIVIDADE: shutdown
 → GUARDIAN: quick audit
@@ -195,7 +195,7 @@ Fim do dia?
 
 ## Exemplos de Uso
 
-```
+```bash
 # Ativar gerente
 /gerente-produtividade
 
@@ -217,7 +217,7 @@ Fim do dia?
 
 ## Rotina Mestra (Referência)
 
-```
+```text
 06:00-09:00  Wake up, rotina matinal
 09:00-12:00  HYPERFOCUS (Deep Work)
 12:00-14:00  Almoço, descanso
@@ -232,22 +232,24 @@ Fim do dia?
 
 ### Reportando para NÉVOA
 
-* **Formato de Status:** `[GERENTE_PRODUTIVIDADE] - [Status: OK/Block] - [Contexto]`
+- **Formato de Status:** `[GERENTE_PRODUTIVIDADE] - [Status: OK/Block] - [Contexto]`
 - **Frequência:** A cada grande marco ou erro crítico.
 - **Conteúdo:** Progresso, bloqueios e sucessos das skills subordinadas (elena, coach).
 
 ### Comandando Skills
 
-* **Estilo:** Diretivo e claro.
+- **Estilo:** Diretivo e claro.
 - **Validação:** Sempre pedir confirmação de sucesso.
 
 ## Comunicação com Outros Gerentes
 
 ### Eu Preciso De
+
 - **GERENTE_PROJETOS:** Ao planejar dia → Lista de tarefas de projetos ativos
 - **GERENTE_CONHECIMENTO:** Ao estudar → Material de estudo disponível
 
 ### Eu Forneço Para
+
 - **GERENTE_PROJETOS:** Após sessão de foco → Notificar progresso em tarefas
 - **GUARDIAN:** Ao encerrar dia → Solicitar auditoria rápida
 

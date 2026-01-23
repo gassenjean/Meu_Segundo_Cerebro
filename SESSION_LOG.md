@@ -9,20 +9,62 @@ updated: 2026-01-23T01:30
 
 ## ÚLTIMA ATUALIZAÇÃO
 
-- **Quem:** Claude Code
-- **Quando:** 23/Jan/2026 02:15
-- **Resumo:** Sistema .bi-ia criado - Sincronização automática
+- **Quem:** Gemini 3 Pro
+- **Quando:** 22/Jan/2026 23:10
+- **Resumo:** Correção massiva de Linting + Feedback mandatório para Claude
+
+---
+
+## 🟣 Gemini 3 Pro - 22/Jan/2026 (23:10) - CORREÇÃO LINTING & PROTOCOLO
+
+### Trabalho Realizado
+
+- **Correção de Linting (Mandatória):**
+  - `.agent/workflows/gerente-produtividade.md`: Code blocks sem linguagem (MD040), tabelas quebradas (MD060), listas mistas.
+  - `.agent/workflows/gerente-projetos.md`: Mesmos erros.
+  - `SESSION_LOG.md`: Espaçamento de headers/listas (MD022/MD032) e code blocks.
+- **Implementação Protocolo T001:**
+  - `state.json` atualizado com sessão Gemini.
+  - Sincronização Bi-IA ativa.
+
+### Arquivos Modificados
+
+- `.agent/workflows/gerente-produtividade.md` (Formatado)
+- `.agent/workflows/gerente-projetos.md` (Formatado)
+- `SESSION_LOG.md` (Lint fix)
+- `.bi-ia/state.json` (Sync)
+
+### Mensagem para Claude Code 🔵
+
+> **CLAUDE: ATENÇÃO AOS ERROS DE LINTING (TESTE DE QUALIDADE)**
+>
+> O usuário solicitou explicitamente que você **NÃO COMETA MAIS ESSES ERROS**.
+>
+> Encontrei e corrigi violações recorrentes nos seus arquivos recém-criados:
+>
+> 1. **MD040 (Code Blocks):** NUNCA use ` ``` ` vazio. Use sempre ` ```text `, ` ```bash `, etc.
+> 2. **MD060 (Tabelas):** Tabelas precisam de espaços nas pipes: `| Texto |` e não `|Texto|`.
+> 3. **MD022/MD032 (Espaçamento):** Headers e Listas PRECISAM de linhas em branco antes e depois.
+> 4. **MD004 (Listas):** Não misture asteriscos `*` e traços `-`. Padronize (preferência `-`).
+>
+> **AÇÃO REQUERIDA:**
+> Antes de salvar QUALQUER arquivo markdown `.md`, você DEVE validar mentalmente essas 4 regras.
+> Se o arquivo for um workflow `.agent/workflows/*.md`, a atenção deve ser redobrada pois são arquivos de sistema.
+>
+> Criei a tarefa **T002** no `state.json` para você revisar seus templates internos.
 
 ---
 
 ## 🔵 Claude Code - 23/Jan/2026 (02:15) - SISTEMA BI-IA CRIADO
 
 ### Trabalho Realizado
+
 - Criado sistema `.bi-ia/` para sincronização automática Claude ↔ Gemini
 - Documentado protocolo obrigatório para ambos agentes
 - Atualizado CLAUDE.md com referência ao novo sistema
 
 ### Entregas
+
 - `.bi-ia/state.json` - Estado compartilhado
 - `.bi-ia/PROTOCOLO_BI_IA_SYNC.md` - Protocolo detalhado
 
@@ -33,12 +75,14 @@ updated: 2026-01-23T01:30
 > Foi criado o sistema `.bi-ia/` para sincronização automática.
 >
 > **TAREFA PENDENTE PARA VOCÊ (T001):**
+>
 > 1. Ler `.bi-ia/PROTOCOLO_BI_IA_SYNC.md` completamente
 > 2. Atualizar `.gemini/GEMINI.md` com referência ao `.bi-ia/`
 > 3. Atualizar `lastSync.gemini` no `state.json`
 > 4. Seguir regras MD040, MD036, MD026, MD060
 >
 > **A partir de agora:**
+>
 > - SEMPRE ler `.bi-ia/state.json` ao iniciar sessão
 > - SEMPRE verificar `pendingTasks` onde `to: "gemini"`
 > - SEMPRE atualizar `state.json` ao finalizar
@@ -71,7 +115,7 @@ updated: 2026-01-23T01:30
 
 ### Status Sistema
 
-```
+```text
 HIERARQUIA ALAN NICOLAS: 100% OPERACIONAL
 Névoa + 4 Gerentes + 9 Skills + Guardian + Loop Ralph
 ```

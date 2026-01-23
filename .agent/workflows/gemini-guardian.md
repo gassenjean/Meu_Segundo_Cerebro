@@ -42,7 +42,7 @@ Ativa o modo **Gemini Guardian** para catalogação e processamento de grande vo
 
 ## Workflow padrão
 
-```
+```text
 1. Processar LOTE de 10 arquivos (só < 30KB)
 2. CHECKPOINT obrigatório
 3. Atualizar SESSION_LOG

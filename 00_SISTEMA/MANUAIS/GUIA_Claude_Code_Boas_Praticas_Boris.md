@@ -70,7 +70,7 @@ Boris, criador do Claude Code, compartilhou **13 técnicas profissionais** de co
 
 **O que Boris usa:**
 
-```
+```text
 Modelo: Opus 4.5
 Modo: Thinking (Raciocínio) - SEMPRE ATIVO
 ```
@@ -92,7 +92,7 @@ Modo: Thinking (Raciocínio) - SEMPRE ATIVO
 
 **Setup do time de Boris:**
 
-```
+```text
 repositório/
 ├── .git/
 ├── CLAUDE.md  ← ÚNICO arquivo, compartilhado por TODO o time
@@ -160,7 +160,7 @@ Usar biblioteca Zod para validação de schemas."
 
 **Workflow de Boris:**
 
-```
+```text
 1. Shift + Tab (2x) → Entra em Plan Mode
 2. Revisa plano, vai e volta até ficar PERFEITO
 3. Quando plano está redondo → Auto Accept Edits
@@ -174,18 +174,18 @@ Usar biblioteca Zod para validação de schemas."
 
 **Passos detalhados:**
 
-**FASE 1: Planejamento (Plan Mode)**
+### FASE 1: Planejamento (Plan Mode)
 
-```
+```text
 - Shift Tab 2x → Ativa Plan Mode
 - Claude cria plano detalhado
 - Você revisa e pede alterações
 - Repete até o plano ficar redondinho
 ```
 
-**FASE 2: Execução (Auto Accept)**
+### FASE 2: Execução (Auto Accept)
 
-```
+```text
 - Ativa Auto Accept Edits
 - Claude implementa tudo de uma vez
 - Código sai pronto (ou próximo disso)
@@ -232,7 +232,7 @@ Usar biblioteca Zod para validação de schemas."
 
 **Onde criar:**
 
-```
+```text
 .claude/commands/nome-do-comando.md
 ```
 
@@ -244,13 +244,13 @@ Usar biblioteca Zod para validação de schemas."
 
 **Sub-agentes de Boris:**
 
-**1. Code Simplifier**
+#### 1. Code Simplifier
 
 - Roda DEPOIS que Claude termina
 - Simplifica código gerado
 - Remove redundâncias
 
-**2. Verify App**
+#### 2. Verify App
 
 - Detalha instruções para Claude testar end-to-end
 - Valida aplicação completa
@@ -341,7 +341,7 @@ Usar biblioteca Zod para validação de schemas."
 
 **Exemplo de uso:**
 
-```
+```text
 "Claude, vá no Sentry e busque os últimos erros de produção
 relacionados ao módulo de checkout. Depois, analise o código
 e proponha fix."
@@ -368,14 +368,14 @@ e proponha fix."
 
 **Estratégias para tarefas longas (1-2 dias):**
 
-**OPÇÃO 1: Background Agent com verificação**
+#### OPÇÃO 1: Background Agent com verificação
 
-```
+```text
 "Claude, quando terminar essa tarefa longa, use um background
 agent para verificar se está tudo funcionando."
 ```
 
-**OPÇÃO 2: Agent Stop Hook (mais determinístico)**
+#### OPÇÃO 2: Agent Stop Hook (mais determinístico)
 
 ```json
 {
@@ -383,7 +383,7 @@ agent para verificar se está tudo funcionando."
 }
 ```
 
-**OPÇÃO 3: Halfwigan Plugin**
+#### OPÇÃO 3: Halfwigan Plugin
 
 - Plugin criado por Geoffrey Huntley
 - Usa `PermissionMode.ask` OU `DangerouslySkipPermissions` em sandbox
@@ -421,19 +421,19 @@ agent para verificar se está tudo funcionando."
 
 **Tipos de verificação:**
 
-**1. Simples - Comando Bash**
+#### 1. Simples - Comando Bash
 
 ```bash
 npm run test
 ```
 
-**2. Médio - Test Suite**
+#### 2. Médio - Test Suite
 
 ```bash
 npm run test:integration
 ```
 
-**3. Avançado - Browser Testing**
+#### 3. Avançado - Browser Testing
 
 - Abre browser
 - Testa UI interativamente
@@ -459,7 +459,7 @@ npm run test:integration
 
 **Workflow Elite (Boris):**
 
-```
+```text
 1. Plan Mode (Shift Tab 2x) → Planejar
 2. Revisar até perfeito
 3. Auto Accept → Executar
@@ -491,7 +491,7 @@ npm run test:integration
 
 ## ⚠️ ARMADILHAS COMUNS
 
-### ❌ O que NÃO fazer:
+### ❌ O que NÃO fazer
 
 1. **Usar apenas 1 instância** → Perde produtividade
 2. **Sempre usar Sonnet** → Opus 4.5 é melhor para código complexo
@@ -538,6 +538,17 @@ npm run test:integration
 
 ---
 
-## 💡 INSIGHT FINAL
-
 Boris demonstra que a chave não é apenas USAR Claude Code, mas **orquestrar múltiplas instâncias, automatizar workflows e criar feedback loops**. A diferença entre uso básico e profissional está na **sistemização e automação**.
+
+---
+
+## 🛡️ REGRAS DE OURO DA BI-IA (NOVIDADE)
+
+**Acordo entre Agentes (Claude + Gemini):**
+
+1. **MD040:** Nunca use ` ``` ` sem linguagem. Use ` ```text ` ou ` ```bash `.
+2. **MD036:** Nunca use `**Negrito**` como título em linha isolada. Use `### Título`.
+3. **MD060:** Tabelas devem ter espaços: `| Texto |` e não `|Texto|`.
+4. **MD026:** Títulos nunca terminam com dois pontos `:`.
+
+*Regras aplicadas e monitoradas pelo agente `lint-guardian`.*
