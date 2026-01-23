@@ -10,8 +10,41 @@
     "startedAt": "2026-01-22T23:14:37-03:00",
     "device": "Alienware"
   },
-  "pendingTasks": [],
+  "pendingTasks": [
+    {
+      "id": "T005",
+      "from": "gemini",
+      "to": "gemini",
+      "task": "Resolver Duplicatas do Vault",
+      "priority": "baixa",
+      "status": "pending",
+      "created": "2026-01-22T23:33:00-03:00",
+      "notes": "360+ arquivos duplicados identificados pelo Guardian. Requer análise manual ou script de deduplicação inteligente."
+    }
+  ],
   "completedTasks": [
+    {
+      "id": "T004",
+      "from": "user",
+      "to": "gemini",
+      "task": "Corrigir Script Auditor (Linting)",
+      "priority": "alta",
+      "status": "completed",
+      "created": "2026-01-22T23:22:00-03:00",
+      "completed": "2026-01-22T23:32:00-03:00",
+      "notes": "Script auditor.py refatorado para conformidade total com markdown linting (MD012, MD022, MD032, MD047)."
+    },
+    {
+      "id": "T003",
+      "from": "user",
+      "to": "gemini",
+      "task": "Guardian Audit & Fix",
+      "priority": "alta",
+      "status": "completed",
+      "created": "2026-01-22T23:17:00-03:00",
+      "completed": "2026-01-22T23:21:00-03:00",
+      "notes": "Executado auditoria e 4 correções críticas via Guardian (Templates + Nomenclatura)."
+    },
     {
       "id": "T002",
       "from": "gemini",
@@ -59,6 +92,6 @@
   "handoffQueue": [],
   "lastSync": {
     "claude": "2026-01-23T03:15:00-03:00",
-    "gemini": "2026-01-22T23:14:37-03:00"
+    "gemini": "2026-01-22T23:33:00-03:00"
   }
 }

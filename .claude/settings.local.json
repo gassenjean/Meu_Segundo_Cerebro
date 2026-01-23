@@ -34,7 +34,11 @@
       "WebSearch",
       "Bash(find:*)",
       "Bash(python3:*)",
-      "Bash(node -e:*)"
+      "Bash(node -e:*)",
+      "Bash(grep:*)",
+      "Bash(du:*)",
+      "Bash(wc:*)",
+      "Bash(xargs:*)"
     ]
   }
 }

@@ -58,19 +58,40 @@ updated: 2026-01-22T12:11
 | [[planejamento/PLANO_CORRECAO_URGENTE.md]] | Correções necessárias | ✅ Atual |
 | [[planejamento/PLANO_REORGANIZACAO_KABAK_SKILL_22JAN2026.md]] | Plano reorganização vault | 🔄 Em execução |
 
-### /docs (Documentação Geral)
+### /docs/briefings (Briefings)
 | Arquivo | Descrição | Status |
 |---------|-----------|--------|
-| [[docs/BRIEFING_DR_ALEXANDRE_19JAN2026.md]] | Briefing oficial Dr. Alexandre | ✅ Enviado |
-| [[docs/BRIEFING_DR_ALEXANDRE_COMPACTO.md]] | Versão compacta | 📋 Backup |
-| [[docs/BRIEFING_DR_ALEXANDRE.md]] | Versão antiga | ⚠️ OBSOLETO |
-| [[docs/CHECKLIST_ENVIO_SANSOM.md]] | Checklist envio | ✅ Atual |
-| [[docs/CHECKLIST_SANSOM.md]] | Checklist geral | 📋 Referência |
-| [[docs/CONFORMIDADE_PADROES.md]] | Padrões do projeto | 📋 Referência |
-| [[docs/CORRECOES_ESTRUTURA_SOCIETARIA.md]] | Correções societárias | ✅ Atual |
-| [[docs/DRAFT_RESPOSTA_OFICIAL_SANSOM.md]] | Draft resposta | 📋 Rascunho |
-| [[docs/DOSSIE_FINANCEIRO_ANALISE_TRIBUTARIA.md]] | Análise tributária | ✅ Novo |
-| [[docs/PESQUISA_ALAN_NICOLAS_22JAN2026.md]] | Pesquisa Alan Nicolas | ✅ Novo |
+| [[docs/briefings/BRIEFING_DR_ALEXANDRE_19JAN2026.md]] | Briefing oficial Dr. Alexandre | ✅ Enviado |
+| [[docs/briefings/BRIEFING_DR_ALEXANDRE_COMPACTO.md]] | Versão compacta | 📋 Backup |
+
+### /docs/checklists (Checklists)
+| Arquivo | Descrição | Status |
+|---------|-----------|--------|
+| [[docs/checklists/CHECKLIST_ENVIO_SANSOM.md]] | Checklist envio | ✅ Atual |
+| [[docs/checklists/CHECKLIST_SANSOM.md]] | Checklist geral | 📋 Referência |
+| [[docs/checklists/CHECKLIST_PEDIDO_CHINA.md]] | Checklist pedido China | ✅ Atual |
+
+### /docs/analises (Análises e Auditorias)
+| Arquivo | Descrição | Status |
+|---------|-----------|--------|
+| [[docs/analises/ANALISE_REUNIAO_TITANIUM.md]] | Análise Titanium | ✅ Atual |
+| [[docs/analises/AUDITORIA_ALAN_KABAK.md]] | Auditoria Alan | 📋 Referência |
+| [[docs/analises/CONFORMIDADE_PADROES.md]] | Padrões do projeto | 📋 Referência |
+| [[docs/analises/DOSSIE_FINANCEIRO_ANALISE_TRIBUTARIA.md]] | Análise tributária | ✅ Novo |
+| [[docs/analises/PESQUISA_ALAN_NICOLAS_22JAN2026.md]] | Pesquisa Alan Nicolas | ✅ Novo |
+
+### /docs/transcricoes (Transcrições)
+| Arquivo | Descrição |
+|---------|-----------|
+| [[docs/transcricoes/TRANSCRICAO_REUNIAO_SANSOM.md]] | Transcrição Sansom |
+| [[docs/transcricoes/TRANSCRICAO_REUNIAO_TITANIUM.md]] | Transcrição Titanium |
+| [[docs/transcricoes/TRANSCRICAO_REUNIAO_SANSOM_DR_ALEXANDRE.pdf]] | PDF Reunião Dr. Alexandre |
+
+### /docs/contratos (Contratos)
+| Arquivo | Descrição |
+|---------|-----------|
+| [[docs/contratos/PO_TITANIUM_INICIAL.md]] | PO Titanium inicial |
+| [[docs/contratos/CORRECOES_ESTRUTURA_SOCIETARIA.md]] | Correções societárias |
 
 ### /docs/reunioes (Reuniões)
 | Arquivo | Descrição | Data |

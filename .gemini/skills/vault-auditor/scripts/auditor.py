@@ -223,17 +223,22 @@ class VaultAuditor:
         lines.append(f"data: {timestamp}")
         lines.append("tipo: auditoria-vault")
         lines.append("versao-auditor: 1.0")
-        lines.append("---\n")
-        lines.append("# RELATÓRIO: Auditoria Completa do Vault\n")
-        lines.append(f"**Data:** {timestamp}")
-        lines.append(f"**Ferramenta:** vault-auditor v1.0")
-        lines.append(f"**Total de arquivos analisados:** {self.stats['total_files']}\n")
-        lines.append("---\n")
+        lines.append("---")
+        lines.append("")
+        lines.append(f"# RELATÓRIO: Auditoria Completa do Vault")
+        lines.append("")
+        lines.append(f"- **Data:** {timestamp}")
+        lines.append(f"- **Ferramenta:** vault-auditor v1.0")
+        lines.append(f"- **Total de arquivos analisados:** {self.stats['total_files']}")
+        lines.append("")
+        lines.append("---")
+        lines.append("")
         
         # Summary
-        lines.append("## 📊 RESUMO EXECUTIVO\n")
+        lines.append("## 📊 RESUMO EXECUTIVO")
+        lines.append("")
         lines.append("| Categoria | Total Erros | Severidade |")
-        lines.append("|-----------|-------------|------------|")
+        lines.append("| :--- | :--- | :--- |") 
         
         cats = [
             ('Nomenclatura', 'CRÍTICO'), 
@@ -245,17 +250,7 @@ class VaultAuditor:
             ('Arquivos Obsoletos', 'LIMPEZA')
         ]
         
-        total_errors = sum(self.stats[k.lower().replace(' ', '_')] for k, _ in cats) # Adjust keys later
-        # Simplified mapping
-        key_map = {
-            'Nomenclatura': 'nomenclatura',
-            'Localização': 'localizacao',
-            'Estrutura Markdown': 'markdown',
-            'Links': 'links',
-            'Projetos': 'projetos',
-            'Duplicação': 'duplicacao',
-            'Arquivos Obsoletos': 'obsoletos'
-        }
+        total_errors = sum(self.stats[k.lower().replace(' ', '_')] for k, _ in cats) 
         
         total_sev = 0
         for cat, sev_label in cats:
@@ -269,8 +264,11 @@ class VaultAuditor:
         if total_sev > 0: status = "⚠️ Atenção Necessária"
         if total_sev > 10: status = "🔴 Ação Urgente"
         
-        lines.append(f"\n**Status Geral:** {status}\n")
-        lines.append("---\n")
+        lines.append("")
+        lines.append(f"**Status Geral:** {status}")
+        lines.append("")
+        lines.append("---")
+        lines.append("")
         
         # Details
         for cat, sev_label in cats:
@@ -278,30 +276,36 @@ class VaultAuditor:
             if not items: continue
             
             icon = "🔴" if "CRÍTICO" in sev_label else "🟡" if "IMPORTANTE" in sev_label else "🟢"
-            lines.append(f"## {icon} {cat} ({len(items)} found)\n")
+            lines.append(f"## {icon} {cat} ({len(items)} found)")
+            lines.append("")
             
-            for item in items[:50]: # Limit to avoid huge report
-                lines.append(f"### `{item['file']}`")
-                for issue in item['issues']:
-                    lines.append(f"- **Erro:** {issue}")
-                    # Suggestion logic could go here
+            for item in items[:50]: 
+                # Replaced ### with ** to avoid MD024 and MD001/Header fatigue
+                lines.append(f"**Archivo:** `{item['file']}`")
                 lines.append("")
+                for issue in item['issues']:
+                    lines.append(f"- 🔴 {issue}")
+                lines.append("") 
                 
             if len(items) > 50:
                 lines.append(f"*... e mais {len(items)-50} arquivos.*")
-            lines.append("---\n")
+                lines.append("")
+            lines.append("---")
+            lines.append("")
             
         # Checklist
-        lines.append("## ✅ CHECKLIST DE CORREÇÃO\n")
+        lines.append("## ✅ CHECKLIST DE CORREÇÃO")
+        lines.append("")
         if self.errors['Nomenclatura']:
             lines.append(f"- [ ] Corrigir {len(self.errors['Nomenclatura'])} erros de Nomenclatura")
         if self.errors['Localização']:
             lines.append(f"- [ ] Mover {len(self.errors['Localização'])} arquivos para local correto")
             
-        lines.append("\n**FIM DO RELATÓRIO**")
+        lines.append("")
+        lines.append("> **FIM DO RELATÓRIO**")
         
         with open(filepath, 'w', encoding='utf-8') as f:
-            f.write("\n".join(lines))
+            f.write("\n".join(lines) + "\n")
             
         log(f"Relatório gerado: {filepath}", "SUCCESS")
         return filename
