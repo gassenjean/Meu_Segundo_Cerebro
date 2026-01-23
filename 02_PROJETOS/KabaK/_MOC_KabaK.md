@@ -1,10 +1,10 @@
 ---
 criado: 2026-01-22T12:30:00-03:00
-atualizado: 2026-01-22T12:30:00-03:00
+atualizado: 2026-01-23T00:30:00-03:00
 tipo: moc
 status: ativo
 created: 2026-01-22T12:07
-updated: 2026-01-22T12:11
+updated: 2026-01-23T00:30
 ---
 
 # _MOC_KabaK - Índice Master do Projeto
@@ -111,11 +111,6 @@ updated: 2026-01-22T12:11
 | [[docs/reunioes/MENSAGEM_TITANIUM_OUTLET.md]] | Mensagem Titanium | Jan |
 | [[docs/reunioes/PAUTA_MARKETING_ATUAL.md]] | Pauta marketing | Jan |
 
-### /docs/financeiro (Planilhas e Números)
-| Arquivo | Descrição | Status |
-|---------|-----------|--------|
-| [[docs/financeiro/PLANILHA_KABAK_PREENCHIDA.md]] | Planilha detalhada | 📋 Referência |
-
 ### /docs/projetos (Projetos Específicos)
 | Arquivo | Descrição |
 |---------|-----------|
@@ -126,23 +121,6 @@ updated: 2026-01-22T12:11
 | Arquivo | Descrição |
 |---------|-----------|
 | [[docs/pesquisas/RESUMO_PESQUISA_DANILO.md]] | Pesquisa Danilo |
-
-### /docs/contratos (Contratos)
-| Arquivo | Descrição |
-|---------|-----------|
-| [[docs/contratos/PO_TITANIUM_INICIAL.md]] | PO Titanium inicial |
-
-### /docs/suprimentos (Cadeia de Suprimentos)
-| Arquivo | Descrição |
-|---------|-----------|
-| [[docs/suprimentos/CHECKLIST_PEDIDO_CHINA.md]] | Checklist pedido China |
-
-### /docs (Transcrições e Análises)
-| Arquivo | Descrição |
-|---------|-----------|
-| [[docs/TRANSCRICAO_REUNIAO_SANSOM.md]] | Transcrição Sansom |
-| [[docs/ANALISE_REUNIAO_TITANIUM.md]] | Análise Titanium |
-| [[docs/TRANSCRICAO_REUNIAO_TITANIUM.md]] | Transcrição Titanium |
 
 ### /tarefas (Gestão de Tarefas)
 | Arquivo | Descrição |
@@ -174,14 +152,19 @@ updated: 2026-01-22T12:11
 ### /scripts (Automações Python)
 | Script | Função |
 |--------|--------|
+| `check_formulas.py` | Verificar fórmulas Excel |
 | `convert_heic_local.py` | Converter imagens HEIC |
 | `excel_to_md.py` | Excel para Markdown |
+| `find_cells.py` | Buscar células em planilhas |
 | `generate_html_print.py` | Gerar HTML para impressão |
 | `generate_kabak_excel_v5.py` | Gerar planilha Excel (ATUAL) |
+| `inspect_excel.py` | Inspecionar arquivos Excel |
 | `move_image_fixed.py` | Mover imagens (ATUAL) |
+| `recalc_kabak.py` | Recalcular valores KabaK |
 | `render_briefing.py` | Renderizar briefing |
+| `update_excel.py` | Atualizar Excel |
 
-**Nota:** Scripts v1-v4 são versões antigas de `generate_kabak_excel`
+**Nota:** Scripts obsoletos (v1-v4) foram removidos em 22/Jan/2026
 
 ### /99_ARQUIVO (Histórico)
 | Pasta/Arquivo | Descrição |
@@ -237,15 +220,26 @@ updated: 2026-01-22T12:11
 
 ---
 
-## ⚠️ ARQUIVOS A LIMPAR
+## ✅ REORGANIZAÇÃO 22/JAN/2026
 
-| Arquivo | Ação | Motivo |
-|---------|------|--------|
-| ~~`docs/financeiro/PLANILHA_KABAK_SANSOM.xlsx.md`~~ | ✅ DELETADO | Arquivo vazio |
-| `docs/BRIEFING_DR_ALEXANDRE.md` | PENDENTE | Obsoleto (usar 19JAN) |
-| ~~`docs/Reuniao_Sansom_Transcricao.md`~~ | ✅ RENOMEADO | → TRANSCRICAO_REUNIAO_SANSOM.md |
-| ~~`docs/Reuniao_Titanium_Analise.md`~~ | ✅ RENOMEADO | → ANALISE_REUNIAO_TITANIUM.md |
-| ~~`docs/Reuniao_Titanium_Transcricao.md`~~ | ✅ RENOMEADO | → TRANSCRICAO_REUNIAO_TITANIUM.md |
+| Ação | Quantidade | Status |
+|------|------------|--------|
+| Scripts movidos para /scripts | 6 | ✅ Concluído |
+| Scripts obsoletos deletados | 5 | ✅ Concluído |
+| CSVs movidos para planejamento/recursos | 4 | ✅ Concluído |
+| Subpastas criadas em /docs | 4 | ✅ Concluído |
+| Arquivos reorganizados em /docs | 15+ | ✅ Concluído |
+| Nomenclatura corrigida | 2 | ✅ Concluído |
+
+**Nova estrutura /docs:**
+- `/briefings` - Briefings Dr. Alexandre
+- `/checklists` - Todos os checklists
+- `/analises` - Análises e auditorias
+- `/transcricoes` - Transcrições de reuniões
+- `/contratos` - Contratos e POs
+- `/reunioes` - Resumos de reuniões
+- `/projetos` - Projetos específicos
+- `/pesquisas` - Pesquisas
 
 ---
 
@@ -275,5 +269,5 @@ Ago/2026  ──────  Break-even (Mês 4)
 ---
 
 **Criado:** 22/Jan/2026
-**Última atualização:** 22/Jan/2026
+**Última atualização:** 23/Jan/2026 (Reorganização completa)
 **Mantido por:** Claude Code + KabaK Agent
