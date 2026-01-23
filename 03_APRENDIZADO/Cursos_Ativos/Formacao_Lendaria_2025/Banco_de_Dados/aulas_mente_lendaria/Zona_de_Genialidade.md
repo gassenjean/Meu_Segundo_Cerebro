@@ -1,85 +1,360 @@
 ---
-criado: 2024-10-10T12:09:42-03:00
+criado: 2024-10-03T18:20:53-03:00
 atualizado: 2025-07-09T20:27:08-03:00
 ---
 
-# [[zona de genialidade]]
+#consumir
+#criar
 
-> "Você não pode ligar os pontos olhando para a frente; você só pode ligá-los olhando para trás. Então, você tem que confiar que os pontos se ligarão no futuro. Você tem que confiar em algo - seu instinto, destino, vida, carma, o que for. Esta abordagem nunca me desapontou e fez toda a diferença em minha vida." - Steve Jobs
+# Live Zona de Genialidade
 
-Chegamos nela, na **Zona de Genialidade**, a Zona Lendária.
+Informações da aula
 
-## **O que é a Zona de Genialidade?**
+Descrição
 
-A Zona de Genialidade não é apenas um conceito; é um estado de ser.
+​Livro sugerido: The Big Leap: Conquer Your Hidden Fear and Take Life to the Next Level
 
-Ela é o espaço onde seus talentos naturais e suas paixões se encontram com algo que gera valor tanto intrínseco quanto extrínseco. É como se você tivesse um superpoder que lhe dá uma vantagem injusta sobre os outros. Nessa zona, você é imparável e capaz de deixar um legado duradouro, seja ele financeiro, humanitário ou espiritual.
+**1) Faça a seguinte pergunta para as pessoas próximas a você, pai, mãe, filho, chefe, amigo:** 
 
----
+“FULANO, QUAL VOCÊ ACHA QUE É MINHA MAIOR QUALIDADE? O QUE EU FAÇO MUITO BEM? QUAL É O MEU DOM?
 
-### Por que é Importante Reconhecer Esta Zona?
+**2) Pergunta Plus:** E quais são meus desafios (coisas que preciso melhorar)?
 
-Reconhecer e operar na sua Zona de Genialidade tem implicações profundas tanto para você quanto para as pessoas que você impacta direta e indiretamente. Aqui estão algumas razões:
+### Exemplo de mensagem que mandei para meus amigos e pessoas próximas:
 
-1. **Alinhamento de Propósito**: Quando você está na sua Zona de Genialidade, há um alinhamento claro entre o que você faz e quem você é, o que leva a um maior sentido de propósito e realização pessoal.
+> Gabriel. Pode me ajudar?  
+> Eu estou fazendo uma reflexão aqui. E tenho várias afirmações próprias sobre minhas qualidades e crenças limitantes, mas é bom de ouvir/ler algumas coisas de pessoas próximas.  
+> E hoje te considero uma pessoa próxima.  
+> Qual é a minha maior qualidade?  
+> E o que faço muito bem? Meu "dom"?  
+> Na tua opinião.  
+> E quais são meus desafios (coisas que preciso melhorar)?
 
-2. **Alto Impacto**: O trabalho realizado nesta zona não é apenas de alta qualidade, mas também tem o potencial de contribuir significativamente para a sociedade ou um campo específico.
+# Indicações de Leituras
 
-3. **Eficiência e Produtividade**: Você é capaz de fazer mais com menos esforço, o que leva a um aumento na produtividade e eficiência.
+Informações da aula
 
-4. **Bem-Estar Psicológico**: A congruência entre paixão, talento e trabalho pode levar a um bem-estar psicológico melhorado, incluindo menor estresse e maior felicidade.
+​Aqui estão todos os livros que eu recomendo que você comece a ler enquanto se aprofunda na sua Zona de Genialidade.
 
-5. **Legado Duradouro**: O trabalho realizado na Zona de Genialidade tem o potencial de deixar um impacto duradouro, beneficiando gerações futuras.
-
----
-
-## Exemplos de Pessoas Atuando na Zona de Genialidade
-
-1. **Elon Musk**: Inovação em tecnologia espacial e elétrica. Ele combina sua paixão por um futuro sustentável com suas habilidades em empreendedorismo.
-
-2. **Oprah Winfrey**: Comunicação e empatia. Oprah usa seu dom para conectar-se com as pessoas e trazer à tona histórias inspiradoras.
-
-3. **Steve Jobs**: Design e tecnologia. Jobs tinha uma visão única para produtos que eram tanto funcionais quanto esteticamente agradáveis.
-
-4. **Marie Kondo**: Organização. Ela transformou sua paixão por arrumar espaços em um império de bem-estar.
-
-5. **Bill Gates**: Solução de problemas globais. Gates usa sua riqueza e intelecto para abordar questões como saúde e educação.
-
-6. **J.K. Rowling**: Narrativa. Rowling combinou sua imaginação fértil com habilidades de escrita para criar o mundo de Harry Potter.
-
-7. **Albert Einstein**: Física teórica. Sua curiosidade e habilidades matemáticas o levaram a desenvolver a teoria da relatividade.
-
-8. **Beyoncé**: Performance e música. Ela é uma das artistas mais completas, combinando voz, dança e carisma.
-
-9. **Warren Buffett**: Investimento. Buffett tem uma habilidade única para entender mercados e tendências.
-
-10. **Nelson Mandela**: Liderança e diplomacia. Mandela tinha a habilidade de unir pessoas e lutar por justiça.
-
-11. **Stephen Hawking**: Cosmologia. Sua mente brilhante permitiu-lhe fazer descobertas revolucionárias, apesar de suas limitações físicas.
-
-12. **Serena Williams**: Tênis. Sua paixão e habilidade para o esporte a tornaram uma das melhores de todos os tempos.
-
-13. **Leonardo da Vinci**: Polímata. Da Vinci tinha múltiplos talentos, incluindo arte e engenharia.
-
-14. **Malala Yousafzai**: Ativismo pela educação. Malala combina sua paixão pela educação com a habilidade de inspirar mudanças.
-
-15. **Mark Zuckerberg**: Conexão social através da tecnologia. Ele viu o potencial das redes sociais antes de muitos outros.
-
-16. **Jane Goodall**: Primatologia. Goodall transformou sua paixão por animais em descobertas científicas significativas.
-
-17. **Tim Ferriss**: Otimização de desempenho. Ferriss é conhecido por destrinchar habilidades complexas em partes gerenciáveis.
-
-18. **Satoshi Nakamoto**: Criptomoedas. Quem quer que seja, combinou conhecimentos de economia e criptografia para criar o Bitcoin.
-
-19. **Frida Kahlo**: Arte e expressão pessoal. Kahlo usou sua arte para expressar sua dor e suas paixões.
-
-20. **Martin Luther King Jr.**: Ativismo pelos direitos civis. King tinha uma habilidade única para inspirar pessoas através de suas palavras e ações.
+## Livros
 
 ---
 
-### Minha História pessoal com a Zona Lendária
+### **Muito Importantes, Leitura MUITO Recomendada**
 
-Mesmo tendo muito sucesso sendo especialista de em funis de vendas eu sentia que precisava abrir espaço para o novo e, se apenas seguisse o fluxo e me tornasse uma grande referência em funis, com cursos e equipe, não deixaria espaço para o novo acontecer.
+---
+
+**_Livros em Português:_**
+
+Tão Bom que Não Podem te Ignorar por Cal Newport
+
+O Caminho do Homem Superior por David Deida
+
+O Salto Quântico por Gay Hendricks
+
+Descubra Seu Propósito por Rhys Thomas
+
+A Vaca Roxa por Seth Godin
+
+O Ponto da Virada por Malcolm Gladwell
+
+Pense e Enriqueça por Napoleon Hill
+
+O Alquimista por Paulo Coelho
+
+Os 7 Hábitos das Pessoas Altamente Eficazes por Stephen Covey
+
+---
+
+**_Livros em Inglês:_**
+
+Mastery by George Leonard
+
+Linchpin by Seth Godin
+
+The Path Of Least Resistance by Robert Fritz
+
+The Science Of Success by Wallace Wattles
+
+The War Of Art by Steven Pressfield
+
+Do You! by Russell Simmons
+
+Taming Your Gremlin by Rick Carson
+
+The Wheel of Time by Carlos Castaneda
+
+Psycho-Cybernetics by Maxwell Maltz
+
+Talent Is Overrated by Geoff Colvin
+
+---
+
+### **Menos Importantes, Ainda Ótimos, Mas Opcionais**
+
+**_Livros em Inglês:_**
+
+Toward a Psychology of Being by Abraham Maslow
+
+The One Thing by Gary Keller & Jay Papasan
+
+Reflections On The Art Of Living by Joseph Campbell, edited by Diane Osbon
+
+The Hero With A Thousand Faces by Joseph Campbell
+
+Mastery by Robert Greene
+
+Authentic Happiness by Martin Seligman
+
+Flow by Mihaly Csikszentmihalyi
+
+The Talent Code by Daniel Coyle
+
+The Element by Ken Robinson
+
+## Documentários
+
+Jodorowsky's Dune (2014)
+
+The Power of Myth with Joseph Campbell & Bill Moyers
+
+Jiro Dreams of Sushi (2012)
+
+# Episódio Zona de Genialidade
+
+Informações da aula
+
+[https://youtu.be/aYnSU-z8HS0](https://youtu.be/aYnSU-z8HS0)​​
+
+"Existe um gênio dentro de você só esperando ser despertado para tornar seus desejos realidade."
+
+Esta é uma daquelas frases aparentemente bobas e sem sentido algum que você recebe de um parente no grupo da família no WhatsApp.
+
+Mas ela esconde uma profunda verdade: ...
+
+Dentro de você existe um gênio, existe uma zona de genialidade.
+
+E se você descobrir, desenvolver e atuar nela, com certeza seus sonhos atuais ficarão pequenos perto do que você realizará.
+
+Mas ainda mais importante do que as conquistas materiais que você vai alcançar, é como você vai se sentir. O sentimento de atuar na zona de genialidade é um sentimento de plenitude, como se você estivesse completo apenas pelo ato de fazer.
+
+As conquistas e os sonhos realizados serão apenas uma consequência.
+
+E eu digo isso por experiência própria.
+
+Se parece bom demais para ser verdade?
+
+Fique comigo até o final desse episódio que eu vou te mostrar o que eu aprendi até agora nessa jornada sobre Zona de Genialidade.
+
+Eu sei que você acabou de ouvir isso na vinheta do podcast, mas agora com mais ênfase: seja muito bem-vindo e bem-vinda de volta!
+
+Eu sumi por um tempo daqui e prometo tentar não fazer isso de novo. Agradeço por cada mensagem que recebi com solicitações para os episódios voltarem, isso mostra que o trabalho que estou fazendo aqui está gerando um impacto positivo nas pessoas que escutam, e eu fico muito feliz por isso.
+
+Precisei desse tempo para entrar em um casulo, refletir, ter um momento de introspecção e me desapegar de uma versão minha que criei com tanto esforço e carinho... mas que já havia cumprido seu papel, e não era a versão que me levaria pelo caminho que sinto que preciso trilhar.
+
+Preste atenção no que acabei de falar: sinto que preciso trilhar esse caminho. Pois no final do episódio você vai entender.
+
+Eu precisava desse tempo para sair do casulo preparado para novos desafios, uma nova versão de mim mesmo e um novo caminho. Aos poucos, vou falar sobre isso nos episódios, e se você me acompanhar aqui, vai entender melhor o que estou falando.
+
+Aprender a morrer é uma arte. Desapegar daquilo que você identifica como seu "eu" é muito difícil, como expliquei no episódio 3. A versão do Alan que gravou os primeiros 7 episódios morreu, mas seu propósito e valores não. Propósitos e valores são muito maiores do que uma identificação do seu ego; eles são a sua essência. Talvez você não conheça seu propósito e valores, mas eles existem dentro de você.
+
+Meu propósito de viver uma vida lendária e compartilhar meus aprendizados dessa jornada com você está aqui, presente, ardendo. E hoje, quero compartilhar com você uma das maiores descobertas que fiz na minha vida: existe um gênio dentro de você, assim como existe propósito e valores, mesmo que você não os conheça. E eu quero compartilhar como venho descobrindo o meu.
+
+Se você ouviu o episódio 7 de "Uma mente milionária", sabe que existem 4 zonas.
+
+A **zona de incompetência**, que eu carinhosamente chamo de zona de merda, é aquela em que você tem dificuldade para executar, mesmo se esforçando. É algo que outra pessoa faria melhor que você. Ou seja, aqui você só faz merda.
+
+Alguns exemplos pessoais:
+
+- Processos repetitivos: sou muito ruim para fazê-los e fico entediado, então começo a fazer merda, mas outras pessoas conseguem.
+- Fazer as coisas em ordem: tenho muita dificuldade para isso. Quando era criança, não escrevia o alfabeto do A ao Z, mas começava no A e ia até me entediar, voltava do Z até a metade e depois completava. Sim, não consigo seguir a ordem alfabética.
+- Escrevo a conclusão primeiro em muitos textos, começo livros pelo último capítulo e leio vários livros ao mesmo tempo, porque fico entediado lendo apenas um. Preciso fazer uns 4 projetos ao mesmo tempo, pulando etapas neles.
+
+Ou seja, se você quer algo feito de A a Z, com um começo e um fim, talvez eu não seja a pessoa certa para isso.
+
+Provavelmente sou uma das piores pessoas para se contar com organização. Eu sou apaixonado pela aleatoriedade e não posso negar que tenho uma queda pelo caos, pois ele permite que o novo possa acontecer e eu gosto de inovar. Agora, imagine se eu quisesse ser bibliotecário. Imagine a bagunça que seria a biblioteca. Qualquer profissão que exigisse seguir um processo muito específico me frustraria e eu não seria capaz de entregar o meu melhor.
+
+Outra dificuldade latente em mim é seguir ordens de outras pessoas. Eu questiono tudo, o tempo todo, e quando digo o tempo todo, é quase o tempo todo mesmo. Sabe aquela criança que pergunta "por quê?" o tempo todo? Ela ainda está bem viva dentro de mim.
+
+Então, tenho muita dificuldade em seguir ordens, principalmente se elas são claramente sem sentido ou burras. Agora, imagine esse ser questionador e rebelde tentando servir na Aeronáutica.
+
+Meus amigos todos serviam e tocavam na banda da base aérea da minha cidade, e como eu também era músico, eu queria entrar lá e ir para a banda. Meu pai me levava lá todos os anos para ver a Esquadrilha da Fumaça e assistir aos paraquedistas saltando, então eu tinha a base aérea como uma boa lembrança e possibilidade de seguir carreira como meus amigos estavam fazendo. Decidi que também iria servir e tentar seguir carreira lá.
+
+Eu treinei por 14 meses, correndo 5km todos os dias, fazendo reflexão e abdominal. Aprendi a tocar percussão e clarinete, porque não poderia tocar teclado ou guitarra lá.
+
+Passei em todas as provas físicas e mentais, mas isso não foi suficiente.
+
+Como eu queria muito entrar, pedi para minha mãe falar com todas as pessoas que ela conhecesse para me ajudar.
+
+Ela falou com 2 sargentos e ambos concordaram em me ajudar a entrar. No entanto, eu sempre penso: por que parar por aí?
+
+Então, consegui o contato de um oficial e ele pediu para ter uma conversa comigo antes de me indicar. Como frequentávamos a mesma igreja, eu tinha certeza de que ele iria me ajudar.
+
+No dia em que sairia o resultado de quem havia entrado, ele pediu para eu ir falar com ele.
+
+Antes de dizer qualquer coisa, ele me fez várias perguntas:
+
+O que eu gostava de fazer?
+
+Como eu gostaria que fosse meu futuro?
+
+Confesso que algumas perguntas eu não estava preparado para responder naquele momento, porque simplesmente não tinha refletido sobre elas.
+
+No final, ele me disse que, apesar de eu ter passado em todos os testes, eu não seria selecionado naquela turma. Ele me falou que a base não era o lugar para mim, e que eu deveria estudar para ser programador ou até mesmo abrir meu próprio negócio.
+
+Mas, se eu continuasse convicto dessa decisão, em 6 meses, quando abrisse uma nova chamada, eu seria o primeiro da turma a entrar.
+
+Eu saí de lá chorando e com muita raiva dele. Eu treinei por 14 meses, já conhecia todo mundo lá dentro e já havia feito amizades com as pessoas certas. Tudo estava esquematizado.
+
+Eu já sabia todos os truques, como eles falam lá dentro.
+
+E então, ele jogou um balde de água fria no meu sonho de servir. Eu pensei: "Vou ter que esperar 6 meses agora por causa desse oficial desgraçado. Já estava tudo certo!". Passei dias me culpando, pensando que agora teria que esperar mais 6 meses para entrar.
+
+Bom, eu não servi, e esse oficial me salvou de meses de frustração, pois eu com certeza seria um dos piores militares da turma. Hoje, agradeço por ter tido essa conversa com ele. Eu não me conhecia o suficiente para saber que seria um péssimo militar.
+
+Esses são apenas dois exemplos que dei. A verdade é que a zona de fracasso é muito maior do que a zona de sucesso, pois existem muito mais coisas que somos incapazes de fazer por natureza do que coisas que somos capazes.
+
+Sabe aquela frase motivacional: "Você pode ser o que quiser"? Esqueça essa bobagem, você não pode ser o que quiser. Se você tem 2 metros de altura, nunca será um jóquei profissional. Se você tem 1 metro e 50, nunca será campeão olímpico de natação, não importa o quanto treine e seja talentoso.
+
+A verdade é que você não pode ser o que quiser, mas nem deveria. Você pode e deve sonhar em ser o gênio que nasceu para ser. E aqui não estou falando de predestinação.
+
+Seja no que for que você acredita - Deus, uma força maior ou no simples caos que levou partículas a colidirem, explodirem e expandirem formando o universo - independente do que seja, uma coisa que você concordará é que você é único.
+
+Essa sopa de átomos e coleção de experiências que formam você é única.
+
+Ser único significa carregar o potencial de entregar algo que apenas você pode entregar, então por que você continua tentando entregar o que os outros entregam? ...
+
+Por que você continua tentando se encaixar? ….
+
+Ao tentar se encaixar, a única vida que você vai conseguir é uma vida medíocre, pois você vai operar nela na zona de competência.
+
+A zona de mediocridade é muito fácil de identificar - você simplesmente não é o melhor naquilo que faz.
+
+Mas mesmo assim, muitas pessoas ficam presas aqui, seja por ego, orgulho ou ignorância, e se você está atuando na zona de mediocridade, você não está gerando valor, você está apenas entregando o mínimo necessário.
+
+Pare de fazer isso!
+
+Agora vamos para a **zona de excelência,** que eu chamo de zona de gênio:
+
+Nela, você consegue executar a atividade melhor do que qualquer outra pessoa.
+
+Aqui é onde poucas pessoas estão, elas são tão boas que não precisam se preocupar com concorrência, elas criam sua própria concorrência.
+
+Executam o que precisam ser executado, mas não se contentam com isso - buscam sempre melhorar e inovar.
+
+Sabe aquela sensação de estagnação, de que não importa o quanto você se esforça parece não sair do lugar? Talvez seja porque você está atuando na zona de mediocridade. Saia dela e vá em busca da sua zona de excelência.
+
+Você não está mal, mas sente que poderia estar melhor, só que parece que as coisas simplesmente não andam?
+
+Esse é um dos efeitos colaterais de atuar na zona de mediocridade.
+
+Você é mediano e, por ser mediano, entrega no máximo o suficiente.
+
+O suficiente para passar de ano, o suficiente para sobreviver, o suficiente para pagar as contas.
+
+E aqui eu quero te fazer uma provocação.
+
+O suficiente basta?
+
+Em um mundo abundante, com diversas possibilidades.
+
+Em um mundo que clama por você ser quem nasceu para ser.
+
+Será que apenas ser o suficiente é o bastante?
+
+Eu sempre gostei muito de música. Quando comecei a frequentar a igreja evangélica, comecei a ter uma aproximação maior com músicos e descobri que alguns deles ensinavam de graça.
+
+Eu não tinha condições de comprar. Na época, meus pais estavam desempregados e eles também não tinham condições de comprar para mim.
+
+Então, eu peguei um pedaço de madeira, preguei 6 pregos em uma ponta, 6 pregos na outra e, com a faca, fiz a marcação de onde ficariam os trastes do violão. Passei uma linha de lã de ponta a ponta para poder treinar os acordes.
+
+Consegui uma folha que tinha 3 acordes: sol, ré e dó.
+
+E ali fiquei treinando os acordes. Minha mãe se compadeceu de mim e conseguiu um violão bem velho e surrado para mim. Ele estava tão empenado que eu mal conseguia fazer as notas, mesmo forçando muito os dedos, mas já era melhor que meu pedaço de madeira com pregos e lã.
+
+Com esse violão, eu já consegui começar a ter aulas. A primeira aula que recebi foi do "Parabéns para Você". Eu sempre fui muito dedicado e, no final do dia, já tinha aprendido a tocá-la.
+
+Mostrei no final do dia ao músico e ele gostou da minha dedicação, então começou a me ensinar. Como eu era muito empenhado, logo já me chamaram para tocar nos cultos que tinham poucas pessoas e, como eu estava sempre lá, aos poucos começaram a me chamar para cultos maiores.
+
+Eu não era bom, tinha muita dificuldade para memorizar as notas e para pegar o tempo da música.
+
+Lembro que ficava semanas ensaiando uma música e esse meu amigo que me ensinou a tocar chegava para o ensaio sem nem conhecer direito a música e era só escutar a melodia uma vez para sair tocando toda ela.
+
+Recorrentemente eu precisava pedir as notas da música durante a música para o meu baterista, sim, o baterista sabia as notas e eu não. Obrigado pela força, Ricardinho!
+
+Para compensar essa minha ruindade nata, recorri então aos estudos para compensar minha falta de habilidade.
+
+Estudei muito sobre composição musical e escalas. Para me aprofundar mais, fui para o piano e logo percebi que muita gente precisava de ajuda com coisas que para mim estavam ficando básicas, como arpejo ou solo em uma escala diatônica.
+
+Logo comecei a dar aulas e a tocar em bandas cada vez maiores.
+
+Mas sabe o que eu notei?
+
+Meu esforço me levou da zona de incompetência para a zona de competência, ou seja, da zona ruim para a zona mediana, mas eu dificilmente sairia dali. Eu era bom o suficiente para ensinar e para tocar em algumas bandas, mas só isso, apenas o suficiente.
+
+Não tenho dom para música, não nasci com uma habilidade nata para isso. Dói dizer isso, porque amo música e ainda toco de vez em quando no meu piano, mas nunca seria um grande músico, mesmo se me dedicasse muito a isso.
+
+Refleti sobre isso quando, em um evento da igreja, precisei decidir entre tomar uma água e ficar sem a passagem para ir embora ou ficar com sede e ir para a parada de ônibus.
+
+Peguei uma garrafa de água vazia no lixo da cantina, lavei no banheiro, enchi de água e fui para a parada.
+
+E eu pensei: e se eu colocasse todo esse esforço em algo que eu realmente fosse bom, talvez eu começasse a ser bem pago por isso.
+
+Que insight incrível.
+
+Num domingo, às 18h, num calor infernal, num ponto de ônibus em Novo Hamburgo, Rio Grande do Sul, esperando um ônibus lotado que levaria 1h30 para me deixar na outra igreja onde eu também ia tocar, tive esse insight.
+
+E se eu colocar energia em algo que eu realmente seja bom?
+
+Eu não tinha noção do que eu era naturalmente bom, mas sabia que como músico não era.
+
+Um problema nosso é querer escolher algo que sejamos bons e insistir nisso. Como eu saí da zona ruim para a zona mediana como músico, você também pode evoluir, mas só até certo ponto.
+
+Enquanto isso, se você colocar energia na sua zona de genialidade, você vai de forma natural gerar uma contribuição muito maior.
+
+Imagine que desperdício seria se Leonardo Da Vinci tivesse ficado trabalhando a vida toda como lavrador para o seu padrasto, porque ele tinha teto e comida lá.
+
+Imagine se Albert Einstein tivesse seguido os passos do pai e virado um empresário. É provável que tivéssemos perdido toda a genialidade que ele conseguiu expressar através da matemática e da física.
+
+Será que ser príncipe não é o suficiente?
+
+Mas imagine se Sidarta Gautama tivesse aceitado ser apenas um príncipe.
+
+Isso é mais do que suficiente para muitos, eu diria para a maioria, mas não para ele.
+
+Em busca da erradicação das causas do sofrimento humano e de todos os seres, ele abdicou do trono e até hoje seus ensinamentos como Buda são amplamente compartilhados.
+
+Talvez Jesus até fosse um bom carpinteiro.
+
+Mas imagine que desperdício seria se Jesus não tivesse sido quem nasceu para ser. Independente se você acredita nele ou em Buda, existe um legado e eles deixaram uma marca positiva no mundo. Mas e se Jesus tivesse continuado sendo apenas um carpinteiro? E Buda apenas um príncipe?
+
+Quem você está deixando de ser por continuar medíocre, continuar na zona de competência sendo apenas o suficiente?
+
+Refleta sobre isso!
+
+Vamos agora para a zona de excelência, chamada por mim de zona do extraordinário:
+
+Aqui, você está fazendo algo que é muito, muito melhor do que outras pessoas.
+
+Você se destaca facilmente e gera tanto valor que naturalmente é promovido no seu trabalho ou consegue expandir seus negócios.
+
+Porque você está produzindo com excelência, gerando muito valor e, às vezes, muito mais rápido do que pessoas operando a mesma função em outras zonas inferiores.
+
+É nessa zona que operam as pessoas que ganham muito dinheiro e possuem trabalhos que geram reconhecimento e orgulho.
+
+Por exemplo, uma das minhas zonas de excelência é construir funis de venda, principalmente funis de e-mail, que foi no que mais me especializei.
+
+Eu gerei muito resultado através dessa habilidade, tanto para mim quanto para meus sócios e clientes de consultoria.
+
+Comecei a ser solicitado para diversas palestras grandes do mercado e fui dizendo sim para todas elas, pois isso me posicionava como autoridade no assunto e me permitia estar próximo de grandes empresários.
+
+Muitos falaram: "Lança um curso disso", "Cria uma empresa de consultorias com um time para atender mais clientes", mas eu sentia que não era esse o caminho que deveria seguir.
+
+Sentia que existia algo maior e assim conheci a quarta zona.
+
+A **zona de genialidade**, a zona lendária:
+
+Senti que precisava abrir espaço para o novo e, se apenas seguisse o fluxo e me tornasse uma grande referência em funis, com cursos e equipe, não deixaria espaço para o novo acontecer.
 
 Então, comecei a recusar palestras e novos clientes.
 
@@ -255,121 +530,75 @@ Mas não conseguiria saber isso se ficasse atrás do computador, respondendo que
 
 Vá para o campo, você só se conhecerá quando se permitir ter novas experiências.
 
----
+Há uma frase que li há seis anos; na época, ela fez sentido intelectualmente para mim, mas hoje faz sentido em meu íntimo. Deixou de ser um aprendizado intelectual e passou a ser um aprendizado enraizado em mim, por ter sido experiência própria.
 
-### Sinais de que Você Está na Zona
+Deixe-me citá-la para você.
 
-1. **Estado de Flow**: Você perde a noção do tempo e está completamente imerso na atividade. Eu por exemplo estou há 8 horas direto criando os textos deste curso. Eu entro em flow quando estou compilando as minhas ideias e ensinando outras pessoas.
+"Você não pode ligar os pontos olhando para a frente; você só pode ligá-los olhando para trás. Então, você tem que confiar que os pontos se ligarão no futuro. Você tem que confiar em algo - seu instinto, destino, vida, carma, o que for. Esta abordagem nunca me desapontou e fez toda a diferença em minha vida." - [Steve Jobs]
 
-2. **Facilidade e Excelência**: Você realiza tarefas com uma facilidade que surpreende os outros, mas para você, parece natural.
+Sempre fui uma pessoa muito analítica e racional. Achava que essa era a forma correta de tomar decisões e a maneira mais assertiva de conduzir minha vida e negócios.
 
-3. **Alto Grau de Satisfação**: Você sente um profundo senso de realização e satisfação ao concluir tarefas.
+Mas, ao estudar a mente, descobri que temos algo muito mais poderoso do que um computador operando em nosso corpo. Temos uma máquina de processamento e assimilação de informações extremamente impressionante, e nem tudo o que acontece aqui pode ser explicado, mas pode ser sentido.
 
-4. **Reconhecimento Externo**: Outros começam a reconhecer e valorizar seu trabalho, muitas vezes de forma espontânea.
+Aprendi a ouvir mais minha intuição, mesmo que ela não faça sentido a curto prazo, como disse Steve Jobs: "Você só consegue ligar os pontos olhando para trás."
 
-5. **Desejo de Melhoria Contínua**: Você sente uma paixão intrínseca para continuar aprimorando suas habilidades, mesmo já sendo excelente nelas.
+O escritor Joseph Campbell uma vez deu um grande conselho: "Siga sua felicidade, siga sua alegria."
 
----
+Faça o que você sente que precisa fazer. Talvez não faça sentido no começo, mas com certeza fará uma diferença positiva em seu futuro.
 
-## Como sair das outras zonas?
+Lembre-se que no início do episódio eu falei sobre "o que eu sinto que preciso trilhar"? É exatamente isso: seguir um sentimento, como se fosse um destino, karma, chamado, propósito - seja o que você quiser chamar. Se você se permitir e começar a escutar, tenho certeza de que entenderá do que estou falando.
 
-1. **Autoconhecimento**: O primeiro passo é o reconhecimento. Use ferramentas como feedback 360 graus, testes de personalidade e reflexão pessoal para identificar em qual zona você está operando atualmente.
+Antes de concluirmos, quero deixar dois desafios para você:
 
-2. **Planejamento e Estratégia**: Crie um plano de ação para migrar suas atividades e foco para a Zona de Genialidade. Isso pode incluir educação continuada, mentoria e realinhamento de carreira.
+1. Pergunte a pelo menos 10 pessoas que você conheça bem:  
+       - Qual qualidade se destaca em você?
+2. O que você faz muito bem que poucas pessoas conseguem fazer como você?  
+       - Faça uma lista com as 4 zonas.
 
-3. **Eliminação e Delegação**: Para sair das zonas de incompetência e competência, aprenda a dizer não ou a delegar tarefas que não estão alinhadas com sua Zona de Genialidade.
+Zona de Merda
 
-4. **Prática Deliberada**: Mesmo que você esteja na Zona da Excelência, a transição para a Zona de Genialidade requer prática focada e intencional, muitas vezes sob a orientação de um mentor ou coach.
+Zona de Mediocridade
 
-5. **Revisão e Ajuste**: Mantenha um ciclo de feedback contínuo para avaliar seu progresso e fazer ajustes conforme necessário.
+Zona de Excelência
 
-Ao seguir essas etapas, você não apenas eleva seu próprio nível de desempenho e satisfação, mas também contribui de forma mais significativa para o mundo ao seu redor. A Zona de Genialidade não é apenas um conceito abstrato, mas uma realidade alcançável que tem o poder de transformar sua vida em múltiplos aspectos.
+Zona Lendária (Zona de Genialidade)
 
----
+Procure observar o que você faz no seu dia a dia e tente categorizar conforme eu te ensinei hoje através desse podcast.
 
-## **Iniciando a Descoberta da Sua Zona de Genialidade**
+Procure operar o maior tempo possível o mais próximo que você puder da zona de genialidade, você vai notar que só de evitar ao máximo operar na zona de merda e de mediocridade, seus resultados já serão completamente diferentes.
 
-### **Passo 1: Autoconhecimento através do Feedback**
+E quando digo resultado não é só dinheiro, é mais alegria, mais realização, mais plenitude.
 
-Pergunte a pessoas que você confia e que te conhecem bem sobre suas habilidades excepcionais.
+Se você está escutando esse podcast é porque eu acredito que assim como eu, você está em busca de viver uma vida lendária e tenho certeza que se você colocar em prática o que aprendeu aqui hoje, você estará um passo mais próximo disso.
 
-**a) Faça a seguinte pergunta para as pessoas próximas a você, pai, mãe, filho, chefe, amigo:** 
+Esse episódio vai ficando por aqui e se você acredita que ele contribuiu de alguma forma para você, então compartilhe com uma pessoa que você acredita que também precisa escutar esse conteúdo.
 
-“FULANO, QUAL VOCÊ ACHA QUE É MINHA MAIOR QUALIDADE? O QUE EU FAÇO MUITO BEM? QUAL É O MEU DOM?
+Além disso, todo feedback é bem-vindo. Me mande uma mensagem lá no Instagram me dizendo o que você achou desse conteúdo. Meu Instagram é alanicolascom.
 
-pepe: confiar em Deus, ser amoroso, fazer coisas difíceis.
-eu:
-kris: dom da palavra, qualidade ter psicologia com as pessoas. saber liderar e influenciar.
-bella: bastante fe em Deus, bom pai, e bem legal
+Eu estou postando conteúdos diariamente nos meus stories.
 
-**b) Pergunta Plus:** E quais são meus desafios (coisas que preciso melhorar)?
-pepe: tomar mais cuidado com as brincadeiras(mao machucar), disse q estou muito melhor.
-kris: disse q estou tao melhor, picos de estres (quando vi ja foi).
-bella:
+Então é isso.
 
-**Exemplo de mensagem que mandei para meus amigos e pessoas próximas:**
+Obrigado por mais uma vez estar aqui comigo e não esqueça: Uma vida lendária é formada por pequenas ações e decisões, não esqueça de fazer o tema de casa.
 
-> Gabriel. Pode me ajudar?  
-> Eu estou fazendo uma reflexão aqui. E tenho várias afirmações próprias sobre minhas qualidades e crenças limitantes, mas é bom de ouvir/ler algumas coisas de pessoas próximas.  
-> E hoje te considero uma pessoa próxima.  
-> Qual é a minha maior qualidade?  
-> E o que faço muito bem? Meu "dom"?  
-> Na tua opinião.  
-> E quais são meus desafios (coisas que preciso melhorar)?
-
-### **Passo 3:** Compile as Informações
-
-Compile essas informações para ter uma ideia clara de seus pontos fortes. Coloque elas todo no mesmo lugar, pode ser um Google Planilha ou dentro da sua Mente Lendária.
-
-### **Passo 3: Reflexão e Conexão dos Pontos**
-
-Depois de coletar essas informações, reflita sobre momentos em que você usou essas habilidades de forma conjunta. Isso lhe dará uma visão mais clara de onde sua Zona de Genialidade pode residir.
-
-### **Passo 4: Experimentação e Ação**
-
-Não basta apenas pensar ou planejar; você precisa agir. Experimente diferentes atividades que alinhem com seus pontos fortes e paixões. Observe como você se sente e o valor que você gera.
-
----
-
-## **Exercício Prático 📝**
-
-1. **Lista de Feedback**: Entre em contato com pelo menos 10 pessoas que você respeita e faça a pergunta acima. Compile as respostas.
-2. **Diário de Reflexão**: Durante uma semana, anote momentos em que você sentiu que estava usando suas habilidades de forma eficaz e também se sentindo realizado.
-3. **Plano de Ação**: Com base em suas reflexões e feedback, crie um plano de ação para experimentar atividades que você acredita que possam estar em sua Zona de Genialidade.
-4. **Avaliação**: Depois de um mês, avalie como você se sente e quais resultados obteve. Isso lhe dará uma ideia mais clara de onde sua Zona de Genialidade realmente reside.
-
-## **Conclusão: A Jornada é o Destino**
-
-Lembrando as palavras de Steve Jobs, você só pode conectar os pontos olhando para trás. Portanto, não tenha medo de experimentar e falhar. Cada experiência é um ponto que eventualmente se conectará para formar o quadro maior de sua Zona de Genialidade.
-
----
-
-### Próximos Passos ♾️
-
-1. 🧠 Complete o exercício prático.
-2. 👋 Compartilhe nos comentários o que você aprendeu nesta aula.
-3. 👉 Avance para a próxima aula
+Até o próximo episódio!
 
 # ia
 
-A Zona de Genialidade, também conhecida como Zona Lendária, é um conceito que se refere ao estado de ser em que uma pessoa combina suas habilidades naturais, paixões e contribuição para gerar valor tanto intrínseco quanto extrínseco. É o espaço onde você é imparável e capaz de deixar um legado duradouro.
+O texto apresentado é um episódio de podcast sobre a "Zona de Genialidade", que é uma área em que as pessoas se sentem mais realizadas e produtivas. O episódio começa com uma pergunta: "Existe um gênio dentro de você só esperando ser despertado para tornar seus desejos realidade?"
 
-**Por que é importante reconhecer a Zona de Genialidade?**
+O apresentador, Alan, compartilha sua própria jornada de descoberta da sua Zona de Genialidade e como ele a identificou. Ele explica que existem quatro zonas:
 
-1.  Alinhamento de propósito: quando você está na sua Zona de Genialidade, há um alinhamento claro entre o que você faz e quem você é, o que leva a um maior sentido de propósito e realização pessoal.
-2.  Alto impacto: o trabalho realizado nesta zona não é apenas de alta qualidade, mas também tem o potencial de contribuir significativamente para a sociedade ou um campo específico.
-3.  Eficiência e produtividade: você é capaz de fazer mais com menos esforço, o que leva a um aumento na produtividade e eficiência.
-4.  Bem-estar psicológico: a congruência entre paixão, talento e trabalho pode levar a um bem-estar psicológico melhorado, incluindo menor estresse e maior felicidade.
-5.  Legado duradouro: o trabalho realizado na Zona de Genialidade tem o potencial de deixar um impacto duradouro, beneficiando gerações futuras.
+1. Zona de Incompetência: onde as pessoas não são boas em algo.
+2. Zona de Competência: onde as pessoas são medianas em algo.
+3. Zona de Excelência: onde as pessoas são muito boas em algo.
+4. Zona de Genialidade: onde as pessoas são excepcionais em algo e geram valor intrínseco e extrínseco.
 
-**Exemplos de pessoas atuando na Zona de Genialidade**
+Alan compartilha como ele descobriu sua Zona de Genialidade, que é iniciar novos projetos com muita intensidade, rápida adaptação e com as pessoas certas no momento certo. Ele também compartilha como ele conseguiu identificar sua Zona de Genialidade, perguntando a 27 pessoas no que ele era excepcional e o que ele fazia muito bem.
 
-1.  Elon Musk: inovação em tecnologia espacial e elétrica.
-2.  Oprah Winfrey: comunicação e empatia.
-3.  Steve Jobs: design e tecnologia.
-4.  Marie Kondo: organização.
-5.  Bill Gates: solução de problemas globais.
+O episódio também inclui dois desafios para os ouvintes:
 
-**Minha história pessoal com a Zona Lendária**
+1. Perguntar a pelo menos 10 pessoas que você conheça bem: Qual qualidade se destaca em você? O que você faz muito bem que poucas pessoas conseguem fazer como você?
+2. Fazer uma lista com as 4 zonas e categorizar o que você faz no seu dia a dia conforme as zonas.
 
-O autor descreve sua jornada de autoconhecimento e como descobriu sua Zona de Genialidade. Ele menciona que inicialmente era especialista em funis de vendas, mas sentia que precisava abrir espaço para o novo e não apenas seguisse o fluxo. Ele começa a recusar pale
+O episódio termina com uma citação de Steve Jobs: "Você não pode ligar os pontos olhando para a frente; você só pode ligá-los olhando para trás. Então, você tem que confiar que os pontos se ligarão no futuro."
