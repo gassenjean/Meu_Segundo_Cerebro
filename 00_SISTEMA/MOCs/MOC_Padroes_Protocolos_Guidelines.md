@@ -52,6 +52,7 @@
 |---------|-----------|------------|
 | [[00_SISTEMA/PADROES/NOMENCLATURA.md]] | **CRÍTICO** - Padrões de nomenclatura | Antes de criar QUALQUER arquivo |
 | [[00_SISTEMA/PADROES/GUIA_Claude_vs_Gemini.md]] | Qual IA usar para cada tarefa | Decisão Claude vs Gemini |
+| [[00_SISTEMA/PADROES/PADRAO_LOOP_RALPH.md]] | **NOVO** - Verificação automática de tarefas (Alan Nicolas) | Implementar gerentes/skills |
 | [[00_SISTEMA/PADROES/ESTRUTURA_PROJETOS.md]] | ⚠️ **DEPRECADO** → Ver [[02_PROJETOS/_GUIDELINES.md]] | Não usar |
 
 **Total:** ~30KB
@@ -86,7 +87,7 @@
 
 **Workflows operacionais**
 
-#### 4.1. Sincronização (4 protocolos)
+#### 4.1. Sincronização (5 protocolos)
 
 ⚠️ **CONFUSO?** Ver [[00_SISTEMA/MOCs/MOC_Sincronizacao_Sistemas.md]] (Decision tree)
 
@@ -94,6 +95,7 @@
 |---------|-----|----------------|
 | [[00_SISTEMA/PROTOCOLOS/PROTOCOLO_MULTI_PC.md]] | Sincronizar Alienware ↔ Desktop Casa | Trocar de PC |
 | [[00_SISTEMA/PROTOCOLOS/PROTOCOLO_SINCRONIZACAO_AGENTES.md]] | Sincronizar Claude ↔ Gemini | Handoff entre IAs |
+| [[00_SISTEMA/PROTOCOLOS/PROTOCOLO_SESSION_LOG_V2.md]] | **NOVO** - Formato SESSION_LOG padronizado, anti-conflito OneDrive | Comunicação Claude ↔ Gemini |
 | [[00_SISTEMA/PROTOCOLOS/PROTOCOLO_GITHUB_MULTI_DISPOSITIVO.md]] | Sincronizar iPhone ↔ Desktop ↔ Alienware (git) | Resolver branches Claude /* |
 | [[00_SISTEMA/PROTOCOLOS/PROTOCOLO_ANTIGRAVITY_GITHUB.md]] | GitHub API via Antigravity/Gemini | Criar issues, PRs via Gemini |
 
