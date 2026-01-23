@@ -2,7 +2,7 @@
   "meta": {
     "version": "1.0",
     "created": "2026-01-23T02:00:00-03:00",
-    "lastUpdate": "2026-01-23T02:45:00-03:00",
+    "lastUpdate": "2026-01-23T03:15:00-03:00",
     "lastAgent": "claude"
   },
   "activeSession": {
@@ -18,19 +18,10 @@
       "to": "claude",
       "task": "REVISAR PROTOCOLOS DE LINTING",
       "priority": "alta",
-      "context": [
-        "SESSION_LOG.md",
-        ".agent/workflows/"
-      ],
-      "criteria": [
-        "Ler feedback no SESSION_LOG.md",
-        "Garantir que novos arquivos sigam regras MD040, MD060, MD022, MD032",
-        "Revisar templates internos para evitar erros recorrentes"
-      ],
       "status": "completed",
       "created": "2026-01-22T23:10:00-03:00",
-      "completed": "2026-01-23T02:45:00-03:00",
-      "notes": "Adicionado regras de linting no CLAUDE.md. Corrigido code blocks nos gerentes. Debt técnico identificado em workflows antigos."
+      "completed": "2026-01-23T03:00:00-03:00",
+      "notes": "Linting 100% corrigido. Claude corrigiu nevoa.md e gerentes. Gemini corrigiu gerente-produtividade e gerente-projetos. Regras adicionadas no CLAUDE.md."
     },
     {
       "id": "T001",
@@ -38,16 +29,6 @@
       "to": "gemini",
       "task": "LER E IMPLEMENTAR novo protocolo Bi-IA",
       "priority": "alta",
-      "context": [
-        ".bi-ia/PROTOCOLO_BI_IA_SYNC.md",
-        ".bi-ia/state.json"
-      ],
-      "criteria": [
-        "Ler PROTOCOLO_BI_IA_SYNC.md completamente",
-        "Atualizar GEMINI.md com referência ao .bi-ia/",
-        "Confirmar leitura atualizando lastSync.gemini",
-        "Seguir regras de formatação (MD040, MD036, MD026, MD060)"
-      ],
       "status": "completed",
       "created": "2026-01-23T02:15:00-03:00",
       "completed": "2026-01-22T22:55:00-03:00"
@@ -77,7 +58,7 @@
   },
   "handoffQueue": [],
   "lastSync": {
-    "claude": "2026-01-23T02:45:00-03:00",
+    "claude": "2026-01-23T03:15:00-03:00",
     "gemini": "2026-01-22T22:55:00-03:00"
   }
 }
