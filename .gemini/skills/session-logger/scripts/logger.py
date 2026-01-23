@@ -136,7 +136,8 @@ def generate_session_entry(agent, changes, message_to_other=""):
         7: "JUL", 8: "AGO", 9: "SET", 10: "OUT", 11: "NOV", 12: "DEZ"
     }
     month_str = months_pt[now.month]
-    date_str = f"{now.day:02d}/{month_str}/{now.year} ({now.hour:02d}:{now.minute:02d})"
+    time_str = f"{now.hour:02d}:{now.minute:02d}"
+    date_str = f"{now.day:02d}/{month_str}/{now.year} ({time_str})"
     
     # Emoji e Título
     emoji = "🟣" if "Gemini" in agent else "🔵"
@@ -158,7 +159,7 @@ def generate_session_entry(agent, changes, message_to_other=""):
             
     entry = f"\n## {emoji} {agent} - {date_str} - {title}\n\n"
     
-    entry += "### Trabalho Realizado\n\n"
+    entry += f"### Trabalho Realizado ({time_str})\n\n"
     
     if not categorized:
         entry += "* ✅ Nenhum arquivo modificado detectado via git.\n"
@@ -170,14 +171,14 @@ def generate_session_entry(agent, changes, message_to_other=""):
                 entry += f"* ✅ {action}\n"
             entry += "\n"
             
-    entry += "### Arquivos Criados/Modificados\n\n"
+    entry += f"### Arquivos Criados/Modificados ({time_str})\n\n"
     if not changes:
         entry += "* Nenhuma detecção automática.\n"
     else:
         for status, filename in changes:
             entry += f"* `{filename}` - {status}\n"
             
-    entry += "\n### Mensagem para Claude Code\n\n"
+    entry += f"\n### Mensagem para Claude Code ({time_str})\n\n"
     if message_to_other:
         entry += f"> {message_to_other}\n"
     else:

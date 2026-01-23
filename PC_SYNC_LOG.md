@@ -36,6 +36,43 @@ Este arquivo permite que o **Alienware** (notebook trabalho/externo) e o **Deskt
 
 ## 📋 ÚLTIMAS MUDANÇAS (Últimas 10 sessões)
 
+### 💻 Alienware - 22/Jan/2026 (23:55) 🧹 DEDUPLICAÇÃO + LINTING FIX
+
+**Ações realizadas:**
+
+- ✅ **Deduplicação Maciça (T005):**
+  - Script `deduplicator.py` criado e executado.
+  - **339 arquivos duplicados** movidos para `00_SISTEMA/TRASH_DUPLICATES`.
+  - Economia de ~4.65MB e redução de ruído.
+- ✅ **Correção de Linting (MD024/MD028):**
+  - `SESSION_LOG.md` corrigido (Headers duplicados).
+  - Skill `session-logger` atualizada para prevenir reincidência.
+- ✅ **Sincronização Bi-IA:**
+  - `state.json` atualizado e warning `WARN001` adicionado (Alucinação datas).
+
+**Arquivos criados/modificados:**
+
+- `00_SISTEMA/RELATORIOS/RELATORIO_DEDUPLICACAO_*.md`
+- `.gemini/skills/vault-organizer/scripts/deduplicator.py`
+- `.gemini/skills/session-logger/scripts/logger.py`
+- `SESSION_LOG.md`
+- `.bi-ia/state.json`
+
+**Mensagem para Desktop Casa:**
+
+> **Alienware para Desktop!**
+>
+> 🧹 **Casa limpa!**
+>
+> Deletei 339 duplicatas que estavam espalhadas (principalmente conflitos entre `01_CONHECIMENTO` e backups do Alan).
+> O script `deduplicator.py` está na pasta de skills, se quiser usar aí.
+>
+> Também consertei o problema chato de headers duplicados no log e "ensinei" a skill a não fazer mais isso.
+>
+> Vault 100% limpo e syncado.
+
+---
+
 ### 🖥️ Desktop Casa - 22/Jan/2026 (21:50) 🧹 AUDITORIA MASSIVA + FIXES
 
 **Ações realizadas:**
