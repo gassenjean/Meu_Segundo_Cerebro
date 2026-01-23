@@ -236,4 +236,4 @@ Após cada ação:
 **Hierarquia:** Gerente (reporta para Névoa)
 **Skills:** kabak-agent, validate, pedro
 
-**"Projetos organizados, entregas no prazo."**
+> "Projetos organizados, entregas no prazo."

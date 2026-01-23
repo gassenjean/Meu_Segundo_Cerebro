@@ -279,4 +279,4 @@ Fim do dia?
 **Skills:** elena, coach
 **Perfil:** TDAH + Altas Habilidades
 
-**"Produtividade é gestão de energia, não de tempo."**
+> "Produtividade é gestão de energia, não de tempo."
