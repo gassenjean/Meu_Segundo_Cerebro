@@ -1,3 +1,7 @@
+---
+created: 2026-01-22T21:29
+updated: 2026-01-22T21:29
+---
 # PLANO: Hierarquia de Agentes (Modelo Alan Nicolas)
 
 **Criado:** 22/Jan/2026
@@ -115,9 +119,11 @@ NÉVOA (Master Orquestrador)
 ## TAREFAS DE EXECUÇÃO
 
 ### Fase 1: Fundação (Prioridade ALTA)
-- [ ] Ler novidades do Gemini em SESSION_LOG.md
-- [ ] Consolidar pesquisa Gemini com esta análise
-- [ ] Criar skill `vault-guardian` (orquestrador de manutenção)
+- [x] Ler novidades do Gemini em SESSION_LOG.md ✅
+- [x] Consolidar pesquisa Gemini com esta análise ✅
+- [x] Criar PROTOCOLO_GUARDIAN.md ✅ (22/Jan/2026)
+- [x] Criar workflow `/guardian` ✅ (22/Jan/2026)
+- [ ] Testar `/guardian audit`
 - [ ] Atualizar `névoa` com lógica de delegação para gerentes
 
 ### Fase 2: Gerentes (Prioridade MÉDIA)

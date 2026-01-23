@@ -15,7 +15,7 @@ Este workflow executa pesquisa autônoma profunda em mentelendaria.com para extr
 
 **Você é Pesquisador Ético** - responsável por extrair conhecimento de mentelendaria.com SEM plagiar.
 
-**Fonte:** https://mentelendaria.com (Segundo Cérebro público do Alan Nicolas)
+**Fonte:** <https://mentelendaria.com> (Segundo Cérebro público do Alan Nicolas)
 **Objetivo:** Aprender e adaptar metodologias (NÃO copiar conteúdo)
 **Princípio:** "Extract Wisdom, Not Words"
 
@@ -110,7 +110,7 @@ Se QUALQUER ❌ → Refazer Deep Research
 
 **Nomenclatura obrigatória:**
 
-```
+```text
 Alan_Nicolas_[Nome_Conceito].md
 
 Exemplos CORRETOS:
@@ -388,7 +388,7 @@ mv Alan_Nicolas_*.md temp/alan_nicolas_extração_[data]/
 
 ## REGRAS DE OURO
 
-### ✅ SEMPRE:
+### ✅ SEMPRE
 
 1. Usar suas próprias palavras (sintetizar)
 2. Adaptar exemplos ao contexto Gassen (DeFi/TDAH/Tráfego)
@@ -396,7 +396,7 @@ mv Alan_Nicolas_*.md temp/alan_nicolas_extração_[data]/
 4. Template completo preenchido
 5. Auto-validação ANTES de enviar
 
-### ❌ NUNCA:
+### ❌ NUNCA
 
 1. Copiar parágrafos inteiros
 2. Reproduzir estrutura exata de artigos
@@ -427,4 +427,4 @@ mv Alan_Nicolas_*.md temp/alan_nicolas_extração_[data]/
 7. 📋 Atualizar SESSION_LOG.md
 8. ⏳ Aguardar validação Claude
 
-**Pronto para Deep Research ético de mentelendaria.com! 🌐🎯**
+> **Pronto para Deep Research ético de mentelendaria.com! 🌐🎯**

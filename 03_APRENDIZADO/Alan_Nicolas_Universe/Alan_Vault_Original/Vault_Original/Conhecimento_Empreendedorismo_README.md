@@ -1,7 +1,7 @@
 ---
 title: README - Mente Lendár[IA] | Alan Nicolas
 url: https://mentelendaria.com/Conhecimento/Empreendedorismo/README
-downloaded: 2025-11-11T12:44:12.027Z
+downloaded: 2025-11-11T12:49:34.856Z
 ---
 
 💼 Empreendedorismo

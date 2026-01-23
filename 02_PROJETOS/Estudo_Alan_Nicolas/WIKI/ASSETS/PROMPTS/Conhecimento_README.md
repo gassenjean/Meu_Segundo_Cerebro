@@ -2,8 +2,8 @@
 title: README - Mente Lendár[IA] | Alan Nicolas
 url: https://mentelendaria.com/Conhecimento/README
 downloaded: 2025-11-11T12:49:32.322Z
-criado: 2025-11-19T19:06:52-03:00
-atualizado: 2025-11-19T19:07:03-03:00
+created: 2026-01-22T12:39
+updated: 2026-01-22T12:39
 ---
 
 📚 Base de Conhecimento
