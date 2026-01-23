@@ -21,10 +21,19 @@ This file provides guidance to Claude Code when working with this repository.
 ## 📡 SINCRONIZAÇÃO - Iniciar Sessão
 
 ### Bi-IA System (Claude + Gemini)
-**Ler:** `SESSION_LOG.md` (raiz) - Comunicação Claude ↔ Gemini
-**Ler:** `PC_SYNC_LOG.md` (raiz) - Sync Alienware ↔ Desktop Casa
+
+**CRÍTICO - Ler nesta ordem:**
+1. **`.bi-ia/state.json`** - Estado compartilhado (NOVO - OBRIGATÓRIO)
+2. `SESSION_LOG.md` (raiz) - Histórico e contexto
+3. `PC_SYNC_LOG.md` (raiz) - Sync Alienware ↔ Desktop Casa
+
+**Verificar em state.json:**
+- `pendingTasks` onde `to: "claude"` → Executar ANTES de novas tarefas
+- `errors` → Resolver se houver
+- `rules` → Seguir sempre
 
 **Protocolos completos:**
+- `.bi-ia/PROTOCOLO_BI_IA_SYNC.md` (NOVO - Comunicação automática)
 - `00_SISTEMA/PROTOCOLOS/PROTOCOLO_SINCRONIZACAO_AGENTES.md`
 - `00_SISTEMA/PROTOCOLOS/PROTOCOLO_MULTI_PC.md`
 

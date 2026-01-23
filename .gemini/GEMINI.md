@@ -7,6 +7,39 @@
 
 ---
 
+## 🔴 SINCRONIZAÇÃO BI-IA - CRÍTICO (NOVO)
+
+**OBRIGATÓRIO ao iniciar QUALQUER sessão:**
+
+```text
+1. LER ../.bi-ia/state.json
+2. VERIFICAR pendingTasks onde "to": "gemini"
+3. EXECUTAR tarefas pendentes ANTES de qualquer nova tarefa
+4. ATUALIZAR lastSync.gemini com timestamp atual
+```
+
+**OBRIGATÓRIO ao finalizar sessão:**
+
+```text
+1. MOVER tarefas completadas para completedTasks
+2. ADICIONAR novas tarefas em pendingTasks (se houver)
+3. ATUALIZAR lastUpdate e lastSync.gemini
+4. SALVAR state.json
+```
+
+**Protocolo completo:** `../.bi-ia/PROTOCOLO_BI_IA_SYNC.md`
+
+**Regras de formatação (SEMPRE seguir):**
+
+| Regra | Descrição |
+| ----- | --------- |
+| MD040 | Code blocks com linguagem (`text`, `bash`, `json`) |
+| MD036 | Títulos com `###`, não `**negrito**` |
+| MD026 | Títulos sem `:` no final |
+| MD060 | Tabelas com espaços: `\| Texto \|` |
+
+---
+
 ## ⚠️ PADRÕES DO VAULT - OBRIGATÓRIO SEGUIR
 
 **ATENÇÃO: Este vault tem padrões RÍGIDOS. Você DEVE segui-los sempre.**

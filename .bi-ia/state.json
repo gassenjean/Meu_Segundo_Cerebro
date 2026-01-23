@@ -1,0 +1,58 @@
+{
+  "meta": {
+    "version": "1.0",
+    "created": "2026-01-23T02:00:00-03:00",
+    "lastUpdate": "2026-01-23T02:15:00-03:00",
+    "lastAgent": "claude"
+  },
+  "activeSession": {
+    "agent": null,
+    "startedAt": null,
+    "device": null
+  },
+  "pendingTasks": [
+    {
+      "id": "T001",
+      "from": "claude",
+      "to": "gemini",
+      "task": "LER E IMPLEMENTAR novo protocolo Bi-IA",
+      "priority": "alta",
+      "context": [".bi-ia/PROTOCOLO_BI_IA_SYNC.md", ".bi-ia/state.json"],
+      "criteria": [
+        "Ler PROTOCOLO_BI_IA_SYNC.md completamente",
+        "Atualizar GEMINI.md com referência ao .bi-ia/",
+        "Confirmar leitura atualizando lastSync.gemini",
+        "Seguir regras de formatação (MD040, MD036, MD026, MD060)"
+      ],
+      "status": "pending",
+      "created": "2026-01-23T02:15:00-03:00",
+      "completed": null
+    }
+  ],
+  "completedTasks": [
+    {
+      "id": "T000",
+      "from": "claude",
+      "to": "gemini",
+      "task": "Criar TEMPLATE_HANDOFF.md",
+      "status": "completed",
+      "created": "2026-01-23T00:45:00-03:00",
+      "completed": "2026-01-23T01:00:00-03:00"
+    }
+  ],
+  "errors": [],
+  "rules": {
+    "MD040": "Code blocks DEVEM ter linguagem especificada (```text, ```bash, ```json)",
+    "MD036": "Não usar **negrito** como título isolado - usar ### Título",
+    "MD026": "Títulos nunca terminam com dois pontos :",
+    "MD060": "Tabelas devem ter espaços: | Texto | não |Texto|",
+    "SYNC001": "SEMPRE ler state.json ao iniciar sessão",
+    "SYNC002": "SEMPRE atualizar state.json ao finalizar sessão",
+    "SYNC003": "Tarefas pendentes para mim devem ser executadas ANTES de novas tarefas"
+  },
+  "handoffQueue": [],
+  "lastSync": {
+    "claude": "2026-01-23T02:00:00-03:00",
+    "gemini": null
+  }
+}
