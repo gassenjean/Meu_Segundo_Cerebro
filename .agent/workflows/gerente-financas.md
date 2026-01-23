@@ -8,7 +8,7 @@ description: GERENTE_FINANCAS - Orquestra lucas (DeFi)
 
 ## Posição na Hierarquia
 
-```
+```text
 NÉVOA (Master)
     ↓
 GERENTE_FINANCAS (este) ← você está aqui
@@ -46,7 +46,7 @@ GERENTE_FINANCAS (este) ← você está aqui
 
 ## Lógica de Decisão
 
-```
+```text
 Tarefa recebida
     ↓
 Classificar tipo

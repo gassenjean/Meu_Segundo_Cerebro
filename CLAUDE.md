@@ -170,6 +170,29 @@ CHECKPOINT_18JAN2026.md → Snapshot (DDMMMYYYY)
 
 ---
 
+## 📝 Regras de Linting Markdown (OBRIGATÓRIO)
+
+**Acordo Bi-IA - Sempre seguir:**
+
+| Regra | Errado | Correto |
+| ----- | ------ | ------- |
+| MD040 | ` ``` ` (sem linguagem) | ` ```text `, ` ```bash `, ` ```json ` |
+| MD036 | `**Título**` isolado | `### Título` |
+| MD026 | `### Título:` | `### Título` |
+| MD060 | `\|Texto\|` | `\| Texto \|` |
+| MD022 | Header sem linha vazia | Linha vazia antes/depois de headers |
+| MD032 | Lista sem linha vazia | Linha vazia antes/depois de listas |
+| MD004 | Misturar `*` e `-` | Usar apenas `-` em listas |
+
+**Checklist antes de salvar .md:**
+
+- [ ] Code blocks têm linguagem especificada?
+- [ ] Títulos usam `###` e não `**negrito**`?
+- [ ] Tabelas têm espaços nas pipes?
+- [ ] Headers têm linha vazia antes/depois?
+
+---
+
 ## 🤖 Bi-IA System
 
 **Claude Code (você):** Estratégia, arquitetura, decisões críticas, gestão vault

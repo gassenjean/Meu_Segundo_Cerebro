@@ -8,7 +8,7 @@ description: GERENTE_CONHECIMENTO - Orquestra alan, marie-kondo, mapa
 
 ## Posição na Hierarquia
 
-```
+```text
 NÉVOA (Master)
     ↓
 GERENTE_CONHECIMENTO (este) ← você está aqui
@@ -62,7 +62,7 @@ GERENTE_CONHECIMENTO (este) ← você está aqui
 
 ## Lógica de Decisão
 
-```
+```text
 Tarefa recebida
     ↓
 Classificar tipo
