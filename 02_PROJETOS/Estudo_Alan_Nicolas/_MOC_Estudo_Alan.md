@@ -1,6 +1,6 @@
 ---
 created: 2026-01-22T11:58
-updated: 2026-01-22T11:58
+updated: 2026-01-22T20:13
 ---
 # MOC: Estudo Alan Nicolas
 
@@ -16,7 +16,7 @@ updated: 2026-01-22T11:58
 
 ## 🧠 Conceitos Chave Mapeados
 
-*(Links gerados automaticamente pelo indexador)*
+> (Links gerados automaticamente pelo indexador)
 
 - [[Workflow_Sistema_5C_Automatizado]]
 - [[PROMPT_AGENTE_ALAN_NICOLAS]]

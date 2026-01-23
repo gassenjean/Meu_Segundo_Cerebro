@@ -105,11 +105,12 @@
 | [[00_SISTEMA/PROTOCOLOS/PROTOCOLO_DIVISAO_SKILLS_Claude_Antigravity.md]] | **CRÍTICO** - Quem cria qual skill (Claude vs Gemini) | Criar skills, decisão de plataforma |
 | [[00_SISTEMA/PROTOCOLOS/PROTOCOLO_REVISAO_SEMANAL.md]] | Checklist semanal (Sexta 17h) | Fim de semana |
 
-#### 4.3. Orquestração Bi-IA (2 protocolos)
+#### 4.3. Orquestração Bi-IA (3 protocolos)
 
 | Arquivo | Uso | Quando Aplicar |
 |---------|-----|----------------|
 | [[00_SISTEMA/PROTOCOLOS/PROTOCOLO_CLAUDE_GEMINI_ORQUESTRACAO.md]] | Divisão de responsabilidades, handoff, economia 90% tokens | Tarefa grande (>100k tokens) |
+| [[00_SISTEMA/PROTOCOLOS/PROTOCOLO_GUARDIAN.md]] | **NOVO** - Agente de manutenção automática, orquestrador de skills | Manutenção vault, auditoria, correção nomenclatura |
 | [[00_SISTEMA/PROTOCOLOS/SOP_INTEGRACAO_ANTIGRAVITY.md]] | Setup Antigravity, workflows IDE | Configurar ambiente |
 
 #### 4.4. Limites e Ética (2 protocolos)
@@ -230,10 +231,10 @@ Grafo é acíclico, ordenação topológica possível.
 | 1. Fundação | 3 | 0 | 3 |
 | 2. Padrões | 3 | 1 (ESTRUTURA_PROJETOS) | 4 |
 | 3. Guidelines | 6 (1 arch + 5 categorias) | 0 | 6 |
-| 4. Protocolos | 12 + 7 (Skills) = 19 | 2 (ERRO_OVERLOAD, ERRO_GEMINI) | 21 |
+| 4. Protocolos | 13 + 7 (Skills) = 20 | 2 (ERRO_OVERLOAD, ERRO_GEMINI) | 22 |
 | 5. Guias | 3 + 1 (Edge Cases) = 4 | 0 | 4 |
 | 6. Análises | 1 | 0 | 1 |
-| **TOTAL** | **35** | **3** | **38** |
+| **TOTAL** | **36** | **3** | **39** |
 
 ### Tamanho Estimado
 
@@ -475,9 +476,9 @@ Substituído por: [[Link]]
 
 ---
 
-**Versão:** 1.1
+**Versão:** 1.2
 **Criado:** 16/Jan/2026
 **Status:** ✅ ATIVO
-**Última atualização:** 18/Jan/2026 (Fase 7.3 - Antigravity Skills docs)
+**Última atualização:** 22/Jan/2026 (PROTOCOLO_GUARDIAN - Agente de Manutenção)
 
 **NAVEGAÇÃO CLARA = ECONOMIA DE TOKENS = MELHOR DESEMPENHO** 🗺️✅
