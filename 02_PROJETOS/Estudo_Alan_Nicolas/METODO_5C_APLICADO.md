@@ -1,3 +1,7 @@
+---
+created: 2026-01-22T22:04
+updated: 2026-01-22T22:01
+---
 # 🖐️ O Método 5C Aplicado ao Sistema Bi-IA
 
 **Fonte:** `02_PROJETOS/Estudo_Alan_Nicolas/WIKI/MANUAL_GESTAO_CONHECIMENTO.md`

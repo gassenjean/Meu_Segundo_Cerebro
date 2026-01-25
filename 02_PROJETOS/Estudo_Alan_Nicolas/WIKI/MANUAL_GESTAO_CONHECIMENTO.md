@@ -1,6 +1,6 @@
 ---
 created: 2026-01-22T12:24
-updated: 2026-01-22T12:24
+updated: 2026-01-24T23:39
 ---
 # 📗 MANUAL: O SISTEMA OPERACIONAL (Volume 3)
 

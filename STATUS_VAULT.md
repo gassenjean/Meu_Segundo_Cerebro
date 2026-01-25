@@ -1,13 +1,15 @@
 ---
 criado: 2025-11-18T09:59:48-03:00
 atualizado: 2026-01-16T12:23:28-03:00
+created: 2026-01-25T00:34
+updated: 2026-01-25T00:34
 ---
 # 📊 STATUS DO VAULT
 
 **Dashboard Principal - Meu Segundo Cérebro**
 
-**Última atualização:** 18/Jan/2026 - Otimização Tokens COMPLETA ✅ 86% Redução
-**Atualizado por:** Claude Code
+**Última atualização:** 25/Jan/2026 - Mapeamento Alan Nicolas + Delegação Gemini
+**Atualizado por:** Claude Code (Névoa)
 
 ---
 
@@ -500,6 +502,24 @@ FASE 7: Sistema Bi-IA        █████████████████
 ---
 
 ## 📅 HISTÓRICO
+
+### 25/JAN/2026 (14:30) - MAPEAMENTO ALAN NICOLAS + DELEGAÇÃO GEMINI
+
+- ✅ **Inventário completo do conteúdo Alan Nicolas:**
+  - `03_APRENDIZADO/Alan_Nicolas_Universe/` = **386 arquivos .md**
+  - Alan_Cursos_Referencia: 22 arquivos (cursos originais)
+  - Alan_Nicolas_Academia_Lendaria: 207 arquivos (episódios + lives)
+  - Alan_Nicolas_Mentoria: 20 arquivos (Claude Code Empresários)
+  - Alan_Vault_Original: 130 arquivos (PKM completo)
+- ✅ **Skill alan-vault-researcher atualizada:**
+  - INVENTARIO_MENTE_LENDARIA.md com estrutura local
+  - Template de extração ética pronto
+- ✅ **Tarefa T008 criada para Gemini:**
+  - Verificar atualizações em mentelendaria.com
+  - Prioridades: Gestão IA (27 aulas), IA Avançada (12), Super Agentes (8)
+  - Handoff: `.bi-ia/handoffs/HANDOFF_T008_Alan_Vault_Sync.md`
+- ✅ **state.json atualizado** com nova tarefa pendente
+- 📊 **Extração geral:** 30% (precisamos de Gestão IA, IA Avançada, Super Agentes)
 
 ### 18/JAN/2026 (15:10) - FASE 7.2 COMPLETA: ANTIGRAVITY SKILLS APROVADAS! 🎉🤖
 

@@ -1,3 +1,7 @@
+---
+created: 2026-01-22T22:04
+updated: 2026-01-22T22:02
+---
 # 🦅 Workflows Adaptados: O Método MAPA no Sistema Bi-IA
 
 **Fonte:** `02_PROJETOS/Estudo_Alan_Nicolas/WIKI/ASSETS/CASES/`

@@ -1,3 +1,7 @@
+---
+created: 2026-01-22T22:04
+updated: 2026-01-22T22:01
+---
 # 🦅 Análise de Prompts Úteis: O Arsenal Lendário
 
 **Data:** 22/Jan/2026

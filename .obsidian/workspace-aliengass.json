@@ -1,0 +1,329 @@
+{
+  "main": {
+    "id": "5324373015726ba8",
+    "type": "split",
+    "children": [
+      {
+        "id": "4509724f8bf84da7",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "e7a7b303c61786dc",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "02_PROJETOS/KabaK/docs/reunioes/RESUMO_COMPLETO_REUNIAO_DR_ALEXANDRE_SANSOM_21JAN2026.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "RESUMO_COMPLETO_REUNIAO_DR_ALEXANDRE_SANSOM_21JAN2026"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "b9774eaca1eabe79",
+    "type": "split",
+    "children": [
+      {
+        "id": "cf497fdef67649d5",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "cf321efad4a60738",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "byCreatedTime",
+                "autoReveal": false
+              },
+              "icon": "lucide-folder-closed",
+              "title": "Explorador de arquivos"
+            }
+          },
+          {
+            "id": "89c577c8bcbf1afd",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "tag:#consumir",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-search",
+              "title": "Procurar"
+            }
+          },
+          {
+            "id": "85be20b646130b9d",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {},
+              "icon": "lucide-bookmark",
+              "title": "Marcadores"
+            }
+          },
+          {
+            "id": "d98c5078a6c2cd9f",
+            "type": "leaf",
+            "state": {
+              "type": "recent-files",
+              "state": {},
+              "icon": "lucide-ghost",
+              "title": "recent-files"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 345.5
+  },
+  "right": {
+    "id": "b9a84feb070b7918",
+    "type": "split",
+    "children": [
+      {
+        "id": "fbf5977ba876e0b9",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "2d3c86c727d2d628",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "Anotações/vendas do dia 24 de janeiro.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-coming-in",
+              "title": "Links inversos para vendas do dia 24 de janeiro"
+            }
+          },
+          {
+            "id": "f1226c49ca60dc66",
+            "type": "leaf",
+            "state": {
+              "type": "calendar",
+              "state": {},
+              "icon": "lucide-ghost",
+              "title": "calendar"
+            }
+          },
+          {
+            "id": "53c9aa1def2fee2c",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "Formação_Lendária_2025/Aplicativos web com IA/Material_Original/4. Criando as primeiras interfaces.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-going-out",
+              "title": "Links de saída para 4. Criando as primeiras interfaces"
+            }
+          },
+          {
+            "id": "23f18feae4e41c93",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              },
+              "icon": "lucide-tags",
+              "title": "Tags"
+            }
+          },
+          {
+            "id": "5c9d1ef1b13b3131",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "Formação_Lendária_2025/N8N/MCP_Automa__o_no_N8N.pdf",
+                "followCursor": false,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-list",
+              "title": "Sumário de MCP_Automa__o_no_N8N"
+            }
+          },
+          {
+            "id": "885479531b1c51c0",
+            "type": "leaf",
+            "state": {
+              "type": "smart-chat-view",
+              "state": {},
+              "icon": "lucide-ghost",
+              "title": "smart-chat-view"
+            }
+          },
+          {
+            "id": "4938982304d25a25",
+            "type": "leaf",
+            "state": {
+              "type": "smart-connections-view",
+              "state": {},
+              "icon": "lucide-ghost",
+              "title": "smart-connections-view"
+            }
+          },
+          {
+            "id": "99e4816a4d8aa042",
+            "type": "leaf",
+            "state": {
+              "type": "custom-frames-chatgpt",
+              "state": {},
+              "icon": "lucide-ghost",
+              "title": "custom-frames-chatgpt"
+            }
+          },
+          {
+            "id": "360ecbe3061fc71f",
+            "type": "leaf",
+            "state": {
+              "type": "todo",
+              "state": {},
+              "icon": "lucide-ghost",
+              "title": "todo"
+            }
+          },
+          {
+            "id": "a83cfcc00d2f5839",
+            "type": "leaf",
+            "state": {
+              "type": "todo",
+              "state": {},
+              "icon": "lucide-ghost",
+              "title": "todo"
+            }
+          },
+          {
+            "id": "04ffb6af64fe55f4",
+            "type": "leaf",
+            "state": {
+              "type": "todo",
+              "state": {},
+              "icon": "lucide-ghost",
+              "title": "todo"
+            }
+          },
+          {
+            "id": "67cae5f454864dc3",
+            "type": "leaf",
+            "state": {
+              "type": "todo",
+              "state": {},
+              "icon": "checkmark",
+              "title": "Todo List"
+            }
+          }
+        ],
+        "currentTab": 11
+      }
+    ],
+    "direction": "horizontal",
+    "width": 315.5,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "bases:Criar nova base": false,
+      "graph:Abrir visualização em gráfico": false,
+      "switcher:Abrir a troca rápida": false,
+      "canvas:Criar novo canvas": false,
+      "daily-notes:Abrir a nota de hoje": false,
+      "templates:Inserir modelo": false,
+      "command-palette:Abrir paleta de comandos": false,
+      "obsidian-book-search-plugin:Create new book note": false,
+      "obsidian-custom-frames:Open ChatGPT": false,
+      "obsidian-emotion-picker:Emotions Picker": false,
+      "homepage:Open homepage": false,
+      "obsidian-kanban:Criar um novo quadro": false,
+      "table-editor-obsidian:Advanced Tables Toolbar": false,
+      "templater-obsidian:Templater": false,
+      "chat-with-bard:New Gemini Chat": false,
+      "obsidian-textgenerator-plugin:Generate Text!": false,
+      "obsidian-textgenerator-plugin:Text Generator: Templates Packages Manager": false,
+      "smart-connections:Open: Smart Chat": false,
+      "smart-connections:Smart Connections: Open connections view": false,
+      "smart-connections:Smart Connections: Open random connection": true,
+      "obsidian-excalidraw-plugin:New drawing": false,
+      "copilot:Open Copilot Chat": false
+    }
+  },
+  "active": "e7a7b303c61786dc",
+  "lastOpenFiles": [
+    "00_SISTEMA/planejamento/PLANO_MASTER_2026.md",
+    "03_APRENDIZADO/Cursos_Ativos/Formacao_Lendaria_2025/RAG_IA_com_memória/6._Técnicas_Básicas_de_Divisão_Textual.md",
+    "03_APRENDIZADO/Cursos_Ativos/Formacao_Lendaria_2025/RAG_IA_com_memória/5._Importação_de_Dados_com_Langchain.md",
+    "03_APRENDIZADO/Cursos_Ativos/Formacao_Lendaria_2025/RAG_IA_com_memória/4._Acessando_o_Langchain.md",
+    "03_APRENDIZADO/Cursos_Ativos/Formacao_Lendaria_2025/N8N/02_MATERIAL_ORINAL_BIBLIOTECA/Todas_as_LLMS_que_você_pode_usar_em_Projetos_de_IA.md",
+    "03_APRENDIZADO/Cursos_Ativos/Formacao_Lendaria_2025/N8N/02_MATERIAL_ORINAL_BIBLIOTECA/Requisição_HTTP_Request_A_alma_do_n8n.md",
+    "03_APRENDIZADO/Cursos_Ativos/Formacao_Lendaria_2025/N8N/02_MATERIAL_ORINAL_BIBLIOTECA/Projeto_Final_-_Copia_e_Cola.md",
+    "03_APRENDIZADO/Cursos_Ativos/Formacao_Lendaria_2025/N8N/02_MATERIAL_ORINAL_BIBLIOTECA/Construindo_o_projeto.md",
+    "03_APRENDIZADO/Cursos_Ativos/Formacao_Lendaria_2025/N8N/02_MATERIAL_ORINAL_BIBLIOTECA/Conexão_entre_WhatsApp_e_n8n.md",
+    "03_APRENDIZADO/Cursos_Ativos/Formacao_Lendaria_2025/MICROSAAS/O_Guia_Definitivo_para_Criar_um_MVP_de_Sucesso.md",
+    "03_APRENDIZADO/Cursos_Ativos/Formacao_Lendaria_2025/LangChain Engenharia de IA Conversacional/6._Memory_-_Implementando_Memória_em_Conversas_com_IA.md",
+    "03_APRENDIZADO/Cursos_Ativos/Formacao_Lendaria_2025/LangChain Engenharia de IA Conversacional/5._Output_Parsers_-_Padronização_e_Análise_de_Respostas_IA.md",
+    "03_APRENDIZADO/Cursos_Ativos/Formacao_Lendaria_2025/Descomplicando_a_manipulaçao_de_dados/Introduçao_ETL/4._Estrutura_do_Curso.md",
+    "03_APRENDIZADO/Cursos_Ativos/Formacao_Lendaria_2025/Descomplicando_a_manipulaçao_de_dados/Introduçao_ETL/3._O_que_os_alunos_podem_esperar_do_curso.md",
+    "03_APRENDIZADO/Cursos_Ativos/Formacao_Lendaria_2025/Criando_imagens_com_IA/1._Boas-vindas_Lendários.md",
+    "03_APRENDIZADO/Cursos_Ativos/Formacao_Lendaria_2025/Conteudo_Inicial/Visão_Geral_da_plataforma.md",
+    "03_APRENDIZADO/Cursos_Ativos/Formacao_Lendaria_2025/Conteudo_Inicial/Todo_mundo_fala_de_IA,_cheguei_atrasado.md",
+    "03_APRENDIZADO/Alan_Nicolas_Universe/Alan_Vault_Original/Vault_Original/uma_vida_de_grandes_realizações.md",
+    "03_APRENDIZADO/Alan_Nicolas_Universe/Alan_Vault_Original/Vault_Original/marketing_direto.md",
+    "03_APRENDIZADO/Alan_Nicolas_Universe/Alan_Vault_Original/Vault_Original/code_interpreter.md",
+    "03_APRENDIZADO/Alan_Nicolas_Universe/Alan_Vault_Original/Vault_Original/_MOC_-_Episódios_VL.md",
+    "03_APRENDIZADO/Alan_Nicolas_Universe/Alan_Vault_Original/Vault_Original/_MOC_-_Criação_de_Conteúdo.md",
+    "03_APRENDIZADO/Alan_Nicolas_Universe/Alan_Vault_Original/Vault_Original/_MOC_-_Consciência_&_Desenvolvimento.md",
+    "03_APRENDIZADO/Alan_Nicolas_Universe/Alan_Vault_Original/Vault_Original/_MOC_-_Atenção_&_Cognição.md",
+    "03_APRENDIZADO/Alan_Nicolas_Universe/Alan_Vault_Original/Vault_Original/Vida_Lendária_Episódios_VL_Índice.md",
+    "03_APRENDIZADO/Alan_Nicolas_Universe/Alan_Vault_Original/Vault_Original/Vida_Lendária_Cultura_Lendár_IA_Índice_-_Cultura_Lendária.md",
+    "SESSION_LOG.md.bak_20260122_235301",
+    "02_PROJETOS/KabaK/planejamento/recursos/PLANILHA_FINANCEIRA_KABAK_SANSOM.csv",
+    "02_PROJETOS/KabaK/planejamento/recursos/calculated_values.csv",
+    "00_SISTEMA/TRASH_DUPLICATES/20260122_235133/03_APRENDIZADO/Cursos_Ativos/Subido_Trafego/_Arquivo_Antigo/_Lixeira/_Backup_Antigo/Aplicacao_Pratica",
+    "00_SISTEMA/TRASH_DUPLICATES/20260122_235133/03_APRENDIZADO/Cursos_Ativos/Subido_Trafego/_Arquivo_Antigo/_Lixeira/_Backup_Antigo",
+    "00_SISTEMA/TRASH_DUPLICATES/20260122_235133/03_APRENDIZADO/Cursos_Ativos/Subido_Trafego/_Arquivo_Antigo/_Lixeira",
+    "00_SISTEMA/TRASH_DUPLICATES/20260122_235133/03_APRENDIZADO/Cursos_Ativos/Subido_Trafego/_Arquivo_Antigo",
+    "00_SISTEMA/TRASH_DUPLICATES/20260122_235133/03_APRENDIZADO/Cursos_Ativos/Subido_Trafego",
+    "00_SISTEMA/TRASH_DUPLICATES/20260122_235133/03_APRENDIZADO/Cursos_Ativos/Formacao_Lendaria_2025/Aplicativos web com IA/99_LIXEIRA/01_PROJETO_BARBERIA_PRO",
+    "00_SISTEMA/TRASH_DUPLICATES/20260122_235133/03_APRENDIZADO/Cursos_Ativos/Formacao_Lendaria_2025/Aplicativos web com IA/99_LIXEIRA",
+    "02_PROJETOS/Devocionais_RPSP/docs/WhatsApp_Image_2026-01-16_at_20.02.39.jpeg",
+    "02_PROJETOS/KabaK/planejamento/recursos/tabela_kabak_v5.png",
+    "02_PROJETOS/Devocionais_RPSP/docs/WhatsApp Image 2026-01-16 at 20.02.39 (1).jpeg",
+    "02_PROJETOS/Devocionais_RPSP/docs/WhatsApp Image 2026-01-16 at 20.02.39.jpeg",
+    "02_PROJETOS/KabaK/docs/projetos/BRIEFING_OUTLET_SANSOM.png",
+    "02_PROJETOS/KabaK/recursos/assets/images/ESBOCO_FINANCEIRO_SANSOM.png",
+    "02_PROJETOS/KabaK/recursos/ESBOCO_FINANCEIRO_SANSOM.png",
+    "Recursos/Anexos/Pasted image 20250814215313.png",
+    "Recursos/Anexos/Pasted image 20250814105405.png",
+    "tdah_app/bg.png",
+    "Projetos/work/minhas quatro zonas.canvas",
+    "Recursos/Sem título.canvas",
+    "Recursos/geladeira.canvas",
+    "Recursos/Teste Canva.canvas"
+  ]
+}

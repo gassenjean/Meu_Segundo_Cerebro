@@ -1,3 +1,7 @@
+---
+created: 2026-01-22T22:04
+updated: 2026-01-22T22:01
+---
 # 🦅 Comparação Arquitetural: iOS do Alan vs. Sistema Bi-IA
 
 **Contexto:** Análise comparativa entre o "Intelligent Operating System" (iOS) ensinado por Alan Nicolas e a arquitetura atual "Bi-IA" (Claude Code + Antigravity/Gemini).

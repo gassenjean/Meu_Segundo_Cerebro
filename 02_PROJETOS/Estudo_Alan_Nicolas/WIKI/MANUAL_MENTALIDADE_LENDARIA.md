@@ -1,6 +1,6 @@
 ---
 created: 2026-01-22T12:16
-updated: 2026-01-22T12:16
+updated: 2026-01-24T23:40
 ---
 # 📘 MANUAL: MENTALIDADE LENDÁRIA (Volume 1)
 
