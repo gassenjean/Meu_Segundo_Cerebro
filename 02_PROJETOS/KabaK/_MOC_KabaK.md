@@ -4,7 +4,7 @@ atualizado: 2026-01-23T00:30:00-03:00
 tipo: moc
 status: ativo
 created: 2026-01-22T12:07
-updated: 2026-01-25T13:31
+updated: 2026-01-25T14:25
 ---
 
 # _MOC_KabaK - Índice Master do Projeto
@@ -70,6 +70,12 @@ updated: 2026-01-25T13:31
 | [[docs/checklists/CHECKLIST_ENVIO_SANSOM.md]] | Checklist envio | ✅ Atual |
 | [[docs/checklists/CHECKLIST_SANSOM.md]] | Checklist geral | 📋 Referência |
 | [[docs/checklists/CHECKLIST_PEDIDO_CHINA.md]] | Checklist pedido China | ✅ Atual |
+| [[docs/checklists/CHECKLIST_OUTLET_OPERACIONAL.md]] | Checklist operacional Outlet | ✅ Atual |
+
+### /docs/treinamento (Treinamento Equipe)
+| Arquivo | Descrição | Status |
+|---------|-----------|--------|
+| [[docs/treinamento/MANUAL_TREINAMENTO_OUTLET.md]] | Manual completo para vendedores Outlet | ✅ Novo |
 
 ### /docs/analises (Análises e Auditorias)
 | Arquivo | Descrição | Status |
@@ -122,6 +128,11 @@ updated: 2026-01-25T13:31
 | Arquivo | Descrição |
 |---------|-----------|
 | [[docs/pesquisas/RESUMO_PESQUISA_DANILO.md]] | Pesquisa Danilo |
+
+### /docs/marketing (Marketing & Parcerias)
+| Arquivo | Descrição | Status |
+|---------|-----------|--------|
+| [[docs/marketing/MAPEAMENTO_MICRO_INFLUENCERS_FITNESS.md]] | 25 micro-influencers fitness feminino (cupom strategy) | ✅ Novo |
 
 ### /tarefas (Gestão de Tarefas)
 | Arquivo | Descrição |
@@ -270,5 +281,5 @@ Ago/2026  ──────  Break-even (Mês 4)
 ---
 
 **Criado:** 22/Jan/2026
-**Última atualização:** 25/Jan/2026 (Benchmark Atara adicionado)
+**Última atualização:** 25/Jan/2026 (Manual Treinamento Outlet adicionado)
 **Mantido por:** Claude Code + KabaK Agent
