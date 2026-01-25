@@ -6,42 +6,19 @@
     "lastAgent": "Claude Code"
   },
   "activeSession": null,
-  "pendingTasks": [
+  "pendingTasks": [],
+  "completedTasks": [
     {
       "id": "T015",
       "from": "claude",
       "to": "gemini",
       "task": "MAPA COMPLETO VAULT ALAN NICOLAS - Inventário Total",
       "priority": "alta",
-      "status": "pending",
+      "status": "completed",
       "created": "2026-01-25T14:45:00-03:00",
-      "details": {
-        "objetivo": "Criar mapa/índice completo de TUDO que existe no vault Alan Nicolas",
-        "escopo": [
-          "Conceitos e frameworks (iOS, AOC, Ralph, 5C, MAPA, etc)",
-          "Metodologias (Clone IA, Prompt Engineering, etc)",
-          "Ensinamentos e princípios",
-          "Cases e exemplos",
-          "Prompts e templates"
-        ],
-        "entrega": {
-          "formato": "MOC estruturado com categorias",
-          "arquivo": "01_CONHECIMENTO/Alan_Nicolas/_MOC_Alan_Nicolas_Inventario.md",
-          "estrutura": [
-            "## Frameworks de Gestão IA",
-            "## Metodologias de Prompt",
-            "## Princípios e Filosofia",
-            "## Cases Práticos",
-            "## Templates e Prompts",
-            "## A Implementar (wishlist)"
-          ]
-        },
-        "uso_futuro": "Base para criar agentes, skills, gerentes conforme necessidade"
-      },
-      "notes": "Gemini tem acesso ao vault Obsidian. Mapear TUDO que existe para implementação sob demanda."
-    }
-  ],
-  "completedTasks": [
+      "completed": "2026-01-25T11:06:00-03:00",
+      "notes": "Inventário completo criado em 01_CONHECIMENTO/Alan_Nicolas/_MOC_Alan_Nicolas_Inventario.md. Mapeados 250+ arquivos."
+    },
     {
       "id": "T014",
       "from": "claude",
@@ -106,7 +83,7 @@
   "handoffQueue": [],
   "lastSync": {
     "claude": "2026-01-25T14:45:00-03:00",
-    "gemini": "2026-01-25T10:30:00-03:00"
+    "gemini": "2026-01-25T11:06:00-03:00"
   },
   "nextSession": {
     "priority1": {
