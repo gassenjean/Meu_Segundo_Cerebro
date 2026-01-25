@@ -6,26 +6,19 @@
     "lastAgent": "Claude Code"
   },
   "activeSession": null,
-  "pendingTasks": [
+  "pendingTasks": [],
+  "completedTasks": [
     {
       "id": "T016",
       "from": "claude",
       "to": "gemini",
       "task": "Transcrever 3 áudios + Consolidar ATA Reunião Sansom 23/Jan",
       "priority": "critica",
-      "status": "pending",
+      "status": "completed",
       "created": "2026-01-25T11:30:00-03:00",
-      "files": [
-        "02_PROJETOS/KabaK/docs/WhatsApp Ptt 2026-01-23 at 09.08.26.ogg",
-        "02_PROJETOS/KabaK/docs/WhatsApp Ptt 2026-01-23 at 14.56.17.ogg",
-        "02_PROJETOS/KabaK/docs/WhatsApp Ptt 2026-01-23 at 15.41.51.ogg",
-        "02_PROJETOS/KabaK/docs/Transcrio_reuniao_sansom_2301_produtos.pdf"
-      ],
-      "output": "02_PROJETOS/KabaK/docs/ATA_Reuniao_Sansom_23JAN2026.md",
-      "instructions": "02_PROJETOS/KabaK/docs/DELEGACAO_T016_GEMINI.md"
-    }
-  ],
-  "completedTasks": [
+      "completed": "2026-01-25T11:35:00-03:00",
+      "notes": "ATA consolidada em 02_PROJETOS/KabaK/docs/ATA_Reuniao_Sansom_23JAN2026.md. Usada transcrição full existente."
+    },
     {
       "id": "T015",
       "from": "claude",
