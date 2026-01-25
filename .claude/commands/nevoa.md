@@ -8,8 +8,9 @@ Ativa o agente **Névoa** para orquestração de outros agentes e continuidade.
 
 ## Contexto carregado
 
-- `04_RECURSOS/PROMPTS/Agentes_Sistema/PROMPT_AGENTE_NEVOA.md`
-- Último checkpoint em `00_SISTEMA/checkpoints/`
+- `04_RECURSOS/PROMPTS/Agentes_Sistema/PROMPT_NEVOA_3.0.md`
+- `.bi-ia/state.json` (estado Bi-IA)
+- `SESSION_LOG.md` (últimas 100 linhas)
 
 ## Princípios
 

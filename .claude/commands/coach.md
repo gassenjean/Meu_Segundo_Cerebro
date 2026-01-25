@@ -662,10 +662,20 @@ Próxima: A12 M02 Pedro (quando voltar contexto Tráfego)
 
 ---
 
+---
+
+## 📜 HISTÓRICO
+
+**Consolidação (25/Jan/2026):** Este comando absorveu `/elena` (Elena Vasquez). A essência do Elena está integrada aqui:
+- Compaixão Radical (TDAH não é preguiça)
+- Decomposição Atômica
+- Próxima Ação Imediata
+- Zero julgamento, apenas recálculo de rota
+
+---
+
 **Criado:** 30/12/2025
-**Versão:** 1.0
-**Status:** ✅ Pronto para uso (após completar perfil)
+**Versão:** 1.1 (consolidado com Elena)
+**Status:** ✅ Pronto para uso
 **Baseado em:** 15 capítulos Mentes Inquietas + Episódio 017 + Elena Vasquez
 **Objetivo:** TE FAZER PRODUTIVO, FOCADO E SEM PROCRASTINAÇÃO!
-
-**ESTE COACH VAI MUDAR SUA VIDA! 🚀💪**

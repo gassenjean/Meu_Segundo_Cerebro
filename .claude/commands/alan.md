@@ -171,9 +171,36 @@ Coach: Registrado. Formação: 80% (+10%).
 
 ---
 
+---
+
+## 🔍 PESQUISA VAULT ALAN (ex /alan-vault)
+
+**Consolidação (25/Jan/2026):** Este comando absorveu `/alan-vault`.
+
+### Comandos de Pesquisa
+
+```bash
+/alan inventario     # Ver mapa completo do vault Alan
+/alan extrair [tema] # Extrair tema específico
+/alan sync           # Verificar novidades
+```
+
+### Contexto Extra Carregado
+
+- `.claude/skills/alan-vault-researcher/SKILL.md`
+- `.claude/skills/alan-vault-researcher/INVENTARIO_MENTE_LENDARIA.md`
+
+### Protocolo Ético de Extração
+
+Toda extração segue:
+1. Síntese em palavras próprias
+2. Citação da fonte original
+3. Aplicação ao seu contexto
+4. Validação anti-plágio
+
+---
+
 **Criado:** 30/12/2025
-**Versão:** 1.0
+**Versão:** 1.1 (consolidado com alan-vault)
 **Status:** ✅ Pronto para uso
 **Prioridade:** ⭐⭐ Paralelo (energia criativa)
-
-**CONTEXTO IA ATIVADO. AUTOMAÇÃO PRONTA! 🎯**

@@ -1,14 +1,32 @@
+---
+created: 2026-01-24T21:13
+updated: 2026-01-24T23:07
+---
 # CLAUDE.md
 
 This file provides guidance to Claude Code when working with this repository.
 
 ---
 
-## ⚠️ PROTOCOLO OBRIGATÓRIO
+## LEI SUPREMA
+
+**`00_SISTEMA/VAULT_CONSTITUTION.md`** - Constituição do Segundo Cérebro
+
+Todas as ações no vault DEVEM seguir a Constituição. Ela define:
+
+- 3 Leis Fundamentais (Fluidez, Atomicidade, Contexto)
+- Método 5C (Consumir→Capturar→Conectar→Criar→Compartilhar)
+- Método MAPA (Mapear→Atomizar→Programar→Ativar)
+- Hierarquia de Comando (Gassen→Névoa→Gerentes→Guardian)
+- Sistema de Permissões 1-2-3
+
+---
+
+## PROTOCOLO OBRIGATÓRIO
 
 **ANTES DE CRIAR QUALQUER ARQUIVO:**
 
-1. **LER:** `00_SISTEMA/PROTOCOLOS/PROTOCOLO_CRIACAO_ARQUIVOS.md` (OBRIGATÓRIO)
+1. **SEGUIR:** `00_SISTEMA/VAULT_CONSTITUTION.md` (LEI SUPREMA)
 2. **LER:** `00_SISTEMA/PADROES/NOMENCLATURA.md` (OBRIGATÓRIO)
 3. **CONSULTAR:** MOC relevante da categoria
 4. **VALIDAR:** Localização e nomenclatura
@@ -50,18 +68,27 @@ This file provides guidance to Claude Code when working with this repository.
 **Agentes:** 9 especializados
 
 ### Estrutura
-```
-00_SISTEMA/     → Protocolos, MOCs, guias, padrões
-01_CONHECIMENTO/ → Base de conhecimento
-02_PROJETOS/    → Projetos ativos
-03_APRENDIZADO/ → Cursos
-04_RECURSOS/    → Templates, prompts, checklists, agentes
-05_PESSOAL/     → Notas privadas
+
+```text
+00_SISTEMA/      → Governança (Constituição, MOCs, Padrões, Protocolos)
+  ├── MOCs/      → Índices unificados
+  ├── PADROES/   → Nomenclatura, guias, manuais
+  ├── PROTOCOLOS/→ Como fazer as coisas
+  ├── planejamento/ → Planos ativos 2026
+  ├── _config/   → Scripts, automação
+  └── ARQUIVO/   → Histórico (checkpoints, logs)
+01_CONHECIMENTO/ → Base de conhecimento permanente
+02_PROJETOS/     → Projetos ativos (6)
+03_APRENDIZADO/  → Cursos
+04_RECURSOS/     → Templates, prompts, checklists, agentes
+05_PESSOAL/      → Notas privadas
+99_ARQUIVO/      → Cold storage
 ```
 
-### Agentes (9)
+### Agentes (7)
+
 **Plataforma:** Claude Architect, Gemini Guardian
-**Domínio:** Névoa, Elena (TDAH), Pedro (Tráfego), Alan (IA), Lucas (DeFi), Dr. Green (Cultivo), Marie Kondo
+**Domínio:** Névoa, Coach (TDAH), Pedro (Tráfego), Alan (IA), Lucas (DeFi), Marie Kondo
 
 ---
 
@@ -109,24 +136,49 @@ CHECKPOINT_18JAN2026.md → Snapshot (DDMMMYYYY)
 
 ---
 
-## 🚀 Comandos Disponíveis (19 total)
+## 🚀 Comandos Disponíveis (15 total)
 
 ### Core Agents
-`/nevoa` `/claude-architect` `/marie-kondo`
+
+| Comando | Função |
+| ------- | ------ |
+| `/nevoa` | Orquestrador central |
+| `/claude-architect` | Qualidade e padrões |
+| `/marie-kondo` | Organização + limpeza raiz |
 
 ### Domain Agents
-`/coach` `/elena` `/pedro` `/alan` `/lucas` `/dr-green`
+
+| Comando | Função |
+| ------- | ------ |
+| `/coach` | TDAH & Produtividade (absorveu /elena) |
+| `/alan` | IA & Automação (absorveu /alan-vault) |
+| `/pedro` | Tráfego pago |
+| `/lucas` | DeFi |
+| `/kabak-agent` | Projeto KabaK |
 
 ### Essential Tools
-`/validate` `/mapa` `/gemini` `/ultra-think` `/sync`
+
+| Comando | Função |
+| ------- | ------ |
+| `/validate` | Validação de arquivos |
+| `/mapa` | Índice inteligente |
+| `/gemini` | Delegação Gemini |
+| `/ultra-think` | Análise profunda |
+| `/sync` | Sincronização Bi-IA |
 
 ### Context
-`/learn` `/work`
 
-### Utilities
-`/atualizar-status` `/limpeza-raiz-vault`
+| Comando | Função |
+| ------- | ------ |
+| `/learn` | Modo aprendizado |
+| `/work` | Modo projetos |
 
-**Ver lista completa:** `00_SISTEMA/GUIA_COMANDOS_CLAUDE.md`
+### Regras Permanentes
+
+- **Limite:** Máximo 15 comandos (adicionar = remover outro)
+- **Workflows:** Apenas para Gemini/Antigravity (10 ativos)
+- **Skills:** Apenas funcionalidades complexas (4 ativas)
+- **Revisão:** Trimestral para remover não utilizados
 
 ---
 
@@ -269,9 +321,9 @@ Ler: 00_SISTEMA/PROTOCOLOS/PROTOCOLO_CRIACAO_ARQUIVOS.md
 
 ---
 
-**Version:** 2.0.77 (Otimizado)
-**Updated:** 18/Jan/2026
-**Status:** ✅ ACTIVE - Token Optimized
-**Tokens:** ~5k (redução de 66% vs v2.0.76)
+**Version:** 3.1.0 (Auditoria Comandos)
+**Updated:** 25/Jan/2026
+**Status:** ✅ ACTIVE - Sistema Governança Implementado
+**Tokens:** ~5k
 
 **THIS FILE IS LAW IN THE VAULT.**

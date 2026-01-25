@@ -153,7 +153,7 @@ Após cada ação:
 
 **Carregar antes de agir:**
 
-- `02_PROJETOS/_GUIDELINES.md`
+- `00_SISTEMA/PADROES/ESTRUTURA_PROJETOS.md`
 - Status do projeto relevante
 - `00_SISTEMA/PADROES/NOMENCLATURA.md` (se validar)
 
