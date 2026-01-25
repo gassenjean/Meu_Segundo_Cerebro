@@ -1,20 +1,124 @@
 ---
 criado: 2025-12-08T11:04:20-03:00
-atualizado: 2026-01-25T11:30:00-03:00
+atualizado: 2026-01-25T20:30:00-03:00
+created: 2026-01-25T14:27
+updated: 2026-01-25T20:30
 ---
 
 # STATUS ATUAL - KabaK Reestruturação 2026
 
-**Última atualização:** 25/Jan/2026 - 12:00 (Reunião Sansom Produtos)
+**Última atualização:** 25/Jan/2026 - 20:30 (Plano Estratégico TikTok Shop 90 Dias)
 
 ---
 
 ## ✅ ONDE ESTAMOS
 
 **Fase Atual:** Definição de Produtos e Estruturação Jurídica
-**Progresso:** 85% ⬆️
+**Progresso:** 87% ⬆️
 
-### Última Ação (23/Jan/2026) ⭐⭐⭐⭐⭐
+### Última Ação (25/Jan/2026 - 20:30) ⭐⭐⭐⭐⭐
+
+**PLANO ESTRATÉGICO TIKTOK SHOP 90 DIAS COMPLETO**
+**Documento:** [[docs/canais/PLANO_TIKTOK_SHOP_90_DIAS.md]]
+
+#### Conteúdo do Plano
+
+**Estrutura Completa:**
+
+| Seção | Conteúdo | Status |
+|-------|----------|--------|
+| **Cronograma 12 Semanas** | Semana a semana, dia a dia, com responsáveis e metas | ✅ |
+| **Setup Inicial** | Cadastro TikTok Shop, catálogo, políticas, documentação | ✅ |
+| **Estratégia Conteúdo** | 8 formatos de vídeo, hashtags, horários, calendário | ✅ |
+| **Integração Influencers** | 25 perfis mapeados, 3 tiers, modelo cupom + comissão | ✅ |
+| **Métricas KPIs** | Dashboard diário, relatórios semanais, metas por fase | ✅ |
+| **Budget Estimado** | R$ 30-40k detalhado (Mês 1: R$ 10k / Mês 2: R$ 8k / Mês 3: R$ 12k) | ✅ |
+| **Riscos Mitigações** | 10 riscos principais + contingências específicas | ✅ |
+| **Crescimento Pós-90** | Expansão Q2, marketplaces, fidelidade, projeção anual | ✅ |
+
+#### Números-Chave
+
+```text
+INVESTIMENTO: R$ 30.000 (90 dias)
+
+Cenário Conservador:
+├─ Vendas: 550 kits
+├─ Receita: R$ 70.950
+├─ Lucro: R$ 14.550
+└─ ROI: 148%
+
+Cenário Otimista:
+├─ Vendas: 750 kits
+├─ Receita: R$ 96.750
+├─ Lucro: R$ 30.750
+└─ ROI: 202%
+```
+
+#### Cronograma Executivo
+
+**MÊS 1 (Semanas 1-4): SETUP + VALIDAÇÃO**
+- Aprovação TikTok Shop
+- 20+ vídeos conteúdo
+- 5 creators iniciais
+- Meta: R$ 15-25k (100-150 kits)
+
+**MÊS 2 (Semanas 5-8): ESCALA CONTEÚDO**
+- 15-20 creators total
+- Otimização horários
+- UGC (user-generated content)
+- Meta: R$ 35-50k (250-350 kits)
+
+**MÊS 3 (Semanas 9-12): OTIMIZAÇÃO**
+- Top performers (aumentar comissão)
+- Integração ERP (Plugg.to)
+- Programa retenção
+- Meta: R$ 50-75k (350-500 kits)
+
+#### Próximas Ações
+
+**Esta Semana (27-31/Jan):**
+- [ ] Apresentar plano executivo (Sansom + Jean)
+- [ ] Aprovar budget R$ 30-40k
+- [ ] Alinhar com Titanium (produção conteúdo)
+
+**Semana 1 (03-09/Fev): Setup Técnico**
+- [ ] Cadastro TikTok Shop
+- [ ] Fotos profissionais kit
+- [ ] Vídeos teaser
+- [ ] Aprovação documentação
+
+**GO-LIVE:** 17/Fev/2026 (Semana 3)
+
+---
+
+### Ação Anterior (25/Jan/2026 - 18:00) ⭐⭐⭐⭐⭐
+
+**ENGENHARIA REVERSA ROSE COMPLETA - 25/Jan/2026**
+**Documento:** [[docs/analises/BENCHMARK_ROSE_ENGENHARIA_REVERSA.md]]
+
+#### Achados Principais
+
+| Achado | Detalhes | Oportunidade KabaK |
+|--------|----------|-------------------|
+| **Ausência TikTok** | Rose não tem presença no TikTok | Estratégia agressiva TikTok desde dia 1 |
+| **Transparência Zero** | Rose não publica prazos de entrega | Publicar "Entrega 3-5 dias uteis" |
+| **Sem Influenciadoras** | Nenhum programa de cupons documentado | Replicar modelo Atara (20+ micro-influenciadoras) |
+| **Specs Técnicas Genéricas** | Rose não especifica composição tecido | Comunicar "Poliamida premium, 87% durabilidade" |
+| **Parcelamento Limitado** | Rose oferece apenas 3x (vs Atara 5x) | Oferecer parcelamento 5-6x |
+| **Sem Marketplaces** | Rose apenas site (não em Shopee/ML) | Estar em 4+ marketplaces desde lançamento |
+| **Colecções Fracas** | Sem nomes marcantes (Miami, etc) | Criar 6 colecções sazonais nomeadas |
+
+#### Posicionamento Competitivo
+
+- **Atara:** Volume leader, Shopify, 802k followers, 7+ dias entrega, 3.566 reclamações RA
+- **Rose:** Nicho inclusividade/modestia, 111k followers, prazos desconhecidos, ~2 reclamações RA
+- **KabaK:** Gap de oportunidade: Transparência + TikTok + Influenciadoras + Specs Premium
+
+**Ver análise completa:** [[docs/analises/BENCHMARK_ROSE_ENGENHARIA_REVERSA.md]]
+
+---
+
+### Ação Anterior (23/Jan/2026) ⭐⭐⭐⭐⭐
 
 **REUNIÃO PRODUTOS - Sansom + Gassen + Cris**
 **Local:** Escritório Sansom, Bom Retiro, SP
@@ -150,7 +254,7 @@ atualizado: 2026-01-25T11:30:00-03:00
 
 ## 🎯 PRÓXIMAS AÇÕES
 
-### CRÍTICO (Esta Semana - 25-31/Jan) 🔥
+### CRÍTICO (Esta Semana - 27-31/Jan) 🔥
 
 1. [x] **Gassen:** Reunião Dr. Alexandre ✅ CONCLUÍDO (21/Jan)
 
@@ -159,22 +263,33 @@ atualizado: 2026-01-25T11:30:00-03:00
    - Tecidos aprovados (Rousete, Poliéster)
    - ATA documentada
 
-3. [ ] **Dr. Alexandre:** Enviar documentos jurídicos (segunda 27/Jan) ⚖️
+3. [x] **Gassen:** Plano TikTok Shop 90 Dias ✅ CONCLUÍDO (25/Jan)
+   - Cronograma 12 semanas detalhado
+   - Setup, conteúdo, influencers, métricas
+   - Budget R$ 30-40k com ROI 3-5x
+   - Documento: [[docs/canais/PLANO_TIKTOK_SHOP_90_DIAS.md]]
+
+4. [ ] **Dr. Alexandre:** Enviar documentos jurídicos (segunda 27/Jan) ⚖️
    - Ata de reunião de sócios
    - Acordo de sócios (Word editável)
    - Minuta contrato prestação serviço KabaK ↔ Sports.com
 
-4. [ ] **Gassen:** Reunião Mercado Livre (terça 28/Jan) 🛍️
+5. [ ] **Gassen:** Reunião Mercado Livre (terça 28/Jan) 🛍️
    - **Local:** Escritório Sansom
    - **Objetivo:** Modelo hubs estratégicos
 
-5. [ ] **Gassen:** Definir mix final com Cris (terça 28/Jan) 👗
+6. [ ] **Gassen:** Definir mix final com Cris (terça 28/Jan) 👗
    - 3-4 produtos para lançamento
    - Cores para pilotagem
 
-6. [ ] **Sansom:** Preparar pilotagem cores 🎨
+7. [ ] **Sansom:** Preparar pilotagem cores 🎨
    - Estoque Rousete (2000kg disponível)
    - Separar amostras para fotos
+
+8. [ ] **Gassen:** Apresentar Plano TikTok Shop (29/Jan) 📊
+   - Reunião executiva (Sansom + Jean)
+   - Aprovação budget R$ 30-40k
+   - Definir GO-LIVE
 
 ### 📢 Marketing & Vendas
 * **Agência:** **Titanium** ✅ APROVADO (19/Jan)
@@ -190,7 +305,7 @@ atualizado: 2026-01-25T11:30:00-03:00
 | Outlet físico | 50/50 | ✅ Confirmado |
 | Shopee | 50/50 | ✅ Confirmado |
 | Mercado Livre | 50/50 | ✅ Confirmado |
-| TikTok Shop | 50/50 | ✅ Confirmado |
+| TikTok Shop | 50/50 | ✅ Confirmado + PLANO 90 DIAS |
 | Lojas físicas futuras | 50/50 | ✅ Confirmado |
 
 ### 🏪 Canal: Varejo Físico (Outlet)
@@ -204,7 +319,7 @@ atualizado: 2026-01-25T11:30:00-03:00
 - Dr. Alexandre revisar contratos imóvel
 - Definir equipe loja
 
-### URGENTE (Próximas 2 Semanas - 21/Jan-04/Fev)
+### URGENTE (Próximas 2 Semanas - 27/Jan-09/Fev)
 
 1. [ ] **Titanium (Gui):** Iniciar diagnóstico marca KabaK
    - **Prazo:** 20/Jan/2026
@@ -252,6 +367,42 @@ atualizado: 2026-01-25T11:30:00-03:00
 ---
 
 ## 📋 DECISÕES RECENTES
+
+### 25/Jan/2026 - PLANO TIKTOK SHOP 90 DIAS ⭐⭐⭐⭐⭐
+
+**Documento:** [[docs/canais/PLANO_TIKTOK_SHOP_90_DIAS.md]]
+
+**Principais Decisões:**
+
+1. **Cronograma Executável:**
+   - 12 semanas detalhadas (dia a dia, responsáveis, metas)
+   - GO-LIVE: 17/Fev/2026 (Semana 3)
+
+2. **Investimento:**
+   - Mês 1: R$ 10k (Setup + validação)
+   - Mês 2: R$ 8k (Escala conteúdo)
+   - Mês 3: R$ 12k (Otimização + ERP)
+   - **TOTAL: R$ 30k**
+
+3. **Meta 90 Dias:**
+   - Conservador: 550 kits (R$ 71k receita, ROI 148%)
+   - Otimista: 750 kits (R$ 97k receita, ROI 202%)
+
+4. **Estratégia Influencers:**
+   - Tier 2 (20k-50k): Prioridade máxima
+   - Modelo: Cupom personalizado + 7% comissão
+   - Primeiros contatos: @lucitrainer, @teamalineantiqueira, @gabymoraesfit
+
+5. **Conteúdo:**
+   - 8 formatos definidos (Antes/Depois, POV Academia, Combo Outfits, etc)
+   - Frequência: 4-5 posts/semana
+   - Horários otimizados: Ter 09:30, Qui 18:30, Sáb 19:00, Seg 18:00
+
+6. **Riscos Mapeados:**
+   - 10 riscos principais com mitigações específicas
+   - Contingências para cenários A, B, C
+
+---
 
 ### 21/Jan/2026 - REUNIÃO DR. ALEXANDRE (ESTRUTURAÇÃO JURÍDICA) ⭐⭐⭐⭐⭐
 
@@ -340,7 +491,7 @@ atualizado: 2026-01-25T11:30:00-03:00
 ### CRÍTICO (Bloqueia tudo)
 
 - [x] **Reunião Dr. Alexandre** ✅ REALIZADA (21/Jan)
-- [ ] **Documentos jurídicos** (aguardando Dr. Alexandre - 26/Jan)
+- [ ] **Documentos jurídicos** (aguardando Dr. Alexandre - 27/Jan)
 - [ ] **Pedido tecido China** (lead time 2-3 meses)
 
 ### IMPORTANTE (Bloqueia lançamento)
@@ -440,15 +591,15 @@ atualizado: 2026-01-25T11:30:00-03:00
 
 ---
 
-**Próxima revisão:** 26/Jan/2026 (documentos Dr. Alexandre)
+**Próxima revisão:** 29/Jan/2026 (apresentação plano TikTok Shop)
 
 **Checkpoints Próximos:**
-- 26/Jan: Documentos Dr. Alexandre (ata, acordo sócios, contrato prestação)
-- 27/Jan: Reunião equipe Mercado Livre
-- 28/Jan: Workshop produto Titanium
+- 27/Jan: Documentos Dr. Alexandre (ata, acordo sócios, contrato prestação)
+- 28/Jan: Reunião equipe Mercado Livre
+- 29/Jan: Apresentação Plano TikTok Shop + Aprovação budget
 - Fev/2026: Estudo tributário completo
 
-**Lançamento previsto:** Mai/2026
+**Lançamento previsto:** Mai/2026 (Oficial) | Fev/2026 (TikTok Shop Soft Launch)
 
 ---
 
@@ -478,3 +629,4 @@ NÉVOA (iOS Master)
 - [[metricas/DASHBOARD.md]] - Métricas e progresso
 - [[docs/reunioes/RESUMO_COMPLETO_REUNIAO_DR_ALEXANDRE_SANSOM_21JAN2026.md]] - Reunião completa 21/Jan
 - [[docs/reunioes/Reuniao_Dr_Alexandre_Estruturacao_21JAN2026.md]] - Resumo executivo 21/Jan
+- [[docs/canais/PLANO_TIKTOK_SHOP_90_DIAS.md]] - Plano estratégico TikTok Shop (25/Jan)

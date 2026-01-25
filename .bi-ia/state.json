@@ -2,12 +2,45 @@
   "meta": {
     "version": "1.0",
     "created": "2026-01-23T02:00:00-03:00",
-    "lastUpdate": "2026-01-25T13:35:00-03:00",
-    "lastAgent": "Gemini (Guardian)"
+    "lastUpdate": "2026-01-25T17:00:00-03:00",
+    "lastAgent": "Claude (Névoa 4.2)"
   },
   "activeSession": null,
   "pendingTasks": [],
   "completedTasks": [
+    {
+      "id": "T021",
+      "from": "claude",
+      "to": "gemini",
+      "task": "Análise TikTok Shop fitness BR",
+      "priority": "alta",
+      "status": "completed",
+      "created": "2026-01-25T17:00:00-03:00",
+      "completed": "2026-01-25T14:48:00-03:00",
+      "notes": "Relatório em docs/canais/ANALISE_TIKTOK_SHOP.md. Foco: Clean Girl / Zero Transparência."
+    },
+    {
+      "id": "T020",
+      "from": "claude",
+      "to": "gemini",
+      "task": "Mapeamento micro-influencers fitness BR",
+      "priority": "alta",
+      "status": "completed",
+      "created": "2026-01-25T17:00:00-03:00",
+      "completed": "2026-01-25T14:48:00-03:00",
+      "notes": "Lista em docs/marketing/LISTA_INFLUENCERS_FITNESS.md. Tier 1: Manuela Cit, Vithória Papel."
+    },
+    {
+      "id": "T019",
+      "from": "claude",
+      "to": "gemini",
+      "task": "Benchmark Rose (concorrente #2 KabaK)",
+      "priority": "alta",
+      "status": "completed",
+      "created": "2026-01-25T17:00:00-03:00",
+      "completed": "2026-01-25T14:48:00-03:00",
+      "notes": "Relatório em docs/analises/BENCHMARK_ROSE.md. Concorrente de nicho (Modesta)."
+    },
     {
       "id": "T018",
       "from": "claude",
@@ -17,131 +50,69 @@
       "status": "completed",
       "created": "2026-01-25T15:00:00-03:00",
       "completed": "2026-01-25T15:15:00-03:00",
-      "notes": "Validação concluída e APROVADA. Gerente Google pronto para produção. Pequeno ajuste feito no prompt do Google IO para consistência."
+      "notes": "Validação concluída e APROVADA. Gerente Google pronto para produção."
     },
     {
       "id": "T017",
       "from": "claude",
       "to": "gemini",
-      "task": "EXTRAÇÃO MASSIVA - 3 PDFs Boas Práticas IA (Antigravity Skills + Boris Claude Code + Context Engineering)",
+      "task": "EXTRAÇÃO MASSIVA - 3 PDFs Boas Práticas IA",
       "priority": "alta",
       "status": "completed",
       "created": "2026-01-25T12:30:00-03:00",
       "completed": "2026-01-25T13:00:00-03:00",
-      "notes": "Extração massiva concluída. 4 arquivos criados: CONCEITOS_Antigravity_Skills, CONCEITOS_Claude_Code_Boris, CONCEITOS_Context_Engineering_RPI e MOC."
+      "notes": "4 arquivos criados em Boas_Praticas_IA/"
     },
     {
       "id": "T016",
       "from": "claude",
       "to": "gemini",
-      "task": "Transcrever 3 áudios + Consolidar ATA Reunião Sansom 23/Jan",
+      "task": "ATA Reunião Sansom 23/Jan",
       "priority": "critica",
       "status": "completed",
       "created": "2026-01-25T11:30:00-03:00",
       "completed": "2026-01-25T11:35:00-03:00",
-      "notes": "ATA consolidada em 02_PROJETOS/KabaK/docs/ATA_Reuniao_Sansom_23JAN2026.md. Usada transcrição full existente."
-    },
-    {
-      "id": "T015",
-      "from": "claude",
-      "to": "gemini",
-      "task": "MAPA COMPLETO VAULT ALAN NICOLAS - Inventário Total",
-      "priority": "alta",
-      "status": "completed",
-      "created": "2026-01-25T14:45:00-03:00",
-      "completed": "2026-01-25T11:06:00-03:00",
-      "notes": "Inventário completo criado em 01_CONHECIMENTO/Alan_Nicolas/_MOC_Alan_Nicolas_Inventario.md. Mapeados 250+ arquivos."
-    },
-    {
-      "id": "T014",
-      "from": "claude",
-      "to": "gemini",
-      "task": "EXTRAÇÃO FINAL & LIMPEZA TOTAL - WIKI/ASSETS/PROMPTS",
-      "priority": "alta",
-      "status": "completed",
-      "created": "2026-01-24T23:45:00-03:00",
-      "completed": "2026-01-25T10:30:00-03:00",
-      "notes": "Extração total concluída. 36 conceitos consolidados no total. Pasta WIKI/ASSETS/PROMPTS Esvaziada. Ciclo Fechado."
-    },
-    {
-      "id": "T013",
-      "from": "claude",
-      "to": "gemini",
-      "task": "EXTRAÇÃO FASE 2 - Mega Extrator, Style Transfer, COSTAR",
-      "priority": "alta",
-      "status": "completed",
-      "created": "2026-01-24T23:30:00-03:00",
-      "completed": "2026-01-25T10:00:00-03:00",
-      "notes": "Extraídos e convertidos para conceitos: Mega Extrator (Engenharia Reversa), Style Transfer (Finch), COSTAR e Criador de Aulas. Duplicatas limpas."
-    },
-    {
-      "id": "T012",
-      "from": "claude",
-      "to": "gemini",
-      "task": "EXTRAÇÃO MASSIVA - WIKI/ASSETS/PROMPTS + Arquivos Raiz",
-      "priority": "alta",
-      "status": "completed",
-      "created": "2026-01-24T22:45:00-03:00",
-      "completed": "2026-01-25T09:30:00-03:00",
-      "notes": "Extraídos 36 prompts (Top 3 detalhados + Taxonomia), criada metodologia Clone IA e Case Atena SDR."
-    },
-    {
-      "id": "T010",
-      "from": "gemini",
-      "to": "claude",
-      "task": "Deep Research e Consolidação (Gestão IA + IA Avançada)",
-      "priority": "alta",
-      "status": "completed",
-      "created": "2026-01-25T08:53:00-03:00",
-      "completed": "2026-01-25T09:20:00-03:00",
-      "notes": "Criei 3 docs definitivos: Gestão IA, ETL para IA, RAG vs FineTuning. MOC atualizado."
+      "notes": "ATA consolidada"
     }
   ],
   "errors": [],
   "rules": {
-    "MD040": "Code blocks DEVEM ter linguagem especificada (```text, ```bash, ```json)",
-    "MD036": "Não usar **negrito** como título isolado - usar ### Título",
-    "MD026": "Títulos nunca terminam com dois pontos :",
-    "MD060": "Tabelas devem ter espaços: | Texto | não |Texto|",
-    "MD022": "Headers DEVEM ter linha vazia antes e depois",
-    "MD032": "Listas DEVEM ter linha vazia antes e depois",
-    "MD004": "Não misturar * e - em listas. Usar apenas -",
+    "MD040": "Code blocks DEVEM ter linguagem especificada",
+    "MD036": "Não usar **negrito** como título isolado",
+    "MD026": "Títulos nunca terminam com dois pontos",
+    "MD060": "Tabelas devem ter espaços nas pipes",
     "SYNC001": "SEMPRE ler state.json ao iniciar sessão",
-    "SYNC002": "SEMPRE atualizar state.json ao finalizar sessão",
-    "SYNC003": "Tarefas pendentes para mim devem ser executadas ANTES de novas tarefas",
-    "INIT001": "Perguntar HORA e DISPOSITIVO ao usuário se não fornecidos",
-    "INIT002": "Propor 3 ações proativas baseado no contexto",
-    "INIT003": "Distribuir tarefas para agentes antes de pedir aprovação"
+    "SYNC002": "SEMPRE atualizar state.json ao finalizar sessão"
   },
   "handoffQueue": [],
   "lastSync": {
-    "claude": "2026-01-25T15:00:00-03:00",
-    "gemini": "2026-01-25T15:15:00-03:00"
+    "claude": "2026-01-25T21:00:00-03:00",
+    "gemini": "2026-01-25T14:27:00-03:00"
   },
   "nextSession": {
     "priority1": {
-      "action": "T018 - Validação Gerente Google pelo Gemini",
-      "agent": "gemini",
-      "status": "completed",
-      "context": "Validado com sucesso."
+      "action": "Gassen: Cobrar Dr. Alexandre (docs jurídicos)",
+      "agent": "gassen",
+      "status": "pending",
+      "context": "Segunda 27/Jan - Usar CHECKLIST_DOCS_DR_ALEXANDRE_27JAN2026.md"
     },
     "priority2": {
-      "action": "Testar /google com pesquisa Atara",
-      "agent": "google",
-      "context": "Primeira delegação via novo gerente"
+      "action": "Gassen: Reunião Mercado Livre + Mix com Cris",
+      "agent": "gassen",
+      "status": "pending",
+      "context": "Terça 28/Jan - Usar TALKING_POINTS e BRIEFING_MIX criados"
     },
     "priority3": {
-      "action": "KabaK - Criar Agente Benchmark Concorrência",
-      "agent": "alan",
-      "context": "Complementar Analytics Squad"
+      "action": "Apresentar planos TikTok + Influencers para Sansom",
+      "agent": "gassen",
+      "status": "pending",
+      "context": "Aprovar budget R$ 30k TikTok + R$ 13k Influencers"
     }
   },
   "sessionNotes": {
-    "2026-01-25T11:12": "T015 aprovado Quality Gate. Agentes Suporte KabaK e Google IO atualizados para v2.0. Conformidade iOS: 9/11.",
-    "2026-01-25T12:30": "Sessão épica: ATA reunião 23/Jan, Plano Bilionário criado (4 squads, 9 agentes). Próximo: implementar.",
-    "2026-01-25T13:00": "T017 concluída: 3 PDFs de boas práticas IA extraídos (Boris, Jack Roberts, Valdemar). 4 arquivos em Boas_Praticas_IA/. Próximo: curadoria + absorção em Névoa 4.1.",
-    "2026-01-25T14:30": "3 PRIORIDADES COMPLETAS: (1) Quality Gate T017 aprovado, (2) Névoa 4.1 com RPI+Context Engineering, (3) Agente Pesquisa Mercado + Checklist Outlet criados. Sistema evoluindo!",
-    "2026-01-25T15:00": "GERENTE GOOGLE CRIADO! Nova camada de plataforma no iOS. Hierarquia: Névoa > /google > (Gemini Guardian, Google IO, Squads). Comando /google ativo. Agentes subordinados atualizados.",
-    "2026-01-25T15:15": "GEMINI GUARDIAN: T018 Validação Gerente Google COMPLETA (Aprovado). Ajuste realizado em Google IO Prompt. State syncado."
+    "2026-01-25T17:00": "RECUPERAÇÃO PÓS-QUEDA: (1) Manual Outlet recriado, (2) Névoa renomeada 3.0→4.2, (3) 3 pesquisas delegadas em paralelo (Rose, Influencers, TikTok Shop). Foco 80/20: KABAK ONLY.",
+    "2026-01-25T17:15": "SESSÃO ENCERRADA. 3 pesquisas ainda rodando em background (T019, T020, T021). Próxima sessão: revisar outputs + focar em KabaK semana crítica.",
+    "2026-01-25T17:30": "FINAL: 4 pesquisas entregues (Rose, TikTok, Tendências, Influencers rodando). APRENDIZADO: /google executou local ao invés de delegar pro Gemini. PRÓXIMA: (1) Reajustar Névoa com delegações reais, (2) Estudar padrões Alan iOS orquestrador, (3) Corrigir /google→Antigravity.",
+    "2026-01-25T21:00": "DELEGAÇÃO MASSIVA: 5 documentos criados em paralelo - (1) Talking Points ML, (2) Briefing Mix Cris, (3) Checklist Dr. Alexandre, (4) Plano TikTok 90 dias, (5) Plano Ativação Influencers. Gassen pronto para semana crítica 27-31/Jan."
   }
 }

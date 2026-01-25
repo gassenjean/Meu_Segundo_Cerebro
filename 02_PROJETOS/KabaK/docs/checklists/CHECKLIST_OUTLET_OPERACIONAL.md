@@ -2,13 +2,17 @@
 criado: 2026-01-25
 atualizado: 2026-01-25
 tipo: Checklist Operacional
-local: Outlet KabaK
-versao: 1.0
+local: Outlet KabaK (Rodovia - Alto Fluxo)
+versao: 1.1
+created: 2026-01-25T13:34
+updated: 2026-01-25T13:34
 ---
 
 # Checklist Operacional - Outlet KabaK
 
 **Objetivo:** Garantir que o Outlet esteja sempre pronto para operação.
+
+**Contexto:** Loja física em rodovia de alto fluxo, foco em moda masculina e praia, operando como queima de estoque (não poluir marca premium do e-commerce).
 
 ---
 
@@ -47,6 +51,54 @@ versao: 1.0
 - [ ] Preços visíveis
 - [ ] Sem sujeira ou poeira
 - [ ] Iluminação destacada
+
+---
+
+## Checklist Diário - Durante o Expediente
+
+**Frequência:** A cada 2-3 horas ou conforme fluxo
+
+### Reposicao de Produtos
+
+- [ ] Verificar araras e repor peças vendidas
+- [ ] Manter tamanhos organizados (P, M, G, GG)
+- [ ] Redobrar peças desdobradas
+- [ ] Reposicionar pecas nos cabides
+- [ ] Verificar se kits estao completos
+
+### Atendimento ao Cliente
+
+- [ ] Cumprimentar cliente em ate 30 segundos
+- [ ] Perguntar o que procura (tamanho, estilo, ocasiao)
+- [ ] Oferecer ajuda no provador
+- [ ] Sugerir pecas complementares (venda cruzada)
+- [ ] Informar promocoes ativas
+- [ ] Agradecer e convidar para voltar
+
+### Padrao de Atendimento Outlet
+
+```text
+1. ACOLHER - "Boa tarde! Seja bem-vindo ao KabaK Outlet!"
+2. SONDAR - "Procura algo especifico? Temos promocoes incriveis hoje."
+3. APRESENTAR - Mostrar pecas, destacar qualidade e desconto
+4. EXPERIMENTAR - Direcionar ao provador, oferecer outros tamanhos
+5. FECHAR - "Vai levar? Posso empacotar para presente?"
+6. DESPEDIR - "Obrigado! Volte sempre, temos novidades toda semana!"
+```
+
+### Registro de Vendas
+
+- [ ] Registrar cada venda no sistema imediatamente
+- [ ] Emitir nota/cupom fiscal
+- [ ] Oferecer sacola adequada ao tamanho da compra
+- [ ] Anotar feedback do cliente (se relevante)
+
+### Manutencao Continua
+
+- [ ] Manter area do caixa limpa
+- [ ] Verificar provadores apos cada uso
+- [ ] Recolher pecas deixadas fora do lugar
+- [ ] Manter entrada da loja livre e convidativa
 
 ---
 

@@ -1,10 +1,10 @@
 ---
 criado: 2026-01-22T12:30:00-03:00
-atualizado: 2026-01-23T00:30:00-03:00
+atualizado: 2026-01-25T19:15:00-03:00
 tipo: moc
 status: ativo
 created: 2026-01-22T12:07
-updated: 2026-01-25T14:25
+updated: 2026-01-25T19:15
 ---
 
 # _MOC_KabaK - Índice Master do Projeto
@@ -20,11 +20,11 @@ updated: 2026-01-25T14:25
 
 | Métrica | Valor |
 |---------|-------|
-| **Progresso** | 80% |
+| **Progresso** | 85% |
 | **Investimento Total** | R$ 2.096.300 |
 | **Break-even** | Mês 4 (Ago/2026) |
 | **ROI Projetado** | 155% ano 1 |
-| **Próxima Entrega** | Dr. Alexandre (26/Jan) |
+| **Próxima Entrega** | Dr. Alexandre (27/Jan) |
 
 ---
 
@@ -34,6 +34,9 @@ updated: 2026-01-25T14:25
 - [[STATUS_ATUAL.md]] - Estado atual do projeto (SEMPRE ATUALIZADO)
 - [[VALORES_OFICIAIS.md]] - Números financeiros oficiais (ÚNICA FONTE)
 - [[README.md]] - Visão geral e contexto
+
+### Checklist Jurídico
+- [[docs/juridico/CHECKLIST_DOCS_DR_ALEXANDRE_27JAN2026.md]] - Checklist documentos jurídicos (CRÍTICO 25/Jan) 🔥
 
 ### Última Reunião (21/Jan/2026)
 - [[docs/reunioes/RESUMO_COMPLETO_REUNIAO_DR_ALEXANDRE_SANSOM_21JAN2026.md]] - Reunião Dr. Alexandre (OFICIAL)
@@ -72,6 +75,11 @@ updated: 2026-01-25T14:25
 | [[docs/checklists/CHECKLIST_PEDIDO_CHINA.md]] | Checklist pedido China | ✅ Atual |
 | [[docs/checklists/CHECKLIST_OUTLET_OPERACIONAL.md]] | Checklist operacional Outlet | ✅ Atual |
 
+### /docs/juridico (Documentos Jurídicos) 🆕
+| Arquivo | Descrição | Status |
+|---------|-----------|--------|
+| [[docs/juridico/CHECKLIST_DOCS_DR_ALEXANDRE_27JAN2026.md]] | Checklist documentos jurídicos Dr. Alexandre | 🔥 CRÍTICO 25/Jan |
+
 ### /docs/treinamento (Treinamento Equipe)
 | Arquivo | Descrição | Status |
 |---------|-----------|--------|
@@ -80,7 +88,9 @@ updated: 2026-01-25T14:25
 ### /docs/analises (Análises e Auditorias)
 | Arquivo | Descrição | Status |
 |---------|-----------|--------|
-| [[docs/analises/BENCHMARK_ATARA_ENGENHARIA_REVERSA.md]] | Benchmark Atara (concorrente) | ✅ Novo |
+| [[docs/analises/ANALISE_TIKTOK_SHOP_FITNESS_BR.md]] | Mercado TikTok Shop fitness feminina (OPORTUNIDADE) | ✅ 25/Jan |
+| [[docs/analises/BENCHMARK_ATARA_ENGENHARIA_REVERSA.md]] | Benchmark Atara (concorrente #1) | ✅ Novo |
+| [[docs/analises/BENCHMARK_ROSE_ENGENHARIA_REVERSA.md]] | Benchmark Rose (concorrente #2) | ✅ 25/Jan |
 | [[docs/analises/ANALISE_REUNIAO_TITANIUM.md]] | Análise Titanium | ✅ Atual |
 | [[docs/analises/AUDITORIA_ALAN_KABAK.md]] | Auditoria Alan | 📋 Referência |
 | [[docs/analises/CONFORMIDADE_PADROES.md]] | Padrões do projeto | 📋 Referência |
@@ -104,6 +114,7 @@ updated: 2026-01-25T14:25
 | Arquivo | Descrição | Data |
 |---------|-----------|------|
 | [[docs/reunioes/RESUMO_COMPLETO_REUNIAO_DR_ALEXANDRE_SANSOM_21JAN2026.md]] | Dr. Alexandre + Sansom | 21/Jan ⭐ |
+| [[docs/reunioes/TALKING_POINTS_REUNIAO_ML_28JAN2026.md]] | Talking Points Mercado Livre | 28/Jan 🔥 |
 | [[docs/reunioes/RESUMO_EXECUTIVO_REUNIAO_TITANIUM_16JAN2026.md]] | Reunião Titanium | 16/Jan |
 | [[docs/reunioes/RESUMO_LIGACAO_SANSOM_15JAN2026.md]] | Ligação Sansom | 15/Jan |
 | [[docs/reunioes/RESUMO_RETORNO_SANSOM_15JAN2026.md]] | Retorno Sansom | 15/Jan |
@@ -188,13 +199,14 @@ updated: 2026-01-25T14:25
 
 ## 🎯 FRENTES ATIVAS
 
-### 1. Estruturação Jurídica (Dr. Alexandre)
-- **Status:** 🟢 Em andamento
-- **Próxima entrega:** 26/Jan/2026
+### 1. Estruturação Jurídica (Dr. Alexandre) 🔥
+- **Status:** 🔴 AGUARDANDO CRÍTICO
+- **Próxima entrega:** 27/Jan/2026 (segunda-feira)
 - **Documentos esperados:**
   - Ata de reunião de sócios
   - Acordo de sócios (Word editável)
-  - Minuta contrato prestação serviço
+  - Minuta contrato prestação serviço KabaK ↔ Sports.com
+- **Checklist:** [[docs/juridico/CHECKLIST_DOCS_DR_ALEXANDRE_27JAN2026.md]]
 
 ### 2. Fornecimento China (Sansom)
 - **Status:** 🟡 Aguardando
@@ -212,6 +224,23 @@ updated: 2026-01-25T14:25
 ### 5. E-commerce
 - **Status:** 🟡 Planejamento
 - **Lançamento:** Mai/2026
+
+### 6. TikTok Shop (Nova Oportunidade)
+- **Status:** 🔥 ANÁLISE COMPLETA 25/JAN
+- **Potencial:** R$ 100-150k em 90 dias
+- **ROI:** 3-5x (investimento R$ 30-40k)
+- **Recomendação:** LANÇAR FEVEREIRO 2026
+- **Documentos:**
+  - [[docs/analises/ANALISE_TIKTOK_SHOP_FITNESS_BR.md]] - Análise completa (11 seções)
+  - [[../../04_RECURSOS/CHECKLISTS/CHECKLIST_LANCAMENTO_TIKTOK_SHOP_KABAK.md]] - Checklist execução
+
+### 7. Mercado Livre - Hubs Estratégicos (NOVA)
+- **Status:** 🔥 REUNIÃO 28/JAN
+- **Potencial:** Entrega 1 dia (vs 7 dias Atara)
+- **Modelo:** 10k peças/hub em pontos estratégicos
+- **Equipe:** Fatura R$ 4M/mês no ML
+- **Documentos:**
+  - [[docs/reunioes/TALKING_POINTS_REUNIAO_ML_28JAN2026.md]] - Preparação reunião
 
 ---
 
@@ -239,19 +268,21 @@ updated: 2026-01-25T14:25
 | Scripts movidos para /scripts | 6 | ✅ Concluído |
 | Scripts obsoletos deletados | 5 | ✅ Concluído |
 | CSVs movidos para planejamento/recursos | 4 | ✅ Concluído |
-| Subpastas criadas em /docs | 4 | ✅ Concluído |
+| Subpastas criadas em /docs | 5 | ✅ Concluído |
 | Arquivos reorganizados em /docs | 15+ | ✅ Concluído |
 | Nomenclatura corrigida | 2 | ✅ Concluído |
 
 **Nova estrutura /docs:**
 - `/briefings` - Briefings Dr. Alexandre
 - `/checklists` - Todos os checklists
+- `/juridico` - **NOVO 25/Jan** - Documentos jurídicos
 - `/analises` - Análises e auditorias
 - `/transcricoes` - Transcrições de reuniões
 - `/contratos` - Contratos e POs
 - `/reunioes` - Resumos de reuniões
 - `/projetos` - Projetos específicos
 - `/pesquisas` - Pesquisas
+- `/marketing` - Marketing e parcerias
 
 ---
 
@@ -271,7 +302,10 @@ Dez/2025  ──────  Proposta inicial Sansom
 16/Jan/2026  ───  Reunião Titanium
 19/Jan/2026  ───  Briefing enviado Dr. Alexandre
 21/Jan/2026  ───  Reunião Dr. Alexandre + Sansom ⭐
-26/Jan/2026  ───  Entregas Dr. Alexandre (esperado)
+23/Jan/2026  ───  Reunião produtos Sansom + Cris
+25/Jan/2026  ───  Checklist jurídico criado 🔥
+27/Jan/2026  ───  Entregas Dr. Alexandre (esperado) 🔴
+28/Jan/2026  ───  Reunião equipe Mercado Livre 🔥
 Fev/2026  ──────  Onboarding Titanium
 Mar-Abr/2026  ──  Chegada tecido China
 Mai/2026  ──────  LANÇAMENTO E-COMMERCE
@@ -281,5 +315,5 @@ Ago/2026  ──────  Break-even (Mês 4)
 ---
 
 **Criado:** 22/Jan/2026
-**Última atualização:** 25/Jan/2026 (Manual Treinamento Outlet adicionado)
+**Última atualização:** 25/Jan/2026 - 19:15 (Pasta /juridico + Checklist Dr. Alexandre adicionados)
 **Mantido por:** Claude Code + KabaK Agent
