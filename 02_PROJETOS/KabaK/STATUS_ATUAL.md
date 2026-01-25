@@ -5,16 +5,47 @@ atualizado: 2026-01-25T11:30:00-03:00
 
 # STATUS ATUAL - KabaK Reestruturação 2026
 
-**Última atualização:** 25/Jan/2026 - 11:30 (Integração Sistema iOS)
+**Última atualização:** 25/Jan/2026 - 12:00 (Reunião Sansom Produtos)
 
 ---
 
 ## ✅ ONDE ESTAMOS
 
-**Fase Atual:** Estruturação Jurídica e Início Titanium
-**Progresso:** 80% ⬆️
+**Fase Atual:** Definição de Produtos e Estruturação Jurídica
+**Progresso:** 85% ⬆️
 
-### Última Ação (21/Jan/2026 - 16:00) ⭐⭐⭐⭐⭐
+### Última Ação (23/Jan/2026) ⭐⭐⭐⭐⭐
+
+**REUNIÃO PRODUTOS - Sansom + Gassen + Cris**
+**Local:** Escritório Sansom, Bom Retiro, SP
+**ATA Completa:** [[docs/ATA_Reuniao_Sansom_23JAN2026]]
+
+#### Decisões Principais
+
+| Tópico | Decisão |
+| ------ | ------- |
+| Foco e-commerce | Feminino (Fitness) |
+| Carro-chefe | Kit 3 peças (calça+top+short) |
+| Kit Entrada | Poliéster R$129 (isca tráfego) |
+| Kit Premium | Poliamida R$249 (margem) |
+| Outlet | Paralelo (masculino/praia/queima) |
+
+#### Tecidos Aprovados
+
+| Tecido | Tipo | Custo/peça | Venda |
+| ------ | ---- | ---------- | ----- |
+| Rousete | Poliamida Premium | ~R$33 | R$95 |
+| Poliéster | Entrada | ~R$15 | R$43 (kit) |
+
+#### Próximos (Definidos na Reunião)
+
+- **27/Jan:** Docs Dr. Alexandre
+- **28/Jan:** Definir mix final + Reunião ML
+- **Fev:** Início vendas (mês 1 = ajustes)
+
+---
+
+### Ação Anterior (21/Jan/2026 - 16:00) ⭐⭐⭐⭐⭐
 
 **REUNIÃO HISTÓRICA - Dr. Alexandre + Sansom + Gassen + Jean**
 **Local:** Casa do Jean, Zona Leste, SP
@@ -119,29 +150,31 @@ atualizado: 2026-01-25T11:30:00-03:00
 
 ## 🎯 PRÓXIMAS AÇÕES
 
-### CRÍTICO (Esta Semana - 22-26/Jan) 🔥
+### CRÍTICO (Esta Semana - 25-31/Jan) 🔥
 
-1. [x] **Gassen:** Reunião Dr. Alexandre realizada ✅ CONCLUÍDO (21/Jan)
+1. [x] **Gassen:** Reunião Dr. Alexandre ✅ CONCLUÍDO (21/Jan)
 
-2. [ ] **Gassen:** Reunião escritório Sansom (sexta-feira 23/Jan) 📦
-   - **Local:** Escritório Sansom, Bom Retiro
-   - **Pauta:** Ver produtos disponíveis, estoque atual, capacidade produtiva
-   - **Extra:** Sansom quer começar a controlar financeiro
+2. [x] **Gassen:** Reunião Sansom Produtos ✅ CONCLUÍDO (23/Jan)
+   - Mix inicial definido (Kit Entrada + Kit Premium)
+   - Tecidos aprovados (Rousete, Poliéster)
+   - ATA documentada
 
-3. [ ] **Dr. Alexandre:** Enviar documentos jurídicos (segunda-feira 26/Jan) ⚖️
+3. [ ] **Dr. Alexandre:** Enviar documentos jurídicos (segunda 27/Jan) ⚖️
    - Ata de reunião de sócios
    - Acordo de sócios (Word editável)
    - Minuta contrato prestação serviço KabaK ↔ Sports.com
 
-4. [ ] **Gassen:** Reunião equipe Mercado Livre (terça-feira 27/Jan) 🛍️
+4. [ ] **Gassen:** Reunião Mercado Livre (terça 28/Jan) 🛍️
    - **Local:** Escritório Sansom
-   - **Quem:** Equipe que fatura R$ 4M/mês no ML + moça de Cachoeira de Minas
-   - **Objetivo:** Entender modelo hubs estratégicos (10k peças/ponto, entrega 1 dia)
+   - **Objetivo:** Modelo hubs estratégicos
 
-5. [ ] **Sansom:** Decidir sobre contratação Eduarda 👩‍💼
-   - **Perfil:** Formada em logística, trabalha na ABIHPEC (Fiesp)
-   - **Relação:** Cunhada do Gassen
-   - **Status:** Sansom demonstrou interesse forte na reunião
+5. [ ] **Gassen:** Definir mix final com Cris (terça 28/Jan) 👗
+   - 3-4 produtos para lançamento
+   - Cores para pilotagem
+
+6. [ ] **Sansom:** Preparar pilotagem cores 🎨
+   - Estoque Rousete (2000kg disponível)
+   - Separar amostras para fotos
 
 ### 📢 Marketing & Vendas
 * **Agência:** **Titanium** ✅ APROVADO (19/Jan)
