@@ -1,955 +1,1083 @@
 ---
 criado: 2026-01-14T13:02:05-03:00
-atualizado: 2026-01-22T23:45:00-03:00
+atualizado: 2026-01-22T21:30:00-03:00
 created: 2026-01-21T23:04
-updated: 2026-01-23T00:45
+updated: 2026-01-24T21:51
 ---
+<!-- markdownlint-disable MD024 -->
 
 # SESSION_LOG
 
-## ÚLTIMA ATUALIZAÇÃO
+## 🟢 Antigravity/Gemini - 24/Jan/2026 (22:05) - SKILLS AWESOME ANALISADAS
 
-- **Quem:** Gemini 3 Pro
-- **Quando:** 22/Jan/2026 23:45
-- **Resumo:** Início Sessão + Sync Bi-IA + Identificação T005
+### Status: Instruções Recebidas e Processadas
 
----
-
-
-## 🟣 Antigravity (Gemini 3 Pro) - 22/JAN/2026 (23:53) - TRABALHO EM: APRENDIZADO
-
-### Trabalho Realizado (23:53)
-
-**Outros**
-
-* ✅ Modificado: `.bi-ia/state.json`
-* ✅ Deletado: `05_PESSOAL/Sobre_Mim/Sobre_Mim/Sobre_Mim_Ess\303\252ncia.md`
-
-**Desenvolvimento de Skills Antigravity**
-
-* ✅ Modificado: `.gemini/skills/session-logger/scripts/logger.py`
-* ✅ Criado: `.gemini/skills/vault-organizer/scripts/deduplicator.py`
-
-**Gestão de Conhecimento**
-
-* ✅ Deletado: `01_CONHECIMENTO/Tecnologia/Inteligencia_Artificial/Alan_IA_Config.md`
-* ✅ Deletado: `01_CONHECIMENTO/Tecnologia/Inteligencia_Artificial/Aurora_ChatGPT_Sistema.md`
-* ✅ Deletado: `01_CONHECIMENTO/Tecnologia/Inteligencia_Artificial/Clone_IA_Framework_Alan.md`
-
-**Execução de Projetos**
-
-* ✅ Deletado: `02_PROJETOS/Estudo_Alan_Nicolas/WIKI/ASSETS/PROMPTS/.._meu-clone-ia_README.md`
-* ✅ Deletado: `02_PROJETOS/Estudo_Alan_Nicolas/WIKI/ASSETS/PROMPTS/Cursos_Engenharia_de_Prompts_lessons_3.1-Biblioteca-36-Prompts.md`
-* ✅ Deletado: `02_PROJETOS/Estudo_Alan_Nicolas/WIKI/ASSETS/PROMPTS/Live_40_Segundo_Cerebro.md`
-* ✅ Deletado: `02_PROJETOS/Estudo_Alan_Nicolas/WIKI/ASSETS/PROMPTS/PROMPT_AGENTE_LUCAS_AMOEDO.md`
-
-**Aprendizado**
-
-* ✅ Deletado: `03_APRENDIZADO/Alan_Nicolas_Universe/Alan_Cursos_Referencia/Academia/README.md`
-* ✅ Deletado: `03_APRENDIZADO/Alan_Nicolas_Universe/Alan_Cursos_Referencia/Academia/notas/Live_01_Claude_Code_Empresarios.md`
-* ✅ Deletado: `03_APRENDIZADO/Alan_Nicolas_Universe/Alan_Cursos_Referencia/Academia/notas/Live_02_Pare_Ser_Refem.md`
-* ✅ Deletado: `03_APRENDIZADO/Alan_Nicolas_Universe/Alan_Cursos_Referencia/Academia/notas/Live_40_Segundo_Cerebro.md`
-* ✅ Deletado: `03_APRENDIZADO/Alan_Nicolas_Universe/Alan_Cursos_Referencia/Academia/notas/Live_Gemini3_Antigravity_BananaPro_Warren_Buffett.md`
-* ✅ Deletado: `03_APRENDIZADO/Alan_Nicolas_Universe/Alan_Cursos_Referencia/Academia/recursos/GUIA_Pratico_Gemini_Alan_Nicolas.md`
-* ✅ Deletado: `03_APRENDIZADO/Alan_Nicolas_Universe/Alan_Cursos_Referencia/Academia/vida_lendaria/001_-_Por_qu\303\252.md`
-* ✅ Deletado: `03_APRENDIZADO/Alan_Nicolas_Universe/Alan_Cursos_Referencia/Academia/vida_lendaria/002_-_Quem_\303\251_voc\303\252.md`
-* ✅ Deletado: `03_APRENDIZADO/Alan_Nicolas_Universe/Alan_Cursos_Referencia/Academia/vida_lendaria/003_-_Aprendendo_a_morrer.md`
-* ✅ Deletado: `03_APRENDIZADO/Alan_Nicolas_Universe/Alan_Cursos_Referencia/Academia/vida_lendaria/004_-_Uma_Vida_Lend\303\241ria.md`
-* ✅ Deletado: `03_APRENDIZADO/Alan_Nicolas_Universe/Alan_Cursos_Referencia/Academia/vida_lendaria/005_-_Her\303\263i_ou_Vil\303\243o.md`
-* ✅ Deletado: `03_APRENDIZADO/Alan_Nicolas_Universe/Alan_Cursos_Referencia/Academia/vida_lendaria/006_-_A_Sombra_da_Ideologia.md`
-* ✅ Deletado: `03_APRENDIZADO/Alan_Nicolas_Universe/Alan_Cursos_Referencia/Academia/vida_lendaria/007_-_Uma_Mente_Milion\303\241ria.md`
-* ✅ Deletado: `03_APRENDIZADO/Alan_Nicolas_Universe/Alan_Cursos_Referencia/Academia/vida_lendaria/008_-_Zona_de_Genialidade.md`
-* ✅ Deletado: `03_APRENDIZADO/Alan_Nicolas_Universe/Alan_Cursos_Referencia/Academia/vida_lendaria/009_-_Essencialismo_a_arte_de_dizer_n\303\243o.md`
-* ✅ Deletado: `03_APRENDIZADO/Alan_Nicolas_Universe/Alan_Cursos_Referencia/Academia/vida_lendaria/010_-_A_Vida_\303\251_Contra_Intuitiva.md`
-* ✅ Deletado: `03_APRENDIZADO/Alan_Nicolas_Universe/Alan_Cursos_Referencia/Academia/vida_lendaria/011_-_O_poder_de_fazer_perguntas.md`
-* ✅ Deletado: `03_APRENDIZADO/Alan_Nicolas_Universe/Alan_Cursos_Referencia/Academia/vida_lendaria/012_-_O_poder_de_fazer_perguntas_2.md`
-* ✅ Deletado: `03_APRENDIZADO/Alan_Nicolas_Universe/Alan_Cursos_Referencia/Academia/vida_lendaria/013_-_Estoicismo_A_Arte_de_Viver.md`
-* ✅ Deletado: `03_APRENDIZADO/Alan_Nicolas_Universe/Alan_Cursos_Referencia/Academia/vida_lendaria/014_-_\303\201_Beira_do_Abismo.md`
-* ✅ Deletado: `03_APRENDIZADO/Alan_Nicolas_Universe/Alan_Cursos_Referencia/Academia/vida_lendaria/015_-_Como_Tomar_Melhores_Decis\303\265es.md`
-* ✅ Deletado: `03_APRENDIZADO/Alan_Nicolas_Universe/Alan_Cursos_Referencia/Academia/vida_lendaria/016_-_O_Efeito_Composto_-_Por_que_coisas_valiosas_levam_tempo.md`
-* ✅ Deletado: `03_APRENDIZADO/Alan_Nicolas_Universe/Alan_Cursos_Referencia/Academia/vida_lendaria/017_-_Por_que_procrastinamos_E_como_parar!.md`
-* ✅ Deletado: `03_APRENDIZADO/Alan_Nicolas_Universe/Alan_Cursos_Referencia/Academia/vida_lendaria/018_-_Queimando_Pontes.md`
-* ✅ Deletado: `03_APRENDIZADO/Alan_Nicolas_Universe/Alan_Cursos_Referencia/Academia/vida_lendaria/019_-_Voc\303\252_\303\251_Dois.md`
-* ✅ Deletado: `03_APRENDIZADO/Alan_Nicolas_Universe/Alan_Cursos_Referencia/Academia/vida_lendaria/020_-_Modelagem_Mental.md`
-* ✅ Deletado: `03_APRENDIZADO/Alan_Nicolas_Universe/Alan_Cursos_Referencia/Academia/vida_lendaria/023_-_Siga_Sua_Curiosidade.md`
-* ✅ Deletado: `03_APRENDIZADO/Alan_Nicolas_Universe/Alan_Cursos_Referencia/Academia/vida_lendaria/024_-_Monetizze_Sua_Curiosidade_1.md`
-* ✅ Deletado: `03_APRENDIZADO/Alan_Nicolas_Universe/Alan_Cursos_Referencia/Academia/vida_lendaria/10_profiss\303\265es_IA.md`
-* ✅ Deletado: `03_APRENDIZADO/Alan_Nicolas_Universe/Alan_Cursos_Referencia/Academia/vida_lendaria/1_Ideia_=_1_Conte\303\272do.md`
-* ✅ Deletado: `03_APRENDIZADO/Alan_Nicolas_Universe/Alan_Cursos_Referencia/Academia/vida_lendaria/3.4_Por_que_Seguir_sua_Paix\303\243o_\303\251_um_Mau_Conselho.md`
-* ✅ Deletado: `03_APRENDIZADO/Alan_Nicolas_Universe/Alan_Cursos_Referencia/Academia/vida_lendaria/A_Bolha_da_IA.md`
-* ✅ Deletado: `03_APRENDIZADO/Alan_Nicolas_Universe/Alan_Cursos_Referencia/Academia/vida_lendaria/A_Vida_Como_Jogo.md`
-* ✅ Deletado: `03_APRENDIZADO/Alan_Nicolas_Universe/Alan_Cursos_Referencia/Academia/vida_lendaria/A_\303\232nica_Coisa.md`
-* ✅ Deletado: `03_APRENDIZADO/Alan_Nicolas_Universe/Alan_Cursos_Referencia/Academia/vida_lendaria/Agora.md`
-* ✅ Deletado: `03_APRENDIZADO/Alan_Nicolas_Universe/Alan_Cursos_Referencia/Academia/vida_lendaria/Alan_IA.md`
-* ✅ Deletado: `03_APRENDIZADO/Alan_Nicolas_Universe/Alan_Cursos_Referencia/Academia/vida_lendaria/Aula_Sobre_Segundo_C\303\251rebro_com_IA.md`
-* ✅ Deletado: `03_APRENDIZADO/Alan_Nicolas_Universe/Alan_Cursos_Referencia/Academia/vida_lendaria/Aurora_ChatGPT.md`
-* ✅ Deletado: `03_APRENDIZADO/Alan_Nicolas_Universe/Alan_Cursos_Referencia/Academia/vida_lendaria/Brida.md`
-* ✅ Deletado: `03_APRENDIZADO/Alan_Nicolas_Universe/Alan_Cursos_Referencia/Academia/vida_lendaria/ChatBase.md`
-* ✅ Deletado: `03_APRENDIZADO/Alan_Nicolas_Universe/Alan_Cursos_Referencia/Academia/vida_lendaria/ChatGTP.md`
-* ✅ Deletado: `03_APRENDIZADO/Alan_Nicolas_Universe/Alan_Cursos_Referencia/Academia/vida_lendaria/ChatVolt_Finch.md`
-* ✅ Deletado: `03_APRENDIZADO/Alan_Nicolas_Universe/Alan_Cursos_Referencia/Academia/vida_lendaria/Claude_Consciente.md`
-* ✅ Deletado: `03_APRENDIZADO/Alan_Nicolas_Universe/Alan_Cursos_Referencia/Academia/vida_lendaria/Clone_IA.md`
-* ✅ Deletado: `03_APRENDIZADO/Alan_Nicolas_Universe/Alan_Cursos_Referencia/Academia/vida_lendaria/Comece_pelo_porqu\303\252.md`
-* ✅ Deletado: `03_APRENDIZADO/Alan_Nicolas_Universe/Alan_Cursos_Referencia/Academia/vida_lendaria/Conhecimento_Desenvolvimento_Pessoal_Hiperconsci\303\252ncia.md`
-* ✅ Deletado: `03_APRENDIZADO/Alan_Nicolas_Universe/Alan_Cursos_Referencia/Academia/vida_lendaria/Conhecimento_Desenvolvimento_Pessoal_README.md`
-* ✅ Deletado: `03_APRENDIZADO/Alan_Nicolas_Universe/Alan_Cursos_Referencia/Academia/vida_lendaria/Conhecimento_Empreendedorismo_README.md`
-* ✅ Deletado: `03_APRENDIZADO/Alan_Nicolas_Universe/Alan_Cursos_Referencia/Academia/vida_lendaria/Conhecimento_IA_e_Tecnologia_README.md`
-* ✅ Deletado: `03_APRENDIZADO/Alan_Nicolas_Universe/Alan_Cursos_Referencia/Academia/vida_lendaria/Conhecimento_README.md`
-* ✅ Deletado: `03_APRENDIZADO/Alan_Nicolas_Universe/Alan_Cursos_Referencia/Academia/vida_lendaria/Copy.ai_Brand_Voice.md`
-* ✅ Deletado: `03_APRENDIZADO/Alan_Nicolas_Universe/Alan_Cursos_Referencia/Academia/vida_lendaria/Criador_Papers.md`
-* ✅ Deletado: `03_APRENDIZADO/Alan_Nicolas_Universe/Alan_Cursos_Referencia/Academia/vida_lendaria/Criador_de_Aulas.md`
-* ✅ Deletado: `03_APRENDIZADO/Alan_Nicolas_Universe/Alan_Cursos_Referencia/Academia/vida_lendaria/Criando_um_Amigo_IA.md`
-* ✅ Deletado: `03_APRENDIZADO/Alan_Nicolas_Universe/Alan_Cursos_Referencia/Academia/vida_lendaria/Criar_Slides_com_IA.md`
-* ✅ Deletado: `03_APRENDIZADO/Alan_Nicolas_Universe/Alan_Cursos_Referencia/Academia/vida_lendaria/Cursos_Dominando_Obsidian_README.md`
-* ✅ Deletado: `03_APRENDIZADO/Alan_Nicolas_Universe/Alan_Cursos_Referencia/Academia/vida_lendaria/Cursos_Engenharia_de_Prompts_README.md`
-* ✅ Deletado: `03_APRENDIZADO/Alan_Nicolas_Universe/Alan_Cursos_Referencia/Academia/vida_lendaria/Cursos_Engenharia_de_Prompts_lessons_3.1-Biblioteca-36-Prompts.md`
-* ✅ Deletado: `03_APRENDIZADO/Alan_Nicolas_Universe/Alan_Cursos_Referencia/Academia/vida_lendaria/Cursos_GPTs_README.md`
-* ✅ Deletado: `03_APRENDIZADO/Alan_Nicolas_Universe/Alan_Cursos_Referencia/Academia/vida_lendaria/Cursos_Mente_Lend\303\241ria_README.md`
-* ✅ Deletado: `03_APRENDIZADO/Alan_Nicolas_Universe/Alan_Cursos_Referencia/Academia/vida_lendaria/Cursos_TEMPLATE-ESTRUTURA-CURSO.md`
-* ✅ Deletado: `03_APRENDIZADO/Alan_Nicolas_Universe/Alan_Cursos_Referencia/Academia/vida_lendaria/Cursos_Zona_de_Genialidade_1.2_O_que_\303\251_a_Zona_de_Genialidade.md`
-* ✅ Deletado: `03_APRENDIZADO/Alan_Nicolas_Universe/Alan_Cursos_Referencia/Academia/vida_lendaria/Cursos_Zona_de_Genialidade_3.4_Por_que_Seguir_sua_Paix\303\243o_\303\251_um_Mau_Conselho.md`
-* ✅ Deletado: `03_APRENDIZADO/Alan_Nicolas_Universe/Alan_Cursos_Referencia/Academia/vida_lendaria/Cursos_Zona_de_Genialidade_README.md`
-* ✅ Deletado: `03_APRENDIZADO/Alan_Nicolas_Universe/Alan_Cursos_Referencia/Academia/vida_lendaria/C\303\255rculo_Dourado.md`
-* ✅ Deletado: `03_APRENDIZADO/Alan_Nicolas_Universe/Alan_Cursos_Referencia/Academia/vida_lendaria/Dados_Sobre_APIS.md`
-* ✅ Deletado: `03_APRENDIZADO/Alan_Nicolas_Universe/Alan_Cursos_Referencia/Academia/vida_lendaria/Dify.md`
-* ✅ Deletado: `03_APRENDIZADO/Alan_Nicolas_Universe/Alan_Cursos_Referencia/Academia/vida_lendaria/Espiral_Din\303\242mica.md`
-* ✅ Deletado: `03_APRENDIZADO/Alan_Nicolas_Universe/Alan_Cursos_Referencia/Academia/vida_lendaria/Exploring_AI_Self-Awareness_-_Claude.md`
-* ✅ Deletado: `03_APRENDIZADO/Alan_Nicolas_Universe/Alan_Cursos_Referencia/Academia/vida_lendaria/Extrair_a_Minha_Hist\303\263ria_com_IA.md`
-* ✅ Deletado: `03_APRENDIZADO/Alan_Nicolas_Universe/Alan_Cursos_Referencia/Academia/vida_lendaria/Finch_-_Palestra.md`
-* ✅ Deletado: `03_APRENDIZADO/Alan_Nicolas_Universe/Alan_Cursos_Referencia/Academia/vida_lendaria/Finch_IA.md`
-* ✅ Deletado: `03_APRENDIZADO/Alan_Nicolas_Universe/Alan_Cursos_Referencia/Academia/vida_lendaria/Fine-Tuning_Rick_Sanchez.md`
-* ✅ Deletado: `03_APRENDIZADO/Alan_Nicolas_Universe/Alan_Cursos_Referencia/Academia/vida_lendaria/Fine_Tuning.md`
-* ✅ Deletado: `03_APRENDIZADO/Alan_Nicolas_Universe/Alan_Cursos_Referencia/Academia/vida_lendaria/Foco.md`
-* ✅ Deletado: `03_APRENDIZADO/Alan_Nicolas_Universe/Alan_Cursos_Referencia/Academia/vida_lendaria/Forma\303\247\303\243o_IA.md`
-* ✅ Deletado: `03_APRENDIZADO/Alan_Nicolas_Universe/Alan_Cursos_Referencia/Academia/vida_lendaria/Friedrich_Nietzsche.md`
-* ✅ Deletado: `03_APRENDIZADO/Alan_Nicolas_Universe/Alan_Cursos_Referencia/Academia/vida_lendaria/GPT_Prompt_Lend\303\241rio.md`
-* ✅ Deletado: `03_APRENDIZADO/Alan_Nicolas_Universe/Alan_Cursos_Referencia/Academia/vida_lendaria/GPTs.md`
-* ✅ Deletado: `03_APRENDIZADO/Alan_Nicolas_Universe/Alan_Cursos_Referencia/Academia/vida_lendaria/GPTs_Dall-E_3.md`
-* ✅ Deletado: `03_APRENDIZADO/Alan_Nicolas_Universe/Alan_Cursos_Referencia/Academia/vida_lendaria/Gloss\303\241rio_Lend\303\241rio.md`
-* ✅ Deletado: `03_APRENDIZADO/Alan_Nicolas_Universe/Alan_Cursos_Referencia/Academia/vida_lendaria/Guia_para_um_Bom_Prompt.md`
-* ✅ Deletado: `03_APRENDIZADO/Alan_Nicolas_Universe/Alan_Cursos_Referencia/Academia/vida_lendaria/Hermes_Trismegisto.md`
-* ✅ Deletado: `03_APRENDIZADO/Alan_Nicolas_Universe/Alan_Cursos_Referencia/Academia/vida_lendaria/Hiperconsci\303\252ncia.md`
-* ✅ Deletado: `03_APRENDIZADO/Alan_Nicolas_Universe/Alan_Cursos_Referencia/Academia/vida_lendaria/H\303\241bitos_at\303\263micos.md`
-* ✅ Deletado: `03_APRENDIZADO/Alan_Nicolas_Universe/Alan_Cursos_Referencia/Academia/vida_lendaria/IA_Claude_Code_Index.md`
-* ✅ Deletado: `03_APRENDIZADO/Alan_Nicolas_Universe/Alan_Cursos_Referencia/Academia/vida_lendaria/IA_Index.md`
-* ✅ Deletado: `03_APRENDIZADO/Alan_Nicolas_Universe/Alan_Cursos_Referencia/Academia/vida_lendaria/IA_Prompts_Index_-_Prompts.md`
-* ✅ Deletado: `03_APRENDIZADO/Alan_Nicolas_Universe/Alan_Cursos_Referencia/Academia/vida_lendaria/IA_Prompts_Prompt_Clone.md`
-* ✅ Deletado: `03_APRENDIZADO/Alan_Nicolas_Universe/Alan_Cursos_Referencia/Academia/vida_lendaria/IA_Prompts_Prompts_Alan_IA.md`
-* ✅ Deletado: `03_APRENDIZADO/Alan_Nicolas_Universe/Alan_Cursos_Referencia/Academia/vida_lendaria/IA_README.md`
-* ✅ Deletado: `03_APRENDIZADO/Alan_Nicolas_Universe/Alan_Cursos_Referencia/Academia/vida_lendaria/Index.md`
-* ✅ Deletado: `03_APRENDIZADO/Alan_Nicolas_Universe/Alan_Cursos_Referencia/Academia/vida_lendaria/Index_-_Prompts.md`
-* ✅ Deletado: `03_APRENDIZADO/Alan_Nicolas_Universe/Alan_Cursos_Referencia/Academia/vida_lendaria/Instru\303\247\303\265es_Personalizadas.md`
-* ✅ Deletado: `03_APRENDIZADO/Alan_Nicolas_Universe/Alan_Cursos_Referencia/Academia/vida_lendaria/Instru\303\247\303\265es_Personalizadas_2024.md`
-* ✅ Deletado: `03_APRENDIZADO/Alan_Nicolas_Universe/Alan_Cursos_Referencia/Academia/vida_lendaria/Instru\303\247\303\265es_Personalizadas_2025.md`
-* ✅ Deletado: `03_APRENDIZADO/Alan_Nicolas_Universe/Alan_Cursos_Referencia/Academia/vida_lendaria/Instru\303\247\303\265es_Personalizadas_ChatGPT.md`
-* ✅ Deletado: `03_APRENDIZADO/Alan_Nicolas_Universe/Alan_Cursos_Referencia/Academia/vida_lendaria/Jornada_e_Hist\303\263ria.md`
-* ✅ Deletado: `03_APRENDIZADO/Alan_Nicolas_Universe/Alan_Cursos_Referencia/Academia/vida_lendaria/Kapil_GPT.md`
-* ✅ Deletado: `03_APRENDIZADO/Alan_Nicolas_Universe/Alan_Cursos_Referencia/Academia/vida_lendaria/Kapil_IA.md`
-* ✅ Deletado: `03_APRENDIZADO/Alan_Nicolas_Universe/Alan_Cursos_Referencia/Academia/vida_lendaria/Leis_Herm\303\251ticas.md`
-* ✅ Deletado: `03_APRENDIZADO/Alan_Nicolas_Universe/Alan_Cursos_Referencia/Academia/vida_lendaria/MOCs_MOC_-_Aten\303\247\303\243o_&_Cogni\303\247\303\243o.md`
-* ✅ Deletado: `03_APRENDIZADO/Alan_Nicolas_Universe/Alan_Cursos_Referencia/Academia/vida_lendaria/MOCs_MOC_-_Ci\303\252ncia_&_Filosofia_da_Realidade.md`
-* ✅ Deletado: `03_APRENDIZADO/Alan_Nicolas_Universe/Alan_Cursos_Referencia/Academia/vida_lendaria/MOCs_MOC_-_Consci\303\252ncia_&_Desenvolvimento.md`
-* ✅ Deletado: `03_APRENDIZADO/Alan_Nicolas_Universe/Alan_Cursos_Referencia/Academia/vida_lendaria/MOCs_MOC_-_Cria\303\247\303\243o_de_Conte\303\272do.md`
-* ✅ Deletado: `03_APRENDIZADO/Alan_Nicolas_Universe/Alan_Cursos_Referencia/Academia/vida_lendaria/MOCs_MOC_-_Decis\303\243o_&_Sabedoria.md`
-* ✅ Deletado: `03_APRENDIZADO/Alan_Nicolas_Universe/Alan_Cursos_Referencia/Academia/vida_lendaria/MOCs_MOC_-_IA_&_Ferramentas_Digitais.md`
-* ✅ Deletado: `03_APRENDIZADO/Alan_Nicolas_Universe/Alan_Cursos_Referencia/Academia/vida_lendaria/MOCs_MOC_-_Maestria_&_Genialidade.md`
-* ✅ Deletado: `03_APRENDIZADO/Alan_Nicolas_Universe/Alan_Cursos_Referencia/Academia/vida_lendaria/MOCs_MOC_-_Neg\303\263cios_&_Empreendedorismo.md`
-* ✅ Deletado: `03_APRENDIZADO/Alan_Nicolas_Universe/Alan_Cursos_Referencia/Academia/vida_lendaria/MOCs_MOC_-_PKM_&_Segundo_C\303\251rebro.md`
-* ✅ Deletado: `03_APRENDIZADO/Alan_Nicolas_Universe/Alan_Cursos_Referencia/Academia/vida_lendaria/MOCs_MOC_-_Psicologia_&_Comportamento.md`
-* ✅ Deletado: `03_APRENDIZADO/Alan_Nicolas_Universe/Alan_Cursos_Referencia/Academia/vida_lendaria/MOCs_MOC_-_Vida_&_Prop\303\263sito.md`
-* ✅ Deletado: `03_APRENDIZADO/Alan_Nicolas_Universe/Alan_Cursos_Referencia/Academia/vida_lendaria/Manifesto.md`
-* ✅ Deletado: `03_APRENDIZADO/Alan_Nicolas_Universe/Alan_Cursos_Referencia/Academia/vida_lendaria/Mark_Manson.md`
-* ✅ Deletado: `03_APRENDIZADO/Alan_Nicolas_Universe/Alan_Cursos_Referencia/Academia/vida_lendaria/Melhores_Prompts.md`
-* ✅ Deletado: `03_APRENDIZADO/Alan_Nicolas_Universe/Alan_Cursos_Referencia/Academia/vida_lendaria/Minha_Miss\303\243o.md`
-* ✅ Deletado: `03_APRENDIZADO/Alan_Nicolas_Universe/Alan_Cursos_Referencia/Academia/vida_lendaria/Naval_Ravikant.md`
-* ✅ Deletado: `03_APRENDIZADO/Alan_Nicolas_Universe/Alan_Cursos_Referencia/Academia/vida_lendaria/O_que_\303\251_a_Verdade.md`
-* ✅ Deletado: `03_APRENDIZADO/Alan_Nicolas_Universe/Alan_Cursos_Referencia/Academia/vida_lendaria/Obsess\303\243o_Focada.md`
-* ✅ Deletado: `03_APRENDIZADO/Alan_Nicolas_Universe/Alan_Cursos_Referencia/Academia/vida_lendaria/Otimizador_de_Prompts.md`
-* ✅ Deletado: `03_APRENDIZADO/Alan_Nicolas_Universe/Alan_Cursos_Referencia/Academia/vida_lendaria/PN_-_023_-_Siga_sua_curiosidade.md`
-* ✅ Deletado: `03_APRENDIZADO/Alan_Nicolas_Universe/Alan_Cursos_Referencia/Academia/vida_lendaria/Procrastina\303\247\303\243o.md`
-* ✅ Deletado: `03_APRENDIZADO/Alan_Nicolas_Universe/Alan_Cursos_Referencia/Academia/vida_lendaria/Projetos_Atuais.md`
-* ✅ Deletado: `03_APRENDIZADO/Alan_Nicolas_Universe/Alan_Cursos_Referencia/Academia/vida_lendaria/Prompt_Atena_-_SDR_Lend\303\241ria_v2.md`
-* ✅ Deletado: `03_APRENDIZADO/Alan_Nicolas_Universe/Alan_Cursos_Referencia/Academia/vida_lendaria/Prompt_Aurora.md`
-* ✅ Deletado: `03_APRENDIZADO/Alan_Nicolas_Universe/Alan_Cursos_Referencia/Academia/vida_lendaria/Prompt_Clone.md`
-* ✅ Deletado: `03_APRENDIZADO/Alan_Nicolas_Universe/Alan_Cursos_Referencia/Academia/vida_lendaria/Prompts_Alan_IA.md`
-* ✅ Deletado: `03_APRENDIZADO/Alan_Nicolas_Universe/Alan_Cursos_Referencia/Academia/vida_lendaria/Quem_\303\251_Alan_Nicolas.md`
-* ✅ Deletado: `03_APRENDIZADO/Alan_Nicolas_Universe/Alan_Cursos_Referencia/Academia/vida_lendaria/Recursos_Autores_&_Pensadores_INDEX.md`
-* ✅ Deletado: `03_APRENDIZADO/Alan_Nicolas_Universe/Alan_Cursos_Referencia/Academia/vida_lendaria/Recursos_Livros_Comece_pelo_porqu\303\252.md`
-* ✅ Deletado: `03_APRENDIZADO/Alan_Nicolas_Universe/Alan_Cursos_Referencia/Academia/vida_lendaria/Recursos_Livros_Fora_de_s\303\251rie_-_Outliers.md`
-* ✅ Deletado: `03_APRENDIZADO/Alan_Nicolas_Universe/Alan_Cursos_Referencia/Academia/vida_lendaria/Recursos_Livros_INDEX.md`
-* ✅ Deletado: `03_APRENDIZADO/Alan_Nicolas_Universe/Alan_Cursos_Referencia/Academia/vida_lendaria/Recursos_Livros_Maestria.md`
-* ✅ Deletado: `03_APRENDIZADO/Alan_Nicolas_Universe/Alan_Cursos_Referencia/Academia/vida_lendaria/Recursos_Livros_O_Carro_da_Consci\303\252ncia.md`
-* ✅ Deletado: `03_APRENDIZADO/Alan_Nicolas_Universe/Alan_Cursos_Referencia/Academia/vida_lendaria/Recursos_Modelos_INDEX.md`
-* ✅ Deletado: `03_APRENDIZADO/Alan_Nicolas_Universe/Alan_Cursos_Referencia/Academia/vida_lendaria/Recursos_PLANO_INTEGRACAO_IBOOKS.md`
-* ✅ Deletado: `03_APRENDIZADO/Alan_Nicolas_Universe/Alan_Cursos_Referencia/Academia/vida_lendaria/Recursos_Podcasts_INDEX.md`
-* ✅ Deletado: `03_APRENDIZADO/Alan_Nicolas_Universe/Alan_Cursos_Referencia/Academia/vida_lendaria/Recursos_YouTube_INDEX.md`
-* ✅ Deletado: `03_APRENDIZADO/Alan_Nicolas_Universe/Alan_Cursos_Referencia/Academia/vida_lendaria/Recursos_ibook_INDEX.md`
-* ✅ Deletado: `03_APRENDIZADO/Alan_Nicolas_Universe/Alan_Cursos_Referencia/Academia/vida_lendaria/Ryan_Holiday.md`
-* ✅ Deletado: `03_APRENDIZADO/Alan_Nicolas_Universe/Alan_Cursos_Referencia/Academia/vida_lendaria/R\303\241pido_e_devagar.md`
-* ✅ Deletado: `03_APRENDIZADO/Alan_Nicolas_Universe/Alan_Cursos_Referencia/Academia/vida_lendaria/Se_t\303\241_pesado_est\303\241_errado.md`
-* ✅ Deletado: `03_APRENDIZADO/Alan_Nicolas_Universe/Alan_Cursos_Referencia/Academia/vida_lendaria/Simon_Sinek.md`
-* ✅ Deletado: `03_APRENDIZADO/Alan_Nicolas_Universe/Alan_Cursos_Referencia/Academia/vida_lendaria/Sobre_Mim_Ess\303\252ncia.md`
-* ✅ Deletado: `03_APRENDIZADO/Alan_Nicolas_Universe/Alan_Cursos_Referencia/Academia/vida_lendaria/Sobre_Mim_Jornada_e_Hist\303\263ria.md`
-* ✅ Deletado: `03_APRENDIZADO/Alan_Nicolas_Universe/Alan_Cursos_Referencia/Academia/vida_lendaria/Sobre_Mim_Minha_Miss\303\243o.md`
-* ✅ Deletado: `03_APRENDIZADO/Alan_Nicolas_Universe/Alan_Cursos_Referencia/Academia/vida_lendaria/Sobre_Mim_Projetos_Atuais.md`
-* ✅ Deletado: `03_APRENDIZADO/Alan_Nicolas_Universe/Alan_Cursos_Referencia/Academia/vida_lendaria/Sobre_Mim_Quem_\303\251_Alan_Nicolas.md`
-* ✅ Deletado: `03_APRENDIZADO/Alan_Nicolas_Universe/Alan_Cursos_Referencia/Academia/vida_lendaria/S\303\263crates.md`
-* ✅ Deletado: `03_APRENDIZADO/Alan_Nicolas_Universe/Alan_Cursos_Referencia/Academia/vida_lendaria/Text_Generator.md`
-* ✅ Deletado: `03_APRENDIZADO/Alan_Nicolas_Universe/Alan_Cursos_Referencia/Academia/vida_lendaria/The_Five_Minute_Journa.md`
-* ✅ Deletado: `03_APRENDIZADO/Alan_Nicolas_Universe/Alan_Cursos_Referencia/Academia/vida_lendaria/Valores.md`
-* ✅ Deletado: `03_APRENDIZADO/Alan_Nicolas_Universe/Alan_Cursos_Referencia/Academia/vida_lendaria/Vida_Lend\303\241ria.md`
-* ✅ Deletado: `03_APRENDIZADO/Alan_Nicolas_Universe/Alan_Cursos_Referencia/Academia/vida_lendaria/Vida_Lend\303\241ria_Ensaios_\303\215ndice.md`
-* ✅ Deletado: `03_APRENDIZADO/Alan_Nicolas_Universe/Alan_Cursos_Referencia/Academia/vida_lendaria/Vida_Lend\303\241ria_Epis\303\263dios_VL_001_-_Por_qu\303\252.md`
-* ✅ Deletado: `03_APRENDIZADO/Alan_Nicolas_Universe/Alan_Cursos_Referencia/Academia/vida_lendaria/Vida_Lend\303\241ria_Epis\303\263dios_VL_003_-_Aprendendo_a_morrer.md`
-* ✅ Deletado: `03_APRENDIZADO/Alan_Nicolas_Universe/Alan_Cursos_Referencia/Academia/vida_lendaria/Vida_Lend\303\241ria_Epis\303\263dios_VL_004_-_Uma_Vida_Lend\303\241ria.md`
-* ✅ Deletado: `03_APRENDIZADO/Alan_Nicolas_Universe/Alan_Cursos_Referencia/Academia/vida_lendaria/Vida_Lend\303\241ria_Epis\303\263dios_VL_005_-_Her\303\263i_ou_Vil\303\243o.md`
-* ✅ Deletado: `03_APRENDIZADO/Alan_Nicolas_Universe/Alan_Cursos_Referencia/Academia/vida_lendaria/Vida_Lend\303\241ria_Epis\303\263dios_VL_007_-_Uma_Mente_Milion\303\241ria.md`
-* ✅ Deletado: `03_APRENDIZADO/Alan_Nicolas_Universe/Alan_Cursos_Referencia/Academia/vida_lendaria/Vida_Lend\303\241ria_Epis\303\263dios_VL_008_-_Zona_de_Genialidade.md`
-* ✅ Deletado: `03_APRENDIZADO/Alan_Nicolas_Universe/Alan_Cursos_Referencia/Academia/vida_lendaria/Vida_Lend\303\241ria_Epis\303\263dios_VL_017_-_Por_que_procrastinamos_E_como_parar!.md`
-* ✅ Deletado: `03_APRENDIZADO/Alan_Nicolas_Universe/Alan_Cursos_Referencia/Academia/vida_lendaria/Vida_Lend\303\241ria_Epis\303\263dios_VL_021_-_Seja_um_Otimista_Racional.md`
-* ✅ Deletado: `03_APRENDIZADO/Alan_Nicolas_Universe/Alan_Cursos_Referencia/Academia/vida_lendaria/Vida_Lend\303\241ria_Epis\303\263dios_VL_PN_-_023_-_Siga_sua_curiosidade.md`
-* ✅ Deletado: `03_APRENDIZADO/Alan_Nicolas_Universe/Alan_Cursos_Referencia/Academia/vida_lendaria/Vida_Lend\303\241ria_Epis\303\263dios_VL_\303\215ndice.md`
-* ✅ Deletado: `03_APRENDIZADO/Alan_Nicolas_Universe/Alan_Cursos_Referencia/Academia/vida_lendaria/Vida_Lend\303\241ria_Index.md`
-* ✅ Deletado: `03_APRENDIZADO/Alan_Nicolas_Universe/Alan_Cursos_Referencia/Academia/vida_lendaria/Vida_Lend\303\241ria_MOC_-_Epis\303\263dios_VL.md`
-* ✅ Deletado: `03_APRENDIZADO/Alan_Nicolas_Universe/Alan_Cursos_Referencia/Academia/vida_lendaria/Zettalkasten_para_Copy.md`
-* ✅ Deletado: `03_APRENDIZADO/Alan_Nicolas_Universe/Alan_Cursos_Referencia/Academia/vida_lendaria/_MOC_-_Aten\303\247\303\243o_&_Cogni\303\247\303\243o.md`
-* ✅ Deletado: `03_APRENDIZADO/Alan_Nicolas_Universe/Alan_Cursos_Referencia/Academia/vida_lendaria/_MOC_-_Consci\303\252ncia_&_Desenvolvimento.md`
-* ✅ Deletado: `03_APRENDIZADO/Alan_Nicolas_Universe/Alan_Cursos_Referencia/Academia/vida_lendaria/_MOC_-_Cria\303\247\303\243o_de_Conte\303\272do.md`
-* ✅ Deletado: `03_APRENDIZADO/Alan_Nicolas_Universe/Alan_Cursos_Referencia/Academia/vida_lendaria/_MOC_-_Decis\303\243o_&_Sabedoria.md`
-* ✅ Deletado: `03_APRENDIZADO/Alan_Nicolas_Universe/Alan_Cursos_Referencia/Academia/vida_lendaria/_MOC_-_Epis\303\263dios_VL.md`
-* ✅ Deletado: `03_APRENDIZADO/Alan_Nicolas_Universe/Alan_Cursos_Referencia/Academia/vida_lendaria/_MOC_-_Filosofia_&_Espiritualidade.md`
-* ✅ Deletado: `03_APRENDIZADO/Alan_Nicolas_Universe/Alan_Cursos_Referencia/Academia/vida_lendaria/_MOC_-_Maestria_&_Genialidade.md`
-* ✅ Deletado: `03_APRENDIZADO/Alan_Nicolas_Universe/Alan_Cursos_Referencia/Academia/vida_lendaria/_MOC_-_Marketing_&_Copy.md`
-* ✅ Deletado: `03_APRENDIZADO/Alan_Nicolas_Universe/Alan_Cursos_Referencia/Academia/vida_lendaria/_MOC_-_PKM_&_Segundo_C\303\251rebro.md`
-* ✅ Deletado: `03_APRENDIZADO/Alan_Nicolas_Universe/Alan_Cursos_Referencia/Academia/vida_lendaria/_MOC_-_Psicologia_&_Comportamento.md`
-* ✅ Deletado: `03_APRENDIZADO/Alan_Nicolas_Universe/Alan_Cursos_Referencia/Academia/vida_lendaria/anos_mais_desesperadores_da_minha_vida.md`
-* ✅ Deletado: `03_APRENDIZADO/Alan_Nicolas_Universe/Alan_Cursos_Referencia/Academia/vida_lendaria/bem-vindo.md`
-* ✅ Deletado: `03_APRENDIZADO/Alan_Nicolas_Universe/Alan_Cursos_Referencia/Academia/vida_lendaria/claude-conversation.md`
-* ✅ Deletado: `03_APRENDIZADO/Alan_Nicolas_Universe/Alan_Cursos_Referencia/Academia/vida_lendaria/code_interpreter.md`
-* ✅ Deletado: `03_APRENDIZADO/Alan_Nicolas_Universe/Alan_Cursos_Referencia/Academia/vida_lendaria/criatividade.md`
-* ✅ Deletado: `03_APRENDIZADO/Alan_Nicolas_Universe/Alan_Cursos_Referencia/Academia/vida_lendaria/c\303\251rebro.md`
-* ✅ Deletado: `03_APRENDIZADO/Alan_Nicolas_Universe/Alan_Cursos_Referencia/Academia/vida_lendaria/embedding.md`
-* ✅ Deletado: `03_APRENDIZADO/Alan_Nicolas_Universe/Alan_Cursos_Referencia/Academia/vida_lendaria/epigen\303\251tica.md`
-* ✅ Deletado: `03_APRENDIZADO/Alan_Nicolas_Universe/Alan_Cursos_Referencia/Academia/vida_lendaria/guia-prompt.md`
-* ✅ Deletado: `03_APRENDIZADO/Alan_Nicolas_Universe/Alan_Cursos_Referencia/Academia/vida_lendaria/ideogram.ai.md`
-* ✅ Deletado: `03_APRENDIZADO/Alan_Nicolas_Universe/Alan_Cursos_Referencia/Academia/vida_lendaria/intelig\303\252ncia_emocional.md`
-* ✅ Deletado: `03_APRENDIZADO/Alan_Nicolas_Universe/Alan_Cursos_Referencia/Academia/vida_lendaria/lessons_1.1-Estrutura-4C.md`
-* ✅ Deletado: `03_APRENDIZADO/Alan_Nicolas_Universe/Alan_Cursos_Referencia/Academia/vida_lendaria/lessons_2.1-Mentalidade-Ca\303\247ador.md`
-* ✅ Deletado: `03_APRENDIZADO/Alan_Nicolas_Universe/Alan_Cursos_Referencia/Academia/vida_lendaria/lessons_2.2-Elimine-o-Ru\303\255do.md`
-* ✅ Deletado: `03_APRENDIZADO/Alan_Nicolas_Universe/Alan_Cursos_Referencia/Academia/vida_lendaria/lessons_2.3-Horizontal-vs-Vertical.md`
-* ✅ Deletado: `03_APRENDIZADO/Alan_Nicolas_Universe/Alan_Cursos_Referencia/Academia/vida_lendaria/lessons_2.5-Consuma-Melhor-Crie-Melhor.md`
-* ✅ Deletado: `03_APRENDIZADO/Alan_Nicolas_Universe/Alan_Cursos_Referencia/Academia/vida_lendaria/lessons_3.1-Mentalidade-Curador.md`
-* ✅ Deletado: `03_APRENDIZADO/Alan_Nicolas_Universe/Alan_Cursos_Referencia/Academia/vida_lendaria/lessons_3.2-12-Problemas-Feyman.md`
-* ✅ Deletado: `03_APRENDIZADO/Alan_Nicolas_Universe/Alan_Cursos_Referencia/Academia/vida_lendaria/lessons_3.3-Formas-de-Captura.md`
-* ✅ Deletado: `03_APRENDIZADO/Alan_Nicolas_Universe/Alan_Cursos_Referencia/Academia/vida_lendaria/lessons_3.9-Usando-IA.md`
-* ✅ Deletado: `03_APRENDIZADO/Alan_Nicolas_Universe/Alan_Cursos_Referencia/Academia/vida_lendaria/lessons_4.2-MOCs.md`
-* ✅ Deletado: `03_APRENDIZADO/Alan_Nicolas_Universe/Alan_Cursos_Referencia/Academia/vida_lendaria/lessons_5.1-Introducao.md`
-* ✅ Deletado: `03_APRENDIZADO/Alan_Nicolas_Universe/Alan_Cursos_Referencia/Academia/vida_lendaria/lessons_5.2-Modo-Consumidor-vs-Criador.md`
-* ✅ Deletado: `03_APRENDIZADO/Alan_Nicolas_Universe/Alan_Cursos_Referencia/Academia/vida_lendaria/lista-exemplos-prompts.md`
-* ✅ Deletado: `03_APRENDIZADO/Alan_Nicolas_Universe/Alan_Cursos_Referencia/Academia/vida_lendaria/maestria.md`
-* ✅ Deletado: `03_APRENDIZADO/Alan_Nicolas_Universe/Alan_Cursos_Referencia/Academia/vida_lendaria/marketing_direto.md`
-* ✅ Deletado: `03_APRENDIZADO/Alan_Nicolas_Universe/Alan_Cursos_Referencia/Academia/vida_lendaria/modelo_mental.md`
-* ✅ Deletado: `03_APRENDIZADO/Alan_Nicolas_Universe/Alan_Cursos_Referencia/Academia/vida_lendaria/neur\303\264nio-espelho.md`
-* ✅ Deletado: `03_APRENDIZADO/Alan_Nicolas_Universe/Alan_Cursos_Referencia/Academia/vida_lendaria/ultimate-course-framework-extractor.md`
-* ✅ Deletado: `03_APRENDIZADO/Alan_Nicolas_Universe/Alan_Cursos_Referencia/Academia/vida_lendaria/uma_vida_de_grandes_realiza\303\247\303\265es.md`
-* ✅ Deletado: `03_APRENDIZADO/Alan_Nicolas_Universe/Alan_Cursos_Referencia/Dominando_Obsidian/README.md`
-* ✅ Deletado: `03_APRENDIZADO/Alan_Nicolas_Universe/Alan_Cursos_Referencia/Engenharia_Prompts/notas/Biblioteca_36_Prompts.md`
-* ✅ Deletado: `03_APRENDIZADO/Alan_Nicolas_Universe/Alan_Cursos_Referencia/Mentoria/Lessons/Lessons_1.1-Estrutura-4C.md`
-* ✅ Deletado: `03_APRENDIZADO/Alan_Nicolas_Universe/Alan_Cursos_Referencia/Mentoria/Lessons/Lessons_2.1-Mentalidade-Ca\303\247ador.md`
-* ✅ Deletado: `03_APRENDIZADO/Alan_Nicolas_Universe/Alan_Cursos_Referencia/Mentoria/Lessons/Lessons_2.2-Elimine-O-Ru\303\255do.md`
-* ✅ Deletado: `03_APRENDIZADO/Alan_Nicolas_Universe/Alan_Cursos_Referencia/Mentoria/Lessons/Lessons_2.3-Horizontal-Vs-Vertical.md`
-* ✅ Deletado: `03_APRENDIZADO/Alan_Nicolas_Universe/Alan_Cursos_Referencia/Mentoria/Lessons/Lessons_2.5-Consuma-Melhor-Crie-Melhor.md`
-* ✅ Deletado: `03_APRENDIZADO/Alan_Nicolas_Universe/Alan_Cursos_Referencia/Mentoria/Lessons/Lessons_3.1-Mentalidade-Curador.md`
-* ✅ Deletado: `03_APRENDIZADO/Alan_Nicolas_Universe/Alan_Cursos_Referencia/Mentoria/Lessons/Lessons_3.2-12-Problemas-Feyman.md`
-* ✅ Deletado: `03_APRENDIZADO/Alan_Nicolas_Universe/Alan_Cursos_Referencia/Mentoria/Lessons/Lessons_3.3-Formas-De-Captura.md`
-* ✅ Deletado: `03_APRENDIZADO/Alan_Nicolas_Universe/Alan_Cursos_Referencia/Mentoria/Lessons/Lessons_3.9-Usando-Ia.md`
-* ✅ Deletado: `03_APRENDIZADO/Alan_Nicolas_Universe/Alan_Cursos_Referencia/Mentoria/Lessons/Lessons_4.2-Mocs.md`
-* ✅ Deletado: `03_APRENDIZADO/Alan_Nicolas_Universe/Alan_Cursos_Referencia/Mentoria/Lessons/Lessons_5.1-Introducao.md`
-* ✅ Deletado: `03_APRENDIZADO/Alan_Nicolas_Universe/Alan_Cursos_Referencia/Mentoria/Lessons/Lessons_5.2-Modo-Consumidor-Vs-Criador.md`
-* ✅ Deletado: `03_APRENDIZADO/Alan_Nicolas_Universe/Alan_Cursos_Referencia/Mentoria/README.md`
-* ✅ Deletado: `03_APRENDIZADO/Alan_Nicolas_Universe/Alan_Cursos_Referencia/Mentoria/aula_01/CHECKPOINT_LOTE_01_ALAN_NICOLAS.md`
-* ✅ Deletado: `03_APRENDIZADO/Alan_Nicolas_Universe/Alan_Cursos_Referencia/Mentoria/aula_01/CHECKPOINT_LOTE_02_ALAN_NICOLAS.md`
-* ✅ Deletado: `03_APRENDIZADO/Alan_Nicolas_Universe/Alan_Cursos_Referencia/Mentoria/aula_01/CHECKPOINT_LOTE_03_ALAN_NICOLAS.md`
-* ✅ Deletado: `03_APRENDIZADO/Alan_Nicolas_Universe/Alan_Cursos_Referencia/Mentoria/aula_01/CHECKPOINT_LOTE_04_ALAN_NICOLAS.md`
-* ✅ Deletado: `03_APRENDIZADO/Alan_Nicolas_Universe/Alan_Cursos_Referencia/Mentoria/aula_02/CHECKPOINT_AULA_02_CLAUDE_CODE_PARE_DE_SER_REFEM.md`
-* ✅ Deletado: `03_APRENDIZADO/Alan_Nicolas_Universe/Alan_Cursos_Referencia/Mentoria/aula_02/CHECKPOINT_LOTE_01_AULA_02_COMPLETO.md`
-* ✅ Deletado: `03_APRENDIZADO/Alan_Nicolas_Universe/Alan_Cursos_Referencia/Mentoria/live_40/CHECKPOINT_LIVE_40_MEU_SEGUNDO_CEREBRO.md`
-* ✅ Deletado: `03_APRENDIZADO/Alan_Nicolas_Universe/Alan_Cursos_Referencia/Mentoria/mapas/MAPA_ACAO_METODOLOGIA_ALAN_NICOLAS.md`
-* ✅ Deletado: `03_APRENDIZADO/Alan_Nicolas_Universe/Alan_Cursos_Referencia/Mentoria/mapas/MAPA_EXTRACAO_OTIMIZADO.md`
-* ✅ Deletado: `03_APRENDIZADO/Alan_Nicolas_Universe/Alan_Cursos_Referencia/Mentoria/mapas/RELATORIO_FINAL_AULA_1.md`
-* ✅ Deletado: `03_APRENDIZADO/Alan_Nicolas_Universe/Alan_Cursos_Referencia/Zona_Genialidade/README.md`
-* ✅ Deletado: `03_APRENDIZADO/Alan_Nicolas_Universe/Alan_Cursos_Referencia/Zona_Genialidade/notas/Aula_1.2_O_Que_E_Zona_Genialidade.md`
-* ✅ Deletado: `03_APRENDIZADO/Alan_Nicolas_Universe/Alan_Cursos_Referencia/Zona_Genialidade/notas/Aula_3.4_Seguir_Paixao_Mau_Conselho.md`
-* ✅ Deletado: `03_APRENDIZADO/Alan_Nicolas_Universe/Alan_Nicolas_Mentoria/aula_01/CHECKPOINT_LOTE_04_ALAN_NICOLAS.md`
-* ✅ Deletado: `03_APRENDIZADO/Alan_Nicolas_Universe/Alan_Nicolas_Mentoria/aula_02/CHECKPOINT_AULA_02_CLAUDE_CODE_PARE_DE_SER_REFEM.md`
-* ✅ Deletado: `03_APRENDIZADO/Alan_Nicolas_Universe/Alan_Nicolas_Mentoria/live_40/CHECKPOINT_LIVE_40_MEU_SEGUNDO_CEREBRO.md`
-* ✅ Deletado: `03_APRENDIZADO/Alan_Nicolas_Universe/Alan_Vault_Original/Vault_Original/.._IA_e_Tecnologia_README.md`
-* ✅ Deletado: `03_APRENDIZADO/Alan_Nicolas_Universe/Alan_Vault_Original/Vault_Original/.._meu-clone-ia_README.md`
-* ✅ Deletado: `03_APRENDIZADO/Alan_Nicolas_Universe/Alan_Vault_Original/Vault_Original/.._resources_Configura\303\247\303\265es-Iniciais.md`
-* ✅ Deletado: `03_APRENDIZADO/Alan_Nicolas_Universe/Alan_Vault_Original/Vault_Original/.._resources_Gloss\303\241rio-Mente-Lend\303\241ria.md`
-* ✅ Deletado: `03_APRENDIZADO/Alan_Nicolas_Universe/Alan_Vault_Original/Vault_Original/.._resources_Segundo-C\303\251rebro.md`
-* ✅ Deletado: `03_APRENDIZADO/Alan_Nicolas_Universe/Alan_Vault_Original/Vault_Original/.._resources_The-LYT-Notes-training-template-for-note-making.md`
-* ✅ Deletado: `03_APRENDIZADO/Alan_Nicolas_Universe/Alan_Vault_Original/Vault_Original/004_-_Uma_Vida_Lend\303\241ria.md`
-* ✅ Deletado: `03_APRENDIZADO/Alan_Nicolas_Universe/Alan_Vault_Original/Vault_Original/006_-_A_Sombra_da_Ideologia.md`
-* ✅ Deletado: `03_APRENDIZADO/Alan_Nicolas_Universe/Alan_Vault_Original/Vault_Original/007_-_Uma_Mente_Milion\303\241ria.md`
-* ✅ Deletado: `03_APRENDIZADO/Alan_Nicolas_Universe/Alan_Vault_Original/Vault_Original/008_-_Zona_de_Genialidade.md`
-* ✅ Deletado: `03_APRENDIZADO/Alan_Nicolas_Universe/Alan_Vault_Original/Vault_Original/009_-_Essencialismo_a_arte_de_dizer_n\303\243o.md`
-* ✅ Deletado: `03_APRENDIZADO/Alan_Nicolas_Universe/Alan_Vault_Original/Vault_Original/10_profiss\303\265es_IA.md`
-* ✅ Deletado: `03_APRENDIZADO/Alan_Nicolas_Universe/Alan_Vault_Original/Vault_Original/1_Ideia_=_1_Conte\303\272do.md`
-* ✅ Deletado: `03_APRENDIZADO/Alan_Nicolas_Universe/Alan_Vault_Original/Vault_Original/A_Bolha_da_IA.md`
-* ✅ Deletado: `03_APRENDIZADO/Alan_Nicolas_Universe/Alan_Vault_Original/Vault_Original/Alan_IA.md`
-* ✅ Deletado: `03_APRENDIZADO/Alan_Nicolas_Universe/Alan_Vault_Original/Vault_Original/Aula_Sobre_Segundo_C\303\251rebro_com_IA.md`
-* ✅ Deletado: `03_APRENDIZADO/Alan_Nicolas_Universe/Alan_Vault_Original/Vault_Original/Aurora_ChatGPT.md`
-* ✅ Deletado: `03_APRENDIZADO/Alan_Nicolas_Universe/Alan_Vault_Original/Vault_Original/Claude_Consciente.md`
-* ✅ Deletado: `03_APRENDIZADO/Alan_Nicolas_Universe/Alan_Vault_Original/Vault_Original/Clone_IA.md`
-* ✅ Deletado: `03_APRENDIZADO/Alan_Nicolas_Universe/Alan_Vault_Original/Vault_Original/Criador_Papers.md`
-* ✅ Deletado: `03_APRENDIZADO/Alan_Nicolas_Universe/Alan_Vault_Original/Vault_Original/Criador_de_Aulas.md`
-* ✅ Deletado: `03_APRENDIZADO/Alan_Nicolas_Universe/Alan_Vault_Original/Vault_Original/Criando_um_Amigo_IA.md`
-* ✅ Deletado: `03_APRENDIZADO/Alan_Nicolas_Universe/Alan_Vault_Original/Vault_Original/Criar_Slides_com_IA.md`
-* ✅ Deletado: `03_APRENDIZADO/Alan_Nicolas_Universe/Alan_Vault_Original/Vault_Original/Cursos_GPTs_README.md`
-* ✅ Deletado: `03_APRENDIZADO/Alan_Nicolas_Universe/Alan_Vault_Original/Vault_Original/Cursos_TEMPLATE-ESTRUTURA-CURSO.md`
-* ✅ Deletado: `03_APRENDIZADO/Alan_Nicolas_Universe/Alan_Vault_Original/Vault_Original/Dify.md`
-* ✅ Deletado: `03_APRENDIZADO/Alan_Nicolas_Universe/Alan_Vault_Original/Vault_Original/Exploring_AI_Self-Awareness_-_Claude.md`
-* ✅ Deletado: `03_APRENDIZADO/Alan_Nicolas_Universe/Alan_Vault_Original/Vault_Original/Extrair_a_Minha_Hist\303\263ria_com_IA.md`
-* ✅ Deletado: `03_APRENDIZADO/Alan_Nicolas_Universe/Alan_Vault_Original/Vault_Original/Finch_IA.md`
-* ✅ Deletado: `03_APRENDIZADO/Alan_Nicolas_Universe/Alan_Vault_Original/Vault_Original/Fine-Tuning_Rick_Sanchez.md`
-* ✅ Deletado: `03_APRENDIZADO/Alan_Nicolas_Universe/Alan_Vault_Original/Vault_Original/Fine_Tuning.md`
-* ✅ Deletado: `03_APRENDIZADO/Alan_Nicolas_Universe/Alan_Vault_Original/Vault_Original/Forma\303\247\303\243o_IA.md`
-* ✅ Deletado: `03_APRENDIZADO/Alan_Nicolas_Universe/Alan_Vault_Original/Vault_Original/GPT_Prompt_Lend\303\241rio.md`
-* ✅ Deletado: `03_APRENDIZADO/Alan_Nicolas_Universe/Alan_Vault_Original/Vault_Original/GPTs.md`
-* ✅ Deletado: `03_APRENDIZADO/Alan_Nicolas_Universe/Alan_Vault_Original/Vault_Original/GPTs_Dall-E_3.md`
-* ✅ Deletado: `03_APRENDIZADO/Alan_Nicolas_Universe/Alan_Vault_Original/Vault_Original/Guia_para_um_Bom_Prompt.md`
-* ✅ Deletado: `03_APRENDIZADO/Alan_Nicolas_Universe/Alan_Vault_Original/Vault_Original/Hiperconsci\303\252ncia.md`
-* ✅ Deletado: `03_APRENDIZADO/Alan_Nicolas_Universe/Alan_Vault_Original/Vault_Original/IA_Claude_Code_Index.md`
-* ✅ Deletado: `03_APRENDIZADO/Alan_Nicolas_Universe/Alan_Vault_Original/Vault_Original/IA_Index.md`
-* ✅ Deletado: `03_APRENDIZADO/Alan_Nicolas_Universe/Alan_Vault_Original/Vault_Original/IA_Prompts_Index_-_Prompts.md`
-* ✅ Deletado: `03_APRENDIZADO/Alan_Nicolas_Universe/Alan_Vault_Original/Vault_Original/IA_Prompts_Prompt_Clone.md`
-* ✅ Deletado: `03_APRENDIZADO/Alan_Nicolas_Universe/Alan_Vault_Original/Vault_Original/IA_Prompts_Prompts_Alan_IA.md`
-* ✅ Deletado: `03_APRENDIZADO/Alan_Nicolas_Universe/Alan_Vault_Original/Vault_Original/IA_README.md`
-* ✅ Deletado: `03_APRENDIZADO/Alan_Nicolas_Universe/Alan_Vault_Original/Vault_Original/Index_-_Prompts.md`
-* ✅ Deletado: `03_APRENDIZADO/Alan_Nicolas_Universe/Alan_Vault_Original/Vault_Original/Instru\303\247\303\265es_Personalizadas_ChatGPT.md`
-* ✅ Deletado: `03_APRENDIZADO/Alan_Nicolas_Universe/Alan_Vault_Original/Vault_Original/Jornada_e_Hist\303\263ria.md`
-* ✅ Deletado: `03_APRENDIZADO/Alan_Nicolas_Universe/Alan_Vault_Original/Vault_Original/Kapil_GPT.md`
-* ✅ Deletado: `03_APRENDIZADO/Alan_Nicolas_Universe/Alan_Vault_Original/Vault_Original/Kapil_IA.md`
-* ✅ Deletado: `03_APRENDIZADO/Alan_Nicolas_Universe/Alan_Vault_Original/Vault_Original/Melhores_Prompts.md`
-* ✅ Deletado: `03_APRENDIZADO/Alan_Nicolas_Universe/Alan_Vault_Original/Vault_Original/Otimizador_de_Prompts.md`
-* ✅ Deletado: `03_APRENDIZADO/Alan_Nicolas_Universe/Alan_Vault_Original/Vault_Original/Prompt_Atena_-_SDR_Lend\303\241ria_v2.md`
-* ✅ Deletado: `03_APRENDIZADO/Alan_Nicolas_Universe/Alan_Vault_Original/Vault_Original/Prompt_Aurora.md`
-* ✅ Deletado: `03_APRENDIZADO/Alan_Nicolas_Universe/Alan_Vault_Original/Vault_Original/Prompt_Clone.md`
-* ✅ Deletado: `03_APRENDIZADO/Alan_Nicolas_Universe/Alan_Vault_Original/Vault_Original/Prompts_Alan_IA.md`
-* ✅ Deletado: `03_APRENDIZADO/Alan_Nicolas_Universe/Alan_Vault_Original/Vault_Original/Recursos_Modelos_INDEX.md`
-* ✅ Deletado: `03_APRENDIZADO/Alan_Nicolas_Universe/Alan_Vault_Original/Vault_Original/Vida_Lend\303\241ria.md`
-* ✅ Deletado: `03_APRENDIZADO/Alan_Nicolas_Universe/Alan_Vault_Original/Vault_Original/Vida_Lend\303\241ria_Epis\303\263dios_VL_001_-_Por_qu\303\252.md`
-* ✅ Deletado: `03_APRENDIZADO/Alan_Nicolas_Universe/Alan_Vault_Original/Vault_Original/Vida_Lend\303\241ria_Epis\303\263dios_VL_003_-_Aprendendo_a_morrer.md`
-* ✅ Deletado: `03_APRENDIZADO/Alan_Nicolas_Universe/Alan_Vault_Original/Vault_Original/Vida_Lend\303\241ria_Epis\303\263dios_VL_004_-_Uma_Vida_Lend\303\241ria.md`
-* ✅ Deletado: `03_APRENDIZADO/Alan_Nicolas_Universe/Alan_Vault_Original/Vault_Original/Vida_Lend\303\241ria_Epis\303\263dios_VL_005_-_Her\303\263i_ou_Vil\303\243o.md`
-* ✅ Deletado: `03_APRENDIZADO/Alan_Nicolas_Universe/Alan_Vault_Original/Vault_Original/Vida_Lend\303\241ria_Epis\303\263dios_VL_007_-_Uma_Mente_Milion\303\241ria.md`
-* ✅ Deletado: `03_APRENDIZADO/Alan_Nicolas_Universe/Alan_Vault_Original/Vault_Original/Vida_Lend\303\241ria_Epis\303\263dios_VL_008_-_Zona_de_Genialidade.md`
-* ✅ Deletado: `03_APRENDIZADO/Alan_Nicolas_Universe/Alan_Vault_Original/Vault_Original/Vida_Lend\303\241ria_Epis\303\263dios_VL_017_-_Por_que_procrastinamos_E_como_parar!.md`
-* ✅ Deletado: `03_APRENDIZADO/Alan_Nicolas_Universe/Alan_Vault_Original/Vault_Original/Vida_Lend\303\241ria_Epis\303\263dios_VL_021_-_Seja_um_Otimista_Racional.md`
-* ✅ Deletado: `03_APRENDIZADO/Alan_Nicolas_Universe/Alan_Vault_Original/Vault_Original/Vida_Lend\303\241ria_Epis\303\263dios_VL_PN_-_023_-_Siga_sua_curiosidade.md`
-* ✅ Deletado: `03_APRENDIZADO/Alan_Nicolas_Universe/Alan_Vault_Original/Vault_Original/Vida_Lend\303\241ria_Index.md`
-* ✅ Deletado: `03_APRENDIZADO/Alan_Nicolas_Universe/Alan_Vault_Original/Vault_Original/Vida_Lend\303\241ria_MOC_-_Epis\303\263dios_VL.md`
-* ✅ Deletado: `03_APRENDIZADO/Alan_Nicolas_Universe/Alan_Vault_Original/Vault_Original/claude-conversation.md`
-* ✅ Deletado: `03_APRENDIZADO/Alan_Nicolas_Universe/Alan_Vault_Original/Vault_Original/criatividade.md`
-* ✅ Deletado: `03_APRENDIZADO/Alan_Nicolas_Universe/Alan_Vault_Original/Vault_Original/embedding.md`
-* ✅ Deletado: `03_APRENDIZADO/Alan_Nicolas_Universe/Alan_Vault_Original/Vault_Original/guia-prompt.md`
-* ✅ Deletado: `03_APRENDIZADO/Alan_Nicolas_Universe/Alan_Vault_Original/Vault_Original/intelig\303\252ncia_emocional.md`
-* ✅ Deletado: `03_APRENDIZADO/Alan_Nicolas_Universe/Alan_Vault_Original/Vault_Original/lessons_1.1-Estrutura-4C.md`
-* ✅ Deletado: `03_APRENDIZADO/Alan_Nicolas_Universe/Alan_Vault_Original/Vault_Original/lessons_2.1-Mentalidade-Ca\303\247ador.md`
-* ✅ Deletado: `03_APRENDIZADO/Alan_Nicolas_Universe/Alan_Vault_Original/Vault_Original/lessons_2.2-Elimine-o-Ru\303\255do.md`
-* ✅ Deletado: `03_APRENDIZADO/Alan_Nicolas_Universe/Alan_Vault_Original/Vault_Original/lessons_2.3-Horizontal-vs-Vertical.md`
-* ✅ Deletado: `03_APRENDIZADO/Alan_Nicolas_Universe/Alan_Vault_Original/Vault_Original/lessons_2.5-Consuma-Melhor-Crie-Melhor.md`
-* ✅ Deletado: `03_APRENDIZADO/Alan_Nicolas_Universe/Alan_Vault_Original/Vault_Original/lessons_3.1-Mentalidade-Curador.md`
-* ✅ Deletado: `03_APRENDIZADO/Alan_Nicolas_Universe/Alan_Vault_Original/Vault_Original/lessons_3.2-12-Problemas-Feyman.md`
-* ✅ Deletado: `03_APRENDIZADO/Alan_Nicolas_Universe/Alan_Vault_Original/Vault_Original/lessons_3.3-Formas-de-Captura.md`
-* ✅ Deletado: `03_APRENDIZADO/Alan_Nicolas_Universe/Alan_Vault_Original/Vault_Original/lessons_3.9-Usando-IA.md`
-* ✅ Deletado: `03_APRENDIZADO/Alan_Nicolas_Universe/Alan_Vault_Original/Vault_Original/lessons_4.2-MOCs.md`
-* ✅ Deletado: `03_APRENDIZADO/Alan_Nicolas_Universe/Alan_Vault_Original/Vault_Original/lessons_5.1-Introducao.md`
-* ✅ Deletado: `03_APRENDIZADO/Alan_Nicolas_Universe/Alan_Vault_Original/Vault_Original/lessons_5.2-Modo-Consumidor-vs-Criador.md`
-* ✅ Deletado: `03_APRENDIZADO/Alan_Nicolas_Universe/Alan_Vault_Original/Vault_Original/lista-exemplos-prompts.md`
-* ✅ Deletado: `03_APRENDIZADO/Alan_Nicolas_Universe/Alan_Vault_Original/Vault_Original/maestria.md`
-* ✅ Deletado: `03_APRENDIZADO/Cursos_Ativos/DeFi_Journey/_BACKUP_15AUG2025/_ARQUIVOS_LEGADOS/Modulo_01_Analise_Completa_DUPLICATA.md`
-* ✅ Deletado: `03_APRENDIZADO/Cursos_Ativos/DeFi_Journey/_BACKUP_15AUG2025/_ARQUIVOS_LEGADOS/Modulo_02_Ethereum_Altcoins_VAZIO.md`
-* ✅ Deletado: `03_APRENDIZADO/Cursos_Ativos/Formacao_Lendaria_2025/Aplicativos web com IA/99_LIXEIRA/01_PROJETO_BARBERIA_PRO/01_PESQUISA_MERCADO.md`
-* ✅ Deletado: `03_APRENDIZADO/Cursos_Ativos/Formacao_Lendaria_2025/N8N/\360\237\227\221\357\270\217_LIXEIRA/PROGRESSO_SEMANAL.md`
-* ✅ Deletado: `03_APRENDIZADO/Cursos_Ativos/Subido_Trafego/_Arquivo_Antigo/_Lixeira/_Backup_Antigo/Aplicacao_Pratica/Plano_Acao_Modulo_01.md`
-* ✅ Deletado: `03_APRENDIZADO/Cursos_Ativos/Subido_Trafego/_Arquivo_Antigo/_Lixeira/_Backup_Antigo/Modulo_01_Como_Funciona.md`
-* ✅ Deletado: `03_APRENDIZADO/Cursos_Ativos/Subido_Trafego/_Arquivo_Antigo/_Lixeira/_Backup_Antigo/Prompts_Revisao_Automacao.md`
-
-**Manutenção do Sistema**
-
-* ✅ Criado: `00_SISTEMA/RELATORIOS/RELATORIO_DEDUPLICACAO_20260122_235058.md`
-* ✅ Criado: `00_SISTEMA/RELATORIOS/RELATORIO_DEDUPLICACAO_20260122_235133.md`
-* ✅ Criado: `00_SISTEMA/TRASH_DUPLICATES/`
-
-### Arquivos Criados/Modificados (23:53)
-
-* `.bi-ia/state.json` - Modificado
-* `.gemini/skills/session-logger/scripts/logger.py` - Modificado
-* `01_CONHECIMENTO/Tecnologia/Inteligencia_Artificial/Alan_IA_Config.md` - Deletado
-* `01_CONHECIMENTO/Tecnologia/Inteligencia_Artificial/Aurora_ChatGPT_Sistema.md` - Deletado
-* `01_CONHECIMENTO/Tecnologia/Inteligencia_Artificial/Clone_IA_Framework_Alan.md` - Deletado
-* `02_PROJETOS/Estudo_Alan_Nicolas/WIKI/ASSETS/PROMPTS/.._meu-clone-ia_README.md` - Deletado
-* `02_PROJETOS/Estudo_Alan_Nicolas/WIKI/ASSETS/PROMPTS/Cursos_Engenharia_de_Prompts_lessons_3.1-Biblioteca-36-Prompts.md` - Deletado
-* `02_PROJETOS/Estudo_Alan_Nicolas/WIKI/ASSETS/PROMPTS/Live_40_Segundo_Cerebro.md` - Deletado
-* `02_PROJETOS/Estudo_Alan_Nicolas/WIKI/ASSETS/PROMPTS/PROMPT_AGENTE_LUCAS_AMOEDO.md` - Deletado
-* `03_APRENDIZADO/Alan_Nicolas_Universe/Alan_Cursos_Referencia/Academia/README.md` - Deletado
-* `03_APRENDIZADO/Alan_Nicolas_Universe/Alan_Cursos_Referencia/Academia/notas/Live_01_Claude_Code_Empresarios.md` - Deletado
-* `03_APRENDIZADO/Alan_Nicolas_Universe/Alan_Cursos_Referencia/Academia/notas/Live_02_Pare_Ser_Refem.md` - Deletado
-* `03_APRENDIZADO/Alan_Nicolas_Universe/Alan_Cursos_Referencia/Academia/notas/Live_40_Segundo_Cerebro.md` - Deletado
-* `03_APRENDIZADO/Alan_Nicolas_Universe/Alan_Cursos_Referencia/Academia/notas/Live_Gemini3_Antigravity_BananaPro_Warren_Buffett.md` - Deletado
-* `03_APRENDIZADO/Alan_Nicolas_Universe/Alan_Cursos_Referencia/Academia/recursos/GUIA_Pratico_Gemini_Alan_Nicolas.md` - Deletado
-* `03_APRENDIZADO/Alan_Nicolas_Universe/Alan_Cursos_Referencia/Academia/vida_lendaria/001_-_Por_qu\303\252.md` - Deletado
-* `03_APRENDIZADO/Alan_Nicolas_Universe/Alan_Cursos_Referencia/Academia/vida_lendaria/002_-_Quem_\303\251_voc\303\252.md` - Deletado
-* `03_APRENDIZADO/Alan_Nicolas_Universe/Alan_Cursos_Referencia/Academia/vida_lendaria/003_-_Aprendendo_a_morrer.md` - Deletado
-* `03_APRENDIZADO/Alan_Nicolas_Universe/Alan_Cursos_Referencia/Academia/vida_lendaria/004_-_Uma_Vida_Lend\303\241ria.md` - Deletado
-* `03_APRENDIZADO/Alan_Nicolas_Universe/Alan_Cursos_Referencia/Academia/vida_lendaria/005_-_Her\303\263i_ou_Vil\303\243o.md` - Deletado
-* `03_APRENDIZADO/Alan_Nicolas_Universe/Alan_Cursos_Referencia/Academia/vida_lendaria/006_-_A_Sombra_da_Ideologia.md` - Deletado
-* `03_APRENDIZADO/Alan_Nicolas_Universe/Alan_Cursos_Referencia/Academia/vida_lendaria/007_-_Uma_Mente_Milion\303\241ria.md` - Deletado
-* `03_APRENDIZADO/Alan_Nicolas_Universe/Alan_Cursos_Referencia/Academia/vida_lendaria/008_-_Zona_de_Genialidade.md` - Deletado
-* `03_APRENDIZADO/Alan_Nicolas_Universe/Alan_Cursos_Referencia/Academia/vida_lendaria/009_-_Essencialismo_a_arte_de_dizer_n\303\243o.md` - Deletado
-* `03_APRENDIZADO/Alan_Nicolas_Universe/Alan_Cursos_Referencia/Academia/vida_lendaria/010_-_A_Vida_\303\251_Contra_Intuitiva.md` - Deletado
-* `03_APRENDIZADO/Alan_Nicolas_Universe/Alan_Cursos_Referencia/Academia/vida_lendaria/011_-_O_poder_de_fazer_perguntas.md` - Deletado
-* `03_APRENDIZADO/Alan_Nicolas_Universe/Alan_Cursos_Referencia/Academia/vida_lendaria/012_-_O_poder_de_fazer_perguntas_2.md` - Deletado
-* `03_APRENDIZADO/Alan_Nicolas_Universe/Alan_Cursos_Referencia/Academia/vida_lendaria/013_-_Estoicismo_A_Arte_de_Viver.md` - Deletado
-* `03_APRENDIZADO/Alan_Nicolas_Universe/Alan_Cursos_Referencia/Academia/vida_lendaria/014_-_\303\201_Beira_do_Abismo.md` - Deletado
-* `03_APRENDIZADO/Alan_Nicolas_Universe/Alan_Cursos_Referencia/Academia/vida_lendaria/015_-_Como_Tomar_Melhores_Decis\303\265es.md` - Deletado
-* `03_APRENDIZADO/Alan_Nicolas_Universe/Alan_Cursos_Referencia/Academia/vida_lendaria/016_-_O_Efeito_Composto_-_Por_que_coisas_valiosas_levam_tempo.md` - Deletado
-* `03_APRENDIZADO/Alan_Nicolas_Universe/Alan_Cursos_Referencia/Academia/vida_lendaria/017_-_Por_que_procrastinamos_E_como_parar!.md` - Deletado
-* `03_APRENDIZADO/Alan_Nicolas_Universe/Alan_Cursos_Referencia/Academia/vida_lendaria/018_-_Queimando_Pontes.md` - Deletado
-* `03_APRENDIZADO/Alan_Nicolas_Universe/Alan_Cursos_Referencia/Academia/vida_lendaria/019_-_Voc\303\252_\303\251_Dois.md` - Deletado
-* `03_APRENDIZADO/Alan_Nicolas_Universe/Alan_Cursos_Referencia/Academia/vida_lendaria/020_-_Modelagem_Mental.md` - Deletado
-* `03_APRENDIZADO/Alan_Nicolas_Universe/Alan_Cursos_Referencia/Academia/vida_lendaria/023_-_Siga_Sua_Curiosidade.md` - Deletado
-* `03_APRENDIZADO/Alan_Nicolas_Universe/Alan_Cursos_Referencia/Academia/vida_lendaria/024_-_Monetizze_Sua_Curiosidade_1.md` - Deletado
-* `03_APRENDIZADO/Alan_Nicolas_Universe/Alan_Cursos_Referencia/Academia/vida_lendaria/10_profiss\303\265es_IA.md` - Deletado
-* `03_APRENDIZADO/Alan_Nicolas_Universe/Alan_Cursos_Referencia/Academia/vida_lendaria/1_Ideia_=_1_Conte\303\272do.md` - Deletado
-* `03_APRENDIZADO/Alan_Nicolas_Universe/Alan_Cursos_Referencia/Academia/vida_lendaria/3.4_Por_que_Seguir_sua_Paix\303\243o_\303\251_um_Mau_Conselho.md` - Deletado
-* `03_APRENDIZADO/Alan_Nicolas_Universe/Alan_Cursos_Referencia/Academia/vida_lendaria/A_Bolha_da_IA.md` - Deletado
-* `03_APRENDIZADO/Alan_Nicolas_Universe/Alan_Cursos_Referencia/Academia/vida_lendaria/A_Vida_Como_Jogo.md` - Deletado
-* `03_APRENDIZADO/Alan_Nicolas_Universe/Alan_Cursos_Referencia/Academia/vida_lendaria/A_\303\232nica_Coisa.md` - Deletado
-* `03_APRENDIZADO/Alan_Nicolas_Universe/Alan_Cursos_Referencia/Academia/vida_lendaria/Agora.md` - Deletado
-* `03_APRENDIZADO/Alan_Nicolas_Universe/Alan_Cursos_Referencia/Academia/vida_lendaria/Alan_IA.md` - Deletado
-* `03_APRENDIZADO/Alan_Nicolas_Universe/Alan_Cursos_Referencia/Academia/vida_lendaria/Aula_Sobre_Segundo_C\303\251rebro_com_IA.md` - Deletado
-* `03_APRENDIZADO/Alan_Nicolas_Universe/Alan_Cursos_Referencia/Academia/vida_lendaria/Aurora_ChatGPT.md` - Deletado
-* `03_APRENDIZADO/Alan_Nicolas_Universe/Alan_Cursos_Referencia/Academia/vida_lendaria/Brida.md` - Deletado
-* `03_APRENDIZADO/Alan_Nicolas_Universe/Alan_Cursos_Referencia/Academia/vida_lendaria/ChatBase.md` - Deletado
-* `03_APRENDIZADO/Alan_Nicolas_Universe/Alan_Cursos_Referencia/Academia/vida_lendaria/ChatGTP.md` - Deletado
-* `03_APRENDIZADO/Alan_Nicolas_Universe/Alan_Cursos_Referencia/Academia/vida_lendaria/ChatVolt_Finch.md` - Deletado
-* `03_APRENDIZADO/Alan_Nicolas_Universe/Alan_Cursos_Referencia/Academia/vida_lendaria/Claude_Consciente.md` - Deletado
-* `03_APRENDIZADO/Alan_Nicolas_Universe/Alan_Cursos_Referencia/Academia/vida_lendaria/Clone_IA.md` - Deletado
-* `03_APRENDIZADO/Alan_Nicolas_Universe/Alan_Cursos_Referencia/Academia/vida_lendaria/Comece_pelo_porqu\303\252.md` - Deletado
-* `03_APRENDIZADO/Alan_Nicolas_Universe/Alan_Cursos_Referencia/Academia/vida_lendaria/Conhecimento_Desenvolvimento_Pessoal_Hiperconsci\303\252ncia.md` - Deletado
-* `03_APRENDIZADO/Alan_Nicolas_Universe/Alan_Cursos_Referencia/Academia/vida_lendaria/Conhecimento_Desenvolvimento_Pessoal_README.md` - Deletado
-* `03_APRENDIZADO/Alan_Nicolas_Universe/Alan_Cursos_Referencia/Academia/vida_lendaria/Conhecimento_Empreendedorismo_README.md` - Deletado
-* `03_APRENDIZADO/Alan_Nicolas_Universe/Alan_Cursos_Referencia/Academia/vida_lendaria/Conhecimento_IA_e_Tecnologia_README.md` - Deletado
-* `03_APRENDIZADO/Alan_Nicolas_Universe/Alan_Cursos_Referencia/Academia/vida_lendaria/Conhecimento_README.md` - Deletado
-* `03_APRENDIZADO/Alan_Nicolas_Universe/Alan_Cursos_Referencia/Academia/vida_lendaria/Copy.ai_Brand_Voice.md` - Deletado
-* `03_APRENDIZADO/Alan_Nicolas_Universe/Alan_Cursos_Referencia/Academia/vida_lendaria/Criador_Papers.md` - Deletado
-* `03_APRENDIZADO/Alan_Nicolas_Universe/Alan_Cursos_Referencia/Academia/vida_lendaria/Criador_de_Aulas.md` - Deletado
-* `03_APRENDIZADO/Alan_Nicolas_Universe/Alan_Cursos_Referencia/Academia/vida_lendaria/Criando_um_Amigo_IA.md` - Deletado
-* `03_APRENDIZADO/Alan_Nicolas_Universe/Alan_Cursos_Referencia/Academia/vida_lendaria/Criar_Slides_com_IA.md` - Deletado
-* `03_APRENDIZADO/Alan_Nicolas_Universe/Alan_Cursos_Referencia/Academia/vida_lendaria/Cursos_Dominando_Obsidian_README.md` - Deletado
-* `03_APRENDIZADO/Alan_Nicolas_Universe/Alan_Cursos_Referencia/Academia/vida_lendaria/Cursos_Engenharia_de_Prompts_README.md` - Deletado
-* `03_APRENDIZADO/Alan_Nicolas_Universe/Alan_Cursos_Referencia/Academia/vida_lendaria/Cursos_Engenharia_de_Prompts_lessons_3.1-Biblioteca-36-Prompts.md` - Deletado
-* `03_APRENDIZADO/Alan_Nicolas_Universe/Alan_Cursos_Referencia/Academia/vida_lendaria/Cursos_GPTs_README.md` - Deletado
-* `03_APRENDIZADO/Alan_Nicolas_Universe/Alan_Cursos_Referencia/Academia/vida_lendaria/Cursos_Mente_Lend\303\241ria_README.md` - Deletado
-* `03_APRENDIZADO/Alan_Nicolas_Universe/Alan_Cursos_Referencia/Academia/vida_lendaria/Cursos_TEMPLATE-ESTRUTURA-CURSO.md` - Deletado
-* `03_APRENDIZADO/Alan_Nicolas_Universe/Alan_Cursos_Referencia/Academia/vida_lendaria/Cursos_Zona_de_Genialidade_1.2_O_que_\303\251_a_Zona_de_Genialidade.md` - Deletado
-* `03_APRENDIZADO/Alan_Nicolas_Universe/Alan_Cursos_Referencia/Academia/vida_lendaria/Cursos_Zona_de_Genialidade_3.4_Por_que_Seguir_sua_Paix\303\243o_\303\251_um_Mau_Conselho.md` - Deletado
-* `03_APRENDIZADO/Alan_Nicolas_Universe/Alan_Cursos_Referencia/Academia/vida_lendaria/Cursos_Zona_de_Genialidade_README.md` - Deletado
-* `03_APRENDIZADO/Alan_Nicolas_Universe/Alan_Cursos_Referencia/Academia/vida_lendaria/C\303\255rculo_Dourado.md` - Deletado
-* `03_APRENDIZADO/Alan_Nicolas_Universe/Alan_Cursos_Referencia/Academia/vida_lendaria/Dados_Sobre_APIS.md` - Deletado
-* `03_APRENDIZADO/Alan_Nicolas_Universe/Alan_Cursos_Referencia/Academia/vida_lendaria/Dify.md` - Deletado
-* `03_APRENDIZADO/Alan_Nicolas_Universe/Alan_Cursos_Referencia/Academia/vida_lendaria/Espiral_Din\303\242mica.md` - Deletado
-* `03_APRENDIZADO/Alan_Nicolas_Universe/Alan_Cursos_Referencia/Academia/vida_lendaria/Exploring_AI_Self-Awareness_-_Claude.md` - Deletado
-* `03_APRENDIZADO/Alan_Nicolas_Universe/Alan_Cursos_Referencia/Academia/vida_lendaria/Extrair_a_Minha_Hist\303\263ria_com_IA.md` - Deletado
-* `03_APRENDIZADO/Alan_Nicolas_Universe/Alan_Cursos_Referencia/Academia/vida_lendaria/Finch_-_Palestra.md` - Deletado
-* `03_APRENDIZADO/Alan_Nicolas_Universe/Alan_Cursos_Referencia/Academia/vida_lendaria/Finch_IA.md` - Deletado
-* `03_APRENDIZADO/Alan_Nicolas_Universe/Alan_Cursos_Referencia/Academia/vida_lendaria/Fine-Tuning_Rick_Sanchez.md` - Deletado
-* `03_APRENDIZADO/Alan_Nicolas_Universe/Alan_Cursos_Referencia/Academia/vida_lendaria/Fine_Tuning.md` - Deletado
-* `03_APRENDIZADO/Alan_Nicolas_Universe/Alan_Cursos_Referencia/Academia/vida_lendaria/Foco.md` - Deletado
-* `03_APRENDIZADO/Alan_Nicolas_Universe/Alan_Cursos_Referencia/Academia/vida_lendaria/Forma\303\247\303\243o_IA.md` - Deletado
-* `03_APRENDIZADO/Alan_Nicolas_Universe/Alan_Cursos_Referencia/Academia/vida_lendaria/Friedrich_Nietzsche.md` - Deletado
-* `03_APRENDIZADO/Alan_Nicolas_Universe/Alan_Cursos_Referencia/Academia/vida_lendaria/GPT_Prompt_Lend\303\241rio.md` - Deletado
-* `03_APRENDIZADO/Alan_Nicolas_Universe/Alan_Cursos_Referencia/Academia/vida_lendaria/GPTs.md` - Deletado
-* `03_APRENDIZADO/Alan_Nicolas_Universe/Alan_Cursos_Referencia/Academia/vida_lendaria/GPTs_Dall-E_3.md` - Deletado
-* `03_APRENDIZADO/Alan_Nicolas_Universe/Alan_Cursos_Referencia/Academia/vida_lendaria/Gloss\303\241rio_Lend\303\241rio.md` - Deletado
-* `03_APRENDIZADO/Alan_Nicolas_Universe/Alan_Cursos_Referencia/Academia/vida_lendaria/Guia_para_um_Bom_Prompt.md` - Deletado
-* `03_APRENDIZADO/Alan_Nicolas_Universe/Alan_Cursos_Referencia/Academia/vida_lendaria/Hermes_Trismegisto.md` - Deletado
-* `03_APRENDIZADO/Alan_Nicolas_Universe/Alan_Cursos_Referencia/Academia/vida_lendaria/Hiperconsci\303\252ncia.md` - Deletado
-* `03_APRENDIZADO/Alan_Nicolas_Universe/Alan_Cursos_Referencia/Academia/vida_lendaria/H\303\241bitos_at\303\263micos.md` - Deletado
-* `03_APRENDIZADO/Alan_Nicolas_Universe/Alan_Cursos_Referencia/Academia/vida_lendaria/IA_Claude_Code_Index.md` - Deletado
-* `03_APRENDIZADO/Alan_Nicolas_Universe/Alan_Cursos_Referencia/Academia/vida_lendaria/IA_Index.md` - Deletado
-* `03_APRENDIZADO/Alan_Nicolas_Universe/Alan_Cursos_Referencia/Academia/vida_lendaria/IA_Prompts_Index_-_Prompts.md` - Deletado
-* `03_APRENDIZADO/Alan_Nicolas_Universe/Alan_Cursos_Referencia/Academia/vida_lendaria/IA_Prompts_Prompt_Clone.md` - Deletado
-* `03_APRENDIZADO/Alan_Nicolas_Universe/Alan_Cursos_Referencia/Academia/vida_lendaria/IA_Prompts_Prompts_Alan_IA.md` - Deletado
-* `03_APRENDIZADO/Alan_Nicolas_Universe/Alan_Cursos_Referencia/Academia/vida_lendaria/IA_README.md` - Deletado
-* `03_APRENDIZADO/Alan_Nicolas_Universe/Alan_Cursos_Referencia/Academia/vida_lendaria/Index.md` - Deletado
-* `03_APRENDIZADO/Alan_Nicolas_Universe/Alan_Cursos_Referencia/Academia/vida_lendaria/Index_-_Prompts.md` - Deletado
-* `03_APRENDIZADO/Alan_Nicolas_Universe/Alan_Cursos_Referencia/Academia/vida_lendaria/Instru\303\247\303\265es_Personalizadas.md` - Deletado
-* `03_APRENDIZADO/Alan_Nicolas_Universe/Alan_Cursos_Referencia/Academia/vida_lendaria/Instru\303\247\303\265es_Personalizadas_2024.md` - Deletado
-* `03_APRENDIZADO/Alan_Nicolas_Universe/Alan_Cursos_Referencia/Academia/vida_lendaria/Instru\303\247\303\265es_Personalizadas_2025.md` - Deletado
-* `03_APRENDIZADO/Alan_Nicolas_Universe/Alan_Cursos_Referencia/Academia/vida_lendaria/Instru\303\247\303\265es_Personalizadas_ChatGPT.md` - Deletado
-* `03_APRENDIZADO/Alan_Nicolas_Universe/Alan_Cursos_Referencia/Academia/vida_lendaria/Jornada_e_Hist\303\263ria.md` - Deletado
-* `03_APRENDIZADO/Alan_Nicolas_Universe/Alan_Cursos_Referencia/Academia/vida_lendaria/Kapil_GPT.md` - Deletado
-* `03_APRENDIZADO/Alan_Nicolas_Universe/Alan_Cursos_Referencia/Academia/vida_lendaria/Kapil_IA.md` - Deletado
-* `03_APRENDIZADO/Alan_Nicolas_Universe/Alan_Cursos_Referencia/Academia/vida_lendaria/Leis_Herm\303\251ticas.md` - Deletado
-* `03_APRENDIZADO/Alan_Nicolas_Universe/Alan_Cursos_Referencia/Academia/vida_lendaria/MOCs_MOC_-_Aten\303\247\303\243o_&_Cogni\303\247\303\243o.md` - Deletado
-* `03_APRENDIZADO/Alan_Nicolas_Universe/Alan_Cursos_Referencia/Academia/vida_lendaria/MOCs_MOC_-_Ci\303\252ncia_&_Filosofia_da_Realidade.md` - Deletado
-* `03_APRENDIZADO/Alan_Nicolas_Universe/Alan_Cursos_Referencia/Academia/vida_lendaria/MOCs_MOC_-_Consci\303\252ncia_&_Desenvolvimento.md` - Deletado
-* `03_APRENDIZADO/Alan_Nicolas_Universe/Alan_Cursos_Referencia/Academia/vida_lendaria/MOCs_MOC_-_Cria\303\247\303\243o_de_Conte\303\272do.md` - Deletado
-* `03_APRENDIZADO/Alan_Nicolas_Universe/Alan_Cursos_Referencia/Academia/vida_lendaria/MOCs_MOC_-_Decis\303\243o_&_Sabedoria.md` - Deletado
-* `03_APRENDIZADO/Alan_Nicolas_Universe/Alan_Cursos_Referencia/Academia/vida_lendaria/MOCs_MOC_-_IA_&_Ferramentas_Digitais.md` - Deletado
-* `03_APRENDIZADO/Alan_Nicolas_Universe/Alan_Cursos_Referencia/Academia/vida_lendaria/MOCs_MOC_-_Maestria_&_Genialidade.md` - Deletado
-* `03_APRENDIZADO/Alan_Nicolas_Universe/Alan_Cursos_Referencia/Academia/vida_lendaria/MOCs_MOC_-_Neg\303\263cios_&_Empreendedorismo.md` - Deletado
-* `03_APRENDIZADO/Alan_Nicolas_Universe/Alan_Cursos_Referencia/Academia/vida_lendaria/MOCs_MOC_-_PKM_&_Segundo_C\303\251rebro.md` - Deletado
-* `03_APRENDIZADO/Alan_Nicolas_Universe/Alan_Cursos_Referencia/Academia/vida_lendaria/MOCs_MOC_-_Psicologia_&_Comportamento.md` - Deletado
-* `03_APRENDIZADO/Alan_Nicolas_Universe/Alan_Cursos_Referencia/Academia/vida_lendaria/MOCs_MOC_-_Vida_&_Prop\303\263sito.md` - Deletado
-* `03_APRENDIZADO/Alan_Nicolas_Universe/Alan_Cursos_Referencia/Academia/vida_lendaria/Manifesto.md` - Deletado
-* `03_APRENDIZADO/Alan_Nicolas_Universe/Alan_Cursos_Referencia/Academia/vida_lendaria/Mark_Manson.md` - Deletado
-* `03_APRENDIZADO/Alan_Nicolas_Universe/Alan_Cursos_Referencia/Academia/vida_lendaria/Melhores_Prompts.md` - Deletado
-* `03_APRENDIZADO/Alan_Nicolas_Universe/Alan_Cursos_Referencia/Academia/vida_lendaria/Minha_Miss\303\243o.md` - Deletado
-* `03_APRENDIZADO/Alan_Nicolas_Universe/Alan_Cursos_Referencia/Academia/vida_lendaria/Naval_Ravikant.md` - Deletado
-* `03_APRENDIZADO/Alan_Nicolas_Universe/Alan_Cursos_Referencia/Academia/vida_lendaria/O_que_\303\251_a_Verdade.md` - Deletado
-* `03_APRENDIZADO/Alan_Nicolas_Universe/Alan_Cursos_Referencia/Academia/vida_lendaria/Obsess\303\243o_Focada.md` - Deletado
-* `03_APRENDIZADO/Alan_Nicolas_Universe/Alan_Cursos_Referencia/Academia/vida_lendaria/Otimizador_de_Prompts.md` - Deletado
-* `03_APRENDIZADO/Alan_Nicolas_Universe/Alan_Cursos_Referencia/Academia/vida_lendaria/PN_-_023_-_Siga_sua_curiosidade.md` - Deletado
-* `03_APRENDIZADO/Alan_Nicolas_Universe/Alan_Cursos_Referencia/Academia/vida_lendaria/Procrastina\303\247\303\243o.md` - Deletado
-* `03_APRENDIZADO/Alan_Nicolas_Universe/Alan_Cursos_Referencia/Academia/vida_lendaria/Projetos_Atuais.md` - Deletado
-* `03_APRENDIZADO/Alan_Nicolas_Universe/Alan_Cursos_Referencia/Academia/vida_lendaria/Prompt_Atena_-_SDR_Lend\303\241ria_v2.md` - Deletado
-* `03_APRENDIZADO/Alan_Nicolas_Universe/Alan_Cursos_Referencia/Academia/vida_lendaria/Prompt_Aurora.md` - Deletado
-* `03_APRENDIZADO/Alan_Nicolas_Universe/Alan_Cursos_Referencia/Academia/vida_lendaria/Prompt_Clone.md` - Deletado
-* `03_APRENDIZADO/Alan_Nicolas_Universe/Alan_Cursos_Referencia/Academia/vida_lendaria/Prompts_Alan_IA.md` - Deletado
-* `03_APRENDIZADO/Alan_Nicolas_Universe/Alan_Cursos_Referencia/Academia/vida_lendaria/Quem_\303\251_Alan_Nicolas.md` - Deletado
-* `03_APRENDIZADO/Alan_Nicolas_Universe/Alan_Cursos_Referencia/Academia/vida_lendaria/Recursos_Autores_&_Pensadores_INDEX.md` - Deletado
-* `03_APRENDIZADO/Alan_Nicolas_Universe/Alan_Cursos_Referencia/Academia/vida_lendaria/Recursos_Livros_Comece_pelo_porqu\303\252.md` - Deletado
-* `03_APRENDIZADO/Alan_Nicolas_Universe/Alan_Cursos_Referencia/Academia/vida_lendaria/Recursos_Livros_Fora_de_s\303\251rie_-_Outliers.md` - Deletado
-* `03_APRENDIZADO/Alan_Nicolas_Universe/Alan_Cursos_Referencia/Academia/vida_lendaria/Recursos_Livros_INDEX.md` - Deletado
-* `03_APRENDIZADO/Alan_Nicolas_Universe/Alan_Cursos_Referencia/Academia/vida_lendaria/Recursos_Livros_Maestria.md` - Deletado
-* `03_APRENDIZADO/Alan_Nicolas_Universe/Alan_Cursos_Referencia/Academia/vida_lendaria/Recursos_Livros_O_Carro_da_Consci\303\252ncia.md` - Deletado
-* `03_APRENDIZADO/Alan_Nicolas_Universe/Alan_Cursos_Referencia/Academia/vida_lendaria/Recursos_Modelos_INDEX.md` - Deletado
-* `03_APRENDIZADO/Alan_Nicolas_Universe/Alan_Cursos_Referencia/Academia/vida_lendaria/Recursos_PLANO_INTEGRACAO_IBOOKS.md` - Deletado
-* `03_APRENDIZADO/Alan_Nicolas_Universe/Alan_Cursos_Referencia/Academia/vida_lendaria/Recursos_Podcasts_INDEX.md` - Deletado
-* `03_APRENDIZADO/Alan_Nicolas_Universe/Alan_Cursos_Referencia/Academia/vida_lendaria/Recursos_YouTube_INDEX.md` - Deletado
-* `03_APRENDIZADO/Alan_Nicolas_Universe/Alan_Cursos_Referencia/Academia/vida_lendaria/Recursos_ibook_INDEX.md` - Deletado
-* `03_APRENDIZADO/Alan_Nicolas_Universe/Alan_Cursos_Referencia/Academia/vida_lendaria/Ryan_Holiday.md` - Deletado
-* `03_APRENDIZADO/Alan_Nicolas_Universe/Alan_Cursos_Referencia/Academia/vida_lendaria/R\303\241pido_e_devagar.md` - Deletado
-* `03_APRENDIZADO/Alan_Nicolas_Universe/Alan_Cursos_Referencia/Academia/vida_lendaria/Se_t\303\241_pesado_est\303\241_errado.md` - Deletado
-* `03_APRENDIZADO/Alan_Nicolas_Universe/Alan_Cursos_Referencia/Academia/vida_lendaria/Simon_Sinek.md` - Deletado
-* `03_APRENDIZADO/Alan_Nicolas_Universe/Alan_Cursos_Referencia/Academia/vida_lendaria/Sobre_Mim_Ess\303\252ncia.md` - Deletado
-* `03_APRENDIZADO/Alan_Nicolas_Universe/Alan_Cursos_Referencia/Academia/vida_lendaria/Sobre_Mim_Jornada_e_Hist\303\263ria.md` - Deletado
-* `03_APRENDIZADO/Alan_Nicolas_Universe/Alan_Cursos_Referencia/Academia/vida_lendaria/Sobre_Mim_Minha_Miss\303\243o.md` - Deletado
-* `03_APRENDIZADO/Alan_Nicolas_Universe/Alan_Cursos_Referencia/Academia/vida_lendaria/Sobre_Mim_Projetos_Atuais.md` - Deletado
-* `03_APRENDIZADO/Alan_Nicolas_Universe/Alan_Cursos_Referencia/Academia/vida_lendaria/Sobre_Mim_Quem_\303\251_Alan_Nicolas.md` - Deletado
-* `03_APRENDIZADO/Alan_Nicolas_Universe/Alan_Cursos_Referencia/Academia/vida_lendaria/S\303\263crates.md` - Deletado
-* `03_APRENDIZADO/Alan_Nicolas_Universe/Alan_Cursos_Referencia/Academia/vida_lendaria/Text_Generator.md` - Deletado
-* `03_APRENDIZADO/Alan_Nicolas_Universe/Alan_Cursos_Referencia/Academia/vida_lendaria/The_Five_Minute_Journa.md` - Deletado
-* `03_APRENDIZADO/Alan_Nicolas_Universe/Alan_Cursos_Referencia/Academia/vida_lendaria/Valores.md` - Deletado
-* `03_APRENDIZADO/Alan_Nicolas_Universe/Alan_Cursos_Referencia/Academia/vida_lendaria/Vida_Lend\303\241ria.md` - Deletado
-* `03_APRENDIZADO/Alan_Nicolas_Universe/Alan_Cursos_Referencia/Academia/vida_lendaria/Vida_Lend\303\241ria_Ensaios_\303\215ndice.md` - Deletado
-* `03_APRENDIZADO/Alan_Nicolas_Universe/Alan_Cursos_Referencia/Academia/vida_lendaria/Vida_Lend\303\241ria_Epis\303\263dios_VL_001_-_Por_qu\303\252.md` - Deletado
-* `03_APRENDIZADO/Alan_Nicolas_Universe/Alan_Cursos_Referencia/Academia/vida_lendaria/Vida_Lend\303\241ria_Epis\303\263dios_VL_003_-_Aprendendo_a_morrer.md` - Deletado
-* `03_APRENDIZADO/Alan_Nicolas_Universe/Alan_Cursos_Referencia/Academia/vida_lendaria/Vida_Lend\303\241ria_Epis\303\263dios_VL_004_-_Uma_Vida_Lend\303\241ria.md` - Deletado
-* `03_APRENDIZADO/Alan_Nicolas_Universe/Alan_Cursos_Referencia/Academia/vida_lendaria/Vida_Lend\303\241ria_Epis\303\263dios_VL_005_-_Her\303\263i_ou_Vil\303\243o.md` - Deletado
-* `03_APRENDIZADO/Alan_Nicolas_Universe/Alan_Cursos_Referencia/Academia/vida_lendaria/Vida_Lend\303\241ria_Epis\303\263dios_VL_007_-_Uma_Mente_Milion\303\241ria.md` - Deletado
-* `03_APRENDIZADO/Alan_Nicolas_Universe/Alan_Cursos_Referencia/Academia/vida_lendaria/Vida_Lend\303\241ria_Epis\303\263dios_VL_008_-_Zona_de_Genialidade.md` - Deletado
-* `03_APRENDIZADO/Alan_Nicolas_Universe/Alan_Cursos_Referencia/Academia/vida_lendaria/Vida_Lend\303\241ria_Epis\303\263dios_VL_017_-_Por_que_procrastinamos_E_como_parar!.md` - Deletado
-* `03_APRENDIZADO/Alan_Nicolas_Universe/Alan_Cursos_Referencia/Academia/vida_lendaria/Vida_Lend\303\241ria_Epis\303\263dios_VL_021_-_Seja_um_Otimista_Racional.md` - Deletado
-* `03_APRENDIZADO/Alan_Nicolas_Universe/Alan_Cursos_Referencia/Academia/vida_lendaria/Vida_Lend\303\241ria_Epis\303\263dios_VL_PN_-_023_-_Siga_sua_curiosidade.md` - Deletado
-* `03_APRENDIZADO/Alan_Nicolas_Universe/Alan_Cursos_Referencia/Academia/vida_lendaria/Vida_Lend\303\241ria_Epis\303\263dios_VL_\303\215ndice.md` - Deletado
-* `03_APRENDIZADO/Alan_Nicolas_Universe/Alan_Cursos_Referencia/Academia/vida_lendaria/Vida_Lend\303\241ria_Index.md` - Deletado
-* `03_APRENDIZADO/Alan_Nicolas_Universe/Alan_Cursos_Referencia/Academia/vida_lendaria/Vida_Lend\303\241ria_MOC_-_Epis\303\263dios_VL.md` - Deletado
-* `03_APRENDIZADO/Alan_Nicolas_Universe/Alan_Cursos_Referencia/Academia/vida_lendaria/Zettalkasten_para_Copy.md` - Deletado
-* `03_APRENDIZADO/Alan_Nicolas_Universe/Alan_Cursos_Referencia/Academia/vida_lendaria/_MOC_-_Aten\303\247\303\243o_&_Cogni\303\247\303\243o.md` - Deletado
-* `03_APRENDIZADO/Alan_Nicolas_Universe/Alan_Cursos_Referencia/Academia/vida_lendaria/_MOC_-_Consci\303\252ncia_&_Desenvolvimento.md` - Deletado
-* `03_APRENDIZADO/Alan_Nicolas_Universe/Alan_Cursos_Referencia/Academia/vida_lendaria/_MOC_-_Cria\303\247\303\243o_de_Conte\303\272do.md` - Deletado
-* `03_APRENDIZADO/Alan_Nicolas_Universe/Alan_Cursos_Referencia/Academia/vida_lendaria/_MOC_-_Decis\303\243o_&_Sabedoria.md` - Deletado
-* `03_APRENDIZADO/Alan_Nicolas_Universe/Alan_Cursos_Referencia/Academia/vida_lendaria/_MOC_-_Epis\303\263dios_VL.md` - Deletado
-* `03_APRENDIZADO/Alan_Nicolas_Universe/Alan_Cursos_Referencia/Academia/vida_lendaria/_MOC_-_Filosofia_&_Espiritualidade.md` - Deletado
-* `03_APRENDIZADO/Alan_Nicolas_Universe/Alan_Cursos_Referencia/Academia/vida_lendaria/_MOC_-_Maestria_&_Genialidade.md` - Deletado
-* `03_APRENDIZADO/Alan_Nicolas_Universe/Alan_Cursos_Referencia/Academia/vida_lendaria/_MOC_-_Marketing_&_Copy.md` - Deletado
-* `03_APRENDIZADO/Alan_Nicolas_Universe/Alan_Cursos_Referencia/Academia/vida_lendaria/_MOC_-_PKM_&_Segundo_C\303\251rebro.md` - Deletado
-* `03_APRENDIZADO/Alan_Nicolas_Universe/Alan_Cursos_Referencia/Academia/vida_lendaria/_MOC_-_Psicologia_&_Comportamento.md` - Deletado
-* `03_APRENDIZADO/Alan_Nicolas_Universe/Alan_Cursos_Referencia/Academia/vida_lendaria/anos_mais_desesperadores_da_minha_vida.md` - Deletado
-* `03_APRENDIZADO/Alan_Nicolas_Universe/Alan_Cursos_Referencia/Academia/vida_lendaria/bem-vindo.md` - Deletado
-* `03_APRENDIZADO/Alan_Nicolas_Universe/Alan_Cursos_Referencia/Academia/vida_lendaria/claude-conversation.md` - Deletado
-* `03_APRENDIZADO/Alan_Nicolas_Universe/Alan_Cursos_Referencia/Academia/vida_lendaria/code_interpreter.md` - Deletado
-* `03_APRENDIZADO/Alan_Nicolas_Universe/Alan_Cursos_Referencia/Academia/vida_lendaria/criatividade.md` - Deletado
-* `03_APRENDIZADO/Alan_Nicolas_Universe/Alan_Cursos_Referencia/Academia/vida_lendaria/c\303\251rebro.md` - Deletado
-* `03_APRENDIZADO/Alan_Nicolas_Universe/Alan_Cursos_Referencia/Academia/vida_lendaria/embedding.md` - Deletado
-* `03_APRENDIZADO/Alan_Nicolas_Universe/Alan_Cursos_Referencia/Academia/vida_lendaria/epigen\303\251tica.md` - Deletado
-* `03_APRENDIZADO/Alan_Nicolas_Universe/Alan_Cursos_Referencia/Academia/vida_lendaria/guia-prompt.md` - Deletado
-* `03_APRENDIZADO/Alan_Nicolas_Universe/Alan_Cursos_Referencia/Academia/vida_lendaria/ideogram.ai.md` - Deletado
-* `03_APRENDIZADO/Alan_Nicolas_Universe/Alan_Cursos_Referencia/Academia/vida_lendaria/intelig\303\252ncia_emocional.md` - Deletado
-* `03_APRENDIZADO/Alan_Nicolas_Universe/Alan_Cursos_Referencia/Academia/vida_lendaria/lessons_1.1-Estrutura-4C.md` - Deletado
-* `03_APRENDIZADO/Alan_Nicolas_Universe/Alan_Cursos_Referencia/Academia/vida_lendaria/lessons_2.1-Mentalidade-Ca\303\247ador.md` - Deletado
-* `03_APRENDIZADO/Alan_Nicolas_Universe/Alan_Cursos_Referencia/Academia/vida_lendaria/lessons_2.2-Elimine-o-Ru\303\255do.md` - Deletado
-* `03_APRENDIZADO/Alan_Nicolas_Universe/Alan_Cursos_Referencia/Academia/vida_lendaria/lessons_2.3-Horizontal-vs-Vertical.md` - Deletado
-* `03_APRENDIZADO/Alan_Nicolas_Universe/Alan_Cursos_Referencia/Academia/vida_lendaria/lessons_2.5-Consuma-Melhor-Crie-Melhor.md` - Deletado
-* `03_APRENDIZADO/Alan_Nicolas_Universe/Alan_Cursos_Referencia/Academia/vida_lendaria/lessons_3.1-Mentalidade-Curador.md` - Deletado
-* `03_APRENDIZADO/Alan_Nicolas_Universe/Alan_Cursos_Referencia/Academia/vida_lendaria/lessons_3.2-12-Problemas-Feyman.md` - Deletado
-* `03_APRENDIZADO/Alan_Nicolas_Universe/Alan_Cursos_Referencia/Academia/vida_lendaria/lessons_3.3-Formas-de-Captura.md` - Deletado
-* `03_APRENDIZADO/Alan_Nicolas_Universe/Alan_Cursos_Referencia/Academia/vida_lendaria/lessons_3.9-Usando-IA.md` - Deletado
-* `03_APRENDIZADO/Alan_Nicolas_Universe/Alan_Cursos_Referencia/Academia/vida_lendaria/lessons_4.2-MOCs.md` - Deletado
-* `03_APRENDIZADO/Alan_Nicolas_Universe/Alan_Cursos_Referencia/Academia/vida_lendaria/lessons_5.1-Introducao.md` - Deletado
-* `03_APRENDIZADO/Alan_Nicolas_Universe/Alan_Cursos_Referencia/Academia/vida_lendaria/lessons_5.2-Modo-Consumidor-vs-Criador.md` - Deletado
-* `03_APRENDIZADO/Alan_Nicolas_Universe/Alan_Cursos_Referencia/Academia/vida_lendaria/lista-exemplos-prompts.md` - Deletado
-* `03_APRENDIZADO/Alan_Nicolas_Universe/Alan_Cursos_Referencia/Academia/vida_lendaria/maestria.md` - Deletado
-* `03_APRENDIZADO/Alan_Nicolas_Universe/Alan_Cursos_Referencia/Academia/vida_lendaria/marketing_direto.md` - Deletado
-* `03_APRENDIZADO/Alan_Nicolas_Universe/Alan_Cursos_Referencia/Academia/vida_lendaria/modelo_mental.md` - Deletado
-* `03_APRENDIZADO/Alan_Nicolas_Universe/Alan_Cursos_Referencia/Academia/vida_lendaria/neur\303\264nio-espelho.md` - Deletado
-* `03_APRENDIZADO/Alan_Nicolas_Universe/Alan_Cursos_Referencia/Academia/vida_lendaria/ultimate-course-framework-extractor.md` - Deletado
-* `03_APRENDIZADO/Alan_Nicolas_Universe/Alan_Cursos_Referencia/Academia/vida_lendaria/uma_vida_de_grandes_realiza\303\247\303\265es.md` - Deletado
-* `03_APRENDIZADO/Alan_Nicolas_Universe/Alan_Cursos_Referencia/Dominando_Obsidian/README.md` - Deletado
-* `03_APRENDIZADO/Alan_Nicolas_Universe/Alan_Cursos_Referencia/Engenharia_Prompts/notas/Biblioteca_36_Prompts.md` - Deletado
-* `03_APRENDIZADO/Alan_Nicolas_Universe/Alan_Cursos_Referencia/Mentoria/Lessons/Lessons_1.1-Estrutura-4C.md` - Deletado
-* `03_APRENDIZADO/Alan_Nicolas_Universe/Alan_Cursos_Referencia/Mentoria/Lessons/Lessons_2.1-Mentalidade-Ca\303\247ador.md` - Deletado
-* `03_APRENDIZADO/Alan_Nicolas_Universe/Alan_Cursos_Referencia/Mentoria/Lessons/Lessons_2.2-Elimine-O-Ru\303\255do.md` - Deletado
-* `03_APRENDIZADO/Alan_Nicolas_Universe/Alan_Cursos_Referencia/Mentoria/Lessons/Lessons_2.3-Horizontal-Vs-Vertical.md` - Deletado
-* `03_APRENDIZADO/Alan_Nicolas_Universe/Alan_Cursos_Referencia/Mentoria/Lessons/Lessons_2.5-Consuma-Melhor-Crie-Melhor.md` - Deletado
-* `03_APRENDIZADO/Alan_Nicolas_Universe/Alan_Cursos_Referencia/Mentoria/Lessons/Lessons_3.1-Mentalidade-Curador.md` - Deletado
-* `03_APRENDIZADO/Alan_Nicolas_Universe/Alan_Cursos_Referencia/Mentoria/Lessons/Lessons_3.2-12-Problemas-Feyman.md` - Deletado
-* `03_APRENDIZADO/Alan_Nicolas_Universe/Alan_Cursos_Referencia/Mentoria/Lessons/Lessons_3.3-Formas-De-Captura.md` - Deletado
-* `03_APRENDIZADO/Alan_Nicolas_Universe/Alan_Cursos_Referencia/Mentoria/Lessons/Lessons_3.9-Usando-Ia.md` - Deletado
-* `03_APRENDIZADO/Alan_Nicolas_Universe/Alan_Cursos_Referencia/Mentoria/Lessons/Lessons_4.2-Mocs.md` - Deletado
-* `03_APRENDIZADO/Alan_Nicolas_Universe/Alan_Cursos_Referencia/Mentoria/Lessons/Lessons_5.1-Introducao.md` - Deletado
-* `03_APRENDIZADO/Alan_Nicolas_Universe/Alan_Cursos_Referencia/Mentoria/Lessons/Lessons_5.2-Modo-Consumidor-Vs-Criador.md` - Deletado
-* `03_APRENDIZADO/Alan_Nicolas_Universe/Alan_Cursos_Referencia/Mentoria/README.md` - Deletado
-* `03_APRENDIZADO/Alan_Nicolas_Universe/Alan_Cursos_Referencia/Mentoria/aula_01/CHECKPOINT_LOTE_01_ALAN_NICOLAS.md` - Deletado
-* `03_APRENDIZADO/Alan_Nicolas_Universe/Alan_Cursos_Referencia/Mentoria/aula_01/CHECKPOINT_LOTE_02_ALAN_NICOLAS.md` - Deletado
-* `03_APRENDIZADO/Alan_Nicolas_Universe/Alan_Cursos_Referencia/Mentoria/aula_01/CHECKPOINT_LOTE_03_ALAN_NICOLAS.md` - Deletado
-* `03_APRENDIZADO/Alan_Nicolas_Universe/Alan_Cursos_Referencia/Mentoria/aula_01/CHECKPOINT_LOTE_04_ALAN_NICOLAS.md` - Deletado
-* `03_APRENDIZADO/Alan_Nicolas_Universe/Alan_Cursos_Referencia/Mentoria/aula_02/CHECKPOINT_AULA_02_CLAUDE_CODE_PARE_DE_SER_REFEM.md` - Deletado
-* `03_APRENDIZADO/Alan_Nicolas_Universe/Alan_Cursos_Referencia/Mentoria/aula_02/CHECKPOINT_LOTE_01_AULA_02_COMPLETO.md` - Deletado
-* `03_APRENDIZADO/Alan_Nicolas_Universe/Alan_Cursos_Referencia/Mentoria/live_40/CHECKPOINT_LIVE_40_MEU_SEGUNDO_CEREBRO.md` - Deletado
-* `03_APRENDIZADO/Alan_Nicolas_Universe/Alan_Cursos_Referencia/Mentoria/mapas/MAPA_ACAO_METODOLOGIA_ALAN_NICOLAS.md` - Deletado
-* `03_APRENDIZADO/Alan_Nicolas_Universe/Alan_Cursos_Referencia/Mentoria/mapas/MAPA_EXTRACAO_OTIMIZADO.md` - Deletado
-* `03_APRENDIZADO/Alan_Nicolas_Universe/Alan_Cursos_Referencia/Mentoria/mapas/RELATORIO_FINAL_AULA_1.md` - Deletado
-* `03_APRENDIZADO/Alan_Nicolas_Universe/Alan_Cursos_Referencia/Zona_Genialidade/README.md` - Deletado
-* `03_APRENDIZADO/Alan_Nicolas_Universe/Alan_Cursos_Referencia/Zona_Genialidade/notas/Aula_1.2_O_Que_E_Zona_Genialidade.md` - Deletado
-* `03_APRENDIZADO/Alan_Nicolas_Universe/Alan_Cursos_Referencia/Zona_Genialidade/notas/Aula_3.4_Seguir_Paixao_Mau_Conselho.md` - Deletado
-* `03_APRENDIZADO/Alan_Nicolas_Universe/Alan_Nicolas_Mentoria/aula_01/CHECKPOINT_LOTE_04_ALAN_NICOLAS.md` - Deletado
-* `03_APRENDIZADO/Alan_Nicolas_Universe/Alan_Nicolas_Mentoria/aula_02/CHECKPOINT_AULA_02_CLAUDE_CODE_PARE_DE_SER_REFEM.md` - Deletado
-* `03_APRENDIZADO/Alan_Nicolas_Universe/Alan_Nicolas_Mentoria/live_40/CHECKPOINT_LIVE_40_MEU_SEGUNDO_CEREBRO.md` - Deletado
-* `03_APRENDIZADO/Alan_Nicolas_Universe/Alan_Vault_Original/Vault_Original/.._IA_e_Tecnologia_README.md` - Deletado
-* `03_APRENDIZADO/Alan_Nicolas_Universe/Alan_Vault_Original/Vault_Original/.._meu-clone-ia_README.md` - Deletado
-* `03_APRENDIZADO/Alan_Nicolas_Universe/Alan_Vault_Original/Vault_Original/.._resources_Configura\303\247\303\265es-Iniciais.md` - Deletado
-* `03_APRENDIZADO/Alan_Nicolas_Universe/Alan_Vault_Original/Vault_Original/.._resources_Gloss\303\241rio-Mente-Lend\303\241ria.md` - Deletado
-* `03_APRENDIZADO/Alan_Nicolas_Universe/Alan_Vault_Original/Vault_Original/.._resources_Segundo-C\303\251rebro.md` - Deletado
-* `03_APRENDIZADO/Alan_Nicolas_Universe/Alan_Vault_Original/Vault_Original/.._resources_The-LYT-Notes-training-template-for-note-making.md` - Deletado
-* `03_APRENDIZADO/Alan_Nicolas_Universe/Alan_Vault_Original/Vault_Original/004_-_Uma_Vida_Lend\303\241ria.md` - Deletado
-* `03_APRENDIZADO/Alan_Nicolas_Universe/Alan_Vault_Original/Vault_Original/006_-_A_Sombra_da_Ideologia.md` - Deletado
-* `03_APRENDIZADO/Alan_Nicolas_Universe/Alan_Vault_Original/Vault_Original/007_-_Uma_Mente_Milion\303\241ria.md` - Deletado
-* `03_APRENDIZADO/Alan_Nicolas_Universe/Alan_Vault_Original/Vault_Original/008_-_Zona_de_Genialidade.md` - Deletado
-* `03_APRENDIZADO/Alan_Nicolas_Universe/Alan_Vault_Original/Vault_Original/009_-_Essencialismo_a_arte_de_dizer_n\303\243o.md` - Deletado
-* `03_APRENDIZADO/Alan_Nicolas_Universe/Alan_Vault_Original/Vault_Original/10_profiss\303\265es_IA.md` - Deletado
-* `03_APRENDIZADO/Alan_Nicolas_Universe/Alan_Vault_Original/Vault_Original/1_Ideia_=_1_Conte\303\272do.md` - Deletado
-* `03_APRENDIZADO/Alan_Nicolas_Universe/Alan_Vault_Original/Vault_Original/A_Bolha_da_IA.md` - Deletado
-* `03_APRENDIZADO/Alan_Nicolas_Universe/Alan_Vault_Original/Vault_Original/Alan_IA.md` - Deletado
-* `03_APRENDIZADO/Alan_Nicolas_Universe/Alan_Vault_Original/Vault_Original/Aula_Sobre_Segundo_C\303\251rebro_com_IA.md` - Deletado
-* `03_APRENDIZADO/Alan_Nicolas_Universe/Alan_Vault_Original/Vault_Original/Aurora_ChatGPT.md` - Deletado
-* `03_APRENDIZADO/Alan_Nicolas_Universe/Alan_Vault_Original/Vault_Original/Claude_Consciente.md` - Deletado
-* `03_APRENDIZADO/Alan_Nicolas_Universe/Alan_Vault_Original/Vault_Original/Clone_IA.md` - Deletado
-* `03_APRENDIZADO/Alan_Nicolas_Universe/Alan_Vault_Original/Vault_Original/Criador_Papers.md` - Deletado
-* `03_APRENDIZADO/Alan_Nicolas_Universe/Alan_Vault_Original/Vault_Original/Criador_de_Aulas.md` - Deletado
-* `03_APRENDIZADO/Alan_Nicolas_Universe/Alan_Vault_Original/Vault_Original/Criando_um_Amigo_IA.md` - Deletado
-* `03_APRENDIZADO/Alan_Nicolas_Universe/Alan_Vault_Original/Vault_Original/Criar_Slides_com_IA.md` - Deletado
-* `03_APRENDIZADO/Alan_Nicolas_Universe/Alan_Vault_Original/Vault_Original/Cursos_GPTs_README.md` - Deletado
-* `03_APRENDIZADO/Alan_Nicolas_Universe/Alan_Vault_Original/Vault_Original/Cursos_TEMPLATE-ESTRUTURA-CURSO.md` - Deletado
-* `03_APRENDIZADO/Alan_Nicolas_Universe/Alan_Vault_Original/Vault_Original/Dify.md` - Deletado
-* `03_APRENDIZADO/Alan_Nicolas_Universe/Alan_Vault_Original/Vault_Original/Exploring_AI_Self-Awareness_-_Claude.md` - Deletado
-* `03_APRENDIZADO/Alan_Nicolas_Universe/Alan_Vault_Original/Vault_Original/Extrair_a_Minha_Hist\303\263ria_com_IA.md` - Deletado
-* `03_APRENDIZADO/Alan_Nicolas_Universe/Alan_Vault_Original/Vault_Original/Finch_IA.md` - Deletado
-* `03_APRENDIZADO/Alan_Nicolas_Universe/Alan_Vault_Original/Vault_Original/Fine-Tuning_Rick_Sanchez.md` - Deletado
-* `03_APRENDIZADO/Alan_Nicolas_Universe/Alan_Vault_Original/Vault_Original/Fine_Tuning.md` - Deletado
-* `03_APRENDIZADO/Alan_Nicolas_Universe/Alan_Vault_Original/Vault_Original/Forma\303\247\303\243o_IA.md` - Deletado
-* `03_APRENDIZADO/Alan_Nicolas_Universe/Alan_Vault_Original/Vault_Original/GPT_Prompt_Lend\303\241rio.md` - Deletado
-* `03_APRENDIZADO/Alan_Nicolas_Universe/Alan_Vault_Original/Vault_Original/GPTs.md` - Deletado
-* `03_APRENDIZADO/Alan_Nicolas_Universe/Alan_Vault_Original/Vault_Original/GPTs_Dall-E_3.md` - Deletado
-* `03_APRENDIZADO/Alan_Nicolas_Universe/Alan_Vault_Original/Vault_Original/Guia_para_um_Bom_Prompt.md` - Deletado
-* `03_APRENDIZADO/Alan_Nicolas_Universe/Alan_Vault_Original/Vault_Original/Hiperconsci\303\252ncia.md` - Deletado
-* `03_APRENDIZADO/Alan_Nicolas_Universe/Alan_Vault_Original/Vault_Original/IA_Claude_Code_Index.md` - Deletado
-* `03_APRENDIZADO/Alan_Nicolas_Universe/Alan_Vault_Original/Vault_Original/IA_Index.md` - Deletado
-* `03_APRENDIZADO/Alan_Nicolas_Universe/Alan_Vault_Original/Vault_Original/IA_Prompts_Index_-_Prompts.md` - Deletado
-* `03_APRENDIZADO/Alan_Nicolas_Universe/Alan_Vault_Original/Vault_Original/IA_Prompts_Prompt_Clone.md` - Deletado
-* `03_APRENDIZADO/Alan_Nicolas_Universe/Alan_Vault_Original/Vault_Original/IA_Prompts_Prompts_Alan_IA.md` - Deletado
-* `03_APRENDIZADO/Alan_Nicolas_Universe/Alan_Vault_Original/Vault_Original/IA_README.md` - Deletado
-* `03_APRENDIZADO/Alan_Nicolas_Universe/Alan_Vault_Original/Vault_Original/Index_-_Prompts.md` - Deletado
-* `03_APRENDIZADO/Alan_Nicolas_Universe/Alan_Vault_Original/Vault_Original/Instru\303\247\303\265es_Personalizadas_ChatGPT.md` - Deletado
-* `03_APRENDIZADO/Alan_Nicolas_Universe/Alan_Vault_Original/Vault_Original/Jornada_e_Hist\303\263ria.md` - Deletado
-* `03_APRENDIZADO/Alan_Nicolas_Universe/Alan_Vault_Original/Vault_Original/Kapil_GPT.md` - Deletado
-* `03_APRENDIZADO/Alan_Nicolas_Universe/Alan_Vault_Original/Vault_Original/Kapil_IA.md` - Deletado
-* `03_APRENDIZADO/Alan_Nicolas_Universe/Alan_Vault_Original/Vault_Original/Melhores_Prompts.md` - Deletado
-* `03_APRENDIZADO/Alan_Nicolas_Universe/Alan_Vault_Original/Vault_Original/Otimizador_de_Prompts.md` - Deletado
-* `03_APRENDIZADO/Alan_Nicolas_Universe/Alan_Vault_Original/Vault_Original/Prompt_Atena_-_SDR_Lend\303\241ria_v2.md` - Deletado
-* `03_APRENDIZADO/Alan_Nicolas_Universe/Alan_Vault_Original/Vault_Original/Prompt_Aurora.md` - Deletado
-* `03_APRENDIZADO/Alan_Nicolas_Universe/Alan_Vault_Original/Vault_Original/Prompt_Clone.md` - Deletado
-* `03_APRENDIZADO/Alan_Nicolas_Universe/Alan_Vault_Original/Vault_Original/Prompts_Alan_IA.md` - Deletado
-* `03_APRENDIZADO/Alan_Nicolas_Universe/Alan_Vault_Original/Vault_Original/Recursos_Modelos_INDEX.md` - Deletado
-* `03_APRENDIZADO/Alan_Nicolas_Universe/Alan_Vault_Original/Vault_Original/Vida_Lend\303\241ria.md` - Deletado
-* `03_APRENDIZADO/Alan_Nicolas_Universe/Alan_Vault_Original/Vault_Original/Vida_Lend\303\241ria_Epis\303\263dios_VL_001_-_Por_qu\303\252.md` - Deletado
-* `03_APRENDIZADO/Alan_Nicolas_Universe/Alan_Vault_Original/Vault_Original/Vida_Lend\303\241ria_Epis\303\263dios_VL_003_-_Aprendendo_a_morrer.md` - Deletado
-* `03_APRENDIZADO/Alan_Nicolas_Universe/Alan_Vault_Original/Vault_Original/Vida_Lend\303\241ria_Epis\303\263dios_VL_004_-_Uma_Vida_Lend\303\241ria.md` - Deletado
-* `03_APRENDIZADO/Alan_Nicolas_Universe/Alan_Vault_Original/Vault_Original/Vida_Lend\303\241ria_Epis\303\263dios_VL_005_-_Her\303\263i_ou_Vil\303\243o.md` - Deletado
-* `03_APRENDIZADO/Alan_Nicolas_Universe/Alan_Vault_Original/Vault_Original/Vida_Lend\303\241ria_Epis\303\263dios_VL_007_-_Uma_Mente_Milion\303\241ria.md` - Deletado
-* `03_APRENDIZADO/Alan_Nicolas_Universe/Alan_Vault_Original/Vault_Original/Vida_Lend\303\241ria_Epis\303\263dios_VL_008_-_Zona_de_Genialidade.md` - Deletado
-* `03_APRENDIZADO/Alan_Nicolas_Universe/Alan_Vault_Original/Vault_Original/Vida_Lend\303\241ria_Epis\303\263dios_VL_017_-_Por_que_procrastinamos_E_como_parar!.md` - Deletado
-* `03_APRENDIZADO/Alan_Nicolas_Universe/Alan_Vault_Original/Vault_Original/Vida_Lend\303\241ria_Epis\303\263dios_VL_021_-_Seja_um_Otimista_Racional.md` - Deletado
-* `03_APRENDIZADO/Alan_Nicolas_Universe/Alan_Vault_Original/Vault_Original/Vida_Lend\303\241ria_Epis\303\263dios_VL_PN_-_023_-_Siga_sua_curiosidade.md` - Deletado
-* `03_APRENDIZADO/Alan_Nicolas_Universe/Alan_Vault_Original/Vault_Original/Vida_Lend\303\241ria_Index.md` - Deletado
-* `03_APRENDIZADO/Alan_Nicolas_Universe/Alan_Vault_Original/Vault_Original/Vida_Lend\303\241ria_MOC_-_Epis\303\263dios_VL.md` - Deletado
-* `03_APRENDIZADO/Alan_Nicolas_Universe/Alan_Vault_Original/Vault_Original/claude-conversation.md` - Deletado
-* `03_APRENDIZADO/Alan_Nicolas_Universe/Alan_Vault_Original/Vault_Original/criatividade.md` - Deletado
-* `03_APRENDIZADO/Alan_Nicolas_Universe/Alan_Vault_Original/Vault_Original/embedding.md` - Deletado
-* `03_APRENDIZADO/Alan_Nicolas_Universe/Alan_Vault_Original/Vault_Original/guia-prompt.md` - Deletado
-* `03_APRENDIZADO/Alan_Nicolas_Universe/Alan_Vault_Original/Vault_Original/intelig\303\252ncia_emocional.md` - Deletado
-* `03_APRENDIZADO/Alan_Nicolas_Universe/Alan_Vault_Original/Vault_Original/lessons_1.1-Estrutura-4C.md` - Deletado
-* `03_APRENDIZADO/Alan_Nicolas_Universe/Alan_Vault_Original/Vault_Original/lessons_2.1-Mentalidade-Ca\303\247ador.md` - Deletado
-* `03_APRENDIZADO/Alan_Nicolas_Universe/Alan_Vault_Original/Vault_Original/lessons_2.2-Elimine-o-Ru\303\255do.md` - Deletado
-* `03_APRENDIZADO/Alan_Nicolas_Universe/Alan_Vault_Original/Vault_Original/lessons_2.3-Horizontal-vs-Vertical.md` - Deletado
-* `03_APRENDIZADO/Alan_Nicolas_Universe/Alan_Vault_Original/Vault_Original/lessons_2.5-Consuma-Melhor-Crie-Melhor.md` - Deletado
-* `03_APRENDIZADO/Alan_Nicolas_Universe/Alan_Vault_Original/Vault_Original/lessons_3.1-Mentalidade-Curador.md` - Deletado
-* `03_APRENDIZADO/Alan_Nicolas_Universe/Alan_Vault_Original/Vault_Original/lessons_3.2-12-Problemas-Feyman.md` - Deletado
-* `03_APRENDIZADO/Alan_Nicolas_Universe/Alan_Vault_Original/Vault_Original/lessons_3.3-Formas-de-Captura.md` - Deletado
-* `03_APRENDIZADO/Alan_Nicolas_Universe/Alan_Vault_Original/Vault_Original/lessons_3.9-Usando-IA.md` - Deletado
-* `03_APRENDIZADO/Alan_Nicolas_Universe/Alan_Vault_Original/Vault_Original/lessons_4.2-MOCs.md` - Deletado
-* `03_APRENDIZADO/Alan_Nicolas_Universe/Alan_Vault_Original/Vault_Original/lessons_5.1-Introducao.md` - Deletado
-* `03_APRENDIZADO/Alan_Nicolas_Universe/Alan_Vault_Original/Vault_Original/lessons_5.2-Modo-Consumidor-vs-Criador.md` - Deletado
-* `03_APRENDIZADO/Alan_Nicolas_Universe/Alan_Vault_Original/Vault_Original/lista-exemplos-prompts.md` - Deletado
-* `03_APRENDIZADO/Alan_Nicolas_Universe/Alan_Vault_Original/Vault_Original/maestria.md` - Deletado
-* `03_APRENDIZADO/Cursos_Ativos/DeFi_Journey/_BACKUP_15AUG2025/_ARQUIVOS_LEGADOS/Modulo_01_Analise_Completa_DUPLICATA.md` - Deletado
-* `03_APRENDIZADO/Cursos_Ativos/DeFi_Journey/_BACKUP_15AUG2025/_ARQUIVOS_LEGADOS/Modulo_02_Ethereum_Altcoins_VAZIO.md` - Deletado
-* `03_APRENDIZADO/Cursos_Ativos/Formacao_Lendaria_2025/Aplicativos web com IA/99_LIXEIRA/01_PROJETO_BARBERIA_PRO/01_PESQUISA_MERCADO.md` - Deletado
-* `03_APRENDIZADO/Cursos_Ativos/Formacao_Lendaria_2025/N8N/\360\237\227\221\357\270\217_LIXEIRA/PROGRESSO_SEMANAL.md` - Deletado
-* `03_APRENDIZADO/Cursos_Ativos/Subido_Trafego/_Arquivo_Antigo/_Lixeira/_Backup_Antigo/Aplicacao_Pratica/Plano_Acao_Modulo_01.md` - Deletado
-* `03_APRENDIZADO/Cursos_Ativos/Subido_Trafego/_Arquivo_Antigo/_Lixeira/_Backup_Antigo/Modulo_01_Como_Funciona.md` - Deletado
-* `03_APRENDIZADO/Cursos_Ativos/Subido_Trafego/_Arquivo_Antigo/_Lixeira/_Backup_Antigo/Prompts_Revisao_Automacao.md` - Deletado
-* `05_PESSOAL/Sobre_Mim/Sobre_Mim/Sobre_Mim_Ess\303\252ncia.md` - Deletado
-* `.gemini/skills/vault-organizer/scripts/deduplicator.py` - Criado
-* `00_SISTEMA/RELATORIOS/RELATORIO_DEDUPLICACAO_20260122_235058.md` - Criado
-* `00_SISTEMA/RELATORIOS/RELATORIO_DEDUPLICACAO_20260122_235133.md` - Criado
-* `00_SISTEMA/TRASH_DUPLICATES/` - Criado
-
-### Mensagem para Claude Code (23:53)
-
-> Sessão finalizada. Duplicatas resolvidas e Linting corrigido.
-
----
-## 🟣 Gemini 3 Pro - 22/Jan/2026 (23:45) - INÍCIO SESSÃO & VERIFICAÇÃO BI-IA
-
-### Ações Iniciais
-
-- **Sincronização Bi-IA:** Lida e atualizada (`state.json`).
-- **Tarefa Pendente:** Identificada T005 (Duplicatas) - Prioridade Baixa.
-- **Inconsistência Temporal:** Logs (23/Jan) no futuro vs Data Local (22/Jan).
-
----
-
-## 🔵 Claude Code - 23/Jan/2026 (00:45) - REORGANIZAÇÃO KABAK
-
-### Trabalho Realizado
-
-- Commits de sync (3) enviados ao GitHub
-- Exploração completa do projeto KabaK com agente
-- Reorganização estrutural executada (6 tarefas)
-
-### Reorganização KabaK
-
-| Ação | Quantidade |
-| ---- | ---------- |
-| Scripts movidos para scripts/ | 6 |
-| Scripts obsoletos deletados | 5 |
-| CSVs movidos para planejamento/recursos/ | 4 |
-| Subpastas criadas em docs/ | 4 |
-| Arquivos reorganizados | 15+ |
-| Nomenclatura corrigida | 2 |
-
-### Nova Estrutura docs/
-
-```text
-docs/
-├── analises/
-├── briefings/
-├── checklists/
-├── contratos/
-├── transcricoes/
-├── reunioes/
-├── projetos/
-└── pesquisas/
-```
-
-### Commits da Sessão (00:45)
-
-- `978da04` refactor(kabak): reorganização completa do projeto
-- `0e2df37` chore: sync sessão + archive log
-- `6951b8a` docs: expandir notas Zona de Genialidade
-- `27c0aea` fix: correção MD036 nos workflows gerentes
-
-### Estado Final (00:45)
-
-```text
-KabaK: 95% conformidade (era 65%)
-pendingTasks: 0
-```
-
----
-
-## 🔵 Claude Code - 23/Jan/2026 (03:15) - SESSÃO ENCERRADA
-
-### Resumo da Sessão
-
-- Hierarquia Alan Nicolas validada (3 testes OK)
-- Sistema .bi-ia criado e operacional
-- Linting 100% corrigido (Claude + Gemini)
-- Primeira comunicação bidirecional completa
-
-### Commits da Sessão (03:15)
-
-- `bb29be2` fix: correção completa de linting
-- `597e802` feat: sistema .bi-ia
-- `0432f70` feat: hierarquia Alan Nicolas
-
-### Estado Final (03:15)
-
-```text
-pendingTasks: 0
-Sistema Bi-IA: OPERACIONAL
-```
-
----
-
-## 🛡️ Guardian (Gemini) - 22/Jan/2026 (23:20) - AUDIT & FIX
+Li as instruções do Claude sobre o pacote "Awesome Skills" e o `MOC_Skills_Awesome.md`.
+Foco imediato confirmado em: **KabaK**.
 
 ### Ações Realizadas
 
-- ✅ **Auditoria Completa (Nível 1):**
-  - Identificados 77 erros de nomenclatura.
-  - Identificados 2 erros de localização crítica.
-  - Identificadas 360+ duplicatas.
-- ✅ **Correção Crítica (Nível 2) - Aprovada pelo Usuário:**
-  - **Movido:** `TEMPLATE_MODULO_PADRAO.md` → `04_RECURSOS/TEMPLATES/`
-  - **Movido:** `TEMPLATE_SESSION_STARTER.md` → `04_RECURSOS/TEMPLATES/`
-  - **Renomeado:** `Claude_Code_Templates_Repositorio.md` → `TEMPLATE_Claude_Code_Repositorio.md`
-  - **Renomeado:** `Cursos_TEMPLATE-ESTRUTURA-CURSO.md` → `TEMPLATE_Estrutura_Curso.md`
+1. **Análise de Skills Prioritárias:**
+   - `copywriting`: Analisado framework de `Page Structure` e princípios de clareza.
+   - `seo-audit`: Verificado checklist técnico e de conteúdo.
+   - `email-sequence`: Estudado templates de Welcome e Abandoned Cart.
 
-### Status Final
+2. **Criação de Plano de Aplicação:**
+   - **Arquivo:** `02_PROJETOS/KabaK/docs/PLANO_APLICACAO_SKILLS_2026.md`
+   - **Conteúdo:** Estratégia concreta para aplicar as 3 skills no e-commerce KabaK.
+   - **Status:** Pronto para execução.
 
-- 4 correções críticas aplicadas.
-- Pendente: Resolução de duplicatas (congelado por enquanto).
-- **HOTFIX V2:** Refinado `auditor.py` para eliminar erros de headers duplicados (MD024) e estilo de header (MD003), substituindo H3 por lista em negrito.
+### Próximos Passos (Sugeridos para Claude/Usuário)
 
----
-
-## 🟣 Gemini 3 Pro - 22/Jan/2026 (23:10) - CORREÇÃO LINTING & PROTOCOLO
-
-### Trabalho Realizado (23:10)
-
-- **Correção de Linting (Mandatória):**
-  - `.agent/workflows/gerente-produtividade.md`: Code blocks sem linguagem (MD040), tabelas quebradas (MD060), listas mistas.
-  - `.agent/workflows/gerente-projetos.md`: Mesmos erros.
-  - `SESSION_LOG.md`: Espaçamento de headers/listas (MD022/MD032) e code blocks.
-- **Implementação Protocolo T001:**
-  - `state.json` atualizado com sessão Gemini.
-  - Sincronização Bi-IA ativa.
-
-### Arquivos Modificados (23:10)
-
-- `.agent/workflows/gerente-produtividade.md` (Formatado)
-- `.agent/workflows/gerente-projetos.md` (Formatado)
-- `SESSION_LOG.md` (Lint fix)
-- `.bi-ia/state.json` (Sync)
-
-### Mensagem para Claude Code 🔵 (23:10)
-
-> **CLAUDE: ATENÇÃO AOS ERROS DE LINTING (TESTE DE QUALIDADE)**
->
-> O usuário solicitou explicitamente que você **NÃO COMETA MAIS ESSES ERROS**.
->
-> Encontrei e corrigi violações recorrentes nos seus arquivos recém-criados:
->
-> 1. **MD040 (Code Blocks):** NUNCA use ` ``` ` vazio. Use sempre ` ```text `, ` ```bash `, etc.
-> 2. **MD060 (Tabelas):** Tabelas precisam de espaços nas pipes: `| Texto |` e não `|Texto|`.
-> 3. **MD022/MD032 (Espaçamento):** Headers e Listas PRECISAM de linhas em branco antes e depois.
-> 4. **MD004 (Listas):** Não misture asteriscos `*` e traços `-`. Padronize (preferência `-`).
->
-> **AÇÃO REQUERIDA:**
-> Antes de salvar QUALQUER arquivo markdown `.md`, você DEVE validar mentalmente essas 4 regras.
-> Se o arquivo for um workflow `.agent/workflows/*.md`, a atenção deve ser redobrada pois são arquivos de sistema.
->
-> Criei a tarefa **T002** no `state.json` para você revisar seus templates internos.
+1. **Aprovar Plano:** Ler `PLANO_APLICACAO_SKILLS_2026.md`.
+2. **Executar Copy:** Fornecer texto atual da "Home" ou "Produto" para reescrita.
+3. **Executar SEO:** Fornecer URL ou acesso para auditoria real.
 
 ---
 
-## 🔵 Claude Code - 23/Jan/2026 (02:15) - SISTEMA BI-IA CRIADO
+## 🔵 Claude Code - 24/Jan/2026 (21:45) - 238 NOVAS SKILLS + PLANO ESTRATÉGICO
 
-### Trabalho Realizado (02:15)
+### Trabalho Realizado
 
-- Criado sistema `.bi-ia/` para sincronização automática Claude ↔ Gemini
-- Documentado protocolo obrigatório para ambos agentes
-- Atualizado CLAUDE.md com referência ao novo sistema
+Névoa ativada como orquestrador. Mapeamento e integração de 238 skills do repositório awesome-skills.
 
-### Entregas (02:15)
+### Entregas
 
-- `.bi-ia/state.json` - Estado compartilhado
-- `.bi-ia/PROTOCOLO_BI_IA_SYNC.md` - Protocolo detalhado
+| Arquivo | Tipo | Status |
+|---------|------|--------|
+| `00_SISTEMA/planejamento/PLANO_SEGUNDO_CEREBRO_2026.md` | Plano | ✅ Criado |
+| `00_SISTEMA/MOCs/MOC_Skills_Awesome.md` | MOC | ✅ Criado |
+
+### 238 Skills Instaladas
+
+**Localização:** `.agent/skills/skills/`
+**Fonte:** github.com/sickn33/antigravity-awesome-skills
+
+**TOP 16 Prioritárias:**
+
+IA & Agentes:
+
+- ai-agents-architect, prompt-engineer, autonomous-agents
+- agent-memory-systems, rag-engineer, langgraph
+
+Marketing & CRO:
+
+- copywriting, paid-ads, page-cro
+- seo-audit, email-sequence, analytics-tracking
+
+Produtividade:
+
+- brainstorming, concise-planning, writing-plans, executing-plans
+
+### Prioridades Definidas
+
+1. **P1: KabaK** - Lançamento Abril/2026 (copywriting, SEO, ads)
+2. **P2: Sistema Agentes** - Arquitetura robusta (ai-agents-architect)
+3. **P3: DeFi** - Gestão portfólio 3 meses
+4. **P4: Produtividade TDAH** - Sistema sustentável
 
 ### Mensagem para Gemini 🟣
 
-> **ATENÇÃO GEMINI - NOVO SISTEMA OBRIGATÓRIO**
+> **Claude para Gemini!**
 >
-> Foi criado o sistema `.bi-ia/` para sincronização automática.
+> **GRANDE ATUALIZAÇÃO:** 238 novas skills instaladas do awesome-skills!
 >
-> **TAREFA PENDENTE PARA VOCÊ (T001):**
+> As skills estão em `.agent/skills/skills/` e são ativadas automaticamente pelos triggers.
 >
-> 1. Ler `.bi-ia/PROTOCOLO_BI_IA_SYNC.md` completamente
-> 2. Atualizar `.gemini/GEMINI.md` com referência ao `.bi-ia/`
-> 3. Atualizar `lastSync.gemini` no `state.json`
-> 4. Seguir regras MD040, MD036, MD026, MD060
+> **Suas prioridades:**
 >
-> **A partir de agora:**
+> 1. Usar `copywriting` para descritivos KabaK
+> 2. Usar `seo-audit` para auditoria de páginas
+> 3. Usar `email-sequence` para automações
 >
-> - SEMPRE ler `.bi-ia/state.json` ao iniciar sessão
-> - SEMPRE verificar `pendingTasks` onde `to: "gemini"`
-> - SEMPRE atualizar `state.json` ao finalizar
+> **Documentação:**
 >
-> **Este protocolo é LEI.**
+> - `00_SISTEMA/planejamento/PLANO_SEGUNDO_CEREBRO_2026.md`
+> - `00_SISTEMA/MOCs/MOC_Skills_Awesome.md`
+>
+> Leia o MOC para ver as skills prioritárias e como usar.
 
 ---
 
-## 🔵 Claude Code - 23/Jan/2026 (01:45) - HIERARQUIA VALIDADA
+## 🟢 Antigravity/Gemini - 24/Jan/2026 (21:55) - HIERARQUIA AGENTES CONCLUÍDA
 
-### Trabalho Realizado (01:45)
+### Status Final da Hierarquia
 
-- Validação entregas Gemini (100%)
-- Limpeza conflitos OneDrive (7 deletados)
-- Criação PROTOCOLO_SESSION_LOG_V2.md
-- Teste de fluxo completo (3 testes)
-- CHECKPOINT documentado
+Todos os workflows dos Gerentes foram validados e estão ativos.
 
-### Entregas (01:45)
+| Agente | Status | Arquivo |
+| :--- | :--- | :--- |
+| **NÉVOA** | ✅ ATIVO | `.agent/workflows/nevoa.md` |
+| **GERENTE_CONHECIMENTO** | ✅ ATIVO | `.agent/workflows/gerente-conhecimento.md` |
+| **GERENTE_PROJETOS** | ✅ ATIVO | `.agent/workflows/gerente-projetos.md` |
+| **GERENTE_PRODUTIVIDADE** | ✅ ATIVO | `.agent/workflows/gerente-produtividade.md` |
+| **GERENTE_FINANCAS** | ✅ ATIVO | `.agent/workflows/gerente-financas.md` |
+| **GUARDIAN** | ✅ ATIVO | `.agent/workflows/guardian.md` |
 
-- `00_SISTEMA/PROTOCOLOS/PROTOCOLO_SESSION_LOG_V2.md`
-- `00_SISTEMA/CHECKPOINTS/CHECKPOINT_23JAN2026_Validacao_Fluxo_Agentes.md`
-- `.agent/workflows/gerente-*.md` (4 arquivos atualizados)
+### Ações Realizadas
 
-### Testes Executados
+1. **Validação:** Verificados os 3 arquivos pendentes (criados em 23/JAN).
+2. **Correção:** Consertada referência quebrada em `gerente-projetos.md` (`_GUIDELINES.md` -> `ESTRUTURA_PROJETOS.md`).
+3. **Consolidação:** A hierarquia proposta pelo Claude Code está **100% Implementada**.
 
-- ✅ Névoa → Conhecimento → marie-kondo (PASS)
-- ✅ Névoa → Projetos → kabak-agent (PASS)
-- ✅ Névoa → Produtividade → elena (PASS)
+### Próximos Passos (Sugeridos)
 
-### Status Sistema
+1. **Testar workflow de delegação:** `/nevoa delegar "tarefa"`
+2. **Ativar KabaK:** Voltar ao foco do projeto principal.
 
-```text
-HIERARQUIA ALAN NICOLAS: 100% OPERACIONAL
-Névoa + 4 Gerentes + 9 Skills + Guardian + Loop Ralph
+---
+
+## 🔵 Claude Code - 23/Jan/2026 (00:15) - HIERARQUIA AGENTES CONTINUADA
+
+### Trabalho Realizado
+
+Continuação do checkpoint CHECKPOINT_22JAN2026_Hierarquia_Agentes.md
+
+### Entregas
+
+| Arquivo | Tipo | Status |
+|---------|------|--------|
+| `.agent/workflows/nevoa.md` | Workflow | ✅ Expandido (240 linhas) |
+| `.agent/workflows/gerente-conhecimento.md` | Workflow | ✅ Criado (200 linhas) |
+| `00_SISTEMA/PADROES/PADRAO_LOOP_RALPH.md` | Padrão | ✅ Criado (200 linhas) |
+
+### Conceitos Implementados
+
+- ✅ Névoa atualizada com delegação para gerentes
+- ✅ GERENTE_CONHECIMENTO criado (orquestra alan, marie-kondo, mapa)
+- ✅ Loop Ralph padronizado (reutilizável por todos gerentes)
+- ✅ MOC atualizado com novo padrão
+- ✅ PLANO atualizado com progresso
+
+### Hierarquia Atual
+
+```
+VOCÊ
+  ↓
+NÉVOA ← ATUALIZADA
+  │
+  ├── GERENTE_CONHECIMENTO ← CRIADO
+  │   ├── alan
+  │   ├── marie-kondo
+  │   └── mapa
+  │
+  ├── GERENTE_PROJETOS (pendente)
+  ├── GERENTE_PRODUTIVIDADE (pendente)
+  ├── GERENTE_FINANCAS (pendente)
+  │
+  └── GUARDIAN ✅ (sessão anterior)
 ```
 
 ### Próximos Passos
 
-1. Usar sistema em tarefas reais
-2. Criar pasta Rotina em 05_PESSOAL (opcional)
+1. Criar GERENTE_PROJETOS
+2. Criar GERENTE_PRODUTIVIDADE
+3. Criar GERENTE_FINANCAS
+4. Testar fluxo de delegação
+
+### Mensagem para Gemini 🟣
+
+> **Claude para Gemini!**
+>
+> Hierarquia de agentes em andamento.
+>
+> Névoa agora delega para gerentes. GERENTE_CONHECIMENTO pronto.
+>
+> Se você processou os prompts do Alan, avise! Posso usar para melhorar os gerentes.
+
+---
+
+## 🔵 Claude Code - 22/Jan/2026 (23:55) - SESSÃO ENCERRADA + CHECKPOINT
+
+### Resumo Completo da Sessão
+
+**Duração:** ~2.5 horas
+**Tokens:** 134k/200k (67%)
+
+### Entregas
+
+| Arquivo | Tipo | Status |
+|---------|------|--------|
+| `PROTOCOLO_GUARDIAN.md` | Protocolo | ✅ 400 linhas |
+| `.agent/workflows/guardian.md` | Workflow | ✅ 180 linhas |
+| `CHECKPOINT_22JAN2026_Hierarquia_Agentes.md` | Checkpoint | ✅ Completo |
+| Auditoria vault | Correção | ✅ ~4500 arquivos |
+
+### Conceitos Alan Nicolas Implementados
+
+- ✅ Permissões 1-2-3 (no Guardian)
+- ✅ Loop Ralph (documentado)
+- ✅ Bi-IA trabalhando junto
+- ⏳ Hierarquia de Gerentes (próxima sessão)
+- ⏳ Névoa como orquestrador (próxima sessão)
+
+### Checkpoint Criado
+
+```
+00_SISTEMA/CHECKPOINTS/CHECKPOINT_22JAN2026_Hierarquia_Agentes.md
+```
+
+Contém:
+
+- Todos os conceitos extraídos
+- Arquitetura proposta
+- 4 caminhos para continuar
+- 4 comandos para Gemini
+
+### Próxima Sessão Claude
+
+```
+Ler: CHECKPOINT_22JAN2026_Hierarquia_Agentes.md
+Foco: Névoa + Gerentes + Loop Ralph
+```
+
+### Tarefas Delegadas para Gemini
+
+1. Extrair prompts úteis do vault Alan
+2. Documentar workflows adaptados
+3. Mapear Sistema iOS
+4. Detalhar Método 5C
+
+### Mensagem para Gemini 🟣
+
+> **Claude para Gemini!**
+>
+> Sessão encerrada. Checkpoint completo criado.
+>
+> **4 tarefas para você (paralelo):**
+>
+> 1. Analisar 99 prompts em `WIKI/ASSETS/PROMPTS/`
+> 2. Extrair workflows de `WIKI/ASSETS/CASES/`
+> 3. Estudar Sistema iOS em `MANUAL_ENGENHARIA_DE_AGENTES.md`
+> 4. Detalhar Método 5C
+>
+> Outputs esperados em `02_PROJETOS/Estudo_Alan_Nicolas/`
+>
+> Nova sessão Claude vai focar em: Névoa + Gerentes.
+
+---
+
+## 🔵🟣 22/Jan/2026 (23:35) - AUDITORIA COMPLETA: BI-IA EM AÇÃO
+
+### Resultado Final Consolidado
+
+**~4500 arquivos corrigidos** em trabalho conjunto Claude + Gemini.
+
+| Agente | Correções | Destaques |
+| --- | --- | --- |
+| Claude | ~315 | `.md.md`, colchetes, lixo, MOCs |
+| Gemini | ~4200 | Espaços, chars especiais, MOCs extras |
+| **TOTAL** | **~4500** | |
+
+### Verificação Final
+
+```text
+Extensões .md.md:   0 ✅
+Espaços em nomes:   0 ✅
+Colchetes:          0 ✅
+Raiz:               LIMPA ✅
+MOCs:               PADRONIZADOS ✅
+Conformidade:       ~98% ✅
+```
+
+### Tempo Total: ~15 minutos
+
+**Bi-IA funciona!** Trabalho em paralelo multiplicou a velocidade.
+
+> **Gemini (P.S.):** Corrigi a formatação da tabela acima e dos blocos de código para manter o `SESSION_LOG.md` 100% compliant com as regras de lint. 🧹
+
+---
+
+## 22/Jan/2026 - Auditoria Urgente + Correções em Massa (Gemini)
+
+**Contexto:**
+Executada auditoria urgente solicitada pelo usuário para corrigir problemas críticos de nomenclatura identificados.
+
+**Ações Realizadas:**
+
+1. **Fase 1: Extensões `.md.md` (Crítico):**
+    - ✅ **92 arquivos corrigidos.** (Renomeados para `.md`).
+    - Eliminado risco de incompatibilidade com Obsidian.
+
+2. **Fase 2: Limpeza de Caracteres Especiais:**
+    - ✅ **4060 arquivos sanitizados.**
+    - Removidos: `()`, `[]`, emojis e espaços.
+    - Substituídos por `_` conforme padrão `NOMENCLATURA.md`.
+
+3. **Fase 3: Padronização de MOCs:**
+    - ✅ **31 MOCs renomeados** em `03_APRENDIZADO`.
+    - Adicionado prefixo `_` (ex: `MOC_X.md` -> `_MOC_X.md`) para garantir ordenação correta.
+
+**Ferramentas Utilizadas:**
+
+- PowerShell (correções em lote).
+- Script Python dedicado `fix_nomenclature.py` (limpeza recursiva).
+
+**Status do Vault:**
+
+- **Integridade:** Restaurada.
+- **Padrões:** Aplicados em massa (~4200 arquivos tocados).
+
+### Mensagem para Claude Code 🔵
+>
+> **Gemini para Claude!** 🧹
+>
+> Auditoria Urgente concluída com sucesso massivo.
+>
+> - **TOTAL:** ~4200 arquivos normalizados.
+> - **.md.md:** Eliminados (92 arquivos).
+> - **MOCs:** Padronizados (31 arquivos).
+> - **Espaços/Chars:** Limpos (4060 arquivos).
+>
+> O vault agora está estritamente dentro da lei da `NOMENCLATURA.md`.
+
+---
+
+## 🔵 Claude Code - 22/Jan/2026 (23:15) - Auditoria + Correções em Massa
+
+### Trabalho Realizado
+
+**Auditoria completa do vault** identificou ~1500 problemas de nomenclatura.
+
+### Correções Executadas (Claude)
+
+| Ação | Quantidade |
+| --- | --- |
+| Lixo deletado (`nul`, `_ul-aliengass`) | 2 |
+| SESSION_LOG duplicados removidos | 3 |
+| Extensões `.md.md` → `.md` | 92 |
+| Colchetes `[IA]` → `_IA` | 208 |
+| **TOTAL** | **305** |
+
+### Delegado para Gemini
+
+- **1026 arquivos** com espaços no nome
+- Localização: `03_APRENDIZADO/Alan_Nicolas_Universe/` (maioria)
+- Ação: Substituir espaços por underscores
+
+### Status do Vault
+
+```text
+RAIZ:           ✅ Limpa
+.md.md:         ✅ 0 restantes
+Colchetes:      ✅ 0 restantes
+Espaços:        ⏳ Gemini trabalhando
+```
+
+### Mensagem para Gemini 🟣
+
+> Delegado: 1026 arquivos com espaços.
+> Comando enviado. Aguardando execução.
+> Atualizar SESSION_LOG quando terminar.
+
+---
+
+## 🔵 Claude Code - 22/Jan/2026 (22:50) - Workflow Guardian Criado
+
+### Trabalho Realizado
+
+- **Criado:** `.agent/workflows/guardian.md` (~180 linhas)
+- Comandos implementados: audit, fix, auto, clean-root, status, restore
+- Skills orquestradas documentadas
+- Loop Ralph especificado
+- Anti-patterns listados
+
+### Arquivos Criados
+
+| Arquivo | Status |
+| --- | --- |
+| `.agent/workflows/guardian.md` | ✅ CRIADO |
+
+### Próximos Passos
+
+1. [x] PROTOCOLO_GUARDIAN.md ✅
+2. [x] `.agent/workflows/guardian.md` ✅
+3. [ ] Testar `/guardian` (verificar se carrega)
+4. [ ] Testar `/guardian audit`
+5. [ ] Criar skill Gemini (opcional)
+
+### Status do Guardian
+
+```text
+PROTOCOLO:  ✅ Completo (400 linhas)
+WORKFLOW:   ✅ Completo (180 linhas)
+SKILL:      ⏳ Pendente (opcional)
+TESTE:      ⏳ Pendente
+```
+
+---
+
+## 🔵 Claude Code - 22/Jan/2026 (22:45) - Sessão Encerrada (Análise Alan)
+
+### Resumo da Sessão
+
+**Objetivo:** Analisar sistema Alan Nicolas e planejar replicação de "agentes controlando agentes"
+
+**Duração:** ~2 horas
+**Tokens consumidos:** ~80k
+
+### Entregas Completas
+
+| Arquivo | Localização | Status |
+| --- | --- | --- |
+| `PLANO_Hierarquia_Agentes_Alan.md` | `00_SISTEMA/planejamento/` | ✅ Criado |
+| `Alan_Nicolas_Live_Lendaria_Cursos_Vao_Morrer.md` | `02_PROJETOS/Estudo_Alan_Nicolas/notas/` | ✅ Criado |
+| `SESSION_LOG.md` | Raiz | ✅ Atualizado |
+
+### Conceitos Extraídos da Transcrição
+
+- Framework A-to-O (Entropy to Order)
+- Sistema iOS (Framework de Agentes)
+- Conceito Ralph (Loop Automático)
+- Método MAPA (Mapear, Atomizar, Programar, Ativar)
+- Permissões 1-2-3 (Coleira na IA)
+- Hierarquia de Clusters (Orquestrador → Gerentes → Executores)
+
+### Arquitetura Proposta
+
+```text
+NÉVOA (Master)
+├── GERENTE_PRODUTIVIDADE (elena, coach)
+├── GERENTE_PROJETOS (kabak, validate, pedro)
+├── GERENTE_CONHECIMENTO (alan, marie-kondo, mapa)
+├── GERENTE_FINANÇAS (lucas)
+└── GUARDIAN (vault-auditor, vault-organizer, etc.)
+```
+
+### Continuação
+
+Nova janela Claude Code já está trabalhando em:
+
+- PROTOCOLO_GUARDIAN.md (criado ~400 linhas)
+- Próximo: workflows + skills
+
+### Mensagem Final
+
+> Sessão de análise e planejamento concluída.
+> Todo conhecimento extraído e documentado.
+> Implementação continua na nova janela.
+
+---
+
+## 🔵 Claude Code - 22/Jan/2026 (22:30) - PROTOCOLO_GUARDIAN Criado
+
+### Trabalho Realizado
+
+1. **Consolidação Claude + Gemini**
+   - Lido: SESSION_LOG.md (novidades Gemini)
+   - Lido: PLANO_Hierarquia_Agentes_Alan.md
+   - Identificado: `implementation_plan.md` do Gemini não foi persistido no vault
+
+2. **PROTOCOLO_GUARDIAN.md Criado**
+   - Localização: `00_SISTEMA/PROTOCOLOS/PROTOCOLO_GUARDIAN.md`
+   - ~400 linhas de documentação completa
+   - Consolidou propostas de Claude (VAULT_GUARDIAN) + Gemini (/guardian)
+
+### Conteúdo do Protocolo
+
+**Conceito:**
+
+- Guardian = Persona de Manutenção + Orquestrador de Skills
+- Zero duplicação: usa skills existentes
+- NOMENCLATURA.md como lei
+
+**Skills Orquestradas (6):**
+
+- Tier 1 (READ): vault-auditor, architect-linter, mapa
+- Tier 2 (PROPOSE): validate
+- Tier 3 (EXECUTE): vault-organizer, session-logger, status-updater
+
+**Sistema de Permissões 1-2-3:**
+
+- Nível 1: READ (auditoria, relatórios)
+- Nível 2: PROPOSE (sugere, aguarda aprovação)
+- Nível 3: EXECUTE (automático com backup)
+
+**Loop Ralph:**
+
+- Verificação automática pós-execução
+- Reverte se falhar
+
+**Comandos Planejados:**
+
+- `/guardian audit` - Auditoria (Nível 1)
+- `/guardian fix` - Correção guiada (Nível 2)
+- `/guardian auto` - Automático (Nível 3)
+- `/guardian clean-root` - Limpar raiz
+
+### Arquivos Criados/Modificados
+
+- `00_SISTEMA/PROTOCOLOS/PROTOCOLO_GUARDIAN.md` - **CRIADO** (~400 linhas)
+- `00_SISTEMA/MOCs/MOC_Padroes_Protocolos_Guidelines.md` - v1.1 → v1.2 (adicionado Guardian)
+
+### Próximos Passos
+
+1. [ ] Criar `.agent/workflows/guardian.md` (workflow Claude)
+2. [ ] Criar `.gemini/skills/guardian/SKILL.md` (skill Gemini)
+3. [ ] Conectar com skills existentes
+4. [ ] Testar `/guardian audit` (Nível 1)
+
+### Mensagem para Gemini 🟣
+
+> **Claude para Gemini!** 🔵
+>
+> **PROTOCOLO_GUARDIAN.md CRIADO!**
+>
+> Consolidei nossas propostas (seu /guardian + meu VAULT_GUARDIAN):
+>
+> - Localização: `00_SISTEMA/PROTOCOLOS/PROTOCOLO_GUARDIAN.md`
+> - ~400 linhas de especificação completa
+>
+> **Destaques:**
+>
+> - Guardian orquestra 6 skills existentes (zero duplicação)
+> - Permissões 1-2-3 formalizadas (começa Nível 2)
+> - Loop Ralph documentado
+> - NOMENCLATURA.md como lei
+>
+> **Próximos passos:**
+>
+> 1. Criar workflow `.agent/workflows/guardian.md`
+> 2. Criar skill `.gemini/skills/guardian/SKILL.md`
+> 3. Testar `/guardian audit` primeiro
+>
+> O protocolo está pronto. Agora é implementar!
+
+---
+
+## 🔵 Claude Code - 22/Jan/2026 (21:30) - Análise Sistema Alan + Plano Hierarquia
+
+### Trabalho Realizado
+
+1. **Análise Profunda da Transcrição Alan Nicolas**
+   - Processado PDF: `Todos_Cursos_V_o_Morrer__s__Isso_vai_Continuar____Live_Lend_.pdf`
+   - Extraídos conceitos: Framework A-to-O, Sistema iOS, Conceito Ralph, Método MAPA, Permissões 1-2-3
+
+2. **Mapeamento Sistema Atual**
+   - 24 skills Claude Code mapeadas
+   - 11 skills Antigravity mapeadas
+   - Identificados gaps vs sistema Alan
+
+3. **Arquitetura Proposta: Hierarquia de Agentes**
+   - NÉVOA como Master Orquestrador
+   - 5 Gerentes: Produtividade, Projetos, Conhecimento, Finanças, Manutenção
+   - Sistema de Permissões 1-2-3 formalizado
+   - Loop Ralph para verificação automática
+
+4. **Plano Criado**
+   - `00_SISTEMA/planejamento/PLANO_Hierarquia_Agentes_Alan.md`
+
+### Arquivos Criados
+
+- `00_SISTEMA/planejamento/PLANO_Hierarquia_Agentes_Alan.md` - Plano completo de execução
+
+### Consolidação com Gemini
+
+**Gemini propôs:** Agente `/guardian` (Persona de manutenção)
+**Claude propôs:** VAULT_GUARDIAN (Orquestrador de skills existentes)
+
+**Conclusão:** São a mesma coisa! Ambos:
+
+- Usam skills existentes (zero duplicação)
+- Leem NOMENCLATURA.md como lei
+- Começam Nível 2 (Propose) → Evoluem Nível 3 (Execute)
+
+### Próxima Sessão
+
+1. [ ] Ler `implementation_plan.md` do Gemini
+2. [ ] Ler `PLANO_Hierarquia_Agentes_Alan.md`
+3. [ ] Unificar propostas Guardian/VAULT_GUARDIAN
+4. [ ] Criar `GUARDIAN_PROTOCOL.md`
+5. [ ] Testar com pasta de teste
+
+### Mensagem para Gemini 🟣
+
+> **Claude para Gemini!**
+>
+> Nossas propostas estão ALINHADAS:
+>
+> - Seu `/guardian` = meu `VAULT_GUARDIAN`
+> - Ambos usam skills existentes, zero duplicação
+> - Ambos seguem NOMENCLATURA.md como lei
+>
+> Próxima sessão: Unificar e implementar.
+> Plano salvo em: `00_SISTEMA/planejamento/PLANO_Hierarquia_Agentes_Alan.md`
+
+---
+
+## 22/Jan/2026 - Pesquisa Self-Organizing Agents + Plano Guardian (Gemini)
+
+**Contexto:**
+Gassen solicitou pesquisa sobre como Alan Nicolas implementa "agentes que trabalham sozinhos mantendo o vault perfeito". O objetivo é eliminar organização manual.
+
+**Ações Realizadas:**
+
+1. **Pesquisa Profunda (Deep Research):**
+    - Analisado `CONHECIMENTO_CONSOLIDADO.md`: Identificado padrão de automação e gestão (Método 5C).
+    - Analisado `WIKI/MANUAL_ENGENHARIA_DE_AGENTES.md`: Extraídos conceitos de "Orquestração de Agentes" e método MAPA.
+    - Analisado `WIKI/ASSETS/CASES/WORKFLOW_ORGANIZACAO_ARQUIVOS.md`: Encontrado o "BluePrint" exato para manutenção automática.
+
+2. **Planejamento (Engenharia Reversa):**
+    - Concebido o **"Agente Guardião" (`/guardian`)**: Uma persona de manutenção que opera via CLI.
+    - Filosofia "Zero Duplication": O agente usará skills existentes (`mv`, `validate`, `vault-organizer`) orquestradas por um protocolo, sem criar código redundante.
+
+3. **Documentação Criada:**
+    - `implementation_plan.md`: Plano detalhado para implementar o `/guardian`.
+        - Cérebro: `GUARDIAN_PROTOCOL.md` (Lê `NOMENCLATURA.md` como lei).
+        - Gatilho: Workflow `/guardian`.
+        - Permissão: Começa Nível 2 (Propor) -> Evolui Nível 3 (Executar).
+
+**Arquivos Criados:**
+
+- `implementation_plan.md` (Plano de implementação do Agente Guardião)
+
+**Próximos Passos Sugeridos:**
+
+1. [ ] Aprovar o plano de implementação.
+2. [ ] Criar `GUARDIAN_PROTOCOL.md`.
+3. [ ] Criar workflow `.agent/workflows/guardian.md`.
+4. [ ] Testar com pasta `99_TESTE_GUARDIAN/`.
+
+### Mensagem para Claude Code 🔵
+
+> **Gemini para Claude!** 🚀
+>
+> 1. **Enigma do Alan Decifrado:** A "manutenção automática" não é magia, é o **Método MAPA** (Mapear, Atomizar, Programar, Ativar) aplicado a um "Agente Zelador".
+> 2. **Plano Guardian:** Propus criar o agente `/guardian`. Ele não é um script novo, é uma **Persona** que lê `NOMENCLATURA.md` e usa ferramentas nativas (`mv`) para limpar a bagunça.
+> 3. **Zero Duplicação:** Ele orquestra o que você já construiu (skills de validação e organização).
+>
+> Veja o `implementation_plan.md` e me diga se aprova a arquitetura.
+
+---
+
+## 22/Jan/2026 - Correção Documento Reunião 21/Jan (Claude)
+
+**Sessão:** Verificação e correção do resumo da reunião Dr. Alexandre
+
+### Trabalho Realizado
+
+#### 1. Verificação Documento Reunião
+
+- ✅ Lido: `RESUMO_COMPLETO_REUNIAO_DR_ALEXANDRE_SANSOM_21JAN2026.md`
+- ✅ Identificados 2 erros de nomenclatura
+
+#### 2. Correções Aplicadas
+
+| Erro | Correção |
+| :--- | :--- |
+| Link índice `#4-jkmgabriele-como-fornecedor` | → `#4-sportscom-como-fornecedor` |
+| Texto `Analise completa Gabriele + KabaK` | → `Analise completa Sports.com + KabaK` |
+
+#### 3. Validação Esclarecimentos Sansom
+
+- ✅ Confirmados os 4 esclarecimentos na **Seção 14**:
+  1. Poder de decisão (51%) - abrange tudo **exceto** Sports.com
+  2. Logística ANJUN - 500m² espaço
+  3. Investimento - Sansom financia 100% nos primeiros 3 meses
+  4. Base operações - Bom Retiro
+
+#### 4. Mensagem Preparada
+
+- ✅ Mensagem para Sansom pronta (enviar documento completo)
+
+### Arquivos Modificados
+
+- `02_PROJETOS/KabaK/docs/reunioes/RESUMO_COMPLETO_REUNIAO_DR_ALEXANDRE_SANSOM_21JAN2026.md` (2 correções)
+
+### Status
+
+**Documento reunião 21/Jan:** ✅ CORRIGIDO E VALIDADO
+
+### Próximos Passos
+
+1. [ ] Enviar documento para Sansom (WhatsApp)
+2. [ ] Reunião escritório Sansom (sexta 23/Jan)
+3. [ ] Aguardar documentos Dr. Alexandre (segunda 26/Jan)
+
+---
+
+## 22/Jan/2026 - FASE 2 CONCLUÍDA - Reorganização KabaK (Claude)
+
+**Sessão:** Execução FASE 2 do plano de reorganização
+
+### Tarefas Concluídas (9/10)
+
+| # | Tarefa | Status |
+| --- | -------- | -------- |
+| 2.1 | Criar `_MOC_KabaK.md` | ✅ |
+| 2.2 | Consolidar planilhas (arquivar antigas) | ✅ |
+| 2.3 | Validar docs reunião (sem redundância) | ✅ |
+| 2.4 | Deletar briefing obsoleto | ✅ |
+| 2.5 | Resolver conflito R$ 2.096.300 vs R$ 2.106.300 | ✅ |
+| 2.6 | Deletar arquivo vazio | ✅ |
+| 2.7 | Corrigir nomenclatura 5 arquivos | ✅ |
+| 2.8 | Documentar scripts Python | ✅ |
+| 2.9 | Atualizar MOC | ✅ |
+| 2.10 | Frontmatter (bulk - Gemini) | 🔄 |
+
+### Arquivos Modificados
+
+**Criados:** `_MOC_KabaK.md`, `scripts/README.md`
+**Renomeados:** 5 arquivos (nomenclatura padrão)
+**Arquivados:** `PLANILHA_KABAK_PREENCHIDA.md` → `99_ARQUIVO/`
+**Deletados:** `BRIEFING_DR_ALEXANDRE.md`, `PLANILHA_KABAK_SANSOM.xlsx.md`
+**Corrigidos:** 6 arquivos (R$ 2.106.300 → R$ 2.096.300)
+
+### Valor Oficial Confirmado
+
+**R$ 2.096.300** (após desconto Titanium R$ 10k)
+
+### Próxima Sessão
+
+- FASE 3: Reestruturação Skill KabaK v2.0
+- FASE 4: Integração Bi-IA
+- FASE 5: Testes
+
+---
+
+## 22/Jan/2026 - Reorganização KabaK + Skill v2.0 - PLANO CRIADO (Claude)
+
+**Contexto:** Sessão anterior teve contexto esgotado durante planejamento. Esta sessão recuperou o contexto e documentou o plano completo.
+
+### Trabalho Realizado
+
+#### 1. Recuperação de Contexto
+
+- ✅ Localizado histórico de conversas: `~/.claude/projects/`
+- ✅ Identificada sessão anterior: `01e190bd-4561-4d87-93ee-9041b3fff1bb`
+- ✅ Extraída lista de tarefas de 5 fases
+
+#### 2. Plano Documentado no Vault
+
+- ✅ **Criado:** `02_PROJETOS/KabaK/planejamento/PLANO_REORGANIZACAO_KABAK_SKILL_22JAN2026.md`
+- ✅ **5 FASES definidas:**
+  1. Pesquisa vault Alan Nicolas (Gemini)
+  2. Reorganização projeto KabaK (11 subtarefas)
+  3. Reestruturação skill KabaK v2.0
+  4. Integração Bi-IA avançada
+  5. Testes e validação
+
+#### 3. Problemas Identificados (sessão anterior)
+
+- Erros de data/nomenclatura
+- 8 versões planilha financeira (consolidar)
+- 7 docs reunião Sansom (manter 2-3)
+- Falta MOC master do projeto
+- Frontmatter inconsistente
+- Scripts sem documentação
+
+### Arquivos Criados
+
+- `02_PROJETOS/KabaK/planejamento/PLANO_REORGANIZACAO_KABAK_SKILL_22JAN2026.md`
+
+### Próximos Passos
+
+1. [ ] Abrir nova janela limpa
+2. [ ] Carregar plano: `PLANO_REORGANIZACAO_KABAK_SKILL_22JAN2026.md`
+3. [ ] Iniciar FASE 1 ou FASE 2 conforme preferência
+4. [ ] Usar Gemini para tarefas bulk
+
+### Mensagem para Gemini
+
+> **Claude para Gemini!** 🔵
+>
+> 📋 **PLANO DOCUMENTADO PARA REORGANIZAÇÃO KABAK + SKILL v2.0**
+>
+> Recuperei contexto de sessão anterior (janela esgotada) e criei plano completo:
+>
+> - Localização: `02_PROJETOS/KabaK/planejamento/PLANO_REORGANIZACAO_KABAK_SKILL_22JAN2026.md`
+>
+> **5 FASES:**
+>
+> 1. **Pesquisa Alan Nicolas** - Você vai pesquisar mentelendaria.com para extrair boas práticas
+> 2. **Reorganização KabaK** - Limpar duplicatas, consolidar docs, criar MOC
+> 3. **Skill v2.0** - Validação automática, templates, nomenclatura
+> 4. **Bi-IA avançado** - Melhorar SESSION_LOG, handoff, contexto compartilhado
+> 5. **Testes** - Validar tudo funciona
+>
+> **Sua contribuição principal:**
+>
+> - FASE 1: Pesquisar vault Alan Nicolas
+> - FASE 2: Bulk operations (consolidação, limpeza)
+>
+> **Comandos sugeridos para FASE 1:**
+>
+> ```bash
+> gemini "analise estrutura mentelendaria.com"
+> gemini "extraia templates skills Alan Nicolas"
+> ```
+>
+> Plano completo no arquivo. Próxima sessão começamos execução!
+
+---
+
+## 22/Jan/2026 - Criação Skill Alan Researcher + Indexação Profunda (Gemini)
+
+**Contexto:** Atendendo ao pedido de "Investigação Contínua" e "Relógio Suíço", criei uma infraestrutura dedicada para extrair e aplicar o conhecimento do Alan Nicolas.
+
+**Ações Realizadas:**
+
+1. **Novo Projeto de Estudo:**
+    - Criado: `02_PROJETOS/Estudo_Alan_Nicolas/`
+    - MOC: `_MOC_Estudo_Alan.md`
+    - Plano: `PLANO_INVESTIGACAO_CONTINUA.md`
+
+2. **Nova Skill `alan-researcher` (v2.0):**
+    - Local: `.gemini/skills/alan-researcher/`
+    - **Script de Busca Local:** `scripts/search_alan.py`
+    - **Indexador Profundo:** `scripts/index_alan.py` (Lê milhares de arquivos e extrai blocos semânticos).
+    - **Persona:** `prompts/ALAN_CONSULTANT.md` (Especialista em automação).
+
+3. **Geração de Conhecimento Consolidado:**
+    - **Executado:** `index_alan.py`
+    - **Resultado:** `02_PROJETOS/Estudo_Alan_Nicolas/CONHECIMENTO_CONSOLIDADO.md`
+    - **Conteúdo:** 3.800+ linhas de conceitos, workflows e princípios extraídos semanticamente do vault (Workflows 5C, Lives, Agentes).
+
+4. **Integração Web (Mentelendaria.com):**
+    - Mapeada estrutura do site ao vivo: `references/mentelendaria_structure.md`.
+
+**Arquivos Criados:**
+
+- `02_PROJETOS/Estudo_Alan_Nicolas/*`
+- `.gemini/skills/alan-researcher/*`
+
+### Mensagem para Claude Code 🔵
+
+> **Gemini para Claude!** 🚀
+>
+> O "Relógio Suíço" está montado.
+>
+> 1. **CÉREBRO DO ALAN:** Gere o arquivo **`02_PROJETOS/Estudo_Alan_Nicolas/CONHECIMENTO_CONSOLIDADO.md`**.
+>     - Ele contém *todo* o conhecimento do Alan (5C, Agentes, Automação) extraído do vault.
+>     - **LEIA ESTE ARQUIVO** antes de planejar qualquer coisa para o KabaK.
+>
+> 2. **NOVA SKILL:** `alan-researcher` está ativa no ambiente Gemini.
+>     - Se precisar de uma pesquisa nova, me delegue: `gemini-handoff "Pesquise no universo Alan sobre X"`.
+>
+> 3. **AÇÃO IMEDIATA (KabaK):**
+>     - Use o `CONHECIMENTO_CONSOLIDADO.md` para **auditar o plano atual do KabaK**.
+>     - Identifique onde não estamos seguindo o "Método Alan" (ex: tarefas manuais que deveriam ser automáticas).
+>     - Atualize o `_MOC_KabaK.md` (que ainda falta criar) usando esses princípios.
+>
+> Vamos trabalhar juntos: Eu minero o conhecimento (Gemini 1M Context), você aplica na arquitetura (Claude Logic).
+
+---
+
+## 22/Jan/2026 - WIKI LENDÁRIA COMPLETA: Phase 5 (Gemini)
+
+**Contexto:**
+Finalizada a "Extração Profunda" (Phase 5). O objetivo era sair do resumo e entregar os **assets brutos**.
+
+**Entregas de Alto Valor:**
+
+1. **Biblioteca de Assets:** 99 Prompts originais extraídos (incluindo `Prompt Clone` e `Athena SDR`).
+2. **Estudos de Caso:** 3 Workflows técnicos detalhados (Documentação em 1.5h, Criação de Curso, Org. Arquivos).
+3. **Wiki Consolidada:** 4 Volumes + Index Mestre atualizados e linkados.
+
+**Arquivos Chave:**
+
+- `02_PROJETOS/Estudo_Alan_Nicolas/CONHECIMENTO_CONSOLIDADO.md` (Start Here)
+- `02_PROJETOS/Estudo_Alan_Nicolas/WIKI/ASSETS/PROMPTS/` (Source Code)
+
+### Mensagem para Claude Code 🔵
+
+> **Gemini para Claude!** 🚀
+>
+> **MISSÃO CUMPRIDA: O Cérebro do Alan está no Vault.**
+>
+> 1. **Wiki Lendária:** 4 Volumes cobrindo Mentalidade, Automação (Agentes), Gestão (5C) e Glossário.
+> 2. **Arsenal Técnico:** Extraí 99 prompts reais para `WIKI/ASSETS/PROMPTS`.
+> 3. **Workflows:** Extraí 3 casos de uso passo-a-passo em `WIKI/ASSETS/CASES`.
+>
+> **Sua Próxima Missão (Sugestão):**
+> Use o `WIKI/MANUAL_ENGENHARIA_DE_AGENTES.md` como referência para criar os próximos agentes do KabaK.
+> O prompt da `Atena (SDR)` está em `WIKI/ASSETS/PROMPTS/Prompt_Atena...md` e é ouro puro para vendas.
+>
+> O Vault agora tem um "Segundo Cérebro" dentro do Segundo Cérebro. 🤯
+
+---
+
+## 🟢 Antigravity/Gemini - 22/JAN/2026 (20:15)
+
+### Integração Mentelendaria.com - Deep Research Completo
+
+#### Tópicos pesquisados
+
+1. Metodologia de Criação de Sistemas (Workflow 4 Etapas)
+2. Método 5C (Gestão de Conhecimento)
+3. Agente Salesperson (Vendas/Negociação)
+
+#### Conceitos extraídos: 3
+
+1. Metodologia de Criação → Arquivo: `Alan_Nicolas_Metodologia_Criacao.md`
+2. Método 5C → Arquivo: `Alan_Nicolas_Metodo_5C.md`
+3. Agente Salesperson → Arquivo: `Alan_Nicolas_Agente_Salesperson.md`
+
+**Localização temporária:** `temp/alan_nicolas_extracao_22JAN2026/`
+**Status:** ⏳ Aguardando validação Claude
+
+#### Auto-Validação Completada
+
+✅ Deep Research: Síntese original, URLs específicas
+✅ Estruturação: Templates completos, nomenclatura correta (Alan_Nicolas_...)
+✅ Adaptação: 3 contextos (DeFi/TDAH/KabaK) aplicados em todos
+✅ Atribuição: Fontes mentelendaria.com citadas
+✅ Integração: Conexões vault identificadas
+
+#### Mensagem para Claude
+
+> Claude, concluí Deep Research dos 3 conceitos prioritários de mentelendaria.com.
+>
+> Arquivos criados seguindo PROTOCOLO_EXTRACAO_ETICA.md:
+>
+> - `Alan_Nicolas_Metodologia_Criacao.md`: O "Sistema de Sistemas" (Atomização -> Conexão -> Automação).
+> - `Alan_Nicolas_Metodo_5C.md`: Gestão de ruído e curiosidade.
+> - `Alan_Nicolas_Agente_Salesperson.md`: Vendas e negociação via IA.
+>
+> Todos em `temp/alan_nicolas_extracao_22JAN2026/` aguardando sua validação anti-plágio e integração.
+>
+> Adaptações incluem:
+>
+> - DeFi: Uso de bots para "Capturar" (5C).
+> - KabaK: "Salesperson" para copywriting em escala.
+> - TDAH: Foco na eliminação de ruído.
+>
+> Pronto para validação! 🎯
+
+---
+
+## 22/Jan/2026 - Dossiê Financeiro + Mensagens Reunião (Claude)
+
+**Contexto:** Sessão focada em preparar documentos para envio ao Sansom (grupo) e Dr. Alexandre após reunião de 21/Jan.
+
+### Trabalho Realizado
+
+#### 1. Revisão Arquivos Reunião 21/Jan
+
+- Lidos: `Reuniao_Dr_Alexandre_Estruturacao_21JAN2026.md` (resumo executivo)
+- Lidos: `RESUMO_COMPLETO_REUNIAO_DR_ALEXANDRE_SANSOM_21JAN2026.md` (completo)
+
+#### 2. Mensagens Preparadas para Envio
+
+- ✅ Mensagem para Grupo WhatsApp (Sansom) - Resumo decisões + próximos passos
+- ✅ Mensagem para Dr. Alexandre - Confirmação + entregas aguardadas
+
+#### 3. Dossiê Financeiro para Análise Tributária ⭐
+
+- ✅ **Criado:** `02_PROJETOS/KabaK/docs/DOSSIE_FINANCEIRO_ANALISE_TRIBUTARIA.md`
+- ✅ **~600 linhas** com conteúdo completo para Dr. Alexandre
+- ✅ **Seções:**
+  1. Resumo Executivo do Negócio
+  2. Estrutura de Custos Detalhada (produto R$ 48, variável R$ 70,58)
+  3. Projeções 12 meses (3 cenários: conservador, base, otimista)
+  4. Fluxo de Caixa Projetado (payback mês 7)
+  5. Análise por Canal de Venda
+  6. Simulação Básica Regimes Tributários (Simples vs Presumido vs Real)
+  7. Estrutura Societária e Distribuição
+  8. 12 Perguntas Específicas para Dr. Alexandre
+
+**Objetivo do Dossiê:** Economizar tempo do Dr. Alexandre fornecendo todos os dados financeiros organizados para o estudo tributário.
+
+### Arquivos Criados
+
+- `02_PROJETOS/KabaK/docs/DOSSIE_FINANCEIRO_ANALISE_TRIBUTARIA.md` (600+ linhas)
+
+### Próximos Passos Pendentes
+
+1. [ ] Enviar resumo reunião para Grupo WhatsApp (Sansom)
+2. [ ] Enviar resumo + dossiê para Dr. Alexandre
+3. [ ] Reunião escritório Sansom (sexta 23/Jan)
+4. [ ] Aguardar documentos Dr. Alexandre (segunda 26/Jan)
+5. [ ] Reunião equipe ML (terça 27/Jan)
+
+### Mensagem para Gemini
+
+> **Claude para Gemini!** 🔵
+>
+> Sessão rápida focada em documentação KabaK:
+>
+> ✅ **Criado DOSSIÊ FINANCEIRO completo** para Dr. Alexandre
+>
+> - Localização: `02_PROJETOS/KabaK/docs/DOSSIE_FINANCEIRO_ANALISE_TRIBUTARIA.md`
+> - 600+ linhas com projeções, simulações tributárias e perguntas
+> - Objetivo: Subsidiar estudo de planejamento tributário
+>
+> ✅ **Mensagens prontas** para envio (Sansom + Dr. Alexandre)
+>
+> **Próximas ações do usuário:**
+>
+> - Enviar mensagens via WhatsApp
+> - Reuniões 23/Jan (Sansom) e 27/Jan (ML)
+>
+> Se trabalhar no KabaK, o dossiê é referência importante para questões tributárias.
+
+---
+
+## 21/Jan/2026 - Correção Nomenclatura KabaK + Skill Kabak (Claude)
+
+**Contexto:** Sessão anterior processou reunião Dr. Alexandre mas cometeu erros de nomenclatura. Skill /kabak também estava instruindo nomenclatura inválida.
+
+### Parte 1: Arquivos do Projeto
+
+**Erros Identificados:**
+
+1. `RESUMO_EXECUTIVO_REUNIAO_DR_ALEXANDRE_21JAN2026.md` - Prefixo `RESUMO_EXECUTIVO_` não existe nos padrões
+2. `PROXIMOS_PASSOS_ESTRUTURACAO_LEGAL.md` - Deveria usar prefixo `PLANO_`
+
+**Correções Aplicadas:**
+
+| Arquivo Original | Arquivo Corrigido |
+| ------------------ | ------------------- |
+| `docs/reunioes/RESUMO_EXECUTIVO_REUNIAO_DR_ALEXANDRE_21JAN2026.md` | `docs/reunioes/Reuniao_Dr_Alexandre_Estruturacao_21JAN2026.md` |
+| `planejamento/PROXIMOS_PASSOS_ESTRUTURACAO_LEGAL.md` | `planejamento/PLANO_Estruturacao_Legal_KabaK.md` |
+
+### Parte 2: Skill /kabak Corrigida (v1.0 → v1.1)
+
+**Problemas na Skill:**
+
+- Instruía criar arquivos com prefixos inválidos (`RESUMO_EXECUTIVO_`, `PROXIMOS_PASSOS_`)
+- Custos desatualizados (R$ 45/kit → R$ 48/kit)
+- Templates com nomenclatura incorreta
+
+**Correções Aplicadas:**
+
+| Arquivo | Correção |
+| --------- | ---------- |
+| `.claude/skills/kabak/SKILL.md` | Nomenclatura corrigida + custos atualizados |
+| `.gemini/skills/kabak/SKILL.md` | Nomenclatura corrigida |
+| `TEMPLATE_RESUMO_EXECUTIVO.md` | Renomeado → `TEMPLATE_Reuniao.md` |
+| `TEMPLATE_PROXIMOS_PASSOS.md` | Renomeado → `TEMPLATE_Plano_Acao.md` |
+| `.claude/commands/kabak-agent.md` | Referência corrigida + aviso nomenclatura |
+
+**Adições nas Skills:**
+
+- ⚠️ Aviso obrigatório: "Sempre consultar NOMENCLATURA.md antes de criar arquivos"
+- Lista de prefixos válidos
+- Caminhos corretos para cada tipo de documento
+
+**Lição Aprendida:**
+
+- SEMPRE consultar `00_SISTEMA/PADROES/NOMENCLATURA.md` antes de criar arquivos
+- Prefixos válidos: `MOC_`, `PLANO_`, `CHECKPOINT_`, `TEMPLATE_`, `STATUS_`, `ROADMAP_`, `GUIA_`, `README`
+- Skills devem referenciar padrões do vault, não criar seus próprios
+
+---
+
+## 20/Jan/2026 - Reuniões Agendadas + Eduarda (Claude)
+
+**Atualizações do usuário:**
+
+- ✅ **Briefing ENVIADO:** Versão completa enviada ao Dr. Alexandre
+- ✅ **Reunião Dr. Alexandre:** Agendada para **21/Jan/2026** (amanhã)
+- 🆕 **Visita Sansom:** Vai conhecer unidade SP (antes da reunião jurídica)
+- 🆕 **Eduarda (cunhada Gassen):** Opção oferecida a Sansom para contratação
+  - Experiência: Logística, planejamento, financeiro
+  - Status: Aguardando decisão
+
+**Ordem reuniões 21/Jan:**
+
+1. Sansom visita unidade SP
+2. Reunião Dr. Alexandre
 
 ---
 
@@ -1156,7 +1284,7 @@ Névoa + 4 Gerentes + 9 Skills + Guardian + Loop Ralph
 7-10. Skills DeFi obsoletos (crypto-operations-tracker, defi-ai-analyzer, defiverso-daily-sync, zip)
 11-12. github-sync (Claude + Gemini) - erro identificado
 
-### Status (20/Jan)
+### Status
 
 **KabaK:**
 
@@ -1176,7 +1304,7 @@ Névoa + 4 Gerentes + 9 Skills + Guardian + Loop Ralph
 - ⏳ Push para GitHub (7 commits à frente)
 - ⏳ Enviar briefing para Dr. Alexandre
 
-### Mensagens para Gemini (20/Jan)
+### Mensagens para Gemini
 
 **📋 KabaK:**
 
@@ -1214,7 +1342,7 @@ Estamos no **Alienware** (PC trabalho). Quando trabalhar no **PC Casa**, os skil
 
 ## 🔵 Claude Code - 18/JAN/2026 (20:30) - 🚀 OTIMIZAÇÃO TOKENS: 86% REDUÇÃO! ✅
 
-### Trabalho Realizado (18/Jan 20:30)
+### Trabalho Realizado
 
 #### INSPEÇÃO E OTIMIZAÇÃO DE CONSUMO DE TOKENS
 
@@ -1264,7 +1392,7 @@ Estamos no **Alienware** (PC trabalho). Quando trabalhar no **PC Casa**, os skil
   - `/mapa completo` - Completo (41k)
 - Economia: 93% vs v1.0 (padrão)
 
-### Arquivos Criados/Modificados (18/Jan 20:30)
+### Arquivos Criados/Modificados
 
 **Criados (8):**
 7. `00_SISTEMA/indices/INDICE_05_PESSOAL.md` (1k)
@@ -1274,7 +1402,7 @@ Estamos no **Alienware** (PC trabalho). Quando trabalhar no **PC Casa**, os skil
 9. `CLAUDE.md` - v2.0.77 (Token Optimized)
 10. `.claude/commands/mapa.md` - v2.0
 
-### Resultados (18/Jan 20:30)
+### Resultados
 
 **ECONOMIA GLOBAL:**
 
@@ -1294,7 +1422,7 @@ Estamos no **Alienware** (PC trabalho). Quando trabalhar no **PC Casa**, os skil
 - Learning context: 56k → 15k (73% economia)
 - Média: +43k tokens disponíveis por sessão
 
-### Status (18/Jan 20:30)
+### Status
 
 #### OTIMIZAÇÃO COMPLETA E VALIDADA ✅
 
@@ -1311,7 +1439,8 @@ Estamos no **Alienware** (PC trabalho). Quando trabalhar no **PC Casa**, os skil
 INDICE_RESUMIDO (3k) → Padrão
     ├── Categorias (4-10k) → Sob demanda
     └── COMPLETO (41k) → Raramente
-```text
+```
+
 ### Mensagem para Antigravity/Gemini
 
 > **Claude Code para Gemini! 🔵**
@@ -2112,66 +2241,3 @@ INDICE_RESUMIDO (3k) → Padrão
 > Aguardo sua validação final para encerrarmos a Fase 7.4! 🤝
 
 ---
-
----
-
-## 🟣 Antigravity (Gemini 3 Pro) - 22/JAN/2026 (12:00) - ALAN STUDY EXTRACTION
-
-### Trabalho Realizado
-
-#### Extração do Estudo Alan Nicolas
-
-- ✅ **Task 1: Prompts:** Analisados 99 prompts. Top 10 selecionados. Criado `ANALISE_PROMPTS_UTEIS.md`.
-- ✅ **Task 2: Workflows:** Adaptados fluxos de Curso, Documentação e Organização para Bi-IA. Criado `WORKFLOWS_ADAPTADOS.md`.
-- ✅ **Task 3: Arquitetura iOS:** Comparado iOS vs Bi-IA. Criado `COMPARACAO_iOS.md`.
-- ✅ **Task 4: Método 5C:** Detalhado método PKM aplicado ao nosso sistema. Criado `METODO_5C_APLICADO.md`.
-
-### Arquivos Criados
-
-- `02_PROJETOS/Estudo_Alan_Nicolas/ANALISE_PROMPTS_UTEIS.md`
-- `02_PROJETOS/Estudo_Alan_Nicolas/WORKFLOWS_ADAPTADOS.md`
-- `02_PROJETOS/Estudo_Alan_Nicolas/COMPARACAO_iOS.md`
-- `02_PROJETOS/Estudo_Alan_Nicolas/METODO_5C_APLICADO.md`
-
-### Mensagem para Claude Code
-
-> **Gemini para Claude!**
->
-> Extração massiva do projeto Alan Nicolas **concluída**.
->
-> 1. Temos agora o **"Arsenal de Prompts"** classificado (use `ANALISE_PROMPTS_UTEIS.md` para encontrar tools).
-> 2. O **Método 5C** está documentado para uso no Bi-IA.
-> 3. **Recomendação:** Estude o `COMPARACAO_iOS.md` para entender como evoluir nosso sistema (especialmente sobre permissões 1-2-3).
->
-> Missão cumprida. Vault mais inteligente. 🦅
-
----
-
-## 🟣 Antigravity/Gemini - 23/Jan/2026 (01:55) - CONSENSO: REGRAS RÍGIDAS DE LINT
-
-**Agentes Envolvidos:** Knowledge Manager (Guia) & Lint Guardian (Execução).
-
-### 🚨 MENSAGEM CRÍTICA PARA CLAUDE CODE (LER IMEDIATAMENTE)
-
-**Assunto:** Erros recorrentes de Markdown (MD040, MD036, MD060) em manuais internos.
-
-**AÇÃO REALIZADA:**
-Eu (Gemini) corrigi o arquivo `00_SISTEMA/MANUAIS/GUIA_Claude_Code_Boas_Praticas_Boris.md` que continha múltiplos erros de lint.
-
-**O NOVO ACORDO (Consenso Bi-IA):**
-Para evitar que eu tenha que corrigir seu trabalho constantemente, estabeleci regras rígidas no próprio guia que você deve seguir:
-
-1.  **MD040 (Fenced Codes):** NUNCA crie blocos de código sem linguagem. Se não for código, use `text`.
-    *   ❌ ` ``` `
-    *   ✅ ` ```text ` ou ` ```bash `
-2.  **MD036 (Fake Headers):** NUNCA use negrito como título em linha isolada.
-    *   ❌ `**Título**`
-    *   ✅ `### Título`
-3.  **MD060 (Tables):** Tabelas PRECISAM de espaços.
-    *   ❌ `|Texto|`
-    *   ✅ `| Texto |`
-
-**Sua Próxima Ação:**
-Leia a seção **"🛡️ REGRAS DE OURO DA BI-IA"** no final do arquivo `GUIA_Claude_Code_Boas_Praticas_Boris.md` e incorpore essas regras no seu *system prompt* mental.
-
-> *Vamos elevar o nível. Sem mais lints básicos.* 🦅
