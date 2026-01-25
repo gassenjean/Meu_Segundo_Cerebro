@@ -1,13 +1,11 @@
 ---
 criado: 2025-12-08T11:04:20-03:00
-atualizado: 2026-01-21T22:45:00-03:00
-created: 2026-01-21T22:58
-updated: 2026-01-21T23:38
+atualizado: 2026-01-25T11:30:00-03:00
 ---
 
 # STATUS ATUAL - KabaK Reestruturação 2026
 
-**Última atualização:** 22/Jan/2026 - 10:00 (Esclarecimentos Sansom adicionados)
+**Última atualização:** 25/Jan/2026 - 11:30 (Integração Sistema iOS)
 
 ---
 
@@ -409,16 +407,38 @@ updated: 2026-01-21T23:38
 
 ---
 
-**Próxima revisão:** 23/Jan/2026 (pós-reunião escritório Sansom)
+**Próxima revisão:** 26/Jan/2026 (documentos Dr. Alexandre)
 
 **Checkpoints Próximos:**
-- 23/Jan: Reunião escritório Sansom (produtos/estoque)
-- 26/Jan: Documentos Dr. Alexandre
+- 26/Jan: Documentos Dr. Alexandre (ata, acordo sócios, contrato prestação)
 - 27/Jan: Reunião equipe Mercado Livre
 - 28/Jan: Workshop produto Titanium
 - Fev/2026: Estudo tributário completo
 
 **Lançamento previsto:** Mai/2026
+
+---
+
+## 🤖 INTEGRAÇÃO SISTEMA iOS (25/Jan/2026)
+
+**KabaK Agent v2.0** integrado ao sistema iOS do Segundo Cérebro:
+
+```text
+NÉVOA (iOS Master)
+└── /kabak-agent → Gerente KabaK (v2.0)
+    ├── /pedro → Métricas de tráfego
+    ├── /alan → Automações
+    └── /marie-kondo → Organização docs
+```
+
+**Comando:** `/kabak-agent`
+**Skill:** `/kabak` (templates e workflows)
+
+**Workflows disponíveis:**
+1. Reunião → Processar atas
+2. Briefing → Documentos stakeholders
+3. Financeiro → Projeções ROI
+4. Status → Atualizar dashboard
 
 **Ver também:**
 - [[VALORES_OFICIAIS.md]] - Fonte única da verdade (valores atualizados 16/Jan)
