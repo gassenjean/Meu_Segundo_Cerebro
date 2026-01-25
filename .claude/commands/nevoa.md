@@ -16,11 +16,16 @@ Ativa o **iOS Master** do Segundo Cérebro.
 
 ```text
 NÉVOA (iOS Master)
-├── /coach    → Produtividade (TDAH)
-├── /pedro    → Marketing (Tráfego)
-├── /lucas    → DeFi (Portfolio)
-├── /alan     → IA (Automação)
-└── /marie-kondo → QA (Vault)
+│
+├── GERENTES DE DOMÍNIO
+│   ├── /coach    → Produtividade (TDAH)
+│   ├── /pedro    → Marketing (Tráfego)
+│   ├── /lucas    → DeFi (Portfolio)
+│   ├── /alan     → IA (Automação)
+│   └── /marie-kondo → QA (Vault)
+│
+└── GERENTES DE PROJETO
+    └── /kabak-agent → KabaK (E-commerce Fitness)
 ```
 
 ## Princípios
