@@ -1,7 +1,7 @@
 ---
 created: 2026-01-24T23:30
-updated: 2026-01-24T23:30
-version: 1.0
+updated: 2026-01-25T13:20
+version: 1
 ---
 # CONSTITUIÇÃO DO SEGUNDO CÉREBRO
 

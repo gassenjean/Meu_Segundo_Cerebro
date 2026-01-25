@@ -62,7 +62,9 @@
       "Bash(del \"\\\\?\\\\C:\\\\Users\\\\Gassen\\\\OneDrive\\\\Meu_Segundo_Cerebro\\\\03_APRENDIZADO\\\\Alan_Nicolas_Universe\\\\nul\")",
       "Bash(Get-ChildItem -Path \"C:\\\\Users\\\\Gassen\\\\OneDrive\\\\Meu_Segundo_Cerebro\\\\02_PROJETOS\\\\Estudo_Alan_Nicolas\\\\00_Inbox_Extracao\" -Recurse)",
       "Bash(Select-Object Name, Length)",
-      "Bash(Format-Table -AutoSize)"
+      "Bash(Format-Table -AutoSize)",
+      "WebFetch(domain:www.atara.com.br)",
+      "WebFetch(domain:www.divinafitness.com.br)"
     ]
   }
 }

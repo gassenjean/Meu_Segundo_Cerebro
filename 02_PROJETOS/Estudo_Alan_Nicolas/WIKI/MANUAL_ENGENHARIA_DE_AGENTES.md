@@ -1,6 +1,6 @@
 ---
 created: 2026-01-22T12:22
-updated: 2026-01-22T12:41
+updated: 2026-01-25T12:24
 ---
 # 📙 MANUAL: O GRIMÓRIO DE AUTOMAÇÃO (Volume 2)
 

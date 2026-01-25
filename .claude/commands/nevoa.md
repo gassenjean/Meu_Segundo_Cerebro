@@ -24,8 +24,11 @@ NÉVOA (iOS Master)
 │   ├── /alan     → IA (Automação)
 │   └── /marie-kondo → QA (Vault)
 │
-└── GERENTES DE PROJETO
-    └── /kabak-agent → KabaK (E-commerce Fitness)
+├── GERENTES DE PROJETO
+│   └── /kabak-agent → KabaK (E-commerce Fitness)
+│
+└── GERENTES DE PLATAFORMA
+    └── /google   → Ecossistema Google (Gemini, Sheets, Looker...)
 ```
 
 ## Princípios

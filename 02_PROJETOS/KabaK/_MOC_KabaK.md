@@ -4,7 +4,7 @@ atualizado: 2026-01-23T00:30:00-03:00
 tipo: moc
 status: ativo
 created: 2026-01-22T12:07
-updated: 2026-01-23T00:30
+updated: 2026-01-25T13:31
 ---
 
 # _MOC_KabaK - Índice Master do Projeto
@@ -74,6 +74,7 @@ updated: 2026-01-23T00:30
 ### /docs/analises (Análises e Auditorias)
 | Arquivo | Descrição | Status |
 |---------|-----------|--------|
+| [[docs/analises/BENCHMARK_ATARA_ENGENHARIA_REVERSA.md]] | Benchmark Atara (concorrente) | ✅ Novo |
 | [[docs/analises/ANALISE_REUNIAO_TITANIUM.md]] | Análise Titanium | ✅ Atual |
 | [[docs/analises/AUDITORIA_ALAN_KABAK.md]] | Auditoria Alan | 📋 Referência |
 | [[docs/analises/CONFORMIDADE_PADROES.md]] | Padrões do projeto | 📋 Referência |
@@ -269,5 +270,5 @@ Ago/2026  ──────  Break-even (Mês 4)
 ---
 
 **Criado:** 22/Jan/2026
-**Última atualização:** 23/Jan/2026 (Reorganização completa)
+**Última atualização:** 25/Jan/2026 (Benchmark Atara adicionado)
 **Mantido por:** Claude Code + KabaK Agent
