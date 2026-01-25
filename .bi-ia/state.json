@@ -2,15 +2,45 @@
   "meta": {
     "version": "1.0",
     "created": "2026-01-23T02:00:00-03:00",
-    "lastUpdate": "2026-01-25T10:00:00-03:00",
+    "lastUpdate": "2026-01-25T14:45:00-03:00",
     "lastAgent": "Claude Code"
   },
-  "activeSession": {
-    "agent": "Claude Code",
-    "startedAt": "2026-01-25T10:00:00-03:00",
-    "device": "Desktop Casa"
-  },
-  "pendingTasks": [],
+  "activeSession": null,
+  "pendingTasks": [
+    {
+      "id": "T015",
+      "from": "claude",
+      "to": "gemini",
+      "task": "MAPA COMPLETO VAULT ALAN NICOLAS - Inventário Total",
+      "priority": "alta",
+      "status": "pending",
+      "created": "2026-01-25T14:45:00-03:00",
+      "details": {
+        "objetivo": "Criar mapa/índice completo de TUDO que existe no vault Alan Nicolas",
+        "escopo": [
+          "Conceitos e frameworks (iOS, AOC, Ralph, 5C, MAPA, etc)",
+          "Metodologias (Clone IA, Prompt Engineering, etc)",
+          "Ensinamentos e princípios",
+          "Cases e exemplos",
+          "Prompts e templates"
+        ],
+        "entrega": {
+          "formato": "MOC estruturado com categorias",
+          "arquivo": "01_CONHECIMENTO/Alan_Nicolas/_MOC_Alan_Nicolas_Inventario.md",
+          "estrutura": [
+            "## Frameworks de Gestão IA",
+            "## Metodologias de Prompt",
+            "## Princípios e Filosofia",
+            "## Cases Práticos",
+            "## Templates e Prompts",
+            "## A Implementar (wishlist)"
+          ]
+        },
+        "uso_futuro": "Base para criar agentes, skills, gerentes conforme necessidade"
+      },
+      "notes": "Gemini tem acesso ao vault Obsidian. Mapear TUDO que existe para implementação sob demanda."
+    }
+  ],
   "completedTasks": [
     {
       "id": "T014",
@@ -46,17 +76,6 @@
       "notes": "Extraídos 36 prompts (Top 3 detalhados + Taxonomia), criada metodologia Clone IA e Case Atena SDR."
     },
     {
-      "id": "T011",
-      "from": "claude",
-      "to": "gemini",
-      "task": "EXTRAÇÃO ALAN NICOLAS - Episódio 004 Vida Lendária + Busca Web",
-      "priority": "media",
-      "status": "completed",
-      "created": "2026-01-24T22:15:00-03:00",
-      "completed": "2026-01-25T09:20:00-03:00",
-      "notes": "Extração concluída: Alan_Nicolas_Vida_Lendaria_Manifesto.md e Alan_Nicolas_10_Caracteristicas_Mediocre.md criados."
-    },
-    {
       "id": "T010",
       "from": "gemini",
       "to": "claude",
@@ -86,7 +105,18 @@
   },
   "handoffQueue": [],
   "lastSync": {
-    "claude": "2026-01-25T12:00:00-03:00",
+    "claude": "2026-01-25T14:45:00-03:00",
     "gemini": "2026-01-25T10:30:00-03:00"
+  },
+  "nextSession": {
+    "priority1": {
+      "action": "Verificar entrega T015 (Mapa Alan Nicolas)",
+      "agent": "gemini"
+    },
+    "priority2": {
+      "action": "Atualizações projeto KabaK",
+      "agent": "kabak-agent",
+      "context": "Usuário tem novidades para registrar"
+    }
   }
 }
