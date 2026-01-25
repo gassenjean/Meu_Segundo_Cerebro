@@ -102,12 +102,13 @@ updated: 2026-01-22T21:56
 | [[00_SISTEMA/PROTOCOLOS/PROTOCOLO_GITHUB_MULTI_DISPOSITIVO.md]] | Sincronizar iPhone ↔ Desktop ↔ Alienware (git) | Resolver branches Claude /* |
 | [[00_SISTEMA/PROTOCOLOS/PROTOCOLO_ANTIGRAVITY_GITHUB.md]] | GitHub API via Antigravity/Gemini | Criar issues, PRs via Gemini |
 
-#### 4.2. Criação e Organização (4 protocolos)
+#### 4.2. Criação e Organização (5 protocolos)
 
 | Arquivo | Uso | Quando Aplicar |
 |---------|-----|----------------|
 | [[00_SISTEMA/PROTOCOLOS/PROTOCOLO_CRIACAO_ARQUIVOS.md]] | **OBRIGATÓRIO** - Workflow de criação | Antes de criar QUALQUER arquivo |
-| [[00_SISTEMA/PROTOCOLOS/PROTOCOLO_CRIACAO_AGENTES_iOS.md]] | **NOVO** - Blueprint iOS (Alan Nicolas) | Criar agentes, Quality Gates, loops Ralph |
+| [[00_SISTEMA/PROTOCOLOS/PROTOCOLO_INICIALIZACAO_NEVOA.md]] | **NOVO** - Boot proativo, Framework AOC | Ao chamar /nevoa |
+| [[00_SISTEMA/PROTOCOLOS/PROTOCOLO_CRIACAO_AGENTES_iOS.md]] | Blueprint iOS (Alan Nicolas) | Criar agentes, Quality Gates, loops Ralph |
 | [[00_SISTEMA/PROTOCOLOS/PROTOCOLO_DIVISAO_SKILLS_Claude_Antigravity.md]] | **CRÍTICO** - Quem cria qual skill (Claude vs Gemini) | Criar skills, decisão de plataforma |
 | [[00_SISTEMA/PROTOCOLOS/PROTOCOLO_REVISAO_SEMANAL.md]] | Checklist semanal (Sexta 17h) | Fim de semana |
 
