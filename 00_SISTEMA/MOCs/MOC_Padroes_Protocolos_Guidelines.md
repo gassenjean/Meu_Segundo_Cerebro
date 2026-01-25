@@ -1,3 +1,7 @@
+---
+created: 2026-01-22T21:58
+updated: 2026-01-22T21:56
+---
 # MOC: Padrões, Protocolos e Guidelines
 
 **Índice Master de Documentação do Sistema**
@@ -87,7 +91,7 @@
 
 **Workflows operacionais**
 
-#### 4.1. Sincronização (5 protocolos)
+#### 4.1. Sincronização (4 protocolos)
 
 ⚠️ **CONFUSO?** Ver [[00_SISTEMA/MOCs/MOC_Sincronizacao_Sistemas.md]] (Decision tree)
 
@@ -95,15 +99,15 @@
 |---------|-----|----------------|
 | [[00_SISTEMA/PROTOCOLOS/PROTOCOLO_MULTI_PC.md]] | Sincronizar Alienware ↔ Desktop Casa | Trocar de PC |
 | [[00_SISTEMA/PROTOCOLOS/PROTOCOLO_SINCRONIZACAO_AGENTES.md]] | Sincronizar Claude ↔ Gemini | Handoff entre IAs |
-| [[00_SISTEMA/PROTOCOLOS/PROTOCOLO_SESSION_LOG_V2.md]] | **NOVO** - Formato SESSION_LOG padronizado, anti-conflito OneDrive | Comunicação Claude ↔ Gemini |
 | [[00_SISTEMA/PROTOCOLOS/PROTOCOLO_GITHUB_MULTI_DISPOSITIVO.md]] | Sincronizar iPhone ↔ Desktop ↔ Alienware (git) | Resolver branches Claude /* |
 | [[00_SISTEMA/PROTOCOLOS/PROTOCOLO_ANTIGRAVITY_GITHUB.md]] | GitHub API via Antigravity/Gemini | Criar issues, PRs via Gemini |
 
-#### 4.2. Criação e Organização (3 protocolos)
+#### 4.2. Criação e Organização (4 protocolos)
 
 | Arquivo | Uso | Quando Aplicar |
 |---------|-----|----------------|
 | [[00_SISTEMA/PROTOCOLOS/PROTOCOLO_CRIACAO_ARQUIVOS.md]] | **OBRIGATÓRIO** - Workflow de criação | Antes de criar QUALQUER arquivo |
+| [[00_SISTEMA/PROTOCOLOS/PROTOCOLO_CRIACAO_AGENTES_iOS.md]] | **NOVO** - Blueprint iOS (Alan Nicolas) | Criar agentes, Quality Gates, loops Ralph |
 | [[00_SISTEMA/PROTOCOLOS/PROTOCOLO_DIVISAO_SKILLS_Claude_Antigravity.md]] | **CRÍTICO** - Quem cria qual skill (Claude vs Gemini) | Criar skills, decisão de plataforma |
 | [[00_SISTEMA/PROTOCOLOS/PROTOCOLO_REVISAO_SEMANAL.md]] | Checklist semanal (Sexta 17h) | Fim de semana |
 
@@ -478,9 +482,9 @@ Substituído por: [[Link]]
 
 ---
 
-**Versão:** 1.2
+**Versão:** 1.3
 **Criado:** 16/Jan/2026
 **Status:** ✅ ATIVO
-**Última atualização:** 22/Jan/2026 (PROTOCOLO_GUARDIAN - Agente de Manutenção)
+**Última atualização:** 25/Jan/2026 (PROTOCOLO_CRIACAO_AGENTES_iOS - Blueprint Alan Nicolas)
 
 **NAVEGAÇÃO CLARA = ECONOMIA DE TOKENS = MELHOR DESEMPENHO** 🗺️✅
