@@ -1,6 +1,6 @@
 ---
 criado: 2026-01-14T13:02:05-03:00
-atualizado: 2026-01-25T11:30:00-03:00
+atualizado: 2026-01-25T12:00:00-03:00
 ---
 <!-- markdownlint-disable MD024 -->
 
