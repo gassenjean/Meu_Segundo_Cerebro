@@ -6,9 +6,22 @@
 # Sistema
 .DS_Store
 Thumbs.db
-nul
 *.tmp
 *.log
+
+# Nomes reservados Windows (CRÍTICO - causam conflito OneDrive)
+**/nul
+**/NUL
+**/con
+**/CON
+**/prn
+**/PRN
+**/aux
+**/AUX
+**/com[1-9]
+**/COM[1-9]
+**/lpt[1-9]
+**/LPT[1-9]
 
 # Pastas temporárias
 _temp/
@@ -29,7 +42,21 @@ secrets/
 # IDE
 .vscode/
 .idea/
-.smart-env/
 .mcp.json
-_ul/
+
+# Python
+.venv/
+venv/
+__pycache__/
+*.pyc
+
+# Smart Connections (regenerar no Obsidian)
+.smart-env/
+
+# Obsidian duplicatas multi-PC
+.obsidian/workspace-*-[0-9]*.json
+.obsidian/plugins/*/data-*-[0-9].json
+.obsidian/plugins/*/data_*.json
+.obsidian/plugins/*/data(*.json
+# Removido: _ul/ (era typo)
 03_APRENDIZADO/Cursos_Ativos/Formacao_Lendaria_2025/Banco_de_Dados/aulas_mente_lendaria/Formação Lendária - 2.0/desbloqueando a ia/

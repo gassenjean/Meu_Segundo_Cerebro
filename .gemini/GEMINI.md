@@ -70,6 +70,7 @@
 4. ❌ Usar INDEX_(use MOC_ para índices)
 5. ❌ Esquecer de atualizar MOCs após criar arquivos
 6. ❌ Criar arquivos na raiz do vault (use pastas apropriadas)
+7. ❌ **CRÍTICO:** Usar nomes reservados Windows: `nul`, `con`, `prn`, `aux`, `com1-9`, `lpt1-9` (causa conflito OneDrive)
 
 ### ✅ SEMPRE Faça Isso
 

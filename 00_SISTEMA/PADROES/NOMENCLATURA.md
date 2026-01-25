@@ -223,11 +223,34 @@ JUL AGO SET OUT NOV DEZ
 ### Caracteres Proibidos
 
 **NUNCA usar:**
-```
+
+```text
 / \ : * ? " < > |
 ```
 
 **Motivo:** Problemas em Windows e outros sistemas operacionais
+
+### Nomes Reservados Windows (CRÍTICO)
+
+**NUNCA usar estes nomes de arquivo:**
+
+```text
+nul, con, prn, aux
+com1, com2, com3, com4, com5, com6, com7, com8, com9
+lpt1, lpt2, lpt3, lpt4, lpt5, lpt6, lpt7, lpt8, lpt9
+```
+
+**Motivo:** São nomes de dispositivos do Windows. Causam:
+
+- Conflitos de sincronização no OneDrive
+- Erros no Git (impossível clonar/push)
+- Arquivos impossíveis de deletar normalmente
+
+**Se criou por engano, deletar via Git Bash:**
+
+```bash
+rm -f "caminho/para/nul"
+```
 
 ---
 
