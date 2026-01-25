@@ -15,13 +15,13 @@ Mapeamento completo do conteúdo disponível em mentelendaria.com e status de ex
 | Métrica | Valor |
 | ------- | ----- |
 | Seções mapeadas | 12 |
-| Módulos identificados | **50+** (atualizado) |
+| Módulos identificados | **50+** |
 | Aulas estimadas | 300+ |
-| Conteúdo extraído | **~35%** |
+| Conteúdo extraído | **~38%** |
 | Prompts coletados | 99+ |
-| Arquivos locais | 386 |
-| Conceitos sintetizados | **14** |
-| Última atualização | **25/Jan/2026 15:00** |
+| Arquivos locais | 389 |
+| Conceitos sintetizados | **17** (+3) |
+| Última atualização | **25/Jan/2026 21:00** |
 
 ---
 
@@ -140,8 +140,11 @@ Mapeamento completo do conteúdo disponível em mentelendaria.com e status de ex
 | Mentalidade Lendária | `conceitos/Alan_Nicolas_Mentalidade_Lendaria.md` | ✅ |
 | Copy com IA | `conceitos/Alan_Nicolas_Copy_IA_Bruno_Picinini.md` | ✅ |
 | Clone IA / Conselheiros | `conceitos/Alan_Nicolas_Clone_IA_Conselheiros.md` | ✅ |
-| **CrewAI Multi-Agentes** | `conceitos/Alan_Nicolas_CrewAI_MultiAgentes.md` | ✅ **NOVO** |
-| **Dify No-Code** | `conceitos/Alan_Nicolas_Dify_NoCode.md` | ✅ **NOVO** |
+| **CrewAI Multi-Agentes** | `conceitos/Alan_Nicolas_CrewAI_MultiAgentes.md` | ✅ |
+| **Dify No-Code** | `conceitos/Alan_Nicolas_Dify_NoCode.md` | ✅ |
+| **Agente Ralph** | `conceitos/Alan_Nicolas_Agente_Ralph.md` | ✅ **NOVO** |
+| **Framework iOS** | `conceitos/Alan_Nicolas_Framework_iOS_Agentes.md` | ✅ **NOVO** |
+| **Project Based Learning** | `conceitos/Alan_Nicolas_Project_Based_Learning.md` | ✅ **NOVO** |
 
 ### Prompts Coletados (99+)
 
@@ -267,8 +270,9 @@ Gestão         ██░░░░░░░░░░░░░░░░░░ 10%
 
 | Data | Ação |
 | ---- | ---- |
-| **25/Jan/2026 15:00** | **SYNC: +7 módulos descobertos (ETL, Dify, Automações, CrewAI, Vender Fluxos, Clint, Make)** |
-| **25/Jan/2026 15:00** | **+2 conceitos extraídos: CrewAI Multi-Agentes, Dify No-Code** |
+| **25/Jan/2026 21:00** | **+3 conceitos extraídos: Agente Ralph, Framework iOS, Project Based Learning** |
+| **25/Jan/2026 15:00** | SYNC: +7 módulos descobertos (ETL, Dify, Automações, CrewAI, Vender Fluxos, Clint, Make) |
+| **25/Jan/2026 15:00** | +2 conceitos extraídos: CrewAI Multi-Agentes, Dify No-Code |
 | 25/Jan/2026 | +7 conceitos: Super Agentes, n8n, Obsidian, Zona Genialidade, Mentalidade, Copy IA, Clone IA |
 | 25/Jan/2026 | Inventário inicial criado |
 | 22/Jan/2026 | 4 checkpoints Aula 1 completos |
