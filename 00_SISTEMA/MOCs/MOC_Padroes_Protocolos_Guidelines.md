@@ -65,19 +65,20 @@ updated: 2026-01-22T21:56
 
 ---
 
-### 📂 NÍVEL 3: GUIDELINES (5 arquivos)
+### 📂 NÍVEL 3: GUIDELINES (6 arquivos)
 
 **Padrões por categoria (01-05)**
 
 | Arquivo | Categoria | Conteúdo |
 |---------|-----------|----------|
 | [[01_CONHECIMENTO/_GUIDELINES.md]] | Conhecimento permanente | O que pertence, nomenclatura, MOC integration |
+| [[00_SISTEMA/PADROES/GUIDELINES_CONHECIMENTO.md]] | Conhecimento (detalhado) | **NOVO** - Diretrizes completas, templates, anti-padrões |
 | [[02_PROJETOS/_GUIDELINES.md]] | Projetos ativos | Estrutura obrigatória, workflows, templates |
 | [[03_APRENDIZADO/_GUIDELINES.md]] | Cursos e estudos | Sistema 5C, organização lives, módulos |
 | [[04_RECURSOS/_GUIDELINES.md]] | Templates, prompts, ferramentas | Organização recursos reutilizáveis |
 | [[05_PESSOAL/_GUIDELINES.md]] | Journal, ideias, autoconhecimento | Estrutura pessoal, privacidade |
 
-**Total:** ~110KB (consolidados, otimizados)
+**Total:** ~120KB (consolidados, otimizados)
 
 **Quando ler:**
 
@@ -237,11 +238,11 @@ Grafo é acíclico, ordenação topológica possível.
 |-------|-----------------|---------------------|-------|
 | 1. Fundação | 3 | 0 | 3 |
 | 2. Padrões | 3 | 1 (ESTRUTURA_PROJETOS) | 4 |
-| 3. Guidelines | 6 (1 arch + 5 categorias) | 0 | 6 |
+| 3. Guidelines | 7 (1 arch + 6 categorias) | 0 | 7 |
 | 4. Protocolos | 13 + 7 (Skills) = 20 | 2 (ERRO_OVERLOAD, ERRO_GEMINI) | 22 |
 | 5. Guias | 3 + 1 (Edge Cases) = 4 | 0 | 4 |
 | 6. Análises | 1 | 0 | 1 |
-| **TOTAL** | **36** | **3** | **39** |
+| **TOTAL** | **37** | **3** | **40** |
 
 ### Tamanho Estimado
 
@@ -483,9 +484,9 @@ Substituído por: [[Link]]
 
 ---
 
-**Versão:** 1.3
+**Versão:** 1.4
 **Criado:** 16/Jan/2026
 **Status:** ✅ ATIVO
-**Última atualização:** 25/Jan/2026 (PROTOCOLO_CRIACAO_AGENTES_iOS - Blueprint Alan Nicolas)
+**Última atualização:** 26/Jan/2026 (GUIDELINES_CONHECIMENTO.md movido para 00_SISTEMA/PADROES/)
 
 **NAVEGAÇÃO CLARA = ECONOMIA DE TOKENS = MELHOR DESEMPENHO** 🗺️✅

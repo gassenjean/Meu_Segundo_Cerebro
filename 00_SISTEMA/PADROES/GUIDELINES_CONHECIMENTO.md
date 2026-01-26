@@ -1,14 +1,15 @@
-# 📚 GUIDELINES: CONHECIMENTO
+# GUIDELINES: CONHECIMENTO
 
 **Diretrizes Específicas - Base de Conhecimento Pessoal**
 
 **Categoria:** 01_CONHECIMENTO
-**Versão:** 1.0
+**Versão:** 1.1
 **Criado:** 16/Jan/2026
+**Movido:** 26/Jan/2026 (de 01_CONHECIMENTO/ para 00_SISTEMA/PADROES/)
 
 ---
 
-## 🎯 O QUE PERTENCE AQUI
+## O QUE PERTENCE AQUI
 
 ### Sim, Vai em CONHECIMENTO
 
@@ -34,11 +35,11 @@
 
 ---
 
-## 📛 NOMENCLATURA ESPECÍFICA
+## NOMENCLATURA ESPECÍFICA
 
 ### Padrão Hierárquico
 
-```
+```text
 [Categoria]_[Subcategoria]_[Topico].md
 
 Exemplos corretos:
@@ -63,7 +64,8 @@ Exemplos corretos:
    - ✅ `IA_Prompts_Engenharia.md`
 
 4. **Para autores/pensadores:**
-   ```
+
+   ```text
    Autores_Pensadores/[Nome_Autor]/[Topico].md
 
    Exemplo:
@@ -72,7 +74,8 @@ Exemplos corretos:
    ```
 
 5. **Para livros específicos:**
-   ```
+
+   ```text
    Livros/[Nome_Livro]_[Autor].md
 
    Exemplo:
@@ -82,11 +85,11 @@ Exemplos corretos:
 
 ---
 
-## 🗂️ ESTRUTURA DE MOCs
+## ESTRUTURA DE MOCs
 
 ### 3 Níveis de MOCs
 
-```
+```text
 01_CONHECIMENTO/
 ├── _MOC_Conhecimento.md           ← Nível 1: MOC Master da categoria
 ├── IA_Tecnologia/
@@ -100,34 +103,39 @@ Exemplos corretos:
 ### Quando Criar MOC
 
 **Crie MOC de subcategoria quando:**
+
 - Tiver 5+ arquivos na subcategoria
 - Subcategoria tiver subpastas
 - Precisar organizar visualmente o conteúdo
 
 **Crie MOC de tópico quando:**
+
 - Tópico tiver 10+ arquivos
 - Houver múltiplas perspectivas sobre o mesmo tema
 - Precisar mapear conexões complexas
 
 **Não crie MOC quando:**
+
 - Menos de 5 arquivos (desnecessário)
 - Estrutura é linear e simples
 
 ---
 
-## 🔗 ESTRATÉGIAS DE CONEXÃO
+## ESTRATÉGIAS DE CONEXÃO
 
 ### 1. Wikilinks (Conexões Diretas)
 
 **Use wikilinks para:**
+
 - Conceitos relacionados
 - Sequência de aprendizado
 - Contraste de ideias
 - Aplicação prática
 
 **Exemplo de seção "Conexões":**
+
 ```markdown
-## 🔗 Conexões
+## Conexões
 
 ### Conceitos Relacionados
 - [[IA_LLMs_Fine_Tuning]] - Complementar
@@ -144,6 +152,7 @@ Exemplos corretos:
 ### 2. Tags (Conexões Temáticas)
 
 **Frontmatter padrão:**
+
 ```yaml
 ---
 criado: 2026-01-16
@@ -158,13 +167,14 @@ status: [Consolidado/Em_Revisão/Incompleto]
 ### 3. MOCs (Conexões Estruturais)
 
 **Sempre linkar:**
+
 - De volta para o MOC da categoria
 - Para MOCs relacionados de outras categorias
 - Para projetos que usam este conhecimento
 
 ---
 
-## 📝 TEMPLATE DE NOTA PADRÃO
+## TEMPLATE DE NOTA PADRÃO
 
 ```markdown
 # [Título do Conhecimento]
@@ -176,14 +186,14 @@ status: [Consolidado/Em_Revisão/Incompleto]
 
 ---
 
-## 💡 Conceito Principal
+## Conceito Principal
 
 [Resumo do conceito em 2-4 parágrafos]
 [O QUE é, POR QUE importa, QUANDO usar]
 
 ---
 
-## 🔑 Pontos Chave
+## Pontos Chave
 
 - **Ponto 1:** [Descrição]
 - **Ponto 2:** [Descrição]
@@ -191,7 +201,7 @@ status: [Consolidado/Em_Revisão/Incompleto]
 
 ---
 
-## 🎯 Aplicação Prática
+## Aplicação Prática
 
 ### Contexto Gassen (Personalizado)
 
@@ -207,14 +217,14 @@ status: [Consolidado/Em_Revisão/Incompleto]
 
 ---
 
-## 🧠 Insights Pessoais
+## Insights Pessoais
 
 [Suas reflexões, adaptações, descobertas únicas]
 [O que você pensa diferente da fonte original]
 
 ---
 
-## 🔗 Conexões
+## Conexões
 
 ### Conceitos Relacionados
 - [[Conceito_A]] - [Como se relacionam]
@@ -228,7 +238,7 @@ status: [Consolidado/Em_Revisão/Incompleto]
 
 ---
 
-## 📚 Referências
+## Referências
 
 - [Link 1] - Título
 - [Link 2] - Título
@@ -237,16 +247,15 @@ status: [Consolidado/Em_Revisão/Incompleto]
 ---
 
 **Última revisão:** [DD/MMM/YYYY]
-**Revisão próxima:** [DD/MMM/YYYY] (opcional)
 ```
 
 ---
 
-## 🔄 WORKFLOW DE CRIAÇÃO
+## WORKFLOW DE CRIAÇÃO
 
 ### Da Captura à Consolidação
 
-```
+```text
 1. CAPTURAR (Sistema 5C)
    ↓
    _inbox/nota_rapida.md
@@ -290,11 +299,11 @@ Antes de marcar como "Consolidado":
 
 ---
 
-## ⚠️ ANTI-PADRÕES (EVITAR)
+## ANTI-PADRÕES (EVITAR)
 
-### ❌ Erro 1: Duplicação de Conteúdo
+### Erro 1: Duplicação de Conteúdo
 
-```
+```text
 ❌ Errado:
 01_CONHECIMENTO/IA/Prompts.md
 03_APRENDIZADO/Curso_IA/notas/Prompts.md
@@ -305,9 +314,9 @@ Antes de marcar como "Consolidado":
 01_CONHECIMENTO/IA_Prompts_Engineering.md (conhecimento permanente)
 ```
 
-### ❌ Erro 2: Nota Sem Conexões
+### Erro 2: Nota Sem Conexões
 
-```
+```text
 ❌ Errado:
 Nota isolada, sem wikilinks, sem estar em MOC
 
@@ -315,9 +324,9 @@ Nota isolada, sem wikilinks, sem estar em MOC
 Mínimo 2 wikilinks + listado em MOC relevante
 ```
 
-### ❌ Erro 3: Conteúdo Não Processado
+### Erro 3: Conteúdo Não Processado
 
-```
+```text
 ❌ Errado:
 Transcrição bruta de vídeo em 01_CONHECIMENTO/
 
@@ -326,9 +335,9 @@ Transcrição em 03_APRENDIZADO/ ou _inbox/
 Depois processar e extrair conceitos para 01_CONHECIMENTO/
 ```
 
-### ❌ Erro 4: Nome Genérico
+### Erro 4: Nome Genérico
 
-```
+```text
 ❌ Errado:
 Notas.md
 Ideias.md
@@ -341,7 +350,7 @@ DevPessoal_TDAH_Pomodoro_Adaptado.md
 
 ---
 
-## ✅ CHECKLIST DE MANUTENÇÃO
+## CHECKLIST DE MANUTENÇÃO
 
 ### Semanal
 
@@ -364,17 +373,15 @@ DevPessoal_TDAH_Pomodoro_Adaptado.md
 
 ---
 
-## 🔗 LINKS RELACIONADOS
+## LINKS RELACIONADOS
 
-- [[00_SISTEMA/PADROES/NOMENCLATURA.md]] - Padrões gerais de nomenclatura
-- [[_MOC_Conhecimento.md]] - MOC master desta categoria
-- [[00_SISTEMA/PROTOCOLOS/PROTOCOLO_CRIACAO_ARQUIVOS.md]] - Protocolo geral
+- [[00_SISTEMA/PADROES/NOMENCLATURA.md|NOMENCLATURA]] - Padrões gerais de nomenclatura
+- [[01_CONHECIMENTO/_MOC_Conhecimento.md|_MOC_Conhecimento]] - MOC master desta categoria
+- [[00_SISTEMA/PROTOCOLOS/PROTOCOLO_CRIACAO_ARQUIVOS.md|PROTOCOLO_CRIACAO_ARQUIVOS]] - Protocolo geral
 - [[04_RECURSOS/TEMPLATES/]] - Templates disponíveis
 
 ---
 
-**Versão:** 1.0
+**Versão:** 1.1
 **Criado:** 16/Jan/2026
-**Atualizado:** 16/Jan/2026
-
-**CONHECIMENTO BEM ORGANIZADO = PODER MULTIPLICADO! 📚**
+**Movido:** 26/Jan/2026 (para 00_SISTEMA/PADROES/)
