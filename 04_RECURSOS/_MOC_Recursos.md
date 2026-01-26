@@ -7,8 +7,8 @@ atualizado: 2026-01-16T11:16:59-03:00
 **Map of Content - Templates, Prompts e Ferramentas**
 
 **Criado:** 17/Jan/2025
-**Última atualização:** 16/Jan/2026
-**Total de recursos:** 18
+**Última atualização:** 26/Jan/2026
+**Total de recursos:** 23
 
 ---
 
@@ -39,13 +39,28 @@ Templates de documentos reutilizáveis
 - [[TEMPLATES/Metodologia_IA/TEMPLATE_Briefing_Projeto.md]] ← Briefing completo de projeto
 - [[TEMPLATES/Metodologia_IA/TEMPLATE_PRD_Tecnico.md]] ← Product Requirements Document técnico
 
+**Agentes:**
+- [[TEMPLATES/Agentes/Prompt_Clone.md]] ← Framework base para criar clones de IA (SDR, Copywriter, etc)
+
 **RPI Workflow (Research-Plan-Implementation):**
 - [[TEMPLATES/TEMPLATE_RPI_MASTER_PLAN.md]] ← Master plan para grandes refatorações
 - [[TEMPLATES/TEMPLATE_RPI_IMPLEMENTATION_PHASE.md]] ← Sub-plans de implementação detalhados
 - [[TEMPLATES/TEMPLATE_RPI_RESEARCH_OUTPUT.md]] ← Documentação da fase de pesquisa
 
-### PROMPTS/Claude/
-Prompts especializados para Claude
+### PROMPTS/Bibliotecas/
+Bibliotecas e colecoes de prompts
+
+**Disponíveis:**
+- [[Biblioteca_36_Prompts.md]] - 36 prompts profissionais Alan Nicolas (TOP 10 + 26)
+
+### PROMPTS/Utilidades/
+Prompts utilitarios para extracao e processamento
+
+**Disponíveis:**
+- [[Prompt_Framework_Extractor.md]] - Ultimate Course Framework Extractor v2.0
+
+### PROMPTS/Funcionais/
+Prompts funcionais para Claude
 
 **Disponíveis:**
 - [[_MOC_Clones_Alan_Nicolas.md]] - MOC dos clones
@@ -73,6 +88,7 @@ Guias completos e metodologias
 - [[GUIAS/MOC_Metodologia_Profissional_IA.md]] ← Hub central Metodologia IA
 - [[GUIAS/METODOLOGIA_PROFISSIONAL_IA.md]] ← Metodologia completa (5 etapas)
 - [[GUIAS/PLANO_ACAO_7_DIAS_Metodologia_IA.md]] ← Plano implementação 7 dias
+- [[GUIAS/Guia_para_um_Bom_Prompt.md]] ← 8 tecnicas para prompts eficazes
 
 ### WORKFLOWS/
 Automações e scripts
@@ -199,14 +215,16 @@ Automações e scripts
 ## 📊 ESTATÍSTICAS
 
 ```
-📁 Total de recursos: 18
-📄 Templates: 9 (4 base + 2 Metodologia IA + 3 RPI Workflow)
+📁 Total de recursos: 23
+📄 Templates: 10 (4 base + 2 Metodologia IA + 3 RPI Workflow + 1 Agentes)
 ✅ Checklists: 1 (200+ verificações)
-📖 Guias: 3 (Metodologia Profissional IA completa)
-🤖 Prompts Claude: 2
+📖 Guias: 4 (Metodologia Profissional IA completa + Bom Prompt)
+📚 Bibliotecas: 1 (36 prompts profissionais)
+🔧 Utilidades: 1 (Framework Extractor)
+🤖 Prompts Funcionais: 2
 🤖 Prompts Gemini: 4
 ⚙️ Workflows: 0
-📅 Último recurso criado: 16/Jan/2026
+📅 Última atualização: 26/Jan/2026
 ```
 
 ---

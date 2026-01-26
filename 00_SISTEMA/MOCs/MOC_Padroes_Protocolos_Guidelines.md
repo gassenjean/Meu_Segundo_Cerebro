@@ -113,12 +113,13 @@ updated: 2026-01-22T21:56
 | [[00_SISTEMA/PROTOCOLOS/PROTOCOLO_DIVISAO_SKILLS_Claude_Antigravity.md]] | **CRÍTICO** - Quem cria qual skill (Claude vs Gemini) | Criar skills, decisão de plataforma |
 | [[00_SISTEMA/PROTOCOLOS/PROTOCOLO_REVISAO_SEMANAL.md]] | Checklist semanal (Sexta 17h) | Fim de semana |
 
-#### 4.3. Orquestração Bi-IA (3 protocolos)
+#### 4.3. Orquestração Bi-IA (4 protocolos)
 
 | Arquivo | Uso | Quando Aplicar |
 |---------|-----|----------------|
 | [[00_SISTEMA/PROTOCOLOS/PROTOCOLO_CLAUDE_GEMINI_ORQUESTRACAO.md]] | Divisão de responsabilidades, handoff, economia 90% tokens | Tarefa grande (>100k tokens) |
 | [[00_SISTEMA/PROTOCOLOS/PROTOCOLO_GUARDIAN.md]] | **NOVO** - Agente de manutenção automática, orquestrador de skills | Manutenção vault, auditoria, correção nomenclatura |
+| [[00_SISTEMA/PROTOCOLOS/MAPA_EXTRACAO_OTIMIZADO.md]] | Gemini extrai (gratis), Claude analisa - economia 70% tokens | Processar conteudo longo (cursos, lives, PDFs) |
 | [[00_SISTEMA/PROTOCOLOS/SOP_INTEGRACAO_ANTIGRAVITY.md]] | Setup Antigravity, workflows IDE | Configurar ambiente |
 
 #### 4.4. Limites e Ética (2 protocolos)
