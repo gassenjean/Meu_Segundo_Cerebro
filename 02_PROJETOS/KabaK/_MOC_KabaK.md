@@ -31,17 +31,21 @@ updated: 2026-01-25T19:15
 ## 🔥 ARQUIVOS CRÍTICOS
 
 ### Documentos Fonte de Verdade
+
 - [[STATUS_ATUAL.md]] - Estado atual do projeto (SEMPRE ATUALIZADO)
 - [[VALORES_OFICIAIS.md]] - Números financeiros oficiais (ÚNICA FONTE)
 - [[README.md]] - Visão geral e contexto
 
 ### Checklist Jurídico
+
 - [[docs/juridico/CHECKLIST_DOCS_DR_ALEXANDRE_27JAN2026.md]] - Checklist documentos jurídicos (CRÍTICO 25/Jan) 🔥
 
 ### Última Reunião (21/Jan/2026)
+
 - [[docs/reunioes/RESUMO_COMPLETO_REUNIAO_DR_ALEXANDRE_SANSOM_21JAN2026.md]] - Reunião Dr. Alexandre (OFICIAL)
 
 ### Envio ao Sansom
+
 - [[docs/CHECKLIST_ENVIO_SANSOM.md]] - Checklist de envio
 - [[docs/BRIEFING_DR_ALEXANDRE_19JAN2026.md]] - Briefing enviado
 
@@ -50,6 +54,7 @@ updated: 2026-01-25T19:15
 ## 📁 ESTRUTURA DO PROJETO
 
 ### /planejamento (Estratégia & Financeiro)
+
 | Arquivo | Descrição | Status |
 |---------|-----------|--------|
 | [[planejamento/PLANILHA_SANSOM_SIMPLES.md]] | Financeiro simplificado (oficial) | ✅ Atual |
@@ -62,12 +67,14 @@ updated: 2026-01-25T19:15
 | [[planejamento/PLANO_REORGANIZACAO_KABAK_SKILL_22JAN2026.md]] | Plano reorganização vault | 🔄 Em execução |
 
 ### /docs/briefings (Briefings)
+
 | Arquivo | Descrição | Status |
 |---------|-----------|--------|
 | [[docs/briefings/BRIEFING_DR_ALEXANDRE_19JAN2026.md]] | Briefing oficial Dr. Alexandre | ✅ Enviado |
 | [[docs/briefings/BRIEFING_DR_ALEXANDRE_COMPACTO.md]] | Versão compacta | 📋 Backup |
 
 ### /docs/checklists (Checklists)
+
 | Arquivo | Descrição | Status |
 |---------|-----------|--------|
 | [[docs/checklists/CHECKLIST_ENVIO_SANSOM.md]] | Checklist envio | ✅ Atual |
@@ -76,21 +83,33 @@ updated: 2026-01-25T19:15
 | [[docs/checklists/CHECKLIST_OUTLET_OPERACIONAL.md]] | Checklist operacional Outlet | ✅ Atual |
 
 ### /docs/juridico (Documentos Jurídicos) 🆕
+
 | Arquivo | Descrição | Status |
 |---------|-----------|--------|
 | [[docs/juridico/CHECKLIST_DOCS_DR_ALEXANDRE_27JAN2026.md]] | Checklist documentos jurídicos Dr. Alexandre | 🔥 CRÍTICO 25/Jan |
 
 ### /docs/treinamento (Treinamento Equipe)
+
 | Arquivo | Descrição | Status |
 |---------|-----------|--------|
 | [[docs/treinamento/MANUAL_TREINAMENTO_OUTLET.md]] | Manual completo para vendedores Outlet | ✅ Novo |
 
 ### /docs/analises (Análises e Auditorias)
+
 | Arquivo | Descrição | Status |
 |---------|-----------|--------|
 | [[docs/analises/ANALISE_TIKTOK_SHOP_FITNESS_BR.md]] | Mercado TikTok Shop fitness feminina (OPORTUNIDADE) | ✅ 25/Jan |
 | [[docs/analises/BENCHMARK_ATARA_ENGENHARIA_REVERSA.md]] | Benchmark Atara (concorrente #1) | ✅ Novo |
 | [[docs/analises/BENCHMARK_ROSE_ENGENHARIA_REVERSA.md]] | Benchmark Rose (concorrente #2) | ✅ 25/Jan |
+| [[docs/analises/BENCHMARK_ROSE.md]] | Rose Fitness - Nicho modesto (T019) | ✅ 25/Jan |
+| [[docs/analises/MATRIZ_COMPETITIVA_CONSOLIDADA.md]] | Matriz Consolidada (KabaK vs Atara vs Rose) T022 | ✅ 25/Jan |
+
+### /docs/canais (Canais de Venda)
+
+| Arquivo | Descrição | Status |
+|---------|-----------|--------|
+| [[docs/canais/ANALISE_TIKTOK_SHOP.md]] | TikTok Shop - Tendências e oportunidades (T021) | ✅ 25/Jan |
+| [[docs/canais/PLANO_TIKTOK_SHOP_90_DIAS.md]] | Plano executivo 90 dias TikTok | ✅ 25/Jan |
 | [[docs/analises/ANALISE_REUNIAO_TITANIUM.md]] | Análise Titanium | ✅ Atual |
 | [[docs/analises/AUDITORIA_ALAN_KABAK.md]] | Auditoria Alan | 📋 Referência |
 | [[docs/analises/CONFORMIDADE_PADROES.md]] | Padrões do projeto | 📋 Referência |
@@ -98,6 +117,7 @@ updated: 2026-01-25T19:15
 | [[docs/analises/PESQUISA_ALAN_NICOLAS_22JAN2026.md]] | Pesquisa Alan Nicolas | ✅ Novo |
 
 ### /docs/transcricoes (Transcrições)
+
 | Arquivo | Descrição |
 |---------|-----------|
 | [[docs/transcricoes/TRANSCRICAO_REUNIAO_SANSOM.md]] | Transcrição Sansom |
@@ -105,12 +125,14 @@ updated: 2026-01-25T19:15
 | [[docs/transcricoes/TRANSCRICAO_REUNIAO_SANSOM_DR_ALEXANDRE.pdf]] | PDF Reunião Dr. Alexandre |
 
 ### /docs/contratos (Contratos)
+
 | Arquivo | Descrição |
 |---------|-----------|
 | [[docs/contratos/PO_TITANIUM_INICIAL.md]] | PO Titanium inicial |
 | [[docs/contratos/CORRECOES_ESTRUTURA_SOCIETARIA.md]] | Correções societárias |
 
 ### /docs/reunioes (Reuniões)
+
 | Arquivo | Descrição | Data |
 |---------|-----------|------|
 | [[docs/reunioes/RESUMO_COMPLETO_REUNIAO_DR_ALEXANDRE_SANSOM_21JAN2026.md]] | Dr. Alexandre + Sansom | 21/Jan ⭐ |
@@ -130,22 +152,29 @@ updated: 2026-01-25T19:15
 | [[docs/reunioes/PAUTA_MARKETING_ATUAL.md]] | Pauta marketing | Jan |
 
 ### /docs/projetos (Projetos Específicos)
+
 | Arquivo | Descrição |
 |---------|-----------|
 | [[docs/projetos/BRIEFING_OUTLET_SANSOM.md]] | Briefing outlet |
 | [[docs/projetos/PROJETO_OUTLET_RODOVIA.md]] | Projeto outlet rodovia |
 
 ### /docs/pesquisas (Pesquisas)
+
 | Arquivo | Descrição |
 |---------|-----------|
 | [[docs/pesquisas/RESUMO_PESQUISA_DANILO.md]] | Pesquisa Danilo |
 
 ### /docs/marketing (Marketing & Parcerias)
+
 | Arquivo | Descrição | Status |
 |---------|-----------|--------|
 | [[docs/marketing/MAPEAMENTO_MICRO_INFLUENCERS_FITNESS.md]] | 25 micro-influencers fitness feminino (cupom strategy) | ✅ Novo |
+| [[docs/marketing/LISTA_INFLUENCERS_FITNESS.md]] | Lista micro-influencers por tier (T020) | ✅ 25/Jan |
+| [[docs/marketing/PLANO_ATIVACAO_INFLUENCERS.md]] | Estratégia ativação influencers | ✅ 25/Jan |
+| [[docs/marketing/SUMARIO_EXECUTIVO_INFLUENCERS.md]] | Sumário executivo influencers | ✅ 25/Jan |
 
 ### /tarefas (Gestão de Tarefas)
+
 | Arquivo | Descrição |
 |---------|-----------|
 | [[tarefas/TODO_Sprint_Atual.md]] | Sprint atual |
@@ -154,6 +183,7 @@ updated: 2026-01-25T19:15
 | [[tarefas/README.md]] | Visão geral tarefas |
 
 ### /metricas (KPIs e Dashboards)
+
 | Arquivo | Descrição |
 |---------|-----------|
 | [[metricas/DASHBOARD.md]] | Dashboard principal |
@@ -162,17 +192,20 @@ updated: 2026-01-25T19:15
 | [[metricas/RELATORIOS/SUMARIO_AUDITORIA_24DEZ2025.md]] | Sumário auditoria |
 
 ### /checkpoints (Snapshots)
+
 | Arquivo | Descrição |
 |---------|-----------|
 | [[checkpoints/CHECKPOINT_19DEZ2025_Proposta_Titanium.md]] | Proposta Titanium |
 | [[checkpoints/CHECKPOINT_24DEZ2025_Correcao_Impostos.md]] | Correção impostos |
 
 ### /recursos (Assets e Referências)
+
 | Arquivo | Descrição |
 |---------|-----------|
 | [[recursos/REFERENCIAS.md]] | Referências do projeto |
 
 ### /scripts (Automações Python)
+
 | Script | Função |
 |--------|--------|
 | `check_formulas.py` | Verificar fórmulas Excel |
@@ -190,6 +223,7 @@ updated: 2026-01-25T19:15
 **Nota:** Scripts obsoletos (v1-v4) foram removidos em 22/Jan/2026
 
 ### /99_ARQUIVO (Histórico)
+
 | Pasta/Arquivo | Descrição |
 |---------------|-----------|
 | `99_ARQUIVO/Legacy_2025/` | Documentos antigos 2025 |
@@ -200,6 +234,7 @@ updated: 2026-01-25T19:15
 ## 🎯 FRENTES ATIVAS
 
 ### 1. Estruturação Jurídica (Dr. Alexandre) 🔥
+
 - **Status:** 🔴 AGUARDANDO CRÍTICO
 - **Próxima entrega:** 27/Jan/2026 (segunda-feira)
 - **Documentos esperados:**
@@ -209,23 +244,28 @@ updated: 2026-01-25T19:15
 - **Checklist:** [[docs/juridico/CHECKLIST_DOCS_DR_ALEXANDRE_27JAN2026.md]]
 
 ### 2. Fornecimento China (Sansom)
+
 - **Status:** 🟡 Aguardando
 - **Próxima entrega:** Mar-Abr/2026 (2 toneladas tecido)
 
 ### 3. Marketing (Titanium)
+
 - **Status:** 🟢 Aprovado
 - **Custo:** R$ 60k/mês (sem setup)
 - **Lançamento:** Mai/2026
 
 ### 4. Produção (Fábrica Jean)
+
 - **Status:** 🟡 Preparando
 - **Modelo:** Prestação de serviço (5-10% margem)
 
 ### 5. E-commerce
+
 - **Status:** 🟡 Planejamento
 - **Lançamento:** Mai/2026
 
 ### 6. TikTok Shop (Nova Oportunidade)
+
 - **Status:** 🔥 ANÁLISE COMPLETA 25/JAN
 - **Potencial:** R$ 100-150k em 90 dias
 - **ROI:** 3-5x (investimento R$ 30-40k)
@@ -235,6 +275,7 @@ updated: 2026-01-25T19:15
   - [[../../04_RECURSOS/CHECKLISTS/CHECKLIST_LANCAMENTO_TIKTOK_SHOP_KABAK.md]] - Checklist execução
 
 ### 7. Mercado Livre - Hubs Estratégicos (NOVA)
+
 - **Status:** 🔥 REUNIÃO 28/JAN
 - **Potencial:** Entrega 1 dia (vs 7 dias Atara)
 - **Modelo:** 10k peças/hub em pontos estratégicos
@@ -273,6 +314,7 @@ updated: 2026-01-25T19:15
 | Nomenclatura corrigida | 2 | ✅ Concluído |
 
 **Nova estrutura /docs:**
+
 - `/briefings` - Briefings Dr. Alexandre
 - `/checklists` - Todos os checklists
 - `/juridico` - **NOVO 25/Jan** - Documentos jurídicos

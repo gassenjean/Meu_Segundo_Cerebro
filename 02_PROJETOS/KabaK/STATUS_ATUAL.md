@@ -275,8 +275,9 @@ Cenário Otimista:
    - Minuta contrato prestação serviço KabaK ↔ Sports.com
 
 5. [ ] **Gassen:** Reunião Mercado Livre (terça 28/Jan) 🛍️
-   - **Local:** Escritório Sansom
+   - **Local:** Escritório Sansom, Bom Retiro, São Paulo
    - **Objetivo:** Modelo hubs estratégicos
+   - **Participantes:** Abner avisado
 
 6. [ ] **Gassen:** Definir mix final com Cris (terça 28/Jan) 👗
    - 3-4 produtos para lançamento

@@ -64,7 +64,9 @@
       "Bash(Select-Object Name, Length)",
       "Bash(Format-Table -AutoSize)",
       "WebFetch(domain:www.atara.com.br)",
-      "WebFetch(domain:www.divinafitness.com.br)"
+      "WebFetch(domain:www.divinafitness.com.br)",
+      "Bash(dir:*)",
+      "Bash(powershell -Command:*)"
     ]
   }
 }
