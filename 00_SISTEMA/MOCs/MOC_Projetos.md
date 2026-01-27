@@ -1,14 +1,16 @@
 ---
 criado: 2025-11-18T10:49:33-03:00
 atualizado: 2026-01-02T14:45:00-03:00
+created: 2026-01-26T11:22
+updated: 2026-01-26T11:22
 ---
 # 🚀 MOC: PROJETOS
 
 **Map of Content - Projetos Ativos e Arquivados**
 
 **Criado:** 17/Jan/2025
-**Última atualização:** 02/Jan/2026
-**Total de projetos:** 4
+**Última atualização:** 26/Jan/2026
+**Total de projetos:** 6
 
 ---
 
@@ -48,7 +50,15 @@ Central de todos os seus projetos. Cada projeto segue o padrão `ESTRUTURA_PROJE
 
 ### 🟢 Baixa Prioridade
 
-(nenhum projeto ainda)
+- **[[02_PROJETOS/Gabriele_Confeccoes_Reestruturacao/README.md|Gabriele Confecções]]** - 30%
+  - Reestruturação da confecção familiar
+  - Início: Jan/2026
+  - Próximo: Definir estrutura operacional
+
+- **[[02_PROJETOS/Estudo_Alan_Nicolas/README.md|Estudo Alan Nicolas]]** - 80%
+  - Engenharia reversa do sistema Mente Lendária
+  - Início: Jan/2026
+  - Próximo: Aplicar no sistema Névoa
 
 ### 📦 Arquivados
 
@@ -105,10 +115,12 @@ Central de todos os seus projetos. Cada projeto segue o padrão `ESTRUTURA_PROJE
 
 | Projeto | Status | Prioridade | Progresso | Última Atividade |
 |---------|--------|------------|-----------|------------------|
-| KabaK Reestruturação 2025 | Planejamento | 🔴 Alta | ██░░░░░░░░ 20% | 08/Dez/2025 |
+| KabaK Brands | Ativo | 🔴 Alta | ████░░░░░░ 40% | 26/Jan/2026 |
 | DeFi Verso 2025 | Ativo | 🔴 Alta | █████░░░░░ 50% | 04/Dez/2025 |
 | Devocionais RPSP | Estruturação | 🟡 Média | ████░░░░░░ 40% | 02/Jan/2026 |
 | Lio Liofilização | Planejamento | 🟡 Média | █░░░░░░░░░ 10% | 08/Dez/2025 |
+| Gabriele Confecções | Planejamento | 🟢 Baixa | ███░░░░░░░ 30% | Jan/2026 |
+| Estudo Alan Nicolas | Ativo | 🟢 Baixa | ████████░░ 80% | 26/Jan/2026 |
 
 ---
 
@@ -148,13 +160,13 @@ Central de todos os seus projetos. Cada projeto segue o padrão `ESTRUTURA_PROJE
 
 ## 📈 ESTATÍSTICAS
 
-```
-📁 Total de projetos: 4
+```text
+📁 Total de projetos: 6
 🔴 Alta prioridade: 2 (KabaK, DeFi)
 🟡 Média prioridade: 2 (Devocionais RPSP, Lio)
-🟢 Baixa prioridade: 0
+🟢 Baixa prioridade: 2 (Gabriele, Estudo Alan)
 📦 Arquivados: 0
-📅 Último projeto criado: 02/Jan/2026 (Devocionais RPSP)
+📅 Última atualização: 26/Jan/2026
 ```
 
 ---

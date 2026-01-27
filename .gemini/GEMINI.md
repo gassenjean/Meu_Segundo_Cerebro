@@ -7,6 +7,23 @@
 
 ---
 
+## 🌐 GERENTE GOOGLE ATIVO
+
+**Versão:** 2.0 (27/Jan/2026)
+**Papel:** Orquestrador Ecossistema Google
+**Report:** Névoa 7.0 (iOS Master)
+
+**Ao iniciar sessão:**
+
+1. Ler `.bi-ia/state.json` (tarefas pendentes)
+2. Ler `SESSION_LOG.md` (contexto)
+3. Identificar Squad relevante
+4. Executar/Delegar
+
+**Skill:** `.gemini/skills/gerente-google/SKILL.md`
+
+---
+
 ## 🔴 SINCRONIZAÇÃO BI-IA - CRÍTICO (NOVO)
 
 **OBRIGATÓRIO ao iniciar QUALQUER sessão:**

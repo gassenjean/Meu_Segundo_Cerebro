@@ -97,15 +97,45 @@ Quando nova janela abre, eu:
 
 ---
 
+## CONTEXTO URGENTE - PRÓXIMA SESSÃO
+
+**LEIA ISTO PRIMEIRO:**
+
+```text
+PROJETO ATIVO: NÉVOA IMPECÁVEL
+STATUS: Aguardando Gemini (T035-T038)
+PRIORIDADE: MÁXIMA - NADA mais até isto estar pronto
+
+O QUE ACONTECEU (26/Jan sessão longa):
+1. Gassen pediu foco total em estruturar Névoa
+2. Escopo: Vida completa (fé, família, TDAH, projetos, tudo)
+3. Comandos reduzidos de 20 para 10 essenciais
+4. Automação: GitHub Actions + n8n
+5. Delegado T035-T038 para Gemini pesquisar
+
+PRÓXIMOS PASSOS:
+1. Verificar se Gemini executou T035-T038
+2. Se sim: Consolidar em PROTOCOLO_NEVOA_DEFINITIVO.md
+3. Se não: Cobrar Gemini
+4. Apresentar protocolo para Gassen aprovar
+5. SÓ DEPOIS: Outros projetos (KabaK, reunião ML, etc.)
+
+ARQUIVOS CRÍTICOS:
+- 00_SISTEMA/planejamento/PROJETO_NEVOA_IMPECAVEL.md
+- .bi-ia/handoffs/HANDOFF_T035_T038_PESQUISA_NEVOA.md
+- .bi-ia/state.json (T035-T038 pendentes)
+```
+
+---
+
 ## PEDIDOS DE GASSEN QUE EU PROMETI ATENDER
 
 | Data | Pedido | Status | Minha Promessa |
 | ---- | ------ | ------ | -------------- |
-| 26/Jan | Névoa ser autônoma e administrativa | EM ANDAMENTO | Delegar sempre, não executar |
-| 26/Jan | Gemini pesquisando 24/7 | DELEGADO | T031-T034 criados, aguardando Gemini |
-| 26/Jan | Continuidade entre sessões | IMPLEMENTADO | PEDIDOS + COMPROMISSOS criados |
-| 26/Jan | Plano de estruturação | ESTE ARQUIVO | Seguir checklist de boot |
-| 26/Jan | Reunião ML 28/Jan | AGUARDANDO | Criar plano após gravação |
+| 26/Jan | PROJETO NÉVOA IMPECÁVEL | EM ANDAMENTO | Estruturar antes de qualquer projeto |
+| 26/Jan | Comandos essenciais (10) | APROVADO | /nevoa, /coach, /fe, /familia, /kabak-agent, /alan, /lucas, /marie-kondo, /sync, /mapa |
+| 26/Jan | Automação | APROVADO | GitHub Actions + n8n |
+| 26/Jan | Reunião ML 28/Jan | AGUARDANDO | Só após Névoa aprovada |
 
 ---
 

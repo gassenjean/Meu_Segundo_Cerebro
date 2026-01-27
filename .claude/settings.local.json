@@ -66,7 +66,24 @@
       "WebFetch(domain:www.atara.com.br)",
       "WebFetch(domain:www.divinafitness.com.br)",
       "Bash(dir:*)",
-      "Bash(powershell -Command:*)"
+      "Bash(powershell -Command:*)",
+      "Bash(del \"C:\\\\Users\\\\gasse\\\\OneDrive\\\\Meu_Segundo_Cerebro\\\\00_SISTEMA\\\\MOCs\\\\MOC_Padroes_Protocolos_Guidelines-DESKTOP-5IOF0UE.md\")",
+      "Bash(move tdah.md _archived )",
+      "Bash(move assistente.md _archived )",
+      "Bash(move pedro.md _archived )",
+      "Bash(move validate.md _archived )",
+      "Bash(move claude-architect.md _archived )",
+      "Bash(move gemini.md _archived )",
+      "Bash(move google.md _archived )",
+      "Bash(move mode.md _archived )",
+      "Bash(move dev.md _archived )",
+      "Bash(move:*)",
+      "Bash(copy:*)",
+      "WebFetch(domain:agenciatitanio.com.br)",
+      "WebFetch(domain:titaniumco.com.br)",
+      "WebFetch(domain:www.reclameaqui.com.br)",
+      "WebFetch(domain:tittanium.ag)",
+      "Bash(echo:*)"
     ]
   }
 }

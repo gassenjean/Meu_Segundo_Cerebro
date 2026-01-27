@@ -1,9 +1,11 @@
 ---
 description: Índice inteligente do vault (carregamento otimizado por categoria)
-argument-hint: [opcional] sistema|conhecimento|projetos|aprendizado|recursos|completo
+argument-hint: [opcional] sistema|conhecimento|projetos|aprendizado|recursos|completo|learn|work
 ---
 
-# Mapa - Índice Inteligente do Vault (v2.0)
+# Mapa - Índice Inteligente do Vault (v3.0)
+
+**Absorveu:** `/mode`
 
 Carrega índice do vault com **carregamento inteligente por categoria**.
 
@@ -215,7 +217,23 @@ Carrega índice do vault com **carregamento inteligente por categoria**.
 
 ---
 
-**Versão:** 2.0 (Token Optimized)
-**Atualizado:** 18/Jan/2026
+## FUNCIONALIDADES ABSORVIDAS
+
+### De /mode
+
+Agora `/mapa` também ativa contextos:
+
+```bash
+/mapa learn    # Modo aprendizado (cursos)
+/mapa work     # Modo projetos (trabalho)
+```
+
+**Modo Learn:** Carrega índice de aprendizado + contexto de estudo
+**Modo Work:** Carrega índice de projetos + contexto de trabalho
+
+---
+
+**Versão:** 3.0 (Consolidado)
+**Atualizado:** 26/Jan/2026
 **Status:** ✅ Production Ready
 **Economia:** 93% vs v1.0

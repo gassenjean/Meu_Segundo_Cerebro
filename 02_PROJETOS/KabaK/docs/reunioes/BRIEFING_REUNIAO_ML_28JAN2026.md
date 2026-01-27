@@ -1,6 +1,6 @@
 ---
 created: 2026-01-25T21:30:00-03:00
-updated: 2026-01-25T21:30:00-03:00
+updated: 2026-01-26T18:24
 ---
 
 # Briefing Reunião Mercado Livre - 28/Jan/2026

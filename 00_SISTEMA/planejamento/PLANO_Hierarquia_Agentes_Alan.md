@@ -1,6 +1,6 @@
 ---
 created: 2026-01-22T21:29
-updated: 2026-01-22T21:56
+updated: 2026-01-26T14:12
 ---
 # PLANO: Hierarquia de Agentes (Modelo Alan Nicolas)
 

@@ -1,6 +1,6 @@
 ---
 created: 2026-01-25T19:00:00-03:00
-updated: 2026-01-25T19:00:00-03:00
+updated: 2026-01-26T18:24
 tipo: talking_points
 prioridade: alta
 status: preparacao

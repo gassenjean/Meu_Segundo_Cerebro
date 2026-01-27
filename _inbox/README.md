@@ -1,6 +1,8 @@
 ---
 criado: 2026-01-14T12:22:26-03:00
 atualizado: 2026-01-14T12:22:26-03:00
+created: 2026-01-14T12:22
+updated: 2026-01-26T11:14
 ---
 # 📥 INBOX - Captura Rápida
 

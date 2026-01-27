@@ -1,0 +1,11 @@
+{
+    "hooks": {
+        "PreToolUse": [
+            {
+                "matcher": ".*(Write|Create|Edit|Run).*",
+                "type": "prompt",
+                "prompt": "CRITICAL SECURITY CHECK: You are running on Windows. Check if the TargetFile, Path, or Command involves a reserved device name: NUL, CON, PRN, AUX, COM1-9, LPT1-9. Examples: 'nul', 'con', 'aux'.\n\nIF VALIDATED AS RESERVED NAME:\n1. BLOCK the execution.\n2. Return an error to yourself: 'Error: Cannot create/access reserved Windows filename [NAME].'\n3. DO NOT proceed."
+            }
+        ]
+    }
+}

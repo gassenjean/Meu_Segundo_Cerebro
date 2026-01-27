@@ -1,6 +1,6 @@
 # Pedidos de Gassen Pendentes
 
-**Atualizado:** 26/Jan/2026 (Sessão S027 encerrada)
+**Atualizado:** 26/Jan/2026 (Sessão S030)
 **Regra:** NÉVOA DEVE LER ESTE ARQUIVO AO INICIAR TODA SESSÃO
 
 ---
@@ -9,13 +9,34 @@
 
 | ID | Data | Pedido | Status | Responsável |
 | -- | ---- | ------ | ------ | ----------- |
-| P001 | 26/Jan | Névoa ser autônoma e administrativa | ✅ IMPLEMENTADO | Névoa |
-| P002 | 26/Jan | Gemini pesquisando 24/7 (researchers) | ✅ DELEGADO | T031-T034 para Gemini |
-| P003 | 26/Jan | Continuidade entre sessões | ✅ IMPLEMENTADO | COMPROMISSOS + PEDIDOS |
-| P004 | 26/Jan | Reunião ML 28/Jan - criar plano após gravação | AGUARDANDO GRAVAÇÃO | Gassen + Névoa |
-| P005 | 26/Jan | Plano de estruturação da Névoa | ✅ CRIADO | COMPROMISSOS_NEVOA.md |
-| P006 | 26/Jan | Névoa guardar pedidos e compromissos | ✅ IMPLEMENTADO | Este arquivo + COMPROMISSOS |
-| P007 | 26/Jan | Usar máximo das ferramentas | EM ANDAMENTO | Delegação contínua |
+| P004 | 26/Jan | Reunião ML 28/Jan - criar plano após gravação | AGUARDANDO gravação | Gassen + Névoa |
+| P010 | 26/Jan | Enviar 4 documentos para Sansom | ✅ ENVIADO | Gassen |
+| P011 | 26/Jan | Cobrar Sansom pagamento setup Titanium R$50k | PENDENTE | Gassen |
+| P012 | 26/Jan | Validar preços Rib Shine com Sansom | PENDENTE | Gassen |
+
+## Pedidos Concluídos Recentemente
+
+| ID | Data | Pedido | Conclusão |
+| -- | ---- | ------ | --------- |
+| P013 | 26/Jan | Pesquisa profunda Titanium para Sansom | ✅ Dossiê completo + CNPJs + Sócios verificados |
+| P014 | 26/Jan | Projeto Rib Shine com projeções | ✅ 4 documentos criados para Sansom |
+| P015 | 26/Jan | Corrigir composição tecido (92% Poliamida / 8% Elastano) | ✅ Documento atualizado |
+| P009 | 27/Jan | Reunião Universo Google - reativar /google | ✅ IMPLEMENTADO - 11 comandos, 5 Squads ativos |
+| P008 | 26/Jan | PROJETO NÉVOA IMPECÁVEL | ✅ APROVADO POR GASSEN 27/Jan - Névoa 7.0 oficial, 11 comandos, 10 arquivados |
+
+## Pedidos Concluídos (Esta Sessão)
+
+| ID | Data | Pedido | Conclusão |
+| -- | ---- | ------ | --------- |
+| P001 | 26/Jan | Névoa ser autônoma e administrativa | ✅ IMPLEMENTADO |
+| P002 | 26/Jan | Gemini pesquisando 24/7 | ✅ T031-T034 entregues |
+| P003 | 26/Jan | Continuidade entre sessões | ✅ IMPLEMENTADO |
+| P005 | 26/Jan | Plano de estruturação | ✅ PROJETO_NEVOA_IMPECAVEL.md |
+| P006 | 26/Jan | Guardar pedidos e compromissos | ✅ IMPLEMENTADO |
+| P007 | 26/Jan | Usar máximo das ferramentas | ✅ Delegando para Gemini |
+| - | 26/Jan | Corrigir erros vault (duplicatas, INDEX) | ✅ Marie Kondo executou |
+| - | 26/Jan | Estudar modelo Alan Nicolas | ✅ 79+ arquivos mapeados |
+| - | 26/Jan | Reduzir comandos para essenciais | ✅ Aprovado: 20 → 10 |
 
 ---
 

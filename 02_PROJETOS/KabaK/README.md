@@ -1,8 +1,8 @@
 ---
 criado: 2025-12-19T18:01:51-03:00
-atualizado: 2026-01-15T15:45:00-03:00
+atualizado: 2026-01-26T18:20:00-03:00
 created: 2026-01-22T12:08
-updated: 2026-01-22T12:08
+updated: 2026-01-26T18:20
 ---
 
 # KabaK - Reestruturação e E-commerce 2026
@@ -96,8 +96,15 @@ Reunião 2h30 com Sansom, Gassen, Kris e Jean. **ACORDO VERBAL FIRMADO:**
 - [[planejamento/PLANILHA_SANSOM_SIMPLES.md]] - **PLANILHA FINANCEIRA OFICIAL (SIMPLES)** 🔥
 - [[docs/RESUMO_EXECUTIVO_REUNIAO_SANSOM.md]] - **RESUMO COMPLETO REUNIÃO** 🔥
 - [[planejamento/PROXIMOS_PASSOS_SOCIEDADE_SANSOM.md]] - **PRÓXIMOS PASSOS DETALHADOS** 🔥
+- [[docs/RESUMO_REUNIAO_SANSOM_23JAN2026_ENVIO.md]] - Resumo Reunião 23/Jan (Rib Shine) 🔥
+- [[docs/PLANO_PRODUTOS_RIB_SHINE_SANSOM.md]] - **PLANO PRODUTOS COMPLETO RIB SHINE** 🔥
 - [[STATUS_ATUAL.md]] - Status detalhado atualizado
 - [[docs/Reunião Sansom transcrição.md]] - Transcrição completa reunião
+
+### 📋 Produtos & Pesquisas
+
+- [[docs/produto/PESQUISA_RIB_SHINE.md]] - Pesquisa técnica tecido Rib Shine
+- [[docs/produto/]] - Fichas técnicas peças (PDFs)
 
 ### 📋 Históricos (Pré 14/Jan/2026)
 
@@ -111,6 +118,7 @@ Reunião 2h30 com Sansom, Gassen, Kris e Jean. **ACORDO VERBAL FIRMADO:**
 - `planejamento/` - Planos jurídicos, e-commerce, parceria Titanium
 - `checkpoints/` - Snapshots de progresso
 - `docs/` - Contratos, processos, manuais
+- `docs/produto/` - Pesquisas técnicas e fichas produtos
 - `recursos/` - Assets visuais, materiais de marca
 - `tarefas/` - Gestão de tarefas e sprints
 - `metricas/` - KPIs vendas, tráfego, conversão
@@ -170,6 +178,18 @@ Reunião 2h30 com Sansom, Gassen, Kris e Jean. **ACORDO VERBAL FIRMADO:**
 - [ ] Fotos profissionais (Abr)
 - [ ] Lançamento (Mai/2026)
 
+### 7. Coleção Rib Shine (NOVO - 26/Jan/2026)
+
+- [x] Pesquisa técnica tecido - ✅ Completa
+- [x] Plano produtos completo - ✅ Criado 26/Jan
+- [ ] Aprovação Sansom (Plano Produtos)
+- [ ] Cotação fornecedor Adamá Tecidos
+- [ ] Amostras tecido (7 cores)
+- [ ] Protótipos modelagem (4 SKUs)
+- [ ] Pedido tecido (12.225m)
+- [ ] Produção (15.470 peças)
+- [ ] Lançamento (Abr-Mai/2026)
+
 ---
 
 ## 💰 Investimento (Atualizado 14/Jan/2026)
@@ -178,7 +198,7 @@ Reunião 2h30 com Sansom, Gassen, Kris e Jean. **ACORDO VERBAL FIRMADO:**
 
 ### Investimento Total (6 meses)
 
-```
+```text
 Estoque (240k peças):     R$ 1.440.000
 Marketing/Setup/Giro:     R$   540.000
 Déficit Operacional:      R$   126.300
@@ -208,7 +228,7 @@ TOTAL:                    R$ 2.096.300
 
 ---
 
-**Última atualização:** 14/Jan/2026
+**Última atualização:** 26/Jan/2026
 **Responsáveis:**
 
 - **Sansom (51% decisão / 50% lucros):** Gestão financeira, importação China

@@ -1,6 +1,8 @@
 ---
 criado: 2025-11-28T07:32:40-03:00
 atualizado: 2025-11-24T21:32:03-03:00
+created: 2026-01-14T12:22
+updated: 2026-01-26T11:21
 ---
 # 🗂️ ÍNDICE: Metodologia Profissional com IA
 

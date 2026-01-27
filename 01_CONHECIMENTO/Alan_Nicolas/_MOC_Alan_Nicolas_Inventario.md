@@ -1,3 +1,7 @@
+---
+created: 2026-01-26T08:45
+updated: 2026-01-26T11:18
+---
 # 🗺️ MOC: Inventário Vault Alan Nicolas
 
 **Status:** ✅ Mapeado

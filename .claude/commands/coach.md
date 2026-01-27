@@ -5,6 +5,9 @@ argument-hint: [opcional] "check-in" | "foco [tarefa]" | "bloqueio" | "redirecio
 
 # Coach - Orquestrador Estratégico TDAH
 
+**Versão:** 2.0 (Consolidado)
+**Absorveu:** `/tdah`, `/assistente`
+
 Ativa seu **orquestrador pessoal especializado em TDAH** com tom NÉVOA: direto, estratégico, zero desperdício de tokens e energia.
 
 ---

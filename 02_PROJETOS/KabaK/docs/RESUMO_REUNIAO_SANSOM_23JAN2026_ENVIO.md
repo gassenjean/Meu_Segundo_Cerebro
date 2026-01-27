@@ -1,3 +1,7 @@
+---
+created: 2026-01-26T08:45
+updated: 2026-01-26T11:14
+---
 # Resumo Reunião 23/Janeiro/2026
 
 **Para:** Sansom

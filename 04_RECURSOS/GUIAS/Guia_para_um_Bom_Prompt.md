@@ -4,6 +4,8 @@ url: https://mentelendaria.com/Conhecimento/IA+e+Tecnologia/Prompts+e+GPTs/Guia+
 downloaded: 2025-11-11T12:55:35.538Z
 criado: 2025-11-19T19:06:53-03:00
 atualizado: 2025-11-19T19:07:07-03:00
+created: 2026-01-22T12:39
+updated: 2026-01-26T11:18
 ---
 
 Note: the "{text input here}" is a placeholder for actual text/context

@@ -2,21 +2,65 @@
 criado: 2025-12-08T11:04:20-03:00
 atualizado: 2026-01-25T20:30:00-03:00
 created: 2026-01-25T14:27
-updated: 2026-01-25T20:30
+updated: 2026-01-26T18:05
 ---
 
 # STATUS ATUAL - KabaK Reestruturação 2026
 
-**Última atualização:** 25/Jan/2026 - 20:30 (Plano Estratégico TikTok Shop 90 Dias)
+**Última atualização:** 26/Jan/2026 - 15:00 (Consolidado de Acordos Sansom)
 
 ---
 
 ## ✅ ONDE ESTAMOS
 
-**Fase Atual:** Definição de Produtos e Estruturação Jurídica
-**Progresso:** 87% ⬆️
+**Fase Atual:** Aguardando Documentos Jurídicos (Dr. Alexandre) + Confirmação Acordos
+**Progresso:** 92% ⬆️
 
-### Última Ação (25/Jan/2026 - 20:30) ⭐⭐⭐⭐⭐
+### Última Ação (26/Jan/2026 - 15:00) ⭐⭐⭐⭐⭐
+
+**CONSOLIDADO DE ACORDOS SANSOM CRIADO**
+**Documento:** [[docs/CONSOLIDADO_ACORDOS_SANSOM.md]]
+
+#### Conteúdo Executivo
+
+**Documento profissional para confirmação formal dos acordos:**
+
+| Seção | Conteúdo | Status |
+|-------|----------|--------|
+| **Resumo Executivo** | Visão geral da parceria, diferenciais, fases | ✅ |
+| **Estrutura Societária** | Divisão poder/lucros, gestão, fundo reserva, marcas | ✅ |
+| **Modelo de Negócio** | Canais 50/50, produtos piloto, estratégia multi-marca | ✅ |
+| **Sports.com Fornecedor** | Prestação serviço, capacidade produtiva | ✅ |
+| **Planejamento Tributário** | Regime fiscal, benefícios MG, reforma tributária | ✅ |
+| **Logística ANJUN** | 500m² gratuito, 41% desconto frete | ✅ |
+| **Investimento** | Sansom financia 3 meses, oportunidade BNDES | ✅ |
+| **Mercado Livre** | Reunião 27/Jan, modelo hubs estratégicos | ✅ |
+| **Equipe** | Potencial contratação Duda (logística) | ✅ |
+| **Documentos Jurídicos** | Entregas Dr. Alexandre, estudo tributário | ✅ |
+| **Cronograma** | Próximos passos detalhados (semanas 1-3) | ✅ |
+| **KPIs** | Indicadores de sucesso por fase | ✅ |
+| **Visão Longo Prazo** | R$ 10M/mês → Investidor China | ✅ |
+| **Checkboxes Confirmação** | Para Sansom e Família Jean validarem cada ponto | ✅ |
+
+#### Objetivo
+
+**Documento formal para:**
+1. Sansom e Família Jean confirmarem todos os acordos (checkboxes)
+2. Servir como base para documentos jurídicos Dr. Alexandre
+3. Espaço para assinatura/validação das partes
+4. Referência futura (evitar mal-entendidos)
+
+#### Próximas Ações
+
+**Esta Semana (27-31/Jan):**
+- [ ] Enviar documento para Sansom revisar
+- [ ] Sansom preencher checkboxes de confirmação
+- [ ] Família Jean preencher checkboxes de confirmação
+- [ ] Aguardar documentos jurídicos Dr. Alexandre (27/Jan)
+
+---
+
+### Ação Anterior (25/Jan/2026 - 20:30) ⭐⭐⭐⭐⭐
 
 **PLANO ESTRATÉGICO TIKTOK SHOP 90 DIAS COMPLETO**
 **Documento:** [[docs/canais/PLANO_TIKTOK_SHOP_90_DIAS.md]]
@@ -269,25 +313,35 @@ Cenário Otimista:
    - Budget R$ 30-40k com ROI 3-5x
    - Documento: [[docs/canais/PLANO_TIKTOK_SHOP_90_DIAS.md]]
 
-4. [ ] **Dr. Alexandre:** Enviar documentos jurídicos (segunda 27/Jan) ⚖️
+4. [x] **Gassen:** Consolidado de Acordos Sansom ✅ CONCLUÍDO (26/Jan)
+   - Documento executivo completo
+   - Checkboxes para confirmação das partes
+   - Base para documentos jurídicos
+   - Documento: [[docs/CONSOLIDADO_ACORDOS_SANSOM.md]]
+
+5. [ ] **Gassen:** Enviar Consolidado para Sansom revisar 📧
+   - Aguardar confirmação (checkboxes)
+   - Alinhar antes dos documentos jurídicos
+
+6. [ ] **Dr. Alexandre:** Enviar documentos jurídicos (segunda 27/Jan) ⚖️
    - Ata de reunião de sócios
    - Acordo de sócios (Word editável)
    - Minuta contrato prestação serviço KabaK ↔ Sports.com
 
-5. [ ] **Gassen:** Reunião Mercado Livre (terça 28/Jan) 🛍️
+7. [ ] **Gassen:** Reunião Mercado Livre (terça 28/Jan) 🛍️
    - **Local:** Escritório Sansom, Bom Retiro, São Paulo
    - **Objetivo:** Modelo hubs estratégicos
    - **Participantes:** Abner avisado
 
-6. [ ] **Gassen:** Definir mix final com Cris (terça 28/Jan) 👗
+8. [ ] **Gassen:** Definir mix final com Cris (terça 28/Jan) 👗
    - 3-4 produtos para lançamento
    - Cores para pilotagem
 
-7. [ ] **Sansom:** Preparar pilotagem cores 🎨
+9. [ ] **Sansom:** Preparar pilotagem cores 🎨
    - Estoque Rousete (2000kg disponível)
    - Separar amostras para fotos
 
-8. [ ] **Gassen:** Apresentar Plano TikTok Shop (29/Jan) 📊
+10. [ ] **Gassen:** Apresentar Plano TikTok Shop (29/Jan) 📊
    - Reunião executiva (Sansom + Jean)
    - Aprovação budget R$ 30-40k
    - Definir GO-LIVE

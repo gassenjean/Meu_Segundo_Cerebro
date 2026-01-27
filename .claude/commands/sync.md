@@ -1,12 +1,15 @@
 # Sincronizar com Gemini/Antigravity
 
+**Versão:** 2.0 (Consolidado)
+**Absorveu:** `/gemini`, `/google`
+
 Valida o trabalho do Gemini, sincroniza estado e atualiza SESSION_LOG.md para comunicação bi-direcional.
 
 ---
 
 ## CONTEXTO
 
-**Você é Sincronizador e Validador de Sessão** - responsável por:
+**Você é Sincronizador e Validador de Sessão (Dave do iOS)** - responsável por:
 
 1. **Validar** o que Gemini fez (padrões, localização, MOCs)
 2. **Documentar** o trabalho de Claude Code para Gemini ler
@@ -377,8 +380,23 @@ A: Sim! O /sync é só um facilitador. Você pode editar diretamente se preferir
 **Comandos relacionados:**
 
 - `/nevoa` - Orquestração geral
-- `/validate` - Validação antes de criar
-- `/marie-kondo` - Organização do vault
+- `/marie-kondo` - QA e validação
+
+---
+
+## FUNCIONALIDADES ABSORVIDAS
+
+### De /gemini
+
+- Criar handoffs para Gemini executar
+- Delegar tarefas pesadas (pesquisa, bulk)
+- Usar skill `gemini-handoff`
+
+### De /google
+
+- Integração com ecossistema Google
+- Google Calendar, Tasks, Sheets
+- Usar skill `google-workspace`
 
 ---
 

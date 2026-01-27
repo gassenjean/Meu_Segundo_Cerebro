@@ -107,9 +107,28 @@ Used for logging data (finance, health, metrics).
 3. **Output Action Block:** Generate the JSON block.
 4. **Confirm:** Tell the user "Scheduling [Action]..."
 
-## Integration with Managers
+## Integration with Managers (iOS Framework)
 
-- **/fe:** Uses Calendar (Devotionals) & Tasks (Readings).
-- **/familia:** Uses Calendar (Dates) & Tasks (House).
-- **/tdah:** Uses Calendar (Deep Work) & Sheets (Logs).
-- **/assistente:** Uses All (Orchestration).
+| Gerente | Usa Service | Casos de Uso |
+| ------- | ----------- | ------------ |
+| `/coach` | Calendar, Tasks, Sheets | Deep Work, Hábitos, Logs TDAH |
+| `/fe` | Calendar, Tasks | Devocionais, Leituras |
+| `/familia` | Calendar, Tasks | Datas família, Tarefas casa |
+| `/kabak-agent` | Sheets, Calendar | Métricas, Reuniões |
+| `/google` | Todos | Orquestra todos os services |
+
+## Hierarquia iOS
+
+```text
+/google (Gerente Google)
+└── Google Workspace Skill
+    ├── Calendar → Coach, Fé, Família
+    ├── Tasks → Todos os gerentes
+    └── Sheets → Coach, KabaK, Lucas
+```
+
+## Recursos Relacionados
+
+- `04_RECURSOS/PROMPTS/Agentes_Sistema/PROMPT_GERENTE_GOOGLE.md`
+- `04_RECURSOS/PROMPTS/Agentes_Sistema/PROMPT_AGENTE_GOOGLE_IO.md`
+- `04_RECURSOS/GOOGLE_UNIVERSE/GOOGLE_TOOLS_DATABASE.md`

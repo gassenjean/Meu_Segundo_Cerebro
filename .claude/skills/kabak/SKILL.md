@@ -110,6 +110,53 @@ Todos em `assets/templates/`:
 5. **Frontmatter PT-BR** - criado/atualizado (nao created/updated)
 6. **Cascata** - STATUS → DASHBOARD → TODO
 
+---
+
+## REGRA ZERO - NUNCA INVENTAR DADOS
+
+**LEI ABSOLUTA - ZERO EXCECOES:**
+
+```text
+PROIBIDO INVENTAR:
+- Composicao de tecidos (ex: "83% Poliamida / 17% Elastano")
+- Precos de tecido/insumos
+- Fornecedores (nomes, contatos, precos)
+- Custos de producao
+- Especificacoes tecnicas (gramatura, largura, etc.)
+- Projecoes financeiras sem base em dados reais
+```
+
+**FONTES OBRIGATORIAS (unicas validas):**
+
+| Tipo de Dado | Fonte Obrigatoria |
+| ------------ | ----------------- |
+| Custos produtos Rib Shine | `docs/produto/FICHAS_TECNICAS_RIB_SHINE.md` |
+| Custos produtos China | `VALORES_OFICIAIS.md` |
+| Investimento/ROI/Margem | `VALORES_OFICIAIS.md` |
+| Tecidos disponiveis | PDFs em `docs/*.pdf` |
+| Stakeholders | `references/stakeholders.md` |
+
+**SE NAO TEM DADO:**
+
+```text
+1. PARAR e informar: "Nao tenho ficha tecnica de [produto]"
+2. PERGUNTAR: "Voce tem o PDF da ficha tecnica?"
+3. NUNCA inventar para "completar" documento
+4. Marcar como PENDENTE se for criar documento parcial
+```
+
+**CONSEQUENCIA DE VIOLACAO:**
+- Documento com dados inventados = LIXO
+- Gassen perde tempo corrigindo
+- Decisoes de negocio baseadas em mentiras
+
+**CHECKLIST ANTES DE ESCREVER CUSTOS:**
+
+- [ ] Tenho ficha tecnica (PDF) deste produto?
+- [ ] Li FICHAS_TECNICAS_RIB_SHINE.md ou VALORES_OFICIAIS.md?
+- [ ] Os numeros que vou escrever vieram de fonte real?
+- [ ] Se nao tenho dado, vou marcar como "A DEFINIR"?
+
 ## Frontmatter Padrao
 
 ```yaml

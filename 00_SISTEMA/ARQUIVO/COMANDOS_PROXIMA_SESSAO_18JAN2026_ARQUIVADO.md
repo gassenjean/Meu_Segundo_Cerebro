@@ -1,3 +1,7 @@
+---
+created: 2026-01-19T10:35
+updated: 2026-01-26T14:41
+---
 # 📋 COMANDOS PARA PRÓXIMAS SESSÕES
 
 **Data:** 18/JAN/2026

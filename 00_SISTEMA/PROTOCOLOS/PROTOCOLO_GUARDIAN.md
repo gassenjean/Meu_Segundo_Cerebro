@@ -1,3 +1,7 @@
+---
+created: 2026-01-22T21:18
+updated: 2026-01-26T11:16
+---
 # PROTOCOLO: Guardian - Agente de Manutenção Automática
 
 **Manutenção Inteligente do Vault via Orquestração de Skills**

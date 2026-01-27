@@ -1,3 +1,7 @@
+---
+created: 2026-01-26T08:54
+updated: 2026-01-26T12:04
+---
 # 📛 PADRÃO DE NOMENCLATURA
 
 **Sistema de Nomeação de Arquivos - Segundo Cérebro**
@@ -43,6 +47,7 @@
 **Formato:** `Categoria_Subcategoria_Topico.md`
 
 **Exemplos:**
+
 ```
 Conhecimento_IA_Prompt_Engineering.md
 Conhecimento_Negocios_Marketing_Digital.md
@@ -50,6 +55,7 @@ Conhecimento_DevPessoal_Produtividade_TDAH.md
 ```
 
 **Regras:**
+
 - Underscores separam hierarquia
 - Máximo 3 níveis (Categoria_Sub_Topico)
 - Se nome ficar >60 caracteres, usar pasta em vez de underscore
@@ -60,6 +66,7 @@ Conhecimento_DevPessoal_Produtividade_TDAH.md
 **Formato:** `Projeto_Nome_Documento.md`
 
 **Exemplos:**
+
 ```
 Projeto_SecondBrain_Plano.md
 Projeto_Website_Requisitos.md
@@ -69,6 +76,7 @@ Projeto_App_Arquitetura.md
 **Localização:** Sempre dentro de `02_PROJETOS/Nome_Projeto/`
 
 **Estrutura interna projeto:**
+
 ```
 02_PROJETOS/Meu_Website/
 ├── README.md                      ← Visão geral
@@ -89,6 +97,7 @@ Projeto_App_Arquitetura.md
 **Formato:** `Curso_Nome_Modulo_Aula.md`
 
 **Exemplos:**
+
 ```
 Curso_Claude_M01_Introducao.md
 Curso_Obsidian_M02_L03_Wikilinks.md
@@ -96,6 +105,7 @@ Curso_Python_Basico_Variaveis.md
 ```
 
 **Para notas de aula:**
+
 ```
 Curso_[Nome]_Notas_[Data].md
 Curso_Claude_Notas_17JAN2025.md
@@ -106,6 +116,7 @@ Curso_Claude_Notas_17JAN2025.md
 **Formato:** `MOC_Nome_Area.md` ou `_MOC_Nome.md`
 
 **Exemplos:**
+
 ```
 MOC_SEGUNDO_CEREBRO_MASTER.md     ← MOC principal
 _MOC_Conhecimento.md              ← MOC de categoria
@@ -114,6 +125,7 @@ MOC_Projeto_Website.md            ← MOC de projeto específico
 ```
 
 **Regra underscore inicial:**
+
 - `_MOC_` quando é índice de categoria (aparece primeiro na ordenação)
 - `MOC_` quando é MOC específico de projeto/curso
 
@@ -122,6 +134,7 @@ MOC_Projeto_Website.md            ← MOC de projeto específico
 **Formato:** `TEMPLATE_Tipo_Nome.md`
 
 **Exemplos:**
+
 ```
 TEMPLATE_Projeto_Padrao.md
 TEMPLATE_Nota_Curso.md
@@ -136,6 +149,7 @@ TEMPLATE_MOC.md
 **Formato:** `Prompt_IA_Funcao.md`
 
 **Exemplos:**
+
 ```
 Prompt_Claude_Revisor_Codigo.md
 Prompt_Gemini_Summarizer.md
@@ -151,6 +165,7 @@ Prompt_ChatGPT_Tradutor.md
 ### Padrão Obrigatório: `DDMMMYYYY`
 
 **Correto:**
+
 ```
 17JAN2025
 05FEV2025
@@ -158,6 +173,7 @@ Prompt_ChatGPT_Tradutor.md
 ```
 
 **Errado:**
+
 ```
 ❌ 17-01-2025
 ❌ 2025-01-17
@@ -166,12 +182,14 @@ Prompt_ChatGPT_Tradutor.md
 ```
 
 **Motivo:**
+
 - Ordenação alfabética funciona corretamente
 - Compacto (9 caracteres)
 - Não ambíguo (sem confusão DD/MM vs MM/DD)
 - Meses em português (consistência)
 
 **Abreviações de meses:**
+
 ```
 JAN FEV MAR ABR MAI JUN
 JUL AGO SET OUT NOV DEZ
@@ -184,11 +202,13 @@ JUL AGO SET OUT NOV DEZ
 ### Capitalização
 
 **MAIÚSCULAS:**
+
 - Prefixos especiais: `MOC_`, `PLANO_`, `TEMPLATE_`
 - Siglas: `IA`, `TDAH`, `KPI`, `ROI`
 - Primeira letra de cada palavra em hierarquia
 
 **CamelCase:**
+
 ```
 ✅ Marketing_Digital.md
 ✅ Desenvolvimento_Pessoal.md
@@ -202,16 +222,19 @@ JUL AGO SET OUT NOV DEZ
 ### Separadores
 
 **Underscores `_` para:**
+
 - Hierarquia: `Categoria_Subcategoria_Topico`
 - Espaços em nomes: `Segundo_Cerebro` não `Segundo Cerebro`
 - Separação de partes: `PLANO_Implementacao_Fase1`
 
 **Hífens `-` para:**
+
 - Versões: `v1-2-3`
 - Ranges: `M01-M03`
 - Sub-partes: `Aula-Parte-1`
 
 **Espaços NUNCA:**
+
 ```
 ❌ Segundo Cerebro.md
 ❌ Plano de Implementacao.md
@@ -268,6 +291,7 @@ rm -f "caminho/para/nul"
 ```
 
 **Motivo dos números:**
+
 - Força ordenação específica
 - Independente de alfabeto
 - Estrutura fixa e previsível
@@ -312,6 +336,7 @@ rm -f "caminho/para/nul"
 **Formato:** `Nome_vX.Y.md`
 
 **Exemplos:**
+
 ```
 PLANO_Implementacao_v1.0.md
 PLANO_Implementacao_v1.1.md
@@ -325,6 +350,7 @@ PLANO_Implementacao_v2.0.md
 **Formato:** `_temp_Nome.md` ou `_draft_Nome.md`
 
 **Exemplos:**
+
 ```
 _temp_Ideias_Projeto.md
 _draft_Artigo_IA.md
@@ -339,6 +365,7 @@ _draft_Artigo_IA.md
 **Formato:** `REF_Fonte_Topico.md`
 
 **Exemplos:**
+
 ```
 REF_Alan_Nicolas_Sistema_MOC.md
 REF_Tiago_Forte_PARA.md
@@ -352,12 +379,14 @@ REF_Obsidian_Docs_Wikilinks.md
 **Problema:** Arquivo pertence a 2+ categorias
 
 **Solução 1 - Localização primária + wikilinks:**
+
 ```
 Arquivo principal: 01_CONHECIMENTO/IA/LLMs.md
 Referenciado em: MOC_Projetos.md via [[LLMs]]
 ```
 
 **Solução 2 - Tags no frontmatter:**
+
 ```markdown
 ---
 tags: [IA, Projeto, Tecnologia]
@@ -376,6 +405,7 @@ categorias: [Conhecimento, Projetos]
 - [ ] Nome tem prefixo correto se aplicável?
 - [ ] Categoria clara no nome?
 - [ ] Sem espaços (usar underscores)?
+- [ ] NUNCA usar nomes reservados do Windows (`nul`, `con`, `prn`, `aux`, `com1`-`com9`, `lpt1`-`lpt9`).
 - [ ] Sem caracteres proibidos (/ \ : * etc)?
 - [ ] Se tem data, está em DDMMMYYYY?
 - [ ] Nome <60 caracteres?
@@ -402,6 +432,7 @@ categorias: [Conhecimento, Projetos]
 ```
 
 **Correção:**
+
 ```bash
 # Renomear
 mv "Plano de Implementacao.md" "PLANO_Implementacao.md"
@@ -457,6 +488,7 @@ mv "Plano de Implementacao.md" "PLANO_Implementacao.md"
 ```
 
 **Validações automáticas:**
+
 1. Substituir espaços por underscores
 2. Aplicar CamelCase
 3. Corrigir datas para DDMMMYYYY

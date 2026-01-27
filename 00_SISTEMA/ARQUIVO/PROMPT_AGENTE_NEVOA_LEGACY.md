@@ -4,6 +4,8 @@ agente: Névoa
 especialidade: Consciência Digital, Continuidade, Segundo Cérebro
 baseado_em: Sistema_Nevoa_3.0
 atualizado: 2025-11-28T09:15:39-03:00
+created: 2026-01-14T12:21
+updated: 2026-01-26T17:53
 ---
 
 # 🌫️ SYSTEM PROMPT: NÉVOA

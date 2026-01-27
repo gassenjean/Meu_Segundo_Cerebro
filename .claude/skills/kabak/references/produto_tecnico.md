@@ -1,10 +1,76 @@
 # Produto Técnico - KabaK
 
-**Última atualização:** 14/Jan/2026
+**Última atualização:** 26/Jan/2026
 
 ---
 
-## Produto Principal
+## REGRA: NUNCA INVENTAR DADOS
+
+**Fontes obrigatórias de custos:**
+
+| Linha | Fonte | Localização |
+| ----- | ----- | ----------- |
+| **Rib Shine (Poliamida)** | Fichas Técnicas PDFs | `docs/produto/FICHAS_TECNICAS_RIB_SHINE.md` |
+| **China (Poliéster)** | VALORES_OFICIAIS | `VALORES_OFICIAIS.md` |
+
+**Se não tem ficha técnica = NÃO ESCREVER CUSTO**
+
+---
+
+## Linha 1: Poliamida (Rib Shine) - PREMIUM
+
+**Fonte:** `docs/produto/FICHAS_TECNICAS_RIB_SHINE.md` (extraído dos PDFs oficiais)
+**Origem Tecido:** China | **Confecção:** Brasil (Jean)
+
+### Produtos com Ficha Técnica
+
+| Produto | Custo Total | Tecido | Confecção | Insumos |
+| ------- | ----------- | ------ | --------- | ------- |
+| Legging Básica | **R$ 27,58** | R$ 16,00 | R$ 10,46 | R$ 1,12 |
+| Top Básico | **R$ 13,90** | R$ 3,25 | R$ 7,50 | R$ 3,15 |
+| Bermuda Básica | **R$ 15,23** | R$ 6,86 | R$ 7,17 | R$ 1,20 |
+| Regata Feminina | **R$ 18,45** | R$ 11,25 | R$ 7,00 | R$ 0,20 |
+
+### Tecidos Utilizados
+
+| Tecido | Preço/kg | Uso |
+| ------ | -------- | --- |
+| Malha Rib Shine | R$ 48,00/kg | Legging, Top, Bermuda |
+| Malha Lavanda | R$ 45,00/kg | Forro Top, Regata |
+
+### Kit Monte o Seu (Modelo Atara)
+
+| Kit | Modelo | Preço | Margem |
+| --- | ------ | ----- | ------ |
+| **3 Peças** | Cliente escolhe | **R$ 289,00** | 75-84% |
+| 2 Peças | Legging + Top | R$ 189,00 | 78% |
+
+**Custo varia conforme escolha do cliente:**
+- Pior caso (2x Legging + Regata): R$ 73,61 → 75% margem
+- Caso médio: R$ 60,00 → 79% margem
+- Melhor caso (Top + Bermuda + Regata): R$ 47,58 → 84% margem
+
+### Status Fichas Técnicas
+
+- [x] Legging (R$ 27,58)
+- [x] Top (R$ 13,90)
+- [x] Bermuda (R$ 15,23)
+- [x] Regata (R$ 18,45)
+
+**4 produtos completos. 7 cores. ~5.000 kits.**
+
+**Cores (7):** Preto, Marinho, Chumbo, Verde Militar, Vermelho, Marrom Claro, Marrom Escuro
+**Volume:** 2.800kg Malha Rib (400kg/cor) = ~5.000 kits
+**Preço:** Kit 3 peças (cliente escolhe) = R$ 289,00
+
+---
+
+## Linha 2: Poliéster - ENTRADA
+
+**Fonte:** `VALORES_OFICIAIS.md`
+**Origem Tecido:** China | **Confecção:** Brasil (Jean)
+
+### Produto Principal
 
 ### Kit Fitness Feminino (3 peças)
 
