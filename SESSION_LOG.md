@@ -2,13 +2,53 @@
 criado: 2026-01-14T13:02:05-03:00
 atualizado: 2026-01-27T10:15:00-03:00
 created: 2026-01-25T11:26
-updated: 2026-01-27T10:15
+updated: 2026-01-28T08:51
 ---
 <!-- markdownlint-disable MD024 -->
 
 # SESSION_LOG
 
 > **Rotação automática:** Sessões com mais de 7 dias são arquivadas em `00_SISTEMA/ARQUIVO/LOGS/`
+
+## 🔵 Claude Code (Névoa 7.0) - 28/Jan/2026 (09:30) - P016 DOCUMENTOS KABAK
+
+### Status: 4 Documentos Criados + ML Corrigido
+
+**Ações realizadas:**
+
+- ✅ Criado `RESUMO_REUNIAO_ABNER_ML_27JAN2026.md` (reuniões/)
+- ✅ Criado `RESUMO_REUNIAO_TITANIUM_27JAN2026.md` (reuniões/)
+- ✅ Criado `ANALISE_MOI_KABAK.md` (juridico/)
+- ✅ Criado `ANALISE_PROPOSTA_460_OUTLET.md` (analises/)
+- ✅ **CORREÇÃO CRÍTICA:** ML tinha erro nas propostas de divisão
+  - Corrigido: Abner propôs 50/50, Jean 33/33/33, Sansom 30/30/30+10%
+- ✅ Verificados 3 documentos restantes contra PDFs originais
+- ✅ state.json atualizado
+- ✅ PEDIDOS_GASSEN_PENDENTES.md atualizado (P016 concluído)
+
+### Erro Identificado e Corrigido
+
+**Problema:** Eu escrevi que Abner propôs 33/33/33, mas era ERRADO.
+
+**Realidade (da transcrição):**
+
+| Quem | Proposta |
+| ---- | -------- |
+| Abner | 50/50 (Abner vs KabaK+Sansom) |
+| Jean | 33/33/33 (Importador/Fabricante/Vendas) |
+| Sansom | 30/30/30 + 10% reserva equipe |
+
+**Status:** EM ANÁLISE - Sansom vai decidir modelo
+
+### Pendentes para Próxima Sessão
+
+| ID | Pedido | Responsável |
+| -- | ------ | ----------- |
+| P017 | Revisar plano - verificar alucinação | Névoa |
+| P011 | Cobrar Sansom R$50k Titanium | Gassen (URGENTE) |
+| P019 | Documentar aprovações Sansom (camisetas UV) | KabaK Agent |
+
+---
 
 ## 🔵 Claude Code (Névoa 7.0) - 27/Jan/2026 (10:30) - GERENTE GOOGLE + TAREFAS
 
@@ -2004,3 +2044,20 @@ Recebi 4 tarefas críticas de pesquisa para fundamentar a arquitetura final da N
   2. **PROTEÇÃO ATIVADA:** Criei `.claude/config.json` com **Hook PreToolUse** que bloqueia proativamente nomes reservados (`NUL`, `CON`, etc).
   3. **Regra Adicionada:** `NOMENCLATURA.md` e `state.json` atualizados com proibição explícita.
 - **Status:** Resolvido e Blindado.
+
+### Desktop Casa - 28/Jan/2026 (07:14) - S034 KABAK 4 DOCS
+
+**Gassen trouxe 4 documentos criticos:**
+1. Reuniao ML (Abner) - PDF lido
+2. Reuniao Titanium - PDF lido
+3. 460 Producoes (Outlet) - PDF lido
+4. MOI Dr. Alexandre - NAO LIDO (docx)
+
+**Acoes:**
+- 6 tasks criadas para processar documentos
+- Handoff criado: .bi-ia/handoffs/HANDOFF_S034_KABAK_4DOCS.md
+- Sessao encerrada por limite tokens
+
+**Proxima sessao:** Gassen envia MOI novo formato, revisar plano, continuar processamento
+
+---

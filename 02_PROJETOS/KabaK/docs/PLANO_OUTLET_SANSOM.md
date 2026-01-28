@@ -1,6 +1,6 @@
 ---
 created: 2026-01-26T23:00
-updated: 2026-01-26T23:00
+updated: 2026-01-28T07:12
 status: para_aprovacao
 version: 1.0 (Consolidado)
 ---

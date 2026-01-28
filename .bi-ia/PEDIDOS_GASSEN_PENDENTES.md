@@ -1,6 +1,6 @@
 # Pedidos de Gassen Pendentes
 
-**Atualizado:** 26/Jan/2026 (Sessão S030)
+**Atualizado:** 28/Jan/2026 (Sessão S034)
 **Regra:** NÉVOA DEVE LER ESTE ARQUIVO AO INICIAR TODA SESSÃO
 
 ---
@@ -9,15 +9,18 @@
 
 | ID | Data | Pedido | Status | Responsável |
 | -- | ---- | ------ | ------ | ----------- |
-| P004 | 26/Jan | Reunião ML 28/Jan - criar plano após gravação | AGUARDANDO gravação | Gassen + Névoa |
-| P010 | 26/Jan | Enviar 4 documentos para Sansom | ✅ ENVIADO | Gassen |
-| P011 | 26/Jan | Cobrar Sansom pagamento setup Titanium R$50k | PENDENTE | Gassen |
+| P017 | 28/Jan | REVISAR PLANO - verificar se houve alucinação | PENDENTE | Névoa |
+| P018 | 28/Jan | Processar MOI Dr. Alexandre (novo formato) | AGUARDANDO arquivo | Gassen |
+| P011 | 26/Jan | Cobrar Sansom pagamento setup Titanium R$50k | PENDENTE URGENTE | Gassen |
 | P012 | 26/Jan | Validar preços Rib Shine com Sansom | PENDENTE | Gassen |
+| P019 | 28/Jan | Sansom aprovou: camisetas masc UV + papel administrativo | DOCUMENTAR | KabaK Agent |
 
 ## Pedidos Concluídos Recentemente
 
 | ID | Data | Pedido | Conclusão |
 | -- | ---- | ------ | --------- |
+| P016 | 28/Jan | PROCESSAR 4 DOCUMENTOS REUNIÕES (ML, Titanium, 460, MOI) | ✅ 4 arquivos criados seguindo NOMENCLATURA.md |
+| P004 | 26/Jan | Reunião ML 28/Jan - criar plano após gravação | ✅ RESUMO_REUNIAO_ABNER_ML_27JAN2026.md |
 | P013 | 26/Jan | Pesquisa profunda Titanium para Sansom | ✅ Dossiê completo + CNPJs + Sócios verificados |
 | P014 | 26/Jan | Projeto Rib Shine com projeções | ✅ 4 documentos criados para Sansom |
 | P015 | 26/Jan | Corrigir composição tecido (92% Poliamida / 8% Elastano) | ✅ Documento atualizado |
