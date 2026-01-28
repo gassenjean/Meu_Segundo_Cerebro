@@ -45,6 +45,18 @@
       "notes": "Pesquisa profunda entregue. Veredito: Útil para interface WhatsApp (via Docker), mas não substitui n8n. Comparativo detalhado incluso."
     },
     {
+      "id": "T057",
+      "from": "gerente-google",
+      "to": "squad-infra",
+      "task": "Implementar Piloto Moltbot (Docker) - Infraestrutura, Clone, Guia",
+      "priority": "alta",
+      "status": "completed",
+      "created": "2026-01-28T11:00:00-03:00",
+      "completed": "2026-01-28T11:25:00-03:00",
+      "outputFile": "00_SISTEMA/Infra/Moltbot/",
+      "notes": "Infra Docker criada (Safe Zones). Repo clonado. Guia MOLTBOT_PILOT_GUIDE.md criado. Pronto para start."
+    },
+    {
       "id": "T048",
       "from": "claude",
       "to": "gemini",

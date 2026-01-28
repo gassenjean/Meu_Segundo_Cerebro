@@ -1,6 +1,142 @@
 {
   "recentFiles": [
     {
+      "basename": "ENVIO_RESUMO_460_OUTLET_27JAN2026",
+      "path": "02_PROJETOS/KabaK/docs/reunioes/ENVIO_RESUMO_460_OUTLET_27JAN2026.md"
+    },
+    {
+      "basename": "ENVIO_RESUMO_ML_ABNER_27JAN2026",
+      "path": "02_PROJETOS/KabaK/docs/reunioes/ENVIO_RESUMO_ML_ABNER_27JAN2026.md"
+    },
+    {
+      "basename": "ENVIO_RESUMO_MOI_KABAK_28JAN2026",
+      "path": "02_PROJETOS/KabaK/docs/reunioes/ENVIO_RESUMO_MOI_KABAK_28JAN2026.md"
+    },
+    {
+      "basename": "ENVIO_RESUMO_TITANIUM_27JAN2026",
+      "path": "02_PROJETOS/KabaK/docs/reunioes/ENVIO_RESUMO_TITANIUM_27JAN2026.md"
+    },
+    {
+      "basename": "MOLTBOT_PILOT_GUIDE",
+      "path": "01_CONHECIMENTO/Tecnologia/Tools/MOLTBOT_PILOT_GUIDE.md"
+    },
+    {
+      "basename": "README",
+      "path": "00_SISTEMA/Infra/Moltbot/README.md"
+    },
+    {
+      "basename": "PLANO_OUTLET_SANSOM",
+      "path": "02_PROJETOS/KabaK/docs/PLANO_OUTLET_SANSOM.md"
+    },
+    {
+      "basename": "DOSSIE_TITANIUM_SANSOM",
+      "path": "02_PROJETOS/KabaK/docs/DOSSIE_TITANIUM_SANSOM.md"
+    },
+    {
+      "basename": "MENSAGEM_SANSOM_TITANIUM_PAGAMENTO",
+      "path": "02_PROJETOS/KabaK/docs/MENSAGEM_SANSOM_TITANIUM_PAGAMENTO.md"
+    },
+    {
+      "basename": "PLANO_PRODUTOS_RIB_SHINE_SANSOM",
+      "path": "02_PROJETOS/KabaK/docs/PLANO_PRODUTOS_RIB_SHINE_SANSOM.md"
+    },
+    {
+      "basename": "CALÇA LEGGING BÁSICA  - MALHA RIB  (3)",
+      "path": "02_PROJETOS/KabaK/docs/CALÇA LEGGING BÁSICA  - MALHA RIB  (3).pdf"
+    },
+    {
+      "basename": "CONSOLIDADO_ACORDOS_SANSOM",
+      "path": "02_PROJETOS/KabaK/docs/CONSOLIDADO_ACORDOS_SANSOM.md"
+    },
+    {
+      "basename": "WHATSAPP_SANSOM_TITANIUM",
+      "path": "02_PROJETOS/KabaK/docs/WHATSAPP_SANSOM_TITANIUM.md"
+    },
+    {
+      "basename": "PAUTA_REUNIAO_SANSOM_TITANIUM_27JAN2026",
+      "path": "02_PROJETOS/KabaK/docs/reunioes/PAUTA_REUNIAO_SANSOM_TITANIUM_27JAN2026.md"
+    },
+    {
+      "basename": "RESUMO_COMPLETO_REUNIAO_DR_ALEXANDRE_SANSOM_21JAN2026",
+      "path": "02_PROJETOS/KabaK/docs/reunioes/RESUMO_COMPLETO_REUNIAO_DR_ALEXANDRE_SANSOM_21JAN2026.md"
+    },
+    {
+      "basename": "TALKING_POINTS_REUNIAO_ML_28JAN2026",
+      "path": "02_PROJETOS/KabaK/docs/reunioes/TALKING_POINTS_REUNIAO_ML_28JAN2026.md"
+    },
+    {
+      "basename": "BRIEFING_REUNIAO_ML_28JAN2026",
+      "path": "02_PROJETOS/KabaK/docs/reunioes/BRIEFING_REUNIAO_ML_28JAN2026.md"
+    },
+    {
+      "basename": "PROMPT_AGENTE_NEVOA_LEGACY",
+      "path": "00_SISTEMA/ARQUIVO/PROMPT_AGENTE_NEVOA_LEGACY.md"
+    },
+    {
+      "basename": "COMANDOS_PROXIMA_SESSAO_18JAN2026_ARQUIVADO",
+      "path": "00_SISTEMA/ARQUIVO/COMANDOS_PROXIMA_SESSAO_18JAN2026_ARQUIVADO.md"
+    },
+    {
+      "basename": "PROJETO_NEVOA_IMPECAVEL",
+      "path": "00_SISTEMA/planejamento/PROJETO_NEVOA_IMPECAVEL.md"
+    },
+    {
+      "basename": "VAULT_CONSTITUTION",
+      "path": "00_SISTEMA/VAULT_CONSTITUTION.md"
+    },
+    {
+      "basename": "AUDITORIA_EXECUCAO_26JAN2026",
+      "path": "00_SISTEMA/planejamento/AUDITORIA_EXECUCAO_26JAN2026.md"
+    },
+    {
+      "basename": "PLANO_MASTER_2026",
+      "path": "00_SISTEMA/planejamento/PLANO_MASTER_2026.md"
+    },
+    {
+      "basename": "PLANO_Hierarquia_Agentes_Alan",
+      "path": "00_SISTEMA/planejamento/PLANO_Hierarquia_Agentes_Alan.md"
+    },
+    {
+      "basename": "PLANO_NEVOA_MODELO_ALAN",
+      "path": "00_SISTEMA/planejamento/PLANO_NEVOA_MODELO_ALAN.md"
+    },
+    {
+      "basename": "REPERTORIO_GASSEN",
+      "path": "05_PESSOAL/REPERTORIO_GASSEN.md"
+    },
+    {
+      "basename": "MOC_Metodologia_Profissional_IA",
+      "path": "04_RECURSOS/GUIAS/MOC_Metodologia_Profissional_IA.md"
+    },
+    {
+      "basename": "PLANO_ACAO_7_DIAS_Metodologia_IA",
+      "path": "04_RECURSOS/GUIAS/PLANO_ACAO_7_DIAS_Metodologia_IA.md"
+    },
+    {
+      "basename": "Guia_para_um_Bom_Prompt",
+      "path": "04_RECURSOS/GUIAS/Guia_para_um_Bom_Prompt.md"
+    },
+    {
+      "basename": "GUIA_PRATICO_AGENTES_AUTONOMOS",
+      "path": "04_RECURSOS/GUIAS/GUIA_PRATICO_AGENTES_AUTONOMOS.md"
+    },
+    {
+      "basename": "_MOC_Alan_Nicolas_Inventario",
+      "path": "01_CONHECIMENTO/Alan_Nicolas/_MOC_Alan_Nicolas_Inventario.md"
+    },
+    {
+      "basename": "PROTOCOLO_GUARDIAN",
+      "path": "00_SISTEMA/PROTOCOLOS/PROTOCOLO_GUARDIAN.md"
+    },
+    {
+      "basename": "RELATORIO_CORRECOES_URGENTES_26JAN2026",
+      "path": "_inbox/RELATORIO_CORRECOES_URGENTES_26JAN2026.md"
+    },
+    {
+      "basename": "README",
+      "path": "_inbox/README.md"
+    },
+    {
       "basename": "RESUMO_REUNIAO_SANSOM_23JAN2026_ENVIO",
       "path": "02_PROJETOS/KabaK/docs/RESUMO_REUNIAO_SANSOM_23JAN2026_ENVIO.md"
     },
@@ -13,10 +149,6 @@
       "path": "02_PROJETOS/KabaK/docs/PROPOSTA_PARCERIA_KABAK_SANSOM_25JAN2026.md"
     },
     {
-      "basename": "VAULT_CONSTITUTION",
-      "path": "00_SISTEMA/VAULT_CONSTITUTION.md"
-    },
-    {
       "basename": "MANUAL_ENGENHARIA_DE_AGENTES",
       "path": "02_PROJETOS/Estudo_Alan_Nicolas/WIKI/MANUAL_ENGENHARIA_DE_AGENTES.md"
     },
@@ -27,18 +159,6 @@
     {
       "basename": "MANUAL_GESTAO_CONHECIMENTO",
       "path": "02_PROJETOS/Estudo_Alan_Nicolas/WIKI/MANUAL_GESTAO_CONHECIMENTO.md"
-    },
-    {
-      "basename": "PLANO_MASTER_2026",
-      "path": "00_SISTEMA/planejamento/PLANO_MASTER_2026.md"
-    },
-    {
-      "basename": "PLANO_SEGUNDO_CEREBRO_2026",
-      "path": "00_SISTEMA/planejamento/PLANO_SEGUNDO_CEREBRO_2026.md"
-    },
-    {
-      "basename": "RESUMO_COMPLETO_REUNIAO_DR_ALEXANDRE_SANSOM_21JAN2026",
-      "path": "02_PROJETOS/KabaK/docs/reunioes/RESUMO_COMPLETO_REUNIAO_DR_ALEXANDRE_SANSOM_21JAN2026.md"
     },
     {
       "basename": "PLANO_Estruturacao_Legal_KabaK",
@@ -79,94 +199,6 @@
     {
       "basename": "MENSAGEM_ENVIO_DR_ALEXANDRE_19JAN2026",
       "path": "02_PROJETOS/KabaK/docs/reunioes/MENSAGEM_ENVIO_DR_ALEXANDRE_19JAN2026.md"
-    },
-    {
-      "basename": "MENSAGEM_ENVIO_SANSOM",
-      "path": "02_PROJETOS/KabaK/docs/reunioes/MENSAGEM_ENVIO_SANSOM.md"
-    },
-    {
-      "basename": "CLAUDE",
-      "path": "CLAUDE.md"
-    },
-    {
-      "basename": "Devocional_16JAN2026_Sei_Em_Quem_Tenho_Crido",
-      "path": "02_PROJETOS/Devocionais_RPSP/devocionais/2026/Janeiro/Devocional_16JAN2026_Sei_Em_Quem_Tenho_Crido.md"
-    },
-    {
-      "basename": "Devocional_08JAN2026_O_Poder_Da_Oracao",
-      "path": "02_PROJETOS/Devocionais_RPSP/devocionais/2026/Janeiro/Devocional_08JAN2026_O_Poder_Da_Oracao.md"
-    },
-    {
-      "basename": "Devocional_15JAN2026_Unidos_E_Destemidos",
-      "path": "02_PROJETOS/Devocionais_RPSP/devocionais/2026/Janeiro/Devocional_15JAN2026_Unidos_E_Destemidos.md"
-    },
-    {
-      "basename": "COMUNICADO_SANSOM_NEGOCIACAO_TITANIUM",
-      "path": "02_PROJETOS/KabaK/docs/reunioes/COMUNICADO_SANSOM_NEGOCIACAO_TITANIUM.md"
-    },
-    {
-      "basename": "PC_SYNC_LOG",
-      "path": "PC_SYNC_LOG.md"
-    },
-    {
-      "basename": "SESSION_LOG",
-      "path": "SESSION_LOG.md"
-    },
-    {
-      "basename": "BRIEFING_OUTLET_SANSOM",
-      "path": "02_PROJETOS/KabaK/docs/projetos/BRIEFING_OUTLET_SANSOM.md"
-    },
-    {
-      "basename": "RESUMO_FINANCEIRO_SANSOM",
-      "path": "02_PROJETOS/KabaK/docs/RESUMO_FINANCEIRO_SANSOM.md"
-    },
-    {
-      "basename": "RESUMO_EXECUTIVO_REUNIAO_SANSOM",
-      "path": "02_PROJETOS/KabaK/docs/RESUMO_EXECUTIVO_REUNIAO_SANSOM.md"
-    },
-    {
-      "basename": "PLANILHA_GERAL_KABAK",
-      "path": "02_PROJETOS/KabaK/planejamento/PLANILHA_GERAL_KABAK.md"
-    },
-    {
-      "basename": "PLANILHA_FINANCEIRA_12_MESES",
-      "path": "02_PROJETOS/KabaK/planejamento/PLANILHA_FINANCEIRA_12_MESES.md"
-    },
-    {
-      "basename": "Resumo_Parceria_Titanium_Socios",
-      "path": "02_PROJETOS/KabaK/docs/Resumo_Parceria_Titanium_Socios.md"
-    },
-    {
-      "basename": "PLANILHA_KABAK_PREENCHIDA",
-      "path": "02_PROJETOS/KabaK/docs/PLANILHA_KABAK_PREENCHIDA.md"
-    },
-    {
-      "basename": "PROPOSTA_FINAL_KABAK_SANSOM",
-      "path": "02_PROJETOS/KabaK/planejamento/PROPOSTA_FINAL_KABAK_SANSOM.md"
-    },
-    {
-      "basename": "README",
-      "path": "02_PROJETOS/KabaK/tarefas/README.md"
-    },
-    {
-      "basename": "BACKLOG",
-      "path": "02_PROJETOS/KabaK/tarefas/BACKLOG.md"
-    },
-    {
-      "basename": "CONCLUIDAS",
-      "path": "02_PROJETOS/KabaK/tarefas/CONCLUIDAS.md"
-    },
-    {
-      "basename": "REFERENCIAS",
-      "path": "02_PROJETOS/KabaK/recursos/REFERENCIAS.md"
-    },
-    {
-      "basename": "DASHBOARD",
-      "path": "02_PROJETOS/KabaK/metricas/DASHBOARD.md"
-    },
-    {
-      "basename": "README",
-      "path": "02_PROJETOS/KabaK/README.md"
     }
   ],
   "omittedPaths": [],

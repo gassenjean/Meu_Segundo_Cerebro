@@ -1,6 +1,6 @@
 # Pedidos de Gassen Pendentes
 
-**Atualizado:** 28/Jan/2026 (Sessão S034)
+**Atualizado:** 28/Jan/2026 (Sessão S035)
 **Regra:** NÉVOA DEVE LER ESTE ARQUIVO AO INICIAR TODA SESSÃO
 
 ---
@@ -9,9 +9,6 @@
 
 | ID | Data | Pedido | Status | Responsável |
 | -- | ---- | ------ | ------ | ----------- |
-| P017 | 28/Jan | REVISAR PLANO - verificar se houve alucinação | PENDENTE | Névoa |
-| P018 | 28/Jan | Processar MOI Dr. Alexandre (novo formato) | AGUARDANDO arquivo | Gassen |
-| P011 | 26/Jan | Cobrar Sansom pagamento setup Titanium R$50k | PENDENTE URGENTE | Gassen |
 | P012 | 26/Jan | Validar preços Rib Shine com Sansom | PENDENTE | Gassen |
 | P019 | 28/Jan | Sansom aprovou: camisetas masc UV + papel administrativo | DOCUMENTAR | KabaK Agent |
 
@@ -19,6 +16,11 @@
 
 | ID | Data | Pedido | Conclusão |
 | -- | ---- | ------ | --------- |
+| P020 | 28/Jan | Resumos separados das 4 reuniões para Sansom/equipes | ✅ 4 ENVIO_RESUMO expandidos (v2-v3) prontos para envio |
+| P021 | 28/Jan | Revisar e expandir resumos ML/Abner e 460 | ✅ ML v3.0 (316 linhas) + 460 v2.0 (210 linhas) |
+| P017 | 28/Jan | REVISAR PLANO - verificar alucinações | ✅ 3 erros encontrados e corrigidos na ANALISE_MOI_KABAK.md (v2.0) |
+| P018 | 28/Jan | Processar MOI Dr. Alexandre (PDF completo) | ✅ MOI analisado integralmente (6 pgs, 15 cláusulas), análise reescrita |
+| P011 | 26/Jan | Pagamento setup Titanium R$50k | ✅ PAGO - Sansom confirmou pagamento imediato 28/Jan (conversou c/ Gassen e Kris) |
 | P016 | 28/Jan | PROCESSAR 4 DOCUMENTOS REUNIÕES (ML, Titanium, 460, MOI) | ✅ 4 arquivos criados seguindo NOMENCLATURA.md |
 | P004 | 26/Jan | Reunião ML 28/Jan - criar plano após gravação | ✅ RESUMO_REUNIAO_ABNER_ML_27JAN2026.md |
 | P013 | 26/Jan | Pesquisa profunda Titanium para Sansom | ✅ Dossiê completo + CNPJs + Sócios verificados |

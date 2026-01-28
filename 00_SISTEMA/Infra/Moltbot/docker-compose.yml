@@ -1,0 +1,27 @@
+version: '3.8'
+
+services:
+  moltbot:
+    container_name: moltbot_pilot
+    build:
+      context: ./src
+      dockerfile: Dockerfile
+    restart: unless-stopped
+    env_file:
+      - .env
+    environment:
+      - NODE_ENV=production
+      - PORT=3000
+    ports:
+      - "3000:3000"
+    volumes:
+      # Persistência de dados do bot (memória, sessões)
+      - ./data:/app/data
+      # SAFE ZONE: Única pasta do Vault acessível para leitura/escrita de arquivos
+      - ../../../_inbox:/app/safe_inbox
+    networks:
+      - moltbot_net
+
+networks:
+  moltbot_net:
+    driver: bridge

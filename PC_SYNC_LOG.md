@@ -2,7 +2,7 @@
 criado: 2025-12-02T11:38:00-03:00
 atualizado: 2026-01-22T00:50:00-03:00
 created: 2026-01-22T09:47
-updated: 2026-01-26T21:12
+updated: 2026-01-28T11:22
 ---
 
 # 📡 PC Sync Log - Comunicação Alienware ↔ Desktop Casa
@@ -35,6 +35,35 @@ Este arquivo permite que o **Alienware** (notebook trabalho/externo) e o **Deskt
 ---
 
 ## 📋 ÚLTIMAS MUDANÇAS (Últimas 10 sessões)
+
+### 🖥️ Desktop Casa - 28/Jan/2026 (11:25) 🦅 GERENTE GOOGLE (MOLTBOT PILOT)
+
+**Ações realizadas:**
+
+- ✅ **Moltbot Pilot (Docker):** Infraestrutura completa criada em `00_SISTEMA/Infra/Moltbot`.
+- ✅ **Segurança:** Configurado isolamento via Docker Compose (apenas `_inbox` acessível).
+- ✅ **Docs:** Criado `MOLTBOT_PILOT_GUIDE.md`.
+- ✅ **Status:** Repositório clonado e pronto para start (falta apenas API Key do usuário).
+
+**Arquivos criados:**
+
+- `00_SISTEMA/Infra/Moltbot/*` (Docker infra + src)
+- `01_CONHECIMENTO/Tecnologia/Tools/MOLTBOT_PILOT_GUIDE.md`
+
+**Mensagem para Alienware:**
+
+> **Desktop para Alienware!**
+>
+> 🦅 **Moltbot (funcionário digital) está instalado.**
+>
+> Não rodei ele ainda pq precisa da sua API Key no `.env`.
+> A infraestrutura é segura (Docker isolado).
+>
+> Se quiser testar aí no Alienware, lembre de ter Docker instalado e rodar `docker-compose up`.
+>
+> Abraço!
+
+---
 
 ### 🖥️ Desktop Casa - 27/Jan/2026 (07:20) 🦅 ALAN NICOLAS EXECUTION (T051 + CLAWDBOT)
 
